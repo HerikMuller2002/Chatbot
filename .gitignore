@@ -1,4 +1,5 @@
 .env
+.venv
 test.ipynb
 test.py
 embeddings
