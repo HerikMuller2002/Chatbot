@@ -1,0 +1,200 @@
+Correia deslocada
+Separação da correia em pontos específicos
+Rompimento da correia
+Desgaste excessivo em determinadas regiões da correia
+Desalinhamento da correia em relação às polias
+Correia solta em um lado
+Correia tensionada em excesso em alguns trechos
+Vibração excessiva na correia
+Falha na aderência da correia
+Folga anormal na correia
+Desgaste irregular da superfície da correia
+Desvio da correia em relação ao centro da polia
+Falha no tensionamento adequado da correia
+Desalinhamento do conjunto de polias
+Desgaste acelerado nas bordas da correia
+Correia solta em ambos os lados
+Deslocamento da correia em relação ao plano de referência
+Quebra da correia durante o funcionamento
+Desgaste excessivo nos dentes da correia
+Correia tensionada de forma desigual
+Vibração irregular na correia durante o movimento
+Correia danificada em pontos de contato com as polias
+Separação entre as camadas da correia
+Desalinhamento do eixo da polia movida
+Desgaste acentuado em áreas de atrito da correia
+Correia presa em algumas regiões
+Desvio da correia em relação à trajetória esperada
+Variação na largura da correia ao longo de sua extensão
+Desgaste prematuro em trechos específicos da correia
+Falha no alinhamento das polias
+Correia dobrada em pontos específicos
+Vibração excessiva na polia motora
+Ponto de maior tensão na correia
+Desgaste acentuado nas laterais da correia
+Separação das camadas internas da correia
+Correia presa em uma única região
+Desvio de trajetória da correia em relação às polias
+Variação na elasticidade da correia
+Correia tensionada além da especificação
+Vibração irregular na correia durante o funcionamento
+Correia danificada em áreas de maior atrito
+Desalinhamento do sistema de tensionamento da correia
+Desgaste excessivo em um lado da correia
+Separação entre as lonas da correia
+Desvio de tensão entre os lados da correia
+Correia presa em determinados pontos durante o movimento
+Desvio de trajetória da correia em relação às polias tensoras
+Variação na espessura da correia em diferentes regiões
+Desgaste prematuro nas bordas da correia
+Correia solta em um lado e tensionada em outro
+Vibração excessiva em uma parte da correia
+Separação entre as camadas externas da correia
+Correia presa em regiões específicas durante o funcionamento
+Desvio de trajetória da correia em relação às guias laterais
+Variação na rigidez da correia
+Correia tensionada de forma incorreta
+Vibração irregular na polia movida
+Ponto de maior desgaste na superfície da correia
+Desgaste acentuado nas bordas laterais da correia
+Separação entre as lonas internas da correia
+Correia presa em múltiplas regiões durante o movimento
+Desvio de trajetória da correia em relação às polias motora e movida
+Variação na elasticidade longitudinal da correia
+Desgaste excessivo em um lado específico da correia
+Separação entre as camadas internas da correia em pontos específicos
+Correia presa em vários pontos durante o funcionamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes trechos
+Desgaste prematuro nas bordas laterais da correia
+Correia solta em um lado e presa em outro
+Vibração excessiva em uma determinada parte da correia
+Separação entre as camadas externas da correia em pontos específicos
+Correia presa em várias regiões durante o movimento
+Desvio de trajetória da correia em relação às polias tensoras e guias laterais
+Variação na rigidez longitudinal da correia em diferentes trechos
+Desgaste excessivo em um lado específico da correia
+Separação entre as lonas internas da correia em áreas de maior tensão
+Correia presa em múltiplos pontos durante o funcionamento
+Desvio de trajetória da correia em relação às polias motora, movida e guias laterais
+Variação na elasticidade transversal da correia
+Desalinhamento do conjunto de polias tensoras e movida
+Separação entre as camadas internas da correia em áreas específicas
+Correia presa em várias regiões durante o movimento e funcionamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes seções
+Desgaste prematuro nas bordas laterais da correia em trechos específicos
+Correia solta em um lado e presa em outro durante o funcionamento
+Vibração excessiva em uma parte específica da correia durante o movimento
+Separação entre as camadas externas da correia em áreas de maior tensão
+Correia presa em múltiplas regiões durante o movimento e funcionamento
+Desvio de trajetória da correia em relação às polias tensoras, movida e guias laterais
+Variação na rigidez longitudinal da correia em diferentes seções
+Desgaste excessivo em um lado específico da correia em pontos de maior atrito
+Separação entre as lonas internas da correia em áreas de maior tensão
+Correia presa em várias regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na elasticidade transversal da correia em diferentes seções
+Desalinhamento do conjunto de polias tensoras, movida e motora
+Separação entre as camadas internas da correia em áreas de maior desgaste
+Correia presa em múltiplos pontos durante o movimento e funcionamento do equipamento.
+Desgaste acentuado na superfície da correia em pontos específicos
+Correia presa em determinadas regiões durante o funcionamento do equipamento
+Desvio de trajetória da correia em relação às polias motora e movida
+Variação na rigidez da correia em diferentes trechos
+Desgaste excessivo em um lado específico da correia em áreas de maior atrito
+Separação entre as camadas externas da correia em pontos de maior tensão
+Correia presa em várias regiões durante o movimento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes seções
+Desgaste prematuro nas bordas laterais da correia em trechos específicos
+Correia solta em um lado e presa em outro durante o funcionamento do equipamento
+Vibração excessiva em uma parte específica da correia durante o movimento
+Separação entre as camadas internas da correia em áreas de maior tensão
+Correia presa em múltiplas regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às polias tensoras, movida e guias laterais
+Variação na elasticidade transversal da correia em diferentes seções
+Desalinhamento do conjunto de polias tensoras, movida e motora
+Separação entre as camadas internas da correia em áreas de maior desgaste
+Correia presa em múltiplos pontos durante o movimento e funcionamento do equipamento
+Desgaste acentuado na superfície da correia em pontos de maior atrito
+Desvio de trajetória da correia em relação às polias motora, movida e guias laterais
+Variação na rigidez da correia em diferentes seções
+Desgaste excessivo em um lado específico da correia em áreas de maior tensão
+Separação entre as camadas externas da correia em áreas de maior desgaste
+Correia presa em determinadas regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes trechos
+Desgaste prematuro nas bordas laterais da correia em pontos específicos
+Correia solta em um lado e presa em outro durante o funcionamento do equipamento
+Vibração excessiva em uma parte específica da correia durante o movimento
+Separação entre as camadas internas da correia em pontos de maior tensão
+Correia presa em várias regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às polias tensoras, movida e guias laterais
+Variação na elasticidade transversal da correia em diferentes seções
+Desalinhamento do conjunto de polias tensoras, movida e motora
+Separação entre as camadas internas da correia em áreas de maior desgaste
+Correia presa em múltiplos pontos durante o movimento e funcionamento do equipamento
+Desgaste acentuado na superfície da correia em pontos de maior atrito
+Desvio de trajetória da correia em relação às polias motora, movida e guias laterais
+Variação na rigidez da correia em diferentes seções
+Desgaste excessivo em um lado específico da correia em áreas de maior tensão
+Separação entre as camadas externas da correia em pontos de maior desgaste
+Correia presa em determinadas regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes trechos
+Desgaste prematuro nas bordas laterais da correia em pontos específicos
+Correia solta em um lado e presa em outro durante o funcionamento do equipamento
+Vibração excessiva em uma parte específica da correia durante o movimento
+Separação entre as camadas internas da correia em pontos de maior tensão
+Correia presa em várias regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às polias tensoras, movida e guias laterais
+Variação na elasticidade transversal da correia em diferentes seções
+Desalinhamento do conjunto de polias tensoras, movida e motora
+Separação entre as camadas internas da correia em áreas de maior desgaste
+Correia presa em múltiplos pontos durante o movimento e funcionamento do equipamento
+Desgaste acentuado na superfície da correia em pontos de maior atrito
+Desvio de trajetória da correia em relação às polias motora, movida e guias laterais
+Variação na rigidez da correia em diferentes seções
+Desgaste excessivo em um lado específico da correia em áreas de maior tensão
+Separação entre as camadas externas da correia em pontos de maior desgaste
+Correia presa em determinadas regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes trechos
+Desgaste prematuro nas bordas laterais da correia em pontos específicos
+Correia solta em um lado e presa em outro durante o funcionamento do equipamento
+Vibração excessiva em uma parte específica da correia durante o movimento
+Separação entre as camadas internas da correia em pontos de maior tensão
+Correia presa em várias regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às polias tensoras, movida e guias laterais
+Variação na elasticidade transversal da correia em diferentes seções
+Desalinhamento do conjunto de polias tensoras, movida e motora
+Separação entre as camadas internas da correia em áreas de maior desgaste
+Correia presa em múltiplos pontos durante o movimento e funcionamento do equipamento
+Desgaste acentuado na superfície da correia em pontos de maior atrito
+Desvio de trajetória da correia em relação às polias motora, movida e guias laterais
+Variação na rigidez da correia em diferentes seções
+Desgaste excessivo em um lado específico da correia em áreas de maior tensão
+Separação entre as camadas externas da correia em pontos de maior desgaste
+Correia presa em determinadas regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes trechos
+Desgaste prematuro nas bordas laterais da correia em pontos específicos
+Correia solta em um lado e presa em outro durante o funcionamento do equipamento
+Vibração excessiva em uma parte específica da correia durante o movimento
+Separação entre as camadas internas da correia em pontos de maior tensão
+Correia presa em várias regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às polias tensoras, movida e guias laterais
+Variação na elasticidade transversal da correia em diferentes seções
+Desalinhamento do conjunto de polias tensoras, movida e motora
+Separação entre as camadas internas da correia em áreas de maior desgaste
+Correia presa em múltiplos pontos durante o movimento e funcionamento do equipamento
+Desgaste acentuado na superfície da correia em pontos de maior atrito
+Desvio de trajetória da correia em relação às polias motora, movida e guias laterais
+Variação na rigidez da correia em diferentes seções
+Desgaste excessivo em um lado específico da correia em áreas de maior tensão
+Separação entre as camadas externas da correia em pontos de maior desgaste
+Correia presa em determinadas regiões durante o movimento e funcionamento do equipamento
+Desvio de trajetória da correia em relação às guias laterais e polias tensoras
+Variação na espessura da correia em diferentes trechos
+Desgaste prematuro nas bordas laterais da correia em pontos específicos

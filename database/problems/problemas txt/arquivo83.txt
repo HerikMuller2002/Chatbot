@@ -1,0 +1,398 @@
+Motor elétrico com baixa velocidade de rotação
+
+O motor não está alcançando a velocidade correta
+
+Problema de velocidade no motor elétrico
+
+O motor não está atingindo a velocidade adequada
+
+Velocidade do motor abaixo do esperado
+
+O motor não está funcionando na velocidade esperada
+
+Motor elétrico com velocidade reduzida
+
+Falha na velocidade do motor
+
+Motor que não está alcançando a rotação desejada
+
+O motor está operando com velocidade insuficiente
+
+Motor elétrico com problemas de velocidade de giro
+
+O motor não está atingindo a rotação ideal
+
+Problemas de velocidade no motor elétrico
+
+O motor não está girando na velocidade correta
+
+Velocidade do motor abaixo do recomendado
+
+O motor não está atingindo a velocidade desejada
+
+Motor elétrico com velocidade abaixo do normal
+
+Falha no controle de velocidade do motor
+
+Motor que não está alcançando a velocidade necessária
+
+O motor está operando com velocidade reduzida
+
+Motor elétrico não está girando rápido o suficiente
+
+O motor não está atingindo a velocidade especificada
+
+Problemas de velocidade de rotação no motor elétrico
+
+O motor não está girando na velocidade adequada
+
+Velocidade do motor abaixo do limite estabelecido
+
+O motor não está atingindo a velocidade exigida
+
+Motor elétrico com velocidade limitada
+
+Falha no ajuste de velocidade do motor
+
+Motor que não está alcançando a rotação necessária
+
+O motor está operando com velocidade abaixo do normal
+
+Motor elétrico não está atingindo a velocidade máxima
+
+O motor não está atingindo a velocidade esperada
+
+Problemas de velocidade de giro no motor elétrico
+
+O motor não está girando na velocidade desejada
+
+Velocidade do motor abaixo do valor recomendado
+
+O motor não está atingindo a velocidade necessária
+
+Motor elétrico com velocidade abaixo do padrão
+
+Falha no controle de velocidade do motor elétrico
+
+Motor que não está alcançando a velocidade ideal
+
+O motor está operando com velocidade reduzida
+
+Motor elétrico com problemas de aceleração
+
+O motor não está atingindo a velocidade adequada de forma rápida
+
+Problemas de velocidade no motor elétrico
+
+O motor não está acelerando conforme o esperado
+
+Velocidade do motor não está aumentando corretamente
+
+O motor não está atingindo a velocidade de forma satisfatória
+
+Motor elétrico com dificuldade de alcançar a velocidade desejada
+
+Falha na aceleração do motor
+
+Motor que não está atingindo a velocidade desejada rapidamente
+
+O motor está operando com dificuldade de aceleração
+
+Motor elétrico com problemas de resposta de velocidade
+
+O motor não está atingindo a velocidade rapidamente o suficiente
+
+Problemas de velocidade de resposta no motor elétrico
+
+O motor não está reagindo com a velocidade necessária
+
+Velocidade do motor não está respondendo adequadamente
+
+O motor não está atingindo a velocidade de forma ágil
+
+Motor elétrico com resposta de velocidade lenta
+
+Falha na resposta de velocidade do motor
+
+Motor que não está atingindo a velocidade desejada de forma rápida
+
+O motor está demorando para responder com a velocidade esperada
+
+Motor elétrico com problemas de controle de velocidade
+
+O motor não está atingindo a velocidade desejada pelo controle
+
+Problemas de controle de velocidade no motor elétrico
+
+O motor não está sendo controlado na velocidade correta
+
+Velocidade do motor não está sendo ajustada adequadamente
+
+O motor não está atingindo a velocidade definida pelo controle
+
+Motor elétrico com controle de velocidade ineficiente
+
+Falha no controle de velocidade do motor elétrico
+
+Motor que não está sendo controlado na velocidade necessária
+
+O motor está operando com controle de velocidade inadequado
+
+Motor elétrico com problemas de variação de velocidade
+
+O motor não está atingindo a velocidade variável corretamente
+
+Problemas de variação de velocidade no motor elétrico
+
+O motor não está ajustando a velocidade de forma adequada
+
+Velocidade do motor não está variando conforme o esperado
+
+O motor não está atingindo a velocidade variável necessária
+
+Motor elétrico com variação de velocidade limitada
+
+Falha na variação de velocidade do motor
+
+Motor que não está variando a velocidade conforme necessário
+
+O motor está operando com variação de velocidade inadequada
+
+Motor elétrico com problemas de estabilização de velocidade
+
+O motor não está atingindo a velocidade estável desejada
+
+Problemas de estabilização de velocidade no motor elétrico
+
+O motor não está mantendo a velocidade de forma constante
+
+Velocidade do motor não está sendo estabilizada corretamente
+
+O motor não está atingindo a velocidade estável necessária
+
+Motor elétrico com dificuldade de estabilizar a velocidade
+
+Falha na estabilização de velocidade do motor
+
+Motor que não está mantendo a velocidade de forma estável
+
+O motor está operando com estabilização de velocidade inadequada
+
+Motor elétrico com problemas de torque e velocidade
+
+O motor não está atingindo a velocidade desejada de torque
+
+Problemas de torque e velocidade no motor elétrico
+
+O motor não está fornecendo torque e velocidade adequados
+
+Velocidade do motor não está sendo acompanhada pelo torque
+
+O motor não está atingindo a velocidade e torque necessários
+
+Motor elétrico com baixo torque e velocidade
+
+Falha na combinação de torque e velocidade do motor
+
+Motor que não está fornecendo o torque e velocidade desejados
+
+O motor está operando com deficiência no torque e velocidade
+O motor não está atingindo a velocidade máxima
+
+Problemas de aceleração no motor elétrico
+
+Velocidade do motor abaixo do esperado
+
+O motor não está alcançando a velocidade adequada
+
+Dificuldades de velocidade no motor elétrico
+
+O motor não está girando na velocidade correta
+
+Falha na velocidade de rotação do motor
+
+Motor elétrico com baixa velocidade de operação
+
+O motor não está atingindo a velocidade nominal
+
+Problemas de velocidade constante no motor elétrico
+
+Velocidade do motor instável
+
+O motor está oscilando em velocidade
+
+Variação de velocidade inconsistente no motor elétrico
+
+O motor não está mantendo a velocidade constante
+
+Problemas de flutuação de velocidade no motor
+
+O motor está girando em velocidade irregular
+
+Falha na estabilidade da velocidade do motor
+
+Motor elétrico com velocidade inconstante
+
+O motor está sofrendo variação de velocidade não programada
+
+Problemas de regulação de velocidade no motor elétrico
+
+Velocidade do motor abaixo do limite mínimo
+
+O motor não está atingindo a velocidade mínima requerida
+
+Dificuldades de partida em baixa velocidade no motor elétrico
+
+O motor não está respondendo em velocidade reduzida
+
+Problemas de velocidade mínima no motor elétrico
+
+O motor está demorando para acelerar a partir da velocidade mínima
+
+Falha na resposta de velocidade em baixas rotações do motor
+
+Motor elétrico com baixa velocidade de resposta inicial
+
+O motor está operando abaixo da velocidade mínima permitida
+
+Problemas de velocidade lenta de partida no motor elétrico
+
+Velocidade do motor acima do limite máximo
+
+O motor está excedendo a velocidade máxima permitida
+
+Dificuldades de controle em alta velocidade no motor elétrico
+
+O motor está girando em velocidade excessiva
+
+Problemas de velocidade máxima no motor elétrico
+
+O motor está ultrapassando a velocidade máxima programada
+
+Falha no controle de velocidade em altas rotações do motor
+
+Motor elétrico com alta velocidade de operação
+
+O motor está operando acima da velocidade máxima recomendada
+
+Problemas de velocidade rápida no motor elétrico
+
+Velocidade do motor variável inesperada
+
+O motor está sofrendo variação de velocidade não controlada
+
+Dificuldades de estabilização da velocidade no motor elétrico
+
+O motor está oscilando em velocidade de forma imprevisível
+
+Problemas de variação de velocidade no motor elétrico
+
+O motor está apresentando flutuações de velocidade indesejadas
+
+Falha na regulação de velocidade do motor
+
+Motor elétrico com velocidade instável e imprecisa
+
+O motor está operando com variação de velocidade inesperada
+
+Problemas de velocidade inconstante no motor elétrico
+
+Velocidade do motor abaixo do padrão de fábrica
+
+O motor não está atingindo a velocidade de referência
+
+Dificuldades de ajuste da velocidade no motor elétrico
+
+O motor está girando em velocidade abaixo do normal
+
+Problemas de velocidade abaixo do especificado no motor elétrico
+
+O motor está apresentando dificuldades para atingir a velocidade desejada
+
+Falha na calibração de velocidade do motor
+
+Motor elétrico com baixa velocidade em relação aos parâmetros de fábrica
+
+O motor está operando abaixo da velocidade recomendada
+
+Problemas de velocidade inferior ao padrão no motor elétrico
+
+Velocidade do motor acima do padrão de fábrica
+
+O motor está ultrapassando a velocidade de referência
+
+Dificuldades de ajuste fino da velocidade no motor elétrico
+
+O motor está girando em velocidade acima do normal
+
+Problemas de velocidade acima do especificado no motor elétrico
+
+O motor está apresentando dificuldades para controlar a velocidade desejada
+
+Falha no ajuste de velocidade do motor
+
+Motor elétrico com alta velocidade em relação aos parâmetros de fábrica
+
+O motor está operando acima da velocidade recomendada
+
+Problemas de velocidade superior ao padrão no motor elétrico
+
+Variação de velocidade excessiva no motor elétrico
+
+O motor está sofrendo flutuações de velocidade intensas
+
+Dificuldades de estabilização da velocidade em diferentes condições no motor elétrico
+
+O motor está oscilando em velocidade de forma descontrolada
+
+Problemas de variação de velocidade excessiva no motor elétrico
+
+O motor está apresentando flutuações de velocidade imprevisíveis e prejudiciais
+
+Falha na regulação precisa da velocidade do motor
+
+Motor elétrico com variação de velocidade anormal e indesejada
+
+O motor está operando com variação de velocidade além dos limites aceitáveis
+
+Problemas de instabilidade na velocidade do motor elétrico
+
+O motor não está atingindo a velocidade desejada em condições de carga
+
+Dificuldades de alcançar a velocidade programada no motor elétrico sob carga
+
+O motor está demorando para atingir a velocidade esperada durante a operação
+
+Problemas de resposta de velocidade do motor elétrico em cargas específicas
+
+O motor está operando com desempenho abaixo do esperado em termos de velocidade
+
+Falha na manutenção da velocidade do motor elétrico sob carga
+
+Motor elétrico com dificuldades de atingir a velocidade adequada em condições de trabalho
+
+O motor está apresentando variações na velocidade ao ser submetido a carga
+
+Problemas de ajuste de velocidade do motor elétrico em diferentes cargas
+
+O motor está enfrentando problemas de velocidade em situações de carga
+
+O motor está apresentando dificuldades para acelerar devido a problemas de velocidade
+
+Dificuldades de resposta de velocidade durante a aceleração do motor elétrico
+
+O motor está enfrentando dificuldades para atingir a velocidade máxima durante a aceleração
+
+Problemas de velocidade do motor elétrico durante o processo de aceleração
+
+O motor está operando com aceleração mais lenta do que o esperado em termos de velocidade
+
+Falha na resposta de velocidade do motor elétrico durante a fase de aceleração
+
+Motor elétrico com problemas de velocidade ao acelerar
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração
+
+Problemas de ajuste de velocidade do motor elétrico durante a fase de aceleração
+
+O motor está enfrentando dificuldades de velocidade durante o processo de aceleração

@@ -1,0 +1,398 @@
+O motor elétrico está apresentando atraso na aceleração
+
+Dificuldades de aceleração do motor elétrico
+
+O motor está levando muito tempo para atingir a velocidade desejada
+
+Problemas de resposta lenta na aceleração do motor
+
+Aceleração do motor elétrico abaixo do esperado
+
+O motor está demorando para ganhar velocidade
+
+Dificuldades de partida rápida do motor elétrico
+
+O motor está demorando a atingir a velocidade máxima
+
+Problemas de demora na aceleração do motor elétrico
+
+O motor está apresentando retardo no processo de aceleração
+
+O motor está demorando para responder aos comandos de aceleração
+
+Dificuldades de aceleração suave no motor elétrico
+
+O motor está levando tempo excessivo para entrar em velocidade
+
+Problemas de aceleração lenta no motor elétrico
+
+O motor está apresentando atraso na resposta de velocidade
+
+Dificuldades de aceleração rápida do motor elétrico
+
+O motor está demorando para atingir a rotação adequada
+
+Problemas de resposta demorada na aceleração do motor
+
+O motor está levando tempo excessivo para alcançar a velocidade desejada
+
+Dificuldades de aceleração eficiente do motor elétrico
+
+O motor está enfrentando problemas de retardo na aceleração
+
+Dificuldades de resposta rápida na aceleração do motor elétrico
+
+O motor está levando muito tempo para ganhar velocidade
+
+Problemas de demora na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de operação
+
+Dificuldades de partida imediata do motor elétrico
+
+O motor está apresentando atraso na aceleração inicial
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em velocidade máxima
+
+Dificuldades de aceleração progressiva do motor elétrico
+
+O motor está demorando para aumentar a velocidade
+
+Dificuldades de aceleração constante do motor elétrico
+
+O motor está apresentando retardo na aceleração progressiva
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+Aceleração do motor abaixo do esperado em termos de tempo
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração
+
+Dificuldades de aceleração rápida e suave do motor elétrico
+
+O motor está demorando a responder às mudanças de velocidade
+
+Problemas de demora na aceleração durante o funcionamento do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração consistente
+
+O motor está demorando para responder à demanda de aceleração
+
+Dificuldades de aceleração suave e contínua do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho
+
+Problemas de resposta demorada na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de rotação desejada
+
+Dificuldades de aceleração imediata do motor elétrico
+
+O motor está apresentando atraso na aceleração inicial
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento
+
+Dificuldades de aceleração consistente do motor elétrico
+
+O motor está demorando para aumentar a velocidade de forma eficiente
+
+Dificuldades de aceleração constante e suave do motor elétrico
+
+O motor está apresentando retardo na aceleração progressiva
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+Aceleração do motor abaixo do esperado em termos de tempo necessário
+
+O motor está demorando para atingir a velocidade de operação durante a aceleração
+
+Dificuldades de aceleração rápida e progressiva do motor elétrico
+
+O motor está demorando a responder às mudanças de velocidade requeridas
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração consistente e constante
+
+O motor está demorando para responder à demanda de aceleração adequada
+
+Dificuldades de aceleração suave e contínua do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho necessária
+
+Problemas de resposta demorada na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de rotação desejada durante a aceleração
+
+Dificuldades de aceleração imediata e eficiente do motor elétrico
+
+O motor está apresentando atraso na aceleração inicial
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento
+
+Dificuldades de aceleração consistente e confiável do motor elétrico
+
+O motor está demorando para aumentar a velocidade de forma adequada
+
+Dificuldades de aceleração constante e suave do motor elétrico
+
+O motor está apresentando retardo na aceleração progressiva esperada
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+Aceleração do motor abaixo do esperado em termos de tempo necessário para atingir a velocidade
+
+O motor está demorando para atingir a velocidade de operação desejada durante a aceleração
+
+Dificuldades de aceleração rápida e progressiva do motor elétrico
+
+O motor está demorando a responder às mudanças de velocidade exigidas
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração consistente e constante
+
+O motor está demorando para responder à demanda de aceleração necessária
+
+Dificuldades de aceleração suave e contínua do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho esperada
+
+Problemas de resposta demorada na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de rotação desejada durante a aceleração
+
+Dificuldades de aceleração imediata e eficiente do motor elétrico
+
+O motor está apresentando atraso na aceleração inicial
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento
+
+Dificuldades de aceleração consistente e confiável do motor elétrico
+
+O motor está demorando para aumentar a velocidade de forma adequada e eficaz
+
+Dificuldades de aceleração constante e suave do motor elétrico
+
+O motor está apresentando retardo na aceleração progressiva esperada
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+Aceleração do motor abaixo do esperado em termos de tempo necessário para alcançar a velocidade desejada
+
+O motor está demorando para atingir a velocidade de operação durante a aceleração
+
+Dificuldades de aceleração rápida e progressiva do motor elétrico
+
+O motor está demorando a responder às mudanças de velocidade exigidas
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração consistente e constante
+O motor está apresentando lentidão na aceleração inicial
+
+Dificuldades de resposta rápida na aceleração do motor elétrico
+
+O motor está demorando para atingir a velocidade máxima
+
+Problemas de aceleração lenta do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade desejada
+
+Dificuldades de aceleração imediata do motor elétrico
+
+O motor está enfrentando atraso na resposta de aceleração
+
+Problemas de demora na aceleração progressiva do motor elétrico
+
+O motor está demorando a atingir a velocidade nominal durante a aceleração
+
+Dificuldades de aceleração suave do motor elétrico
+
+O motor está apresentando retardo na aceleração inicial
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de trabalho durante a aceleração
+
+Dificuldades de aceleração consistente do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração rápida
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento
+
+Dificuldades de aceleração progressiva do motor elétrico
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração
+
+Problemas de aceleração inconsistente do motor elétrico
+
+O motor está apresentando atraso na resposta de aceleração inicial
+
+Dificuldades de resposta rápida na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade máxima de operação
+
+Problemas de aceleração lenta e inconsistente do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho exigida
+
+Dificuldades de aceleração imediata e eficiente do motor elétrico
+
+O motor está enfrentando atraso na resposta de aceleração progressiva
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está demorando a atingir a velocidade nominal requerida durante a aceleração
+
+Dificuldades de aceleração suave e constante do motor elétrico
+
+O motor está apresentando retardo na aceleração inicial durante a partida
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de trabalho desejada durante a aceleração
+
+Dificuldades de aceleração consistente e confiável do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração rápida e progressiva
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento durante a aceleração
+
+Dificuldades de aceleração progressiva e suave do motor elétrico
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração inicial
+
+Problemas de aceleração inconsistente e irregular do motor elétrico
+
+O motor está apresentando atraso na resposta de aceleração inicial
+
+Dificuldades de resposta rápida na aceleração do motor elétrico
+
+O motor está demorando para atingir a velocidade máxima requerida
+
+Problemas de aceleração lenta e irregular do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho necessária
+
+Dificuldades de aceleração imediata e eficaz do motor elétrico
+
+O motor está enfrentando atraso na resposta de aceleração progressiva
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está demorando a atingir a velocidade nominal durante a aceleração inicial
+
+Dificuldades de aceleração suave e constante do motor elétrico
+
+O motor está apresentando retardo na aceleração inicial
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de trabalho desejada durante a aceleração
+
+Dificuldades de aceleração consistente e confiável do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração rápida e progressiva
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento durante a aceleração
+
+Dificuldades de aceleração progressiva e suave do motor elétrico
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração inicial
+
+Problemas de aceleração inconsistente e irregular do motor elétrico
+
+O motor está apresentando atraso na resposta de aceleração inicial
+
+Dificuldades de resposta rápida na aceleração do motor elétrico
+
+O motor está demorando para atingir a velocidade máxima requerida
+
+Problemas de aceleração lenta e irregular do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho necessária
+
+Dificuldades de aceleração imediata e eficaz do motor elétrico
+
+O motor está enfrentando atraso na resposta de aceleração progressiva
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está demorando a atingir a velocidade nominal durante a aceleração inicial
+
+Dificuldades de aceleração suave e constante do motor elétrico
+
+O motor está apresentando retardo na aceleração inicial durante a partida
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de trabalho desejada durante a aceleração
+
+Dificuldades de aceleração consistente e confiável do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração rápida e progressiva
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento durante a aceleração
+
+Dificuldades de aceleração progressiva e suave do motor elétrico
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração inicial
+
+Problemas de aceleração inconsistente e irregular do motor elétrico
+
+O motor está apresentando atraso na resposta de aceleração inicial
+
+Dificuldades de resposta rápida na aceleração do motor elétrico
+
+O motor está demorando para atingir a velocidade máxima requerida
+
+Problemas de aceleração lenta e irregular do motor elétrico
+
+O motor está levando tempo excessivo para alcançar a velocidade de trabalho necessária
+
+Dificuldades de aceleração imediata e eficaz do motor elétrico
+
+O motor está enfrentando atraso na resposta de aceleração progressiva
+
+Problemas de demora na aceleração durante o funcionamento contínuo do motor elétrico
+
+O motor está demorando a atingir a velocidade nominal durante a aceleração inicial
+
+Dificuldades de aceleração suave e constante do motor elétrico
+
+O motor está apresentando retardo na aceleração inicial
+
+Problemas de resposta lenta na aceleração do motor elétrico
+
+O motor está demorando a atingir a velocidade de trabalho desejada durante a aceleração
+
+Dificuldades de aceleração consistente e confiável do motor elétrico
+
+O motor está enfrentando dificuldades de aceleração rápida e progressiva
+
+Problemas de demora na resposta de aceleração do motor elétrico
+
+O motor está levando tempo excessivo para entrar em pleno funcionamento durante a aceleração
+
+Dificuldades de aceleração progressiva e suave do motor elétrico
+
+O motor está demorando para atingir a velocidade desejada durante a aceleração inicial
+
+Problemas de aceleração inconsistente e irregular do motor elétrico

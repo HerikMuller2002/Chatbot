@@ -1,0 +1,200 @@
+Disjuntor não fecha
+Circuito com disjuntor aberto
+Fusível não está funcionando
+Falta de proteção no circuito
+Sem energia no disjuntor principal
+Problema de curto-circuito
+Circuito interrompido
+Fusível queimado frequentemente
+Disjuntor desarmado
+Interrupção na alimentação elétrica
+Falha no sistema de proteção
+Disjuntor não está respondendo
+Circuito sem alimentação
+Problema de sobrecarga
+Fusível que não encaixa corretamente
+Disjuntor danificado
+Circuito sem corrente elétrica
+Fusível com resistência excessiva
+Disjuntor com mau contato
+Circuito com falha de isolamento
+Fusível derretido
+Disjuntor não liga
+Circuito com problema de continuidade
+Fusível desgastado
+Disjuntor com defeito
+Circuito com falha de conexão
+Fusível enfraquecido
+Disjuntor não desarma
+Circuito com mau funcionamento
+Fusível com capacidade insuficiente
+Disjuntor com mau encaixe
+Circuito com queda de tensão
+Fusível que queima ao ligar
+Disjuntor com disparo aleatório
+Circuito com instabilidade elétrica
+Fusível com contato solto
+Disjuntor com problemas de trip
+Circuito com falha no aterramento
+Fusível com baixa resistência
+Disjuntor com vazamento de corrente
+Circuito com tensão instável
+Fusível que não encaixa corretamente
+Disjuntor não está funcionando corretamente
+Circuito com mau contato em disjuntor auxiliar
+Fusível não suporta carga elevada
+Disjuntor não está realizando a proteção adequada
+Circuito com curto-circuito interno
+Fusível que queima sem motivo aparente
+Disjuntor com bloqueio de operação
+Circuito com oscilação de corrente elétrica
+Fusível com derretimento parcial
+Disjuntor com ação lenta
+Circuito com falta de continuidade no disjuntor residual
+Fusível que não encaixa corretamente
+Disjuntor com mau contato em bornes
+Circuito com falha no dispositivo de proteção contra surtos
+Fusível com capacidade de interrupção insuficiente
+Disjuntor não atinge a tensão nominal
+Circuito com falha de fechamento em disjuntor de backup
+Fusível com resistência excessiva ao passar corrente
+Disjuntor não realiza o desarme por corrente de curto-circuito
+Circuito com falha de comunicação no painel de controle
+Fusível que queima devido a sobretensão
+Disjuntor com disparo indevido durante cargas normais
+Circuito com problema de conexão em bornes de alimentação
+Fusível com contatos oxidados
+Disjuntor não atinge a corrente nominal
+Circuito com falha no ajuste de sensibilidade de disjuntor residual
+Fusível que queima durante o teste de proteção
+Disjuntor com defeito de fabricação
+Circuito com sobreaquecimento de fusível
+Fusível com capacidade de interrupção inadequada
+Disjuntor não desliga durante a ativação de dispositivo de emergência
+Circuito com problema de contaminação em fusível
+Fusível com rompimento de elemento fusível
+Disjuntor não reconhece corrente de fuga
+Circuito com falha no ajuste de tempo de disparo em disjuntor eletrônico
+Fusível com contato solto em suporte
+Disjuntor não responde a comando de desarme remoto
+Circuito com falha de isolação em disjuntor de média tensão
+Fusível com ruptura de tubo de arco
+Disjuntor não realiza a sinalização correta de disparo
+Circuito com problema de reset automático em fusível eletrônico
+Fusível com perda de capacidade de interrupção de arco
+Disjuntor não executa a função de proteção contra sobrecorrente
+Circuito com falha na operação de disjuntor a vácuo
+Fusível com desgaste excessivo de elemento fusível
+Disjuntor não reconhece o comando de fechamento remoto
+Circuito com problema de disparo indevido em disjuntor de ar
+Fusível com rompimento de arco externo
+Disjuntor não responde a comando de bloqueio remoto
+Circuito com falha de ajuste de nível de proteção em fusível de baixa tensão
+Fusível com perda de capacidade de corte de corrente alternada
+Disjuntor não realiza a medição correta de corrente
+Circuito com problema de isolação em disjuntor a óleo
+Fusível com falha de fusão de elemento fusível
+Disjuntor não reconhece o comando de abertura remota
+Circuito com falha de detecção de curto-circuito em fusível eletrônico
+Fusível com desgaste excessivo de tubo de arco
+Disjuntor não realiza a operação de disparo em condições de falta de energia
+Circuito com problema de detecção de sobrecarga em disjuntor eletrônico
+Fusível com falha de corte em corrente contínua
+Disjuntor não responde ao comando de rearme remoto
+Circuito com falha de ajuste de sensibilidade em disjuntor térmico
+Fusível com desgaste excessivo de contatos de arco
+Disjuntor não realiza a função de proteção contra subtensão
+Circuito com problema de isolamento em disjuntor a vácuo
+Fusível com falha de fusão de contatos de arco
+Disjuntor não reconhece a corrente de carga nominal
+Circuito com falha de detecção de falta de fase em fusível de média tensão
+Fusível com desgaste excessivo de contatos de carga
+Disjuntor não responde ao comando de proteção contra surtos
+Circuito com problema de ajuste de sensibilidade em disjuntor magnetotérmico
+Fusível com falha de corte em corrente alternada
+Disjuntor não realiza a sinalização correta de falha
+Circuito com falha de detecção de curto-circuito em fusível de média tensão
+Fusível com desgaste excessivo de elementos fusíveis em paralelo
+Disjuntor não reconhece a corrente de carga mínima
+Circuito com problema de detecção de sobretensão em disjuntor eletrônico
+Fusível com falha de fusão de contatos de carga em baixa tensão
+Disjuntor não responde ao comando de bloqueio de operação remoto
+Circuito com falha de ajuste de sensibilidade em disjuntor a óleo
+Fusível com desgaste excessivo de elementos fusíveis em série
+Disjuntor não realiza a função de proteção contra subtensão em corrente contínua
+Circuito com problema de ajuste de tempo de disparo em fusível eletrônico
+Fusível com falha de fusão de tubo de arco em baixa tensão
+Disjuntor não reconhece a corrente de carga máxima
+Circuito com falha de detecção de falta de fase em disjuntor eletrônico
+Fusível com desgaste excessivo de contatos de carga em média tensão
+Disjuntor não responde ao comando de fechamento remoto em condições de sobrecarga
+Circuito com problema de ajuste de sensibilidade em disjuntor a ar
+Fusível com falha de fusão de contatos de carga em corrente contínua
+Disjuntor não realiza a sinalização correta de sobrecarga
+Circuito com falha de detecção de curto-circuito em fusível a vácuo
+Fusível com desgaste excessivo de elementos fusíveis em baixa tensão
+Disjuntor não reconhece a corrente de carga de pico
+Circuito com problema de ajuste de sensibilidade em disjuntor de média tensão
+Fusível com falha de fusão de tubo de arco em corrente contínua
+Disjuntor não responde ao comando de abertura remota em condições de falta de fase
+Circuito com falha de detecção de falta de fase em fusível a óleo
+Fusível com desgaste excessivo de contatos de carga em alta tensão
+Disjuntor não realiza a função de proteção contra sobretensão em corrente alternada
+Circuito com problema de ajuste de tempo de disparo em disjuntor diferencial residual
+Fusível com falha de fusão de contatos de carga em corrente alternada
+Disjuntor não reconhece a corrente de carga de partida
+Circuito com falha de detecção de falta de fase em disjuntor a ar
+Fusível com desgaste excessivo de elementos fusíveis em média tensão
+Disjuntor não responde ao comando de proteção contra subtensão
+Circuito com problema de ajuste de sensibilidade em disjuntor diferencial residual
+Fusível com falha de fusão de tubo de arco em corrente alternada
+Disjuntor não realiza a sinalização correta de subtensão
+Circuito com falha de detecção de curto-circuito em fusível a óleo
+Fusível com desgaste excessivo de contatos de carga em baixa tensão
+Disjuntor não reconhece a corrente de carga de pico em corrente contínua
+Circuito com problema de ajuste de tempo de disparo em disjuntor magnetotérmico
+Fusível com falha de fusão de contatos de carga em corrente contínua
+Disjuntor não responde ao comando de bloqueio de operação remoto em condições de sobretensão
+Circuito com falha de detecção de falta de fase em fusível eletrônico de média tensão
+Fusível com desgaste excessivo de elementos fusíveis em alta tensão
+Disjuntor não realiza a função de proteção contra sobretensão em corrente alternada
+Circuito com problema de ajuste de sensibilidade em disjuntor de alta tensão
+Fusível com falha de fusão de tubo de arco em corrente contínua de média tensão
+Disjuntor não reconhece a corrente de carga de pico em corrente alternada
+Circuito com falha de detecção de falta de fase em fusível a óleo de alta tensão
+Fusível com desgaste excessivo de contatos de carga em corrente contínua de baixa tensão
+Disjuntor não responde ao comando de proteção contra subtensão em corrente alternada
+Circuito com problema de ajuste de tempo de disparo em disjuntor termomagnético
+Fusível com falha de fusão de contatos de carga em corrente alternada de média tensão
+Disjuntor não realiza a sinalização correta de subtensão em corrente contínua
+Circuito com falha de detecção de curto-circuito em fusível a óleo de média tensão
+Fusível com desgaste excessivo de elementos fusíveis em corrente contínua de alta tensão
+Disjuntor não reconhece a corrente de carga de partida em corrente alternada
+Circuito com problema de ajuste de sensibilidade em disjuntor diferencial residual de baixa tensão
+Fusível com falha de fusão de tubo de arco em corrente alternada de média tensão
+Disjuntor não responde ao comando de bloqueio de operação remoto em condições de sobretensão
+Circuito com falha de detecção de falta de fase em fusível eletrônico de alta tensão
+Fusível com desgaste excessivo de contatos de carga em corrente contínua de média tensão
+Disjuntor não realiza a função de proteção contra sobretensão em corrente alternada de baixa tensão
+Circuito com problema de ajuste de tempo de disparo em disjuntor a vácuo
+Fusível com falha de fusão de contatos de carga em corrente contínua de alta tensão
+Disjuntor não reconhece a corrente de carga de pico em corrente alternada de média tensão
+Circuito com falha de detecção de falta de fase em fusível a óleo de alta tensão
+Fusível com desgaste excessivo de elementos fusíveis em corrente contínua de baixa tensão
+Disjuntor não responde ao comando de proteção contra subtensão em corrente alternada
+Circuito com problema de ajuste de sensibilidade em disjuntor de alta tensão
+Fusível com falha de fusão de tubo de arco em corrente contínua de média tensão
+Disjuntor não reconhece a corrente de carga de pico em corrente alternada
+Circuito com falha de detecção de falta de fase em fusível a óleo de alta tensão
+Fusível com desgaste excessivo de contatos de carga em corrente contínua de baixa tensão
+Disjuntor não responde ao comando de proteção contra subtensão em corrente alternada
+Circuito com problema de ajuste de tempo de disparo em disjuntor termomagnético
+Fusível com falha de fusão de contatos de carga em corrente alternada de média tensão
+Disjuntor não realiza a sinalização correta de subtensão em corrente contínua
+Circuito com falha de detecção de curto-circuito em fusível a óleo de média tensão
+Fusível com desgaste excessivo de elementos fusíveis em corrente contínua de alta tensão
+Disjuntor não reconhece a corrente de carga de partida em corrente alternada
+Circuito com problema de ajuste de sensibilidade em disjuntor diferencial residual de baixa tensão
+Fusível com falha de fusão de tubo de arco em corrente alternada de média tensão
+Disjuntor não responde ao comando de bloqueio de operação remoto em condições de sobretensão
+Circuito com falha de detecção de falta de fase em fusível eletrônico de alta tensão

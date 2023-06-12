@@ -1,0 +1,50 @@
+Descarga da bomba abaixo do esperado
+Problema de fluxo insuficiente na bomba
+Bomba com baixa vazão de descarga
+Descarga fraca na bomba
+Problema de baixa pressão na descarga da bomba
+Fluxo de descarga reduzido na bomba
+Bomba com vazão de descarga abaixo do normal
+Descarga insatisfatória na bomba
+Problema de obstrução na linha de descarga da bomba
+Vazão de descarga da bomba abaixo do recomendado
+Descarga insuficiente na bomba durante a operação
+Problema de restrição no sistema de descarga da bomba
+Falta de pressão na descarga da bomba
+Problema com a eficiência da descarga da bomba
+Descarga limitada na bomba
+Problema de fluxo restrito na bomba
+Bomba com dificuldade de fornecer descarga adequada
+Problema de vazão reduzida na descarga da bomba
+Descarga deficiente na bomba em funcionamento
+Problema de perda de pressão na linha de descarga da bomba
+Descarga ineficiente na bomba durante a operação
+Problema de fluxo inadequado na linha de descarga da bomba
+Descarga fraca e inconsistente na bomba
+Problema de restrição no sistema de encaminhamento da descarga da bomba
+Descarga abaixo do desempenho esperado na bomba
+Problema de obstrução na linha de saída da bomba
+Descarga insuficiente na bomba mesmo em plena potência
+Problema de perda de pressão na descarga da bomba em uso
+Descarga comprometida na bomba
+Problema de fluxo limitado na bomba
+Descarga insatisfatória na bomba durante o funcionamento contínuo
+Problema de vazão inadequada na linha de descarga da bomba
+Descarga abaixo da capacidade nominal da bomba
+Problema de restrição no sistema de encaminhamento da descarga do equipamento
+Descarga ineficiente na bomba em uso
+Problema de fluxo inadequado na bomba mesmo com a demanda exigida
+Descarga insuficiente na bomba mesmo com o aumento da potência
+Problema de perda de pressão na linha de descarga da bomba em operação
+Descarga abaixo das especificações da bomba
+Problema de obstrução na linha de saída da bomba em funcionamento
+Descarga limitada na bomba, prejudicando o desempenho
+Problema de fluxo restrito na linha de descarga da bomba durante o uso
+Descarga fraca e inconsistente na bomba mesmo em alta rotação
+Problema de restrição no sistema de encaminhamento da descarga da bomba em operação
+Descarga insuficiente na bomba, afetando o rendimento
+Problema de obstrução na linha de descarga da bomba em plena carga
+Descarga comprometida na bomba, mesmo com a pressão adequada
+Problema de fluxo limitado na bomba durante o funcionamento prolongado
+Descarga insatisfatória na bomba, prejudicando a funcionalidade do sistema
+Problema de vazão inadequada na linha de descarga da bomba em operação

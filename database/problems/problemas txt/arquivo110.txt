@@ -1,0 +1,398 @@
+Disjuntor com falha no acionamento
+
+Problemas elétricos em disjuntores de caixa moldada
+
+Defeito mecânico em disjuntor elétrico
+
+Disjuntor que não desarma corretamente
+
+Falha no mecanismo de abertura do disjuntor
+
+Disjuntor com mau contato elétrico
+
+Problemas de curto-circuito em disjuntores de caixa moldada
+
+Disjuntor com superaquecimento
+
+Defeitos de isolamento em disjuntores elétricos
+
+Disjuntor com disparos aleatórios
+
+Problemas de vibração em disjuntores de caixa moldada
+
+Disjuntor com dificuldade de reset após disparo
+
+Falha no sistema de travamento do disjuntor
+
+Disjuntor com mau funcionamento dos contatos elétricos
+
+Problemas de corrente de fuga em disjuntores de caixa moldada
+
+Disjuntor que não liga após ser desarmado
+
+Defeitos na bobina de disparo do disjuntor
+
+Disjuntor com desarme prematuro
+
+Problemas de arco elétrico em disjuntores de caixa moldada
+
+Disjuntor com ruídos anormais durante o funcionamento
+
+Falha na detecção de sobrecarga do disjuntor
+
+Disjuntor com falha no mecanismo de trip
+
+Problemas de desgaste nos contatos elétricos do disjuntor
+
+Disjuntor que não realiza a proteção adequada
+
+Defeitos mecânicos no mecanismo de abertura e fechamento do disjuntor
+
+Disjuntor com disparos falsos
+
+Problemas de sensibilidade do disjuntor de caixa moldada
+
+Disjuntor com falha na operação do sistema de molas
+
+Problemas de curto-circuito interno em disjuntores elétricos
+
+Disjuntor com sobreaquecimento dos contatos elétricos
+
+Defeitos no sistema de disparo do disjuntor elétrico
+
+Disjuntor que não mantém a corrente nominal
+
+Problemas de encaixe da alavanca de acionamento do disjuntor
+
+Disjuntor com mau funcionamento dos dispositivos de proteção
+
+Falha no sistema de controle do disjuntor de caixa moldada
+
+Disjuntor com disparo tardio
+
+Problemas de corrente de fuga em disjuntores elétricos
+
+Disjuntor que não desliga mesmo após o acionamento
+
+Defeitos mecânicos na alavanca de reset do disjuntor
+
+Disjuntor com sobrecarga constante
+
+Problemas de desarme indevido em disjuntores de caixa moldada
+
+Disjuntor que não restabelece a energia após o disparo
+
+Falha no sistema de monitoramento do disjuntor elétrico
+
+Disjuntor com disparos múltiplos
+
+Problemas de isolamento em disjuntores de caixa moldada
+
+Disjuntor que não se encaixa corretamente na caixa moldada
+
+Defeitos no sistema de proteção contra sobretensão do disjuntor
+
+Disjuntor com mau funcionamento do sistema de disparo
+
+Problemas de curto-circuito externo em disjuntores elétricos
+
+Disjuntor com mau funcionamento do indicador de posição
+
+Falha na atuação do disjuntor de caixa moldada
+
+Disjuntor que não registra a corrente de fuga
+
+Problemas de desarme intempestivo em disjuntores elétricos
+
+Disjuntor com defeito na alavanca de acionamento
+
+Defeitos mecânicos no sistema de fixação do disjuntor
+
+Disjuntor com disparos frequentes sem motivo aparente
+
+Problemas de aquecimento excessivo em disjuntores de caixa moldada
+
+Disjuntor que não mantém a posição de ligado
+
+Falha no sistema de proteção contra sobrecarga do disjuntor elétrico
+
+Disjuntor com mau funcionamento do dispositivo de bloqueio
+
+Problemas de desgaste dos contatos elétricos em disjuntores de caixa moldada
+
+Disjuntor que não realiza a comutação de cargas
+
+Defeitos mecânicos no sistema de disparo do disjuntor
+
+Disjuntor com falha no mecanismo de acionamento remoto
+
+Problemas de corrente de curto-circuito em disjuntores elétricos
+
+Disjuntor que não restabelece a corrente após o disparo
+
+Falha na proteção contra correntes de fuga do disjuntor de caixa moldada
+
+Disjuntor com mau funcionamento do sistema de travamento
+
+Problemas de corrente de sobrecarga em disjuntores elétricos
+
+Disjuntor com desarme incorreto em casos de sobrecarga
+
+Defeitos mecânicos na alavanca de acionamento do disjuntor elétrico
+
+Disjuntor que não mantém a estabilidade da corrente elétrica
+
+Problemas de disparo involuntário em disjuntores de caixa moldada
+
+Disjuntor com mau funcionamento do sistema de proteção contra curtos
+
+Falha na detecção de corrente residual do disjuntor
+
+Disjuntor com disparo por corrente de fuga anormal
+
+Problemas de arco elétrico em disjuntores de caixa moldada
+
+Disjuntor que não desliga em casos de falta de fase
+
+Defeitos mecânicos no sistema de abertura e fechamento do disjuntor
+
+Disjuntor com desarme lento
+
+Problemas de vibração em disjuntores elétricos
+
+Disjuntor que não registra o excesso de corrente
+
+Falha no sistema de bloqueio do disjuntor de caixa moldada
+
+Disjuntor com mau funcionamento do sistema de monitoramento de temperatura
+
+Problemas de desarme incorreto em disjuntores de caixa moldada
+
+Disjuntor que não restabelece a tensão após o disparo
+
+Defeitos mecânicos no sistema de acionamento manual do disjuntor
+
+Disjuntor com falha na proteção contra curtos-circuitos
+
+Problemas de sensibilidade do disjuntor elétrico
+
+Disjuntor com disparo por sobretensão
+
+Falha na atuação do sistema de proteção do disjuntor de caixa moldada
+
+Disjuntor que não reconhece corretamente as fases elétricas
+
+Problemas de corrente de fuga em disjuntores de caixa moldada
+
+Disjuntor com mau funcionamento do sistema de reset
+
+Defeitos mecânicos no sistema de controle do disjuntor elétrico
+
+Disjuntor com disparos aleatórios
+
+Problemas de sobrecarga em disjuntores de caixa moldada
+
+Disjuntor que não desarma em casos de curto-circuito
+
+Falha no sistema de isolamento do disjuntor elétrico
+
+Disjuntor com mau funcionamento do dispositivo de proteção contra surtos
+Problemas de contato entre os polos do disjuntor
+
+Disjuntor que não liga após o desarme
+
+Defeitos mecânicos no mecanismo de disparo do disjuntor
+
+Disjuntor com mau funcionamento do sistema de trip
+
+Falha na detecção de corrente de curto-circuito do disjuntor
+
+Problemas de desarme por corrente de fuga excessiva
+
+Disjuntor que não registra a corrente de carga
+
+Defeitos mecânicos no mecanismo de travamento do disjuntor
+
+Disjuntor com disparo incorreto em casos de sobrecarga
+
+Falha no sistema de comunicação do disjuntor de caixa moldada
+
+Problemas de aquecimento nos contatos elétricos do disjuntor
+
+Disjuntor que não realiza o desarme em casos de curto-circuito
+
+Defeitos mecânicos no mecanismo de reset do disjuntor
+
+Disjuntor com mau funcionamento do sistema de supervisão
+
+Falha na proteção contra curto-circuito do disjuntor
+
+Problemas de sensibilidade do sistema de disparo do disjuntor
+
+Disjuntor que não registra a corrente de fuga residual
+
+Defeitos mecânicos no sistema de acionamento remoto do disjuntor
+
+Disjuntor com disparo incorreto em casos de sobretensão
+
+Falha no sistema de detecção de falhas do disjuntor elétrico
+
+Problemas de vibração no disjuntor de caixa moldada
+
+Disjuntor que não mantém a posição de desligado
+
+Defeitos mecânicos no sistema de identificação de fases do disjuntor
+
+Disjuntor com mau funcionamento do sistema de bloqueio
+
+Falha na proteção contra correntes de fuga residuais do disjuntor
+
+Problemas de curto-circuito interno em disjuntores elétricos
+
+Disjuntor que não realiza o desarme em casos de sobrecorrente
+
+Defeitos mecânicos no sistema de indicação de status do disjuntor
+
+Disjuntor com disparo incorreto em casos de subtensão
+
+Falha no sistema de detecção de corrente de fuga do disjuntor
+
+Problemas de interferência eletromagnética em disjuntores de caixa moldada
+
+Disjuntor que não registra corretamente a corrente de carga
+
+Defeitos mecânicos no sistema de proteção contra sobrecorrente do disjuntor
+
+Disjuntor com mau funcionamento do sistema de proteção contra faltas à terra
+
+Falha na detecção de corrente de sobrecarga do disjuntor
+
+Problemas de contato instável nos terminais do disjuntor
+
+Disjuntor que não realiza o desarme em casos de sobretensão
+
+Defeitos mecânicos no sistema de sinalização do disjuntor
+
+Disjuntor com disparos aleatórios e sem motivo aparente
+
+Falha no sistema de monitoramento térmico do disjuntor elétrico
+
+Problemas de polaridade inversa em disjuntores de caixa moldada
+
+Disjuntor que não mantém a posição de ligado
+
+Defeitos mecânicos no sistema de monitoramento de corrente do disjuntor
+
+Disjuntor com mau funcionamento do sistema de proteção contra sobretemperatura
+
+Falha na detecção de curto-circuito do disjuntor
+
+Problemas de corrente de carga desbalanceada em disjuntores elétricos
+
+Disjuntor que não realiza o desarme em casos de sobretensão transitória
+
+Defeitos mecânicos no sistema de conexão do disjuntor
+
+Disjuntor com disparo incorreto em casos de subtensão transitória
+
+Falha no sistema de proteção contra falhas à terra do disjuntor
+
+Problemas de desarme intempestivo em disjuntores de caixa moldada
+
+Disjuntor que não registra a corrente de carga total
+
+Defeitos mecânicos no sistema de disparo por sobrecorrente do disjuntor
+
+Disjuntor com mau funcionamento do sistema de proteção contra sobretensão
+
+Falha na detecção de corrente de sobrecarga do disjuntor de caixa moldada
+
+Problemas de curto-circuito externo em disjuntores elétricos
+
+Disjuntor que não realiza o desarme em casos de subtensão prolongada
+
+Defeitos mecânicos no sistema de intertravamento do disjuntor
+
+Disjuntor com disparos aleatórios em momentos de baixa carga
+
+Falha no sistema de monitoramento de tensão do disjuntor elétrico
+
+Problemas de perda de ajuste no disjuntor de caixa moldada
+
+Disjuntor que não liga após a restauração da energia
+
+Defeitos mecânicos no sistema de proteção contra sobrecorrente de fuga
+
+Disjuntor com mau funcionamento do sistema de proteção contra surtos
+
+Falha na detecção de corrente de curto-circuito em disjuntores elétricos
+
+Problemas de corrente de carga excessiva em disjuntores de caixa moldada
+
+Disjuntor que não realiza o desarme em casos de subtensão momentânea
+
+Defeitos mecânicos no sistema de indicação de corrente do disjuntor
+
+Disjuntor com disparo incorreto em momentos de alta demanda
+
+Falha no sistema de proteção contra sobretensão transitória do disjuntor
+
+Problemas de desarme prematuro em disjuntores de caixa moldada
+
+Disjuntor que não registra a corrente de carga corretamente
+
+Defeitos mecânicos no sistema de disparo por subtensão do disjuntor
+
+Disjuntor com mau funcionamento do sistema de proteção contra falhas à terra
+
+Falha na detecção de corrente de sobrecarga em disjuntores elétricos
+
+Problemas de curto-circuito intermitente em disjuntores de caixa moldada
+
+Disjuntor que não realiza o desarme em casos de subtensão prolongada
+
+Defeitos mecânicos no sistema de monitoramento de status do disjuntor
+
+Disjuntor com disparos aleatórios em momentos de baixa tensão
+
+Falha no sistema de proteção contra falhas à terra de baixa impedância
+
+Problemas de perda de sensibilidade no disjuntor de caixa moldada
+
+Disjuntor que não liga mesmo com a corrente de carga adequada
+
+Defeitos mecânicos no sistema de proteção contra sobrecorrente transitória
+
+Disjuntor com mau funcionamento do sistema de proteção contra subtensão
+
+Falha na detecção de curto-circuito em disjuntores elétricos de caixa moldada
+
+Problemas de corrente de carga desequilibrada em disjuntores de caixa moldada
+
+Disjuntor que não realiza o desarme em casos de sobretensão momentânea
+
+Defeitos mecânicos no sistema de interrupção do disjuntor
+
+Disjuntor com disparo incorreto em momentos de baixa demanda de energia
+
+Falha no sistema de monitoramento de corrente de fuga do disjuntor elétrico
+
+Problemas de desarme frequente em disjuntores de caixa moldada
+
+Disjuntor que não registra corretamente a corrente de carga total
+
+Defeitos mecânicos no sistema de proteção contra sobretensão transitória
+
+Disjuntor com mau funcionamento do sistema de proteção contra subtensão momentânea
+
+Falha na detecção de corrente de curto-circuito em disjuntores elétricos
+
+Problemas de sobrecarga crônica em disjuntores de caixa moldada
+
+Disjuntor que não realiza o desarme em casos de subtensão prolongada
+
+Defeitos mecânicos no sistema de monitoramento de temperatura do disjuntor
+
+Disjuntor com disparos aleatórios em momentos de alta tensão
+
+Falha no sistema de proteção contra falhas à terra de alta impedância

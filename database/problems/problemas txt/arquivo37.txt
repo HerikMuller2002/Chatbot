@@ -1,0 +1,50 @@
+Articulações da cadeia rígidas
+Problema de rigidez nas articulações da cadeia
+Cadeia com articulações travadas
+Cadeia de acionamento com articulações inflexíveis
+Articulações da cadeia presas
+Cadeia de acionamento com articulações emperradas
+Articulações da cadeia com dificuldade de movimento
+Problema de funcionamento das articulações da cadeia
+Cadeia com articulações duras
+Articulações da cadeia com restrição de movimento
+Cadeia de acionamento com articulações bloqueadas
+Articulações da cadeia engripadas
+Cadeia com articulações imóveis
+Problema de flexibilidade das articulações da cadeia
+Cadeia com articulações rígidas e sem mobilidade
+Articulações da cadeia presas e sem movimento
+Cadeia de acionamento com articulações emperradas e inflexíveis
+Articulações da cadeia com limitação de movimento
+Problema de deslizamento nas articulações da cadeia
+Cadeia com articulações engripadas e imóveis
+Articulações da cadeia travadas e rígidas
+Cadeia de acionamento com articulações presas e sem mobilidade
+Articulações da cadeia com dificuldade de rotação
+Problema de lubrificação das articulações da cadeia
+Cadeia com articulações bloqueadas e sem flexibilidade
+Articulações da cadeia com resistência ao movimento
+Cadeia de acionamento com articulações engripadas e inflexíveis
+Articulações da cadeia com movimento restrito
+Problema de desgaste nas articulações da cadeia
+Cadeia com articulações rígidas e com dificuldade de mobilidade
+Articulações da cadeia presas e com restrição de movimento
+Cadeia de acionamento com articulações emperradas e com limitação de movimento
+Articulações da cadeia com falta de flexibilidade
+Cadeia com articulações engripadas e sem rotação
+Problema de articulações rígidas na cadeia de acionamento
+Articulações da cadeia com problemas de lubrificação
+Cadeia com articulações bloqueadas e sem deslizamento
+Articulações da cadeia travadas e sem mobilidade
+Cadeia de acionamento com articulações presas e com resistência ao movimento
+Articulações da cadeia com movimento limitado
+Problema de articulações desgastadas na cadeia
+Cadeia com articulações rígidas e com restrição de mobilidade
+Articulações da cadeia presas e com dificuldade de movimento
+Cadeia de acionamento com articulações emperradas e com falta de flexibilidade
+Articulações da cadeia com dificuldade de rotação
+Cadeia com articulações engripadas e com problemas de lubrificação
+Articulações da cadeia com restrição de deslizamento
+Cadeia de acionamento com articulações bloqueadas e sem flexibilidade
+Articulações da cadeia travadas e rígidas
+Cadeia com articulações presas e com movimento restrito

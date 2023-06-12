@@ -1,0 +1,299 @@
+Motor elétrico parou de funcionar
+
+O motor não liga mais
+
+O motor está inativo
+
+Problema de desligamento do motor
+
+Motor não responde aos comandos
+
+Falha na partida do motor
+
+O motor parou subitamente
+
+Parada repentina do motor elétrico
+
+Motor não está girando
+
+O motor está desligado
+
+O motor não está acionando
+
+O motor está imóvel
+
+O motor não está respondendo
+
+Problema de interrupção do motor
+
+Falha no funcionamento do motor elétrico
+
+O motor não está executando a tarefa
+
+Motor elétrico não está em operação
+
+O motor não está ligando
+
+O motor está travado
+
+Parada inesperada do motor
+
+Motor não está gerando movimento
+
+O motor está parado
+
+O motor não está iniciando
+
+Motor elétrico está inoperante
+
+O motor não está trabalhando
+
+O motor está desativado
+
+Problema de bloqueio do motor
+
+Falha na inicialização do motor
+
+O motor não está arrancando
+
+O motor está inerte
+
+O motor não está respondendo aos comandos
+
+Problema de desativação do motor
+
+Falha no funcionamento do motor devido à paralisação
+
+O motor não está executando a função esperada
+
+Motor elétrico não está em funcionamento
+
+O motor não está ligando como deveria
+
+O motor está imobilizado
+
+Parada abrupta do motor
+
+Motor não está gerando movimento como esperado
+
+O motor está em repouso
+
+O motor não está iniciando corretamente
+
+Motor elétrico não está respondendo
+
+O motor não está funcionando adequadamente
+
+O motor está desativado e não responde
+
+Problema de bloqueio do motor elétrico
+
+Falha na partida do motor devido à paralisação
+
+O motor não está arrancando como deveria
+
+O motor está inativo e não responde
+
+Problema de desativação súbita do motor
+
+Falha no funcionamento do motor devido à parada
+
+O motor não está executando as operações necessárias
+
+Motor elétrico não está em operação como esperado
+
+O motor não está ligando conforme o esperado
+
+O motor está imóvel e não responde
+
+Paralisação inesperada do motor elétrico
+
+Motor não está gerando movimento adequado
+
+O motor está em repouso e não responde aos comandos
+
+O motor não está iniciando corretamente suas funções
+
+Motor elétrico não está respondendo aos estímulos
+
+O motor não está funcionando como deveria devido à paralisação
+
+O motor está desativado e não apresenta sinais de atividade
+
+Problema de bloqueio do motor elétrico causando a paralisação
+
+Falha na partida do motor devido à interrupção do funcionamento
+
+O motor não está arrancando adequadamente após a paralisação
+
+O motor está inerte e não responde aos comandos de acionamento
+
+Problema de desativação do motor causando a interrupção das operações
+
+Falha no funcionamento do motor devido à parada inesperada
+
+O motor não está executando as tarefas designadas após a paralisação
+
+Motor elétrico não está em operação conforme o planejado
+
+O motor não está ligando como esperado após a paralisação
+
+O motor está imobilizado e não apresenta movimento
+
+Parada abrupta do motor elétrico sem aviso prévio
+
+Motor não está gerando o movimento desejado após a paralisação
+
+O motor está em repouso e não responde aos comandos de acionamento
+
+O motor não está iniciando adequadamente suas funções após a paralisação
+
+Motor elétrico não está respondendo aos comandos de controle
+
+O motor não está funcionando corretamente após a paralisação
+
+O motor está desativado e não apresenta atividade operacional
+
+Problema de bloqueio do motor elétrico causando a interrupção das operações
+
+Falha na partida do motor devido à paralisação repentina
+
+O motor não está arrancando como deveria após a paralisação
+
+O motor está inativo e não responde aos comandos de acionamento
+
+Problema de desativação do motor causando a paralisação inesperada
+
+Falha no funcionamento do motor devido à parada não programada
+
+O motor não está executando as funções necessárias após a paralisação
+
+Motor elétrico não está em operação conforme o planejado
+
+O motor não está ligando como esperado após a paralisação
+
+O motor está imóvel e não apresenta movimento
+
+Paralisação inesperada do motor elétrico sem aviso prévio
+
+Motor não está gerando o movimento adequado após a paralisação
+
+O motor está em repouso e não responde aos comandos de acionamento
+
+O motor não está iniciando adequadamente suas funções após a paralisação
+
+Motor elétrico não está respondendo aos comandos de controle
+
+O motor não está funcionando corretamente após a paralisação
+
+O motor está desativado e não apresenta atividade operacional
+
+Problema de bloqueio do motor elétrico causando a interrupção das operações
+
+Falha na partida do motor devido à paralisação repentina
+
+O motor não está arrancando como deveria após a paralisação
+
+O motor está inativo e não responde aos comandos de acionamento
+
+Problema de desativação do motor causando a paralisação inesperada
+O motor está parado e não responde
+Problema de desligamento repentino do motor
+Falha na inicialização do motor elétrico
+O motor não está acionando corretamente
+O motor não gira mais
+Parada inesperada do motor elétrico
+O motor não está executando suas funções
+O motor não está em movimento
+O motor não está respondendo aos comandos de partida
+Problema de paralisação do motor elétrico
+Falha no acionamento do motor
+O motor não está ligando como deveria
+O motor está completamente inativo
+Parada súbita do motor elétrico
+O motor não está gerando torque
+Problema de desativação do motor elétrico
+Falha no funcionamento do motor após a paralisação
+O motor não está iniciando o movimento
+O motor está travado e não se move
+Paralisação repentina do motor elétrico
+O motor não está produzindo potência
+Problema de bloqueio do motor elétrico
+Falha na partida do motor devido à paralisação
+O motor não está acelerando como deveria
+O motor está imóvel e não responde aos comandos
+Parada inesperada do motor após o funcionamento normal
+O motor não está respondendo aos comandos de ligar
+Problema de interrupção do motor elétrico
+Falha no acionamento do motor após a paralisação
+O motor não está girando como esperado
+O motor está completamente parado
+Parada abrupta do motor elétrico durante a operação
+O motor não está funcionando adequadamente após a paralisação
+Problema de desligamento do motor elétrico
+Falha no funcionamento do motor após a parada
+O motor não está iniciando a rotação
+O motor está preso e não se move
+Paralisação inesperada do motor durante o uso
+O motor não está produzindo a potência necessária
+Problema de bloqueio do motor elétrico causando a paralisação
+Falha na partida do motor devido à parada inesperada
+O motor não está acelerando conforme o esperado
+O motor está imobilizado e não responde aos comandos
+Parada inesperada do motor após o funcionamento normal
+O motor não está respondendo aos comandos de ligar
+Problema de interrupção do motor causando a paralisação
+Falha no acionamento do motor após a parada
+O motor não está girando adequadamente
+O motor está completamente parado e não se move
+Parada abrupta do motor elétrico sem aviso prévio
+O motor não está funcionando corretamente após a paralisação
+Problema de desligamento do motor durante a operação
+Falha no funcionamento do motor após a parada inesperada
+O motor não está iniciando a rotação como deveria
+O motor está travado e não apresenta movimento
+Paralisação inesperada do motor elétrico sem aviso
+O motor não está gerando a potência necessária
+Problema de bloqueio do motor elétrico causando a parada
+Falha na partida do motor devido à paralisação súbita
+O motor não está acelerando como esperado após a parada
+O motor está imóvel e não responde aos comandos de partida
+Parada inesperada do motor após o funcionamento normal
+O motor não está respondendo aos comandos de acionamento
+Problema de interrupção do motor elétrico causando a paralisação
+Falha no acionamento do motor após a paralisação inesperada
+O motor não está girando adequadamente após a parada
+O motor está completamente parado e não apresenta movimento
+Parada abrupta do motor elétrico sem aviso prévio
+O motor não está funcionando corretamente após a paralisação
+Problema de desligamento do motor durante a operação
+Falha no funcionamento do motor após a parada inesperada
+O motor não está iniciando a rotação como deveria
+O motor está travado e não se move
+Paralisação inesperada do motor elétrico sem aviso
+O motor não está gerando a potência necessária
+Problema de bloqueio do motor elétrico causando a parada
+Falha na partida do motor devido à paralisação súbita
+O motor não está acelerando como esperado após a parada
+O motor está imóvel e não responde aos comandos de partida
+Parada inesperada do motor após o funcionamento normal
+O motor não está respondendo aos comandos de acionamento
+Problema de interrupção do motor elétrico causando a paralisação
+Falha no acionamento do motor após a paralisação inesperada
+O motor não está girando adequadamente após a parada
+O motor está completamente parado e não apresenta movimento
+Parada abrupta do motor elétrico sem aviso prévio
+O motor não está funcionando corretamente após a paralisação
+Problema de desligamento do motor durante a operação
+Falha no funcionamento do motor após a parada inesperada
+O motor não está iniciando a rotação como deveria
+O motor está travado e não se move
+Paralisação inesperada do motor elétrico sem aviso
+O motor não está gerando a potência necessária
+Problema de bloqueio do motor elétrico causando a parada
+Falha na partida do motor devido à paralisação súbita
+O motor não está acelerando como esperado após a parada
+O motor está imóvel e não responde aos comandos de partida
+Parada inesperada do motor após o funcionamento normal
+O motor não está respondendo aos comandos de acionamento
+Problema de interrupção do motor elétrico causando a paralisação

@@ -1,0 +1,14 @@
+1 - bombas
+2 - rolamentos
+3 - válvulas
+4 - acionamentos por corrente
+5 - caixas de engrenagens
+6 - Sistemas de óleo lubrificante
+7 - Acionamentos por correia em V
+8 - Sistemas de ventiladores
+9 - Purgadores de vapor
+10 - Motores elétricos
+11 - Contatos elétricos
+12 - Disjuntores elétricos de caixa moldada
+13 - Circuito magnético
+14 - Circuito dielétrico

@@ -1,0 +1,50 @@
+Chicote de corrente solto
+Chicote de corrente danificado
+Problema de chicote de corrente no acionamento
+Chicote de corrente balançando
+Chicote de corrente mal fixado
+Chicote de corrente desalinhado
+Chicote de corrente solto e pendurado
+Problema de segurança com o chicote de corrente
+Chicote de corrente desengatado
+Chicote de corrente preso
+Chicote de corrente batendo
+Chicote de corrente solto e batendo
+Chicote de corrente desgastado
+Problema de montagem do chicote de corrente
+Chicote de corrente mal enrolado
+Chicote de corrente mal preso
+Chicote de corrente escapando
+Chicote de corrente arrastando
+Chicote de corrente desenganchado
+Chicote de corrente pendente e desalinhado
+Problema de fixação do chicote de corrente
+Chicote de corrente solto e desengatado
+Chicote de corrente frouxo
+Chicote de corrente mal ajustado
+Chicote de corrente oscilando
+Chicote de corrente solto e oscilando
+Chicote de corrente desenrolado
+Problema de segurança com o chicote de corrente solto
+Chicote de corrente desgastado e pendurado
+Chicote de corrente mal enrolado e mal preso
+Chicote de corrente escapando do encaixe
+Chicote de corrente arrastando no acionamento
+Chicote de corrente desenganchado e solto
+Problema de montagem e fixação do chicote de corrente
+Chicote de corrente solto e desalinhado
+Chicote de corrente frouxo e desengatado
+Chicote de corrente mal ajustado e oscilando
+Chicote de corrente desenrolado e pendente
+Chicote de corrente solto, desengatado e desalinhado
+Problema de segurança com o chicote de corrente pendente
+Chicote de corrente desgastado, solto e batendo
+Chicote de corrente mal enrolado, mal preso e escapando
+Chicote de corrente arrastando e desenganchado
+Chicote de corrente desalinhado e oscilando
+Chicote de corrente solto, oscilando e desenrolado
+Problema de fixação e montagem do chicote de corrente
+Chicote de corrente desgastado, pendente e desalinhado
+Chicote de corrente mal enrolado, escapando e arrastando
+Chicote de corrente solto, desenganchado e desenrolado
+Chicote de corrente frouxo, desalinhado e mal ajustado

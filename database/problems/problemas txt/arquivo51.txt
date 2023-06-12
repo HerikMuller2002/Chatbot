@@ -1,0 +1,200 @@
+Alarme disparando em sistemas de óleo lubrificante
+Alarme sonoro indicando um problema no sistema de lubrificação
+Acionamento do alarme em sistemas de óleo lubrificante
+Sinal de alarme devido a uma anomalia no sistema de lubrificação
+Alarme de segurança ativado em sistemas de óleo lubrificante
+Problema identificado pelo alarme em sistemas de lubrificação
+Alarme sonoro indicando uma condição anormal no sistema de óleo lubrificante
+Disparo do alarme devido a uma falha no sistema de lubrificação
+O alarme soa quando ocorre uma situação indesejada no sistema de óleo lubrificante
+Sinal de alerta acionado em sistemas de lubrificação de óleo
+Alarme disparado devido a uma condição crítica no sistema de lubrificação
+Indicação de problema pelo alarme em sistemas de óleo lubrificante
+Alarme sonoro ativado por uma anomalia no sistema de lubrificação
+Disparo do alarme indicando uma falha no sistema de óleo lubrificante
+O alarme soa quando há uma situação de risco no sistema de lubrificação
+Sinal de alarme acionado devido a uma condição anormal no sistema de óleo lubrificante
+Ativação do alarme em sistemas de lubrificação de óleo
+Alarme sonoro disparado por uma falha no sistema de lubrificação
+O alarme soa quando ocorre um mau funcionamento no sistema de óleo lubrificante
+Sinal de alerta ativado em sistemas de lubrificação de óleo
+Alarme disparado devido a uma condição crítica no sistema de lubrificação
+Indicação de problema pelo alarme sonoro em sistemas de óleo lubrificante
+O alarme soa quando ocorre uma situação anormal no sistema de lubrificação
+Sinal de alerta acionado por uma falha no sistema de óleo lubrificante
+Alarme sonoro indicando uma condição de risco no sistema de lubrificação
+Disparo do alarme em sistemas de lubrificação de óleo
+O alarme soa quando há um mau funcionamento no sistema de óleo lubrificante
+Sinal de alarme ativado devido a uma condição anormal no sistema de óleo lubrificante
+Ativação do alarme em sistemas de lubrificação de óleo
+Alarme sonoro disparado por uma falha crítica no sistema de lubrificação
+O alarme soa quando ocorre um problema no sistema de óleo lubrificante
+Sinal de alerta acionado em sistemas de lubrificação de óleo
+Alarme disparado devido a uma condição de risco no sistema de lubrificação
+Indicação de problema pelo alarme em sistemas de óleo lubrificante
+Alarme sonoro ativado por uma falha no sistema de lubrificação
+Disparo do alarme indicando uma situação anormal no sistema de óleo lubrificante
+O alarme soa quando ocorre uma falha crítica no sistema de lubrificação
+Sinal de alarme acionado em sistemas de lubrificação de óleo
+Alarme sonoro disparado por um mau funcionamento no sistema de lubrificação
+O alarme soa quando há uma condição de risco no sistema de óleo lubrificante
+Sinal de alerta ativado em sistemas de lubrificação de óleo
+Alarme disparado devido a uma situação anormal no sistema de lubrificação
+Indicação de problema pelo alarme sonoro em sistemas de óleo lubrificante
+O alarme soa quando ocorre uma falha no sistema de óleo lubrificante
+Sinal de alarme acionado por uma condição de risco no sistema de lubrificação
+Alarme sonoro indicando um problema crítico no sistema de lubrificação
+Disparo do alarme em sistemas de lubrificação de óleo
+O alarme soa quando há um problema no sistema de óleo lubrificante
+Sinal de alerta ativado em sistemas de lubrificação de óleo
+Alarme disparado devido a uma situação de risco no sistema de lubrificação
+Alarme de segurança ativado devido a flutuações no sistema de óleo lubrificante
+Sinal de alarme indicando variações anormais na pressão do sistema de lubrificação
+Alarme sonoro ativado por um fluxo irregular no sistema de óleo lubrificante
+Disparo do alarme devido a oscilações na pressão do sistema de lubrificação
+O alarme soa quando a pressão do sistema de óleo lubrificante flutua constantemente
+Sinal de alerta acionado devido a um fluxo instável no sistema de lubrificação
+Alarme disparado por variações irregulares na pressão do sistema de óleo lubrificante
+O alarme soa quando há um padrão de pressão irregular no sistema de lubrificação
+Sinal de alarme acionado por um fluxo acidentado no sistema de óleo lubrificante
+Alarme sonoro indicando flutuações constantes na pressão do sistema de lubrificação
+Disparo do alarme devido a um fluxo de visão muito irregular no sistema de óleo lubrificante
+O alarme soa quando a pressão do sistema de lubrificação varia continuamente
+Sinal de alerta ativado por oscilações anormais na pressão do sistema de óleo lubrificante
+Alarme disparado por um fluxo de visão muito acidentado no sistema de lubrificação
+O alarme soa quando a pressão do sistema de óleo lubrificante flutua constantemente
+Sinal de alarme acionado devido a um fluxo irregular e acidentado no sistema de óleo lubrificante
+Alarme sonoro indicando variações anormais nos fluxos de visão do sistema de lubrificação
+Disparo do alarme devido a oscilações na pressão e nos fluxos de visão do sistema de óleo lubrificante
+O alarme soa quando a pressão e o fluxo do sistema de lubrificação se apresentam de forma irregular
+Sinal de alerta ativado por um padrão de pressão e fluxo instável no sistema de óleo lubrificante
+Alarme disparado por flutuações constantes nas pressões e fluxos de visão do sistema de lubrificação
+O alarme soa quando há um fluxo de visão irregular e acidentado no sistema de óleo lubrificante
+Sinal de alarme acionado devido a variações anormais nas pressões e fluxos do sistema de lubrificação
+Alarme sonoro indicando uma condição de pressão e fluxo muito instáveis no sistema de óleo lubrificante
+Disparo do alarme devido a uma sequência de flutuações nas pressões e fluxos de visão do sistema de lubrificação
+O alarme soa quando a pressão e o fluxo do sistema de óleo lubrificante apresentam uma série de variações irregulares
+Sinal de alerta ativado por um fluxo de visão muito irregular e acidentado no sistema de lubrificação
+Alarme disparado por uma condição de pressão e fluxo constantemente instáveis no sistema de óleo lubrificante
+O alarme soa quando há um padrão de variações anormais nas pressões e fluxos do sistema de lubrificação
+Sinal de alarme acionado devido a oscilações constantes nas pressões e fluxos de visão do sistema de óleo lubrificante
+Alarme sonoro indicando uma situação de pressão e fluxo muito instáveis e irregulares no sistema de lubrificação
+Disparo do alarme devido a um fluxo de visão extremamente irregular e acidentado no sistema de óleo lubrificante
+O alarme soa quando as pressões e os fluxos do sistema de lubrificação apresentam flutuações constantes
+Sinal de alerta ativado por um padrão de variações anormais e irregulares nas pressões e fluxos do sistema de óleo lubrificante
+Alarme disparado por uma sequência de oscilações nas pressões e fluxos de visão do sistema de lubrificação
+O alarme soa quando a pressão e o fluxo do sistema de óleo lubrificante variam continuamente
+Sinal de alarme acionado devido a um fluxo de visão extremamente instável e acidentado no sistema de lubrificação
+Alarme sonoro indicando uma situação de pressão e fluxo constantemente instáveis no sistema de óleo lubrificante
+Disparo do alarme devido a um padrão de variações irregulares e constantes nas pressões e fluxos do sistema de lubrificação
+O alarme soa quando as pressões e os fluxos do sistema de lubrificação apresentam flutuações contínuas
+Sinal de alerta ativado por um fluxo de visão muito instável e irregular no sistema de óleo lubrificante
+Alarme disparado por uma condição de pressão e fluxo extremamente instáveis e acidentados no sistema de lubrificação
+O alarme soa quando há um padrão de variações anormais e constantes nas pressões e fluxos do sistema de lubrificação
+Sinal de alarme acionado devido a oscilações contínuas nas pressões e fluxos de visão do sistema de óleo lubrificante
+Alarme sonoro indicando uma situação de pressão e fluxo muito instáveis e irregulares no sistema de lubrificação
+Disparo do alarme devido a um fluxo de visão extremamente instável e acidentado no sistema de óleo lubrificante
+O alarme soa quando as pressões e os fluxos do sistema de lubrificação apresentam flutuações constantes
+Sinal de alerta ativado por um padrão de variações anormais e irregulares nas pressões e fluxos do sistema de óleo lubrificante
+Alarme disparado por uma sequência de oscilações nas pressões e fluxos de visão do sistema de lubrificação
+O alarme soa quando a pressão e o fluxo do sistema de óleo lubrificante variam continuamente
+O alarme de pressão do sistema de óleo lubrificante foi acionado
+Alerta sonoro devido a flutuações na pressão do sistema de lubrificação
+O alarme do sistema de óleo está disparando repetidamente
+Sinal sonoro devido a variações anormais na pressão do óleo lubrificante
+O alarme de pressão baixa está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão irregular no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão excessiva no sistema de óleo lubrificante
+O alarme de pressão alta foi ativado no sistema de lubrificação
+O alarme de fluxo de óleo está disparando repetidamente
+Alerta sonoro devido a flutuações anormais no fluxo de óleo lubrificante
+O alarme de fluxo de óleo baixo está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de fluxo irregular no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado devido a variações no fluxo
+Sinal sonoro devido a um fluxo excessivo no sistema de óleo lubrificante
+O alarme de fluxo de óleo alto foi ativado no sistema de lubrificação
+O alarme de pressão e fluxo está ativado no sistema de óleo lubrificante
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado devido a variações na pressão e no fluxo
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme de pressão e fluxo elevados foi ativado no sistema de lubrificação
+O alarme sonoro de baixa pressão está ativado no sistema de óleo lubrificante
+A sirene de alerta está soando devido a problemas de pressão no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão irregular no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão excessiva no sistema de óleo lubrificante
+O alarme sonoro de alta pressão foi ativado no sistema de lubrificação
+O alarme sonoro de baixo fluxo está ativado no sistema de óleo lubrificante
+A sirene de alerta está soando devido a problemas de fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de fluxo irregular no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a um fluxo excessivo no sistema de óleo lubrificante
+O alarme sonoro de alto fluxo foi ativado no sistema de lubrificação
+O alarme sonoro de pressão e fluxo está ativado no sistema de óleo lubrificante
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme sonoro de pressão e fluxo elevados foi ativado no sistema de lubrificação
+O alarme do sistema de lubrificação está emitindo um som constante
+Sinal sonoro indicando uma condição anormal no sistema de óleo lubrificante
+O alarme de pressão e fluxo está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme de pressão e fluxo elevados foi ativado no sistema de lubrificação
+O alarme sonoro está disparando repetidamente no sistema de óleo lubrificante
+Alerta sonoro devido a flutuações anormais na pressão e no fluxo de óleo
+O alarme de pressão e fluxo baixos está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme de pressão e fluxo altos foi ativado no sistema de lubrificação
+O alarme sonoro está constantemente ativado devido a problemas no sistema de óleo lubrificante
+Sinal sonoro devido a variações anormais na pressão e no fluxo de óleo
+O alarme de pressão e fluxo baixos está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme de pressão e fluxo altos foi ativado no sistema de lubrificação
+O alarme sonoro de baixa pressão e fluxo está ativado no sistema de óleo lubrificante
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme sonoro de alta pressão e fluxo foi ativado no sistema de lubrificação
+O alarme sonoro está disparando repetidamente no sistema de óleo lubrificante
+Alerta sonoro devido a flutuações anormais na pressão e no fluxo de óleo
+O alarme de pressão e fluxo baixos está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme de pressão e fluxo altos foi ativado no sistema de lubrificação
+O alarme sonoro está constantemente ativado devido a problemas no sistema de óleo lubrificante
+Sinal sonoro devido a variações anormais na pressão e no fluxo de óleo
+O alarme de pressão e fluxo baixos está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme de pressão e fluxo altos foi ativado no sistema de lubrificação
+O alarme sonoro de baixa pressão e fluxo está ativado no sistema de óleo lubrificante
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado
+Sinal sonoro devido a uma pressão e fluxo excessivos no sistema de óleo lubrificante
+O alarme sonoro de alta pressão e fluxo foi ativado no sistema de lubrificação
+O alarme sonoro está disparando repetidamente no sistema de óleo lubrificante
+Alerta sonoro devido a flutuações anormais na pressão e no fluxo de óleo
+O alarme de pressão e fluxo baixos está ativado no sistema de lubrificação
+A sirene de alerta está soando devido a problemas de pressão e fluxo no óleo lubrificante
+Alerta sonoro indicando uma condição de pressão e fluxo irregulares no sistema de óleo
+O alarme do sistema de lubrificação está constantemente acionado

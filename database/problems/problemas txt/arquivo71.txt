@@ -1,0 +1,398 @@
+Saída do ventilador abaixo da taxa de fluxo especificada
+
+Fluxo de ar insuficiente no sistema de ventilação
+
+Baixa vazão de ar no ventilador
+
+Problema de redução do fluxo de ar no sistema de ventilação
+
+Ventilador com desempenho abaixo do esperado
+
+Fluxo de ar abaixo da capacidade nominal do ventilador
+
+Ventilação ineficiente devido à baixa saída de scfm
+
+Ventilador operando com vazão insuficiente
+
+Fluxo de ar abaixo das especificações requeridas
+
+Baixa taxa de fluxo de ar do ventilador
+
+Problema de deficiência no fluxo de ar do sistema de ventilação
+
+Ventilador com saída abaixo do limite de scfm
+
+Fluxo de ar abaixo do padrão estabelecido
+
+Saída de ar abaixo da taxa recomendada do ventilador
+
+Ventilação com deficiência devido à baixa vazão
+
+Ventilador operando com vazão abaixo da capacidade ideal
+
+Fluxo de ar insuficiente para atender às demandas do sistema
+
+Problema de redução no fluxo de ar do ventilador
+
+Ventilador com saída de ar abaixo do esperado
+
+Baixa taxa de scfm no sistema de ventilação
+
+Fluxo de ar comprometido no ventilador
+
+Saída de ar abaixo do desempenho necessário
+
+Ventilação com capacidade de fluxo de ar reduzida
+
+Ventilador operando com vazão abaixo do requisito
+
+Problema de deficiência no fluxo de ar do sistema de ventilação
+
+Saída de ar insuficiente no ventilador
+
+Fluxo de ar abaixo do valor adequado no sistema de ventilação
+
+Ventilador com saída abaixo das especificações de scfm
+
+Baixa taxa de fluxo de ar em relação às necessidades do sistema
+
+Ventilação ineficiente devido à baixa saída de ar
+
+Fluxo de ar abaixo do limite aceitável no ventilador
+
+Problema de redução no fluxo de ar do sistema de ventilação
+
+Ventilador operando com vazão abaixo do desejado
+
+Saída de ar abaixo da capacidade nominal do ventilador
+
+Ventilação com deficiência devido à baixa vazão de ar
+
+Fluxo de ar insuficiente para atender aos requisitos do sistema
+
+Baixa taxa de scfm comprometendo o desempenho do ventilador
+
+Ventilador com saída de ar abaixo do necessário
+
+Fluxo de ar abaixo do valor recomendado no sistema de ventilação
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com capacidade de fluxo de ar reduzida
+
+Ventilador operando com vazão abaixo das especificações
+
+Saída de ar insuficiente para atender às demandas do sistema
+
+Fluxo de ar abaixo do padrão estabelecido para o ventilador
+
+Ventilação com baixa taxa de scfm comprometendo o desempenho
+
+Problema de redução no fluxo de ar do sistema de ventilação
+
+Ventilador com saída de ar abaixo do requisito mínimo
+
+Fluxo de ar abaixo do valor necessário no sistema de ventilação
+
+Baixa taxa de fluxo de ar em relação à capacidade do sistema
+
+Ventilação ineficiente devido à saída de ar abaixo do esperado
+
+Ventilador com fluxo de ar abaixo da capacidade nominal
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com capacidade de fluxo de ar comprometida
+
+Saída de ar do ventilador abaixo da taxa de scfm recomendada
+
+Ventilador operando com vazão insuficiente para o sistema
+
+Fluxo de ar abaixo do valor adequado para a ventilação
+
+Baixa taxa de fluxo de ar afetando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Problema de redução no fluxo de ar do sistema de ventilação
+
+Ventilação com fluxo de ar abaixo do limite aceitável
+
+Fluxo de ar insuficiente no ventilador comprometendo a eficiência
+
+Saída de ar abaixo do desempenho necessário para a ventilação
+
+Ventilador operando com vazão abaixo do requisito mínimo
+
+Fluxo de ar comprometido no sistema de ventilação
+
+Ventilação com baixa taxa de scfm impactando o funcionamento
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilador com saída de ar abaixo do valor recomendado
+
+Fluxo de ar abaixo do padrão estabelecido para a vazão
+
+Baixa taxa de fluxo de ar prejudicando o desempenho do sistema
+
+Ventilação ineficiente devido à vazão de ar abaixo do esperado
+
+Ventilador com fluxo de ar abaixo da capacidade ideal
+
+Problema de redução no fluxo de ar do sistema de ventilação
+
+Ventilação com vazão insuficiente para atender às necessidades
+
+Saída de ar abaixo da capacidade nominal do ventilador
+
+Ventilador operando com vazão abaixo das especificações requeridas
+
+Fluxo de ar insuficiente no sistema de ventilação comprometendo a eficácia
+
+Baixa taxa de scfm afetando a performance do ventilador
+
+Ventilador com saída de ar abaixo do necessário para o sistema
+
+Fluxo de ar abaixo do valor recomendado para a ventilação
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com capacidade de fluxo de ar reduzida
+
+Ventilador operando com vazão abaixo do desejado para a ventilação
+
+Saída de ar abaixo da capacidade mínima do ventilador
+
+Fluxo de ar abaixo do limite aceitável no sistema de ventilação
+
+Ventilação com baixa taxa de scfm prejudicando o funcionamento
+
+Problema de redução no fluxo de ar do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para atender às necessidades do sistema
+
+Baixa taxa de fluxo de ar impactando o desempenho do ventilador
+
+Ventilação ineficiente devido à vazão de ar abaixo do esperado
+
+Ventilador com fluxo de ar abaixo da capacidade nominal
+
+Problema de deficiência no fluxo de ar do sistema de ventilação
+
+Ventilação com vazão insuficiente para atender às demandas
+
+Saída de ar abaixo do valor necessário do ventilador
+
+Fluxo de ar abaixo do padrão estabelecido para a vazão de ar
+
+Ventilação com baixa taxa de scfm afetando o desempenho
+
+Problema de redução no fluxo de ar do ventilador
+
+Ventilador operando com vazão abaixo das especificações requeridas
+
+Fluxo de ar insuficiente no sistema de ventilação para funcionar corretamente
+
+Baixa taxa de fluxo de ar comprometendo o desempenho do sistema
+Ventilador com fluxo de ar insuficiente
+
+Problema de baixa vazão no sistema de ventilação
+
+Saída de ar do ventilador abaixo do esperado
+
+Ventilação com taxa de fluxo abaixo do necessário
+
+Ventilador operando com deficiência de vazão
+
+Fluxo de ar comprometido no sistema de ventilação
+
+Redução no desempenho devido à saída de ar baixa
+
+Ventilação ineficiente devido à falta de scfm adequado
+
+Problema de fluxo de ar abaixo das especificações recomendadas
+
+Ventilador com vazão abaixo do limite aceitável
+
+Fluxo de ar insuficiente comprometendo a eficácia do sistema
+
+Ventilação com baixa taxa de scfm afetando a operação
+
+Saída de ar do ventilador abaixo do requisito mínimo
+
+Ventilador com fluxo de ar reduzido
+
+Problema de deficiência na vazão de ar do sistema
+
+Ventilação com taxa de vazão abaixo do valor esperado
+
+Ventilador operando com fluxo de ar insatisfatório
+
+Fluxo de ar comprometido prejudicando o desempenho do sistema
+
+Baixa taxa de scfm impactando a eficiência do ventilador
+
+Problema de redução no fluxo de ar do sistema de ventilação
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para atender às demandas do sistema
+
+Ventilação com vazão abaixo do necessário para um funcionamento adequado
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Problema de redução no fluxo de ar do sistema de ventilação
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance
+
+Baixa taxa de scfm prejudicando o desempenho do ventilador
+
+Ventilador com saída de ar abaixo das especificações requeridas
+
+Fluxo de ar insuficiente para um funcionamento adequado
+
+Ventilação com vazão abaixo do necessário para atender às demandas
+
+Saída de ar do ventilador abaixo do valor recomendado
+
+Ventilador operando com baixa taxa de fluxo de ar
+
+Problema de deficiência no fluxo de ar do ventilador
+
+Ventilação com fluxo de ar abaixo da capacidade nominal
+
+Ventilador com vazão insuficiente para atender às necessidades
+
+Fluxo de ar comprometido no sistema de ventilação afetando a performance

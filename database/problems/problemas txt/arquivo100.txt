@@ -1,0 +1,398 @@
+Ruído agudo e constante vindo do motor elétrico
+
+Zumbido intenso durante a operação do motor
+
+Barulho irritante de zumbido no motor principal
+
+Excesso de ruído vibrante no motor elétrico
+
+Zumbido perturbador proveniente do motor de corrente contínua
+
+Barulho incômodo de zumbido em altas rotações
+
+Ruído estridente e excessivo no motor de indução
+
+Zumbido intenso e anormal no motor elétrico durante a partida
+
+Barulho contínuo de zumbido em baixas cargas
+
+Ruído excessivo e desconfortável no motor principal
+
+Zumbido audível e fora do comum no motor de corrente alternada
+
+Barulho incômodo de zumbido em altas voltagens
+
+Ruído vibrante e excessivo no motor de indução durante a desaceleração
+
+Zumbido constante e irritante em situações de baixa voltagem
+
+Barulho perturbador de zumbido no motor elétrico em situações de carga variável
+
+Ruído agudo e excessivo proveniente do motor de corrente contínua em altas temperaturas
+
+Zumbido intenso e anormal no motor principal durante a aceleração
+
+Barulho contínuo de zumbido em baixas rotações do motor elétrico
+
+Ruído estridente e desconfortável no motor de indução em situações de alta carga
+
+Zumbido audível e fora do comum no motor de corrente alternada em situações de baixa carga
+
+Barulho incômodo de zumbido em altas temperaturas do motor elétrico
+
+Ruído vibrante e excessivo no motor de indução durante a partida a frio
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente contínua durante a desaceleração suave
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente alternada
+
+Ruído estridente e desconfortável no motor de indução em situações de alta voltagem
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente alternada em desaceleração suave
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído estridente e desconfortável no motor de indução em situações de alta carga
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente alternada
+
+Ruído vibrante e excessivo no motor de indução durante a partida
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente contínua durante a desaceleração brusca
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente alternada
+
+Ruído estridente e desconfortável no motor de indução em situações de alta carga
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente alternada durante a desaceleração suave
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído estridente e desconfortável no motor de indução em situações de alta voltagem
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente alternada
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente contínua durante a desaceleração brusca
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente alternada
+
+Ruído estridente e desconfortável no motor de indução em situações de alta carga
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente alternada em desaceleração suave
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído estridente e desconfortável no motor de indução em situações de alta voltagem
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente alternada
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente contínua durante a desaceleração brusca
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente alternada
+
+Ruído estridente e desconfortável no motor de indução em situações de alta carga
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente alternada durante a desaceleração suave
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído estridente e desconfortável no motor de indução em situações de alta voltagem
+
+Zumbido audível e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente alternada
+
+Ruído vibrante e excessivo no motor de indução durante a partida a quente
+
+Zumbido constante e irritante em situações de baixa carga do motor principal
+
+Barulho perturbador de zumbido no motor elétrico em altas rotações
+
+Ruído agudo e excessivo proveniente do motor de corrente alternada durante a desaceleração brusca
+
+Zumbido intenso e anormal no motor principal em situações de baixa voltagem
+
+Barulho contínuo de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído estridente e desconfortável no motor de indução em situações de alta carga
+Ruído constante e incomum no motor de indução durante a partida
+
+Zumbido agudo proveniente do motor principal em situações de alta voltagem
+
+Barulho irritante de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de corrente alternada em altas rotações
+
+Zumbido anormal e perturbador no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e irritante no motor de indução durante a desaceleração
+
+Zumbido agudo e excessivo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em aceleração suave
+
+Ruído desconfortável de zumbido em altas temperaturas do motor de corrente contínua
+
+Zumbido constante e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas rotações do motor de indução
+
+Ruído vibrante e excessivo no motor de corrente alternada durante a partida a quente
+
+Zumbido agudo e irritante em situações de baixa voltagem do motor principal
+
+Barulho estridente de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído constante e perturbador no motor de indução em situações de alta carga
+
+Zumbido anormal proveniente do motor elétrico durante a desaceleração brusca
+
+Barulho desconfortável de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e excessivo no motor de corrente alternada em situações de carga variável
+
+Zumbido agudo e incômodo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em altas rotações
+
+Ruído vibrante e desconfortável no motor de indução durante a partida a frio
+
+Zumbido constante e fora do comum no motor elétrico em situações de carga pesada
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído agudo e excessivo proveniente do motor principal durante a aceleração suave
+
+Zumbido anormal e irritante em situações de baixa voltagem do motor de corrente alternada
+
+Barulho desconfortável de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído constante e perturbador no motor de indução em situações de alta carga
+
+Zumbido agudo e excessivo proveniente do motor elétrico durante a desaceleração brusca
+
+Barulho estridente de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e incomum no motor de corrente alternada em situações de carga variável
+
+Zumbido agudo proveniente do motor principal em aceleração suave
+
+Barulho irritante de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução em altas rotações
+
+Zumbido anormal e perturbador no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e irritante no motor de corrente alternada durante a desaceleração
+
+Zumbido agudo e excessivo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em aceleração suave
+
+Ruído desconfortável de zumbido em altas temperaturas do motor de corrente contínua
+
+Zumbido constante e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas rotações do motor de indução
+
+Ruído vibrante e excessivo no motor de corrente alternada durante a partida a quente
+
+Zumbido agudo e irritante em situações de baixa voltagem do motor principal
+
+Barulho estridente de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído constante e perturbador no motor de indução em situações de alta carga
+
+Zumbido anormal proveniente do motor elétrico durante a desaceleração brusca
+
+Barulho desconfortável de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e excessivo no motor de corrente alternada em situações de carga variável
+
+Zumbido agudo e incômodo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em altas rotações
+
+Ruído vibrante e desconfortável no motor de indução durante a partida a frio
+
+Zumbido constante e fora do comum no motor elétrico em situações de carga pesada
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído agudo e excessivo proveniente do motor principal durante a aceleração suave
+
+Zumbido anormal e irritante em situações de baixa voltagem do motor de corrente alternada
+
+Barulho desconfortável de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído constante e perturbador no motor de indução em situações de alta carga
+
+Zumbido agudo e excessivo proveniente do motor elétrico durante a desaceleração brusca
+
+Barulho estridente de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e incomum no motor de corrente alternada em situações de carga variável
+
+Zumbido agudo proveniente do motor principal em aceleração suave
+
+Barulho irritante de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução em altas rotações
+
+Zumbido anormal e perturbador no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e irritante no motor de corrente alternada durante a desaceleração
+
+Zumbido agudo e excessivo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em aceleração suave
+
+Ruído desconfortável de zumbido em altas temperaturas do motor de corrente contínua
+
+Zumbido constante e fora do comum no motor elétrico em situações de carga leve
+
+Barulho incômodo de zumbido em altas rotações do motor de indução
+
+Ruído vibrante e excessivo no motor de corrente alternada durante a partida a quente
+
+Zumbido agudo e irritante em situações de baixa voltagem do motor principal
+
+Barulho estridente de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído constante e perturbador no motor de indução em situações de alta carga
+
+Zumbido anormal proveniente do motor elétrico durante a desaceleração brusca
+
+Barulho desconfortável de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e excessivo no motor de corrente alternada em situações de carga variável
+
+Zumbido agudo e incômodo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em altas rotações
+
+Ruído vibrante e desconfortável no motor de indução durante a partida a frio
+
+Zumbido constante e fora do comum no motor elétrico em situações de carga pesada
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído agudo e excessivo proveniente do motor principal durante a aceleração suave
+
+Zumbido anormal e irritante em situações de baixa voltagem do motor de corrente alternada
+
+Barulho desconfortável de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído constante e perturbador no motor de indução em situações de alta carga
+
+Zumbido agudo e excessivo proveniente do motor elétrico durante a desaceleração brusca
+
+Barulho estridente de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e incomum no motor de corrente alternada em situações de carga variável
+
+Zumbido agudo proveniente do motor principal em aceleração suave
+
+Barulho irritante de zumbido em baixas temperaturas do motor de corrente contínua
+
+Ruído vibrante e excessivo no motor de indução em altas rotações
+
+Zumbido anormal e perturbador no motor elétrico em situações de carga variável
+
+Barulho incômodo de zumbido em altas temperaturas do motor de corrente contínua
+
+Ruído constante e irritante no motor de corrente alternada durante a desaceleração
+
+Zumbido agudo e excessivo em situações de baixa carga do motor principal
+
+Barulho estridente proveniente do motor de corrente alternada em aceleração suave
+
+Ruído desconfortável de zumbido em altas temperaturas do motor de corrente contínua

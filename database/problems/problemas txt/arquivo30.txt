@@ -1,0 +1,50 @@
+Vazamento contínuo em válvula borboleta
+Problema de escape persistente em válvula borboleta
+Vazamento constante em uma válvula borboleta
+Problema de perda de fluido em válvula borboleta
+Vazamento ininterrupto em válvula de borboleta
+Problema de vazão indesejada em válvula borboleta
+Vazamento persistente em uma válvula borboleta
+Problema de escape contínuo em válvula de borboleta
+Vazamento constante de fluido em válvula borboleta
+Problema de perda de pressão em válvula borboleta
+Vazamento interminável em válvula de borboleta
+Problema de fluxo indesejado em válvula borboleta
+Vazamento contínuo em uma válvula borboleta de controle
+Problema de escape persistente em válvula borboleta de controle
+Vazamento constante em uma válvula borboleta de vedação
+Problema de perda de fluido em válvula borboleta de vedação
+Vazamento ininterrupto em válvula de borboleta de controle
+Problema de vazão indesejada em válvula borboleta de controle
+Vazamento persistente em uma válvula borboleta de isolamento
+Problema de escape contínuo em válvula de borboleta de isolamento
+Vazamento constante de fluido em válvula borboleta de vedação
+Problema de perda de pressão em válvula borboleta de vedação
+Vazamento interminável em válvula de borboleta de controle de fluxo
+Problema de fluxo indesejado em válvula borboleta de controle de fluxo
+Vazamento contínuo em uma válvula borboleta de segurança
+Problema de escape persistente em válvula borboleta de segurança
+Vazamento constante em uma válvula borboleta de bloqueio
+Problema de perda de fluido em válvula borboleta de bloqueio
+Vazamento ininterrupto em válvula de borboleta de controle de fluxo de gás
+Problema de vazão indesejada em válvula borboleta de controle de fluxo de gás
+Vazamento persistente em uma válvula borboleta de controle de pressão
+Problema de escape contínuo em válvula de borboleta de controle de pressão
+Vazamento constante de fluido em válvula borboleta de bloqueio
+Problema de perda de pressão em válvula borboleta de bloqueio
+Vazamento interminável em válvula de borboleta de controle de fluxo de líquido
+Problema de fluxo indesejado em válvula borboleta de controle de fluxo de líquido
+Vazamento contínuo em uma válvula borboleta de retenção
+Problema de escape persistente em válvula borboleta de retenção
+Vazamento constante em uma válvula borboleta de segurança
+Problema de perda de fluido em válvula borboleta de segurança
+Vazamento ininterrupto em válvula de borboleta de controle de fluxo de vapor
+Problema de vazão indesejada em válvula borboleta de controle de fluxo de vapor
+Vazamento persistente em uma válvula borboleta de controle de temperatura
+Problema de escape contínuo em válvula de borboleta de controle de temperatura
+Vazamento constante de fluido em válvula borboleta de retenção
+Problema de perda de pressão em válvula borboleta de retenção
+Vazamento interminável em válvula de borboleta de controle de fluxo de ar
+Problema de fluxo indesejado em válvula borboleta de controle de fluxo de ar
+Vazamento contínuo em uma válvula borboleta de controle de nível
+Problema de escape persistente em válvula borboleta de controle de nível

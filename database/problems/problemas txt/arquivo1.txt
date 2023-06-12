@@ -1,0 +1,448 @@
+A bomba está superaquecendo.
+A bomba apresenta temperatura elevada.
+A bomba está esquentando demais.
+O motor da bomba está superaquecido.
+A bomba está piscando e emitindo calor excessivo.
+A temperatura da bomba está anormalmente alta.
+A bomba está aquecendo além do normal.
+A bomba está com temperatura acima dos limites.
+A bomba está emitindo calor excessivo e luzes piscando.
+A temperatura da bomba está fora do controle.
+A bomba está superaquecendo e as luzes estão piscando intermitentemente.
+A bomba está com problema de superaquecimento e sinais visuais de alerta.
+A bomba está com temperatura muito elevada e luzes indicadoras piscando.
+A bomba apresenta superaquecimento e luzes de aviso intermitentes.
+Há superaquecimento na bomba e luzes de advertência estão piscando.
+A temperatura da bomba está subindo rapidamente e luzes piscando.
+A bomba está superaquecendo, com sinais luminosos intermitentes.
+A temperatura da bomba está fora do controle, com luzes piscando.
+A bomba está quente demais e as luzes estão piscando constantemente.
+A temperatura da bomba está alta, com indicadores luminosos piscando em sequência.
+A bomba está com excesso de calor, com luzes indicadoras intermitentes.
+A bomba está superaquecendo, com luzes de advertência piscando repetidamente.
+A temperatura da bomba está além dos limites e as luzes estão piscando de forma intermitente.
+A bomba está com aquecimento excessivo, acompanhado de luzes de alerta piscando.
+A bomba está com problema de superaquecimento, luzes piscando e aumento da temperatura.
+A temperatura da bomba está muito alta, com luzes indicadoras piscando rapidamente.
+A bomba está aquecendo anormalmente, com luzes piscando em padrão específico.
+A bomba está superaquecendo e apresentando sinais visuais de alerta, como luzes intermitentes.
+A temperatura da bomba está elevada, com luzes piscando em sequência específica.
+A bomba está com aquecimento excessivo, acompanhado de luzes de aviso piscando em intervalos regulares.
+A bomba está superaquecendo, com luzes indicadoras intermitentes e aumento de temperatura.
+A temperatura da bomba está fora dos parâmetros normais, com luzes piscando de maneira irregular.
+A bomba está com problema de superaquecimento, com luzes piscando em padrão específico e temperatura crescente.
+A temperatura da bomba está muito alta, com luzes indicadoras piscando em ritmo acelerado.
+A bomba está aquecendo anormalmente, com luzes piscando em sequência específica e temperatura aumentando.
+A bomba está superaquecendo e apresentando sinais visuais de alerta, como luzes intermitentes e aumento significativo da temperatura.
+A temperatura da bomba está elevada, com luzes piscando em sequência específica e ritmo constante.
+A bomba está com aquecimento excessivo, acompanhado de luzes de aviso piscando em intervalos regulares e temperatura em constante aumento.
+A bomba está superaquecendo, com luzes indicadoras intermitentes e aumento progressivo de temperatura além dos valores aceitáveis.
+A temperatura da bomba está fora dos parâmetros normais, com luzes piscando de maneira irregular e aquecimento cada vez mais intenso.
+A bomba está com problema de superaquecimento, com luzes piscando em padrão específico, temperatura crescente e risco de falha no sistema.
+A temperatura da bomba está muito alta, com luzes indicadoras piscando em ritmo acelerado e risco iminente de danos irreversíveis.
+A bomba está aquecendo anormalmente, com luzes piscando em sequência específica, aumento significativo da temperatura e possível falha iminente.
+A bomba está superaquecendo e apresentando sinais visuais de alerta, como luzes intermitentes, temperatura elevada e risco iminente de queima.
+A temperatura da bomba está elevada, com luzes piscando em sequência específica, ritmo constante e risco de falha catastrófica.
+A bomba está com aquecimento excessivo, acompanhado de luzes de aviso piscando em intervalos regulares, temperatura em constante aumento e perigo iminente.
+A bomba está superaquecendo, com luzes indicadoras intermitentes, aumento progressivo de temperatura além dos valores aceitáveis e risco grave de avaria no sistema.
+A temperatura da bomba está fora dos parâmetros normais, com luzes piscando de maneira irregular, aquecimento cada vez mais intenso e iminência de colapso do equipamento.
+A bomba está com problema de superaquecimento, com luzes piscando em padrão específico, temperatura crescente, risco de falha no sistema e necessidade de intervenção imediata.
+A temperatura da bomba está muito alta, com luzes indicadoras piscando em ritmo acelerado, risco iminente de danos irreversíveis e necessidade urgente de resfriamento e reparo.
+Bomba superaquecendo durante a operação
+
+Luzes piscando na bomba
+
+Bomba apresentando superaquecimento e falhas intermitentes
+
+Problemas de temperatura elevada na bomba
+
+Bomba quente e luzes piscando
+
+Aquecimento excessivo e piscar de luzes na bomba
+
+Bomba aquecendo demais e apresentando luzes intermitentes
+
+Superaquecimento e piscar de luzes em bombas industriais
+
+Bomba operando com temperatura elevada e luzes piscando
+
+Problemas de aquecimento e luzes intermitentes na bomba
+
+Bomba esquentando demasiadamente e apresentando piscar de luzes
+
+Bomba com temperatura alta e luzes piscando constantemente
+
+Superaquecimento e luzes intermitentes em bombas de grande porte
+
+Bomba industrial muito quente e com luzes piscando
+
+Falhas de temperatura e luzes intermitentes na bomba
+
+Bomba superaquecida e piscando luzes de advertência
+
+Bomba apresentando superaquecimento e luzes indicadoras piscando
+
+Problemas de aquecimento excessivo e luzes intermitentes na bomba
+
+Bomba com temperatura elevada e luzes piscando em sequência
+
+Superaquecimento e luzes piscando constantemente na bomba
+
+Bomba esquentando demais e apresentando piscar de luzes intermitente
+
+Bomba com temperatura alta e luzes piscando de maneira intermitente
+
+Aquecimento excessivo e luzes intermitentes em bombas industriais
+
+Bomba operando com temperatura elevada e luzes piscando intermitentemente
+
+Problemas de superaquecimento e luzes piscando na bomba
+
+Bomba muito quente e luzes de advertência piscando
+
+Bomba industrial com superaquecimento e luzes piscando em sequência
+
+Superaquecimento e luzes intermitentes em bombas de grande porte
+
+Bomba superaquecida e luzes indicadoras piscando em intervalos regulares
+
+Problemas de aquecimento excessivo e luzes piscando intermitentemente na bomba
+
+Bomba esquentando demais e luzes piscando em sequência
+
+Bomba com temperatura alta e luzes de advertência piscando constantemente
+
+Aquecimento excessivo e luzes intermitentes em bombas de alta potência
+
+Bomba operando com temperatura elevada e luzes piscando em padrões irregulares
+
+Problemas de superaquecimento e luzes piscando aleatoriamente na bomba
+
+Bomba muito quente e luzes de advertência piscando em intervalos regulares
+
+Bomba industrial com superaquecimento e luzes piscando de maneira intermitente
+
+Superaquecimento e luzes intermitentes em bombas de grande capacidade
+
+Bomba superaquecida e luzes indicadoras piscando constantemente
+
+Problemas de aquecimento excessivo e luzes piscando em sequência na bomba
+
+Bomba esquentando demais e luzes piscando em ritmo acelerado
+
+Bomba com temperatura alta e luzes de advertência piscando aleatoriamente
+
+Aquecimento excessivo e luzes intermitentes em bombas de médio porte
+
+Bomba operando com temperatura elevada e luzes piscando de forma irregular
+
+Problemas de superaquecimento e luzes piscando de maneira intermitente na bomba
+
+Bomba muito quente e luzes de advertência piscando em padrões regulares
+
+Bomba industrial com superaquecimento e luzes piscando em sequência
+
+Superaquecimento e luzes intermitentes em bombas de alto desempenho
+
+Bomba superaquecida e luzes indicadoras piscando em ritmo constante
+
+Problemas de aquecimento excessivo e luzes piscando aleatoriamente na bomba
+
+Bomba esquentando demais e luzes piscando em ritmo acelerado e irregular
+
+Bomba com temperatura alta e luzes de advertência piscando de forma intermitente
+
+Aquecimento excessivo e luzes intermitentes em bombas de pequeno porte
+
+Bomba operando com temperatura elevada e luzes piscando em padrões irregulares
+
+Problemas de superaquecimento e luzes piscando de maneira intermitente e aleatória na bomba
+
+Bomba muito quente e luzes de advertência piscando em ritmo constante
+
+Bomba industrial com superaquecimento e luzes piscando em sequência e aleatoriamente
+
+Superaquecimento e luzes intermitentes em bombas de alta performance
+
+Bomba superaquecida e luzes indicadoras piscando em ritmo acelerado
+
+Problemas de aquecimento excessivo e luzes piscando de forma irregular e aleatória na bomba
+
+Bomba esquentando demais e apresentando piscar rápido e intermitente de luzes
+
+Bomba com temperatura alta e luzes de advertência piscando em sequência
+
+Aquecimento excessivo e luzes intermitentes em bombas de diferentes capacidades
+
+Bomba operando com temperatura elevada e luzes piscando em padrões regulares
+
+Problemas de superaquecimento e luzes piscando de maneira intermitente e acelerada na bomba
+
+Bomba muito quente e luzes de advertência piscando constantemente em ritmo acelerado
+
+Bomba industrial com superaquecimento e luzes piscando em sequência e aleatoriamente
+
+Superaquecimento e luzes intermitentes em bombas de alto rendimento
+
+Bomba superaquecida e luzes indicadoras piscando rapidamente em ritmo constante
+
+Problemas de aquecimento excessivo e luzes piscando de forma irregular e acelerada na bomba
+
+Bomba esquentando demais e apresentando piscar rápido e intermitente de luzes de advertência
+
+Bomba com temperatura alta e luzes de advertência piscando em sequência de maneira irregular
+
+Aquecimento excessivo e luzes intermitentes em bombas de diversos tamanhos
+
+Bomba operando com temperatura elevada e luzes piscando em ritmo irregular
+
+Problemas de superaquecimento e luzes piscando de maneira intermitente e acelerada em diferentes contextos
+
+Bomba muito quente e luzes de advertência piscando constantemente em ritmo acelerado e aleatório
+
+Bomba industrial com superaquecimento e luzes piscando em sequência e aleatoriamente em cenários variados
+
+Superaquecimento e luzes intermitentes em bombas de alta eficiência
+
+Bomba superaquecida e luzes indicadoras piscando rapidamente em ritmo constante e em diferentes situações
+
+Problemas de aquecimento excessivo e luzes piscando de forma irregular e acelerada em múltiplos ambientes
+
+Bomba esquentando demais e apresentando piscar rápido e intermitente de luzes de advertência em diferentes ocasiões
+
+Bomba com temperatura alta e luzes de advertência piscando em sequência de maneira irregular e imprevisível
+
+Aquecimento excessivo e luzes intermitentes em bombas de variados modelos e marcas
+
+Bomba operando com temperatura elevada e luzes piscando em ritmo irregular e inconstante
+
+Problemas de superaquecimento e luzes piscando de maneira intermitente e acelerada em várias situações e condições
+
+Bomba muito quente e luzes de advertência piscando constantemente em ritmo acelerado e aleatório em diferentes contextos
+
+Bomba industrial com superaquecimento e luzes piscando em sequência e aleatoriamente em diferentes cenários e aplicações
+
+Superaquecimento e luzes intermitentes em bombas de alta eficiência e performance
+
+Bomba superaquecida e luzes indicadoras piscando rapidamente em ritmo constante e em diferentes situações e ambientes
+
+Problemas de aquecimento excessivo e luzes piscando de forma irregular e acelerada em vários contextos e configurações
+
+Bomba esquentando demais e apresentando piscar rápido e intermitente de luzes de advertência em diversas ocorrências
+
+Bomba com temperatura alta e luzes de advertência piscando em sequência de maneira irregular e imprevisível em várias situações
+
+Aquecimento excessivo e luzes intermitentes em bombas de diferentes tipos e especificações técnicas
+
+Bomba operando com temperatura elevada e luzes piscando em ritmo irregular e inconstante em múltiplos cenários
+
+Problemas de superaquecimento e luzes piscando de maneira intermitente e acelerada em várias situações e condições operacionais
+
+Bomba muito quente e luzes de advertência piscando constantemente em ritmo acelerado e aleatório em diferentes contextos e aplicações
+
+Bomba industrial com superaquecimento e luzes piscando em sequência e aleatoriamente em diferentes cenários e setores industriais
+
+Superaquecimento e luzes intermitentes em bombas de alta eficiência e desempenho em múltiplos ambientes
+
+Bomba superaquecida e luzes indicadoras piscando rapidamente em ritmo constante e em diferentes situações e configurações
+
+Problemas de aquecimento excessivo e luzes piscando de forma irregular e acelerada em várias situações e configurações de operação
+Problema de vazamento de fluido na bomba
+
+Baixo fluxo de líquido na bomba
+
+Ruídos estranhos durante a operação da bomba
+
+Falha na partida da bomba
+
+Bomba não está produzindo pressão adequada
+
+Obstrução no sistema de bombeamento
+
+Desgaste excessivo nas peças da bomba
+
+Vibração anormal na bomba
+
+Falta de manutenção regular na bomba
+
+Ineficiência energética da bomba
+
+Problema de cavitacão na bomba
+
+Altos níveis de ruído e vibração na bomba
+
+Falta de lubrificação adequada na bomba
+
+Problema de selagem na bomba
+
+Bomba está consumindo muita energia
+
+Perda de eficiência no bombeamento
+
+Problema de corrosão na bomba
+
+Oscilação de pressão na bomba
+
+Baixa vida útil das peças da bomba
+
+Falta de resfriamento adequado da bomba
+
+Problema de sobrecarga na bomba
+
+Desalinhamento das partes da bomba
+
+Instalação incorreta da bomba
+
+Falta de pressurização na bomba
+
+Problema de cavitação e vibração na bomba
+
+Contaminação no fluido bombeado pela bomba
+
+Falha no sistema de controle da bomba
+
+Baixo rendimento da bomba
+
+Problema de entupimento na bomba
+
+Desequilíbrio de carga na bomba
+
+Problema de desgaste prematuro nas peças da bomba
+
+Dificuldade na partida da bomba
+
+Problema de superaquecimento no motor da bomba
+
+Flutuações de pressão na bomba
+
+Bomba está apresentando vazamentos de ar
+
+Problema de ressonância na bomba
+
+Problema de cavitacão e desgaste na bomba
+
+Válvulas defeituosas na bomba
+
+Problema de sobrecarga elétrica na bomba
+
+Problema de compatibilidade química na bomba
+
+Problema de falta de priming na bomba
+
+Instabilidade do fluxo na bomba
+
+Problema de obstrução na entrada da bomba
+
+Vazamento de óleo na bomba
+
+Problema de perda de potência na bomba
+
+Falta de sincronismo na operação da bomba
+
+Problema de oxidação na bomba
+
+Infiltração de ar no sistema de bombeamento
+
+Problema de pressurização inadequada na bomba
+
+Problema de desalinhamento do eixo da bomba
+
+Problema de falta de aderência da bomba ao eixo do motor
+
+Válvula de retenção defeituosa na bomba
+
+Problema de falha no sistema de acoplamento da bomba
+
+Desempenho insatisfatório da bomba em altas temperaturas
+
+Problema de falha no sistema de refrigeração da bomba
+
+Desalinhamento da bomba com o sistema de tubulação
+
+Problema de desgaste na vedação da bomba
+
+Bomba está operando em velocidade anormalmente alta
+
+Problema de falta de selagem adequada na bomba
+
+Problema de falha no sistema de filtragem da bomba
+
+Problema de falha no sistema de monitoramento da bomba
+
+Desempenho inconstante da bomba em diferentes cargas
+
+Problema de vibração excessiva na bomba
+
+Falta de manutenção preventiva na bomba
+
+Problema de falha no sistema de controle de temperatura da bomba
+
+Desgaste prematuro do rotor da bomba
+
+Problema de incompatibilidade de materiais na bomba
+
+Falha na vedação das conexões da bomba
+
+Problema de excesso de ruído durante a operação da bomba
+
+Problema de vazamento no sistema de tubulação da bomba
+
+Desempenho ineficiente da bomba em baixas temperaturas
+
+Problema de falta de proteção contra sobrecarga na bomba
+
+Dificuldade na recalibração do sistema de pressão da bomba
+
+Problema de desgaste do diafragma da bomba
+
+Falta de estabilidade no fluxo de bombeamento da bomba
+
+Problema de falha no sistema de monitoramento de vazão da bomba
+
+Problema de oxidação e corrosão nas partes internas da bomba
+
+Dificuldade na detecção de falhas no sistema de controle da bomba
+
+Problema de falha no sistema de lubrificação da bomba
+
+Desempenho insatisfatório da bomba em altas pressões
+
+Problema de desgaste do impulsor da bomba
+
+Dificuldade na detecção de vazamentos na bomba
+
+Problema de falha no sistema de proteção contra curto-circuito da bomba
+
+Falta de resposta adequada da bomba às mudanças de demanda
+
+Problema de desalinhamento do motor com a bomba
+
+Desempenho inconstante da bomba em diferentes viscosidades de fluido
+
+Problema de falha no sistema de acionamento da bomba
+
+Vida útil reduzida das peças da bomba devido à falta de lubrificação
+
+Problema de desgaste da carcaça da bomba
+
+Problema de falha no sistema de controle de velocidade da bomba
+
+Problema de falha no sistema de monitoramento de temperatura da bomba
+
+Desempenho ineficiente da bomba em diferentes altitudes
+
+Problema de obstrução no sistema de filtragem da bomba
+
+Falta de resposta adequada da bomba às mudanças de carga
+
+Problema de desalinhamento da bomba com as especificações do sistema
+
+Desgaste prematuro do eixo da bomba
+
+Problema de falha no sistema de proteção contra sobreaquecimento da bomba
+
+Dificuldade na detecção de falhas no sistema de controle de pressão da bomba
+
+Problema de vazamento no sistema de vedação da bomba
+
+Desempenho insatisfatório da bomba em altas cargas

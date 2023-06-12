@@ -1,0 +1,398 @@
+Ruído de clique regular no motor durante a partida
+
+Clique constante no motor elétrico
+
+Barulho de clique em intervalos regulares no motor
+
+Ruído de clique rítmico no motor principal
+
+Motor elétrico emitindo cliques regulares
+
+Clique repetitivo no motor de corrente alternada
+
+Barulho de clique constante no motor de indução
+
+Ruído de clique periódico no motor de corrente contínua
+
+Cliques regulares no motor durante a operação em baixas rotações
+
+Barulho de clique rítmico no motor de alta velocidade
+
+Ruído de clique em padrão regular no motor
+
+Cliques audíveis em intervalos regulares no motor elétrico
+
+Clique constante e repetitivo no motor principal
+
+Barulho de clique periódico no motor de indução
+
+Ruído de clique regular no motor de corrente contínua
+
+Cliques audíveis em sequência no motor durante a partida
+
+Clique rítmico e constante no motor de alta potência
+
+Ruído de clique em padrão regular no motor de corrente alternada
+
+Barulho de clique repetitivo no motor durante a aceleração
+
+Cliques audíveis em padrão regular no motor em velocidades variáveis
+
+Clique constante e rítmico no motor elétrico durante a desaceleração
+
+Ruído de clique periódico no motor de corrente contínua em situações de carga leve
+
+Cliques audíveis em intervalos regulares no motor de baixa potência
+
+Barulho de clique rítmico no motor principal em condições de alta temperatura
+
+Ruído de clique regular no motor de indução em situações de alta carga
+
+Clique constante e repetitivo no motor de corrente alternada em velocidades baixas
+
+Barulho de clique periódico no motor de corrente contínua em situações de alta carga
+
+Cliques audíveis em sequência no motor elétrico durante a operação em temperaturas elevadas
+
+Ruído de clique em padrão regular no motor de alta potência
+
+Clique rítmico e constante no motor de corrente alternada em situações de baixa voltagem
+
+Cliques audíveis em padrão regular no motor durante a partida a quente
+
+Barulho de clique repetitivo no motor de indução em situações de carga pesada
+
+Ruído de clique periódico no motor de corrente contínua em condições de baixa voltagem
+
+Cliques audíveis em intervalos regulares no motor de alta velocidade
+
+Clique constante e rítmico no motor elétrico em situações de baixa carga
+
+Ruído de clique regular no motor principal durante a aceleração brusca
+
+Barulho de clique periódico no motor de corrente alternada em situações de alta carga
+
+Cliques audíveis em sequência no motor de corrente contínua durante a partida a frio
+
+Clique rítmico e constante no motor elétrico em situações de alta voltagem
+
+Ruído de clique em padrão regular no motor de indução em situações de carga variável
+
+Barulho de clique repetitivo no motor de corrente contínua em velocidades baixas
+
+Cliques audíveis em intervalos regulares no motor principal em situações de alta temperatura
+
+Clique constante e rítmico no motor de corrente alternada durante a desaceleração suave
+
+Ruído de clique periódico no motor elétrico em situações de baixa voltagem
+
+Cliques audíveis em padrão regular no motor de alta potência
+
+Barulho de clique repetitivo no motor de indução em condições de alta carga
+
+Ruído de clique regular no motor de corrente contínua durante a partida a quente
+
+Clique rítmico e constante no motor principal em situações de baixa carga
+
+Cliques audíveis em sequência no motor elétrico em situações de alta voltagem
+
+Barulho de clique periódico no motor de corrente alternada em velocidades baixas
+
+Clique constante e rítmico no motor de corrente contínua em situações de carga leve
+
+Ruído de clique em padrão regular no motor de indução em situações de alta carga
+
+Cliques audíveis em intervalos regulares no motor de corrente contínua em situações de baixa carga
+
+Barulho de clique repetitivo no motor elétrico durante a aceleração brusca
+
+Ruído de clique periódico no motor principal em situações de alta voltagem
+
+Clique constante e rítmico no motor de corrente alternada durante a partida a frio
+
+Cliques audíveis em sequência no motor de alta potência em situações de carga variável
+
+Barulho de clique repetitivo no motor de indução em velocidades baixas
+
+Ruído de clique regular no motor de corrente contínua em situações de alta temperatura
+
+Clique rítmico e constante no motor elétrico em condições de baixa voltagem
+
+Cliques audíveis em padrão regular no motor principal em situações de alta carga
+
+Barulho de clique periódico no motor de corrente alternada durante a desaceleração suave
+
+Ruído de clique em padrão regular no motor elétrico em situações de baixa carga
+
+Clique constante e rítmico no motor de corrente contínua em situações de alta temperatura
+
+Cliques audíveis em intervalos regulares no motor de alta potência
+
+Barulho de clique repetitivo no motor de indução em situações de baixa voltagem
+
+Ruído de clique regular no motor de corrente contínua durante a partida a quente
+
+Clique rítmico e constante no motor principal em situações de alta carga
+
+Cliques audíveis em sequência no motor elétrico em velocidades baixas
+
+Barulho de clique periódico no motor de corrente alternada em situações de carga leve
+
+Clique constante e rítmico no motor de corrente contínua em situações de alta voltagem
+
+Ruído de clique em padrão regular no motor de indução durante a partida a frio
+
+Cliques audíveis em intervalos regulares no motor elétrico em situações de baixa temperatura
+
+Barulho de clique repetitivo no motor principal em condições de alta carga
+
+Ruído de clique periódico no motor de corrente contínua em situações de baixa carga
+
+Clique constante e rítmico no motor de corrente alternada em situações de alta temperatura
+
+Cliques audíveis em sequência no motor de alta potência em situações de carga variável
+
+Barulho de clique repetitivo no motor de indução em situações de alta voltagem
+
+Ruído de clique regular no motor de corrente contínua em velocidades baixas
+
+Clique rítmico e constante no motor elétrico em situações de baixa carga
+
+Cliques audíveis em padrão regular no motor principal em situações de alta temperatura
+
+Barulho de clique periódico no motor de corrente alternada durante a desaceleração brusca
+
+Ruído de clique em padrão regular no motor elétrico em situações de carga leve
+
+Clique constante e rítmico no motor de corrente contínua em situações de alta voltagem
+
+Cliques audíveis em intervalos regulares no motor de alta potência
+
+Barulho de clique repetitivo no motor de indução em situações de baixa carga
+
+Ruído de clique regular no motor de corrente contínua durante a partida a quente
+
+Clique rítmico e constante no motor principal em situações de alta carga
+
+Cliques audíveis em sequência no motor elétrico em velocidades baixas
+
+Barulho de clique periódico no motor de corrente alternada em situações de baixa temperatura
+
+Clique constante e rítmico no motor de corrente contínua em situações de carga leve
+
+Ruído de clique em padrão regular no motor de indução durante a partida a frio
+
+Cliques audíveis em intervalos regulares no motor elétrico em situações de alta carga
+
+Barulho de clique repetitivo no motor principal em condições de baixa carga
+
+Ruído de clique periódico no motor de corrente contínua em situações de alta temperatura
+
+Clique constante e rítmico no motor de corrente alternada em situações de baixa voltagem
+
+Cliques audíveis em sequência no motor de alta potência em situações de carga variável
+
+Barulho de clique repetitivo no motor de indução em velocidades baixas
+
+Ruído de clique regular no motor de corrente contínua em situações de baixa voltagem
+
+Clique rítmico e constante no motor elétrico em situações de alta temperatura
+Ruído de clique constante no motor de corrente alternada
+
+Barulho de clique periódico no motor durante a operação em altas temperaturas
+
+Cliques audíveis em sequência no motor elétrico em situações de carga variável
+
+Clique rítmico e constante no motor de indução em baixas rotações
+
+Ruído de clique regular no motor de corrente contínua durante a aceleração brusca
+
+Clique constante e repetitivo no motor principal em situações de alta carga
+
+Barulho de clique periódico no motor de indução em altas voltagens
+
+Cliques audíveis em padrão regular no motor elétrico em situações de baixa carga
+
+Ruído de clique constante no motor de corrente contínua durante a partida a frio
+
+Clique rítmico e constante no motor de corrente alternada em situações de alta temperatura
+
+Ruído de clique regular no motor principal em baixas rotações
+
+Barulho de clique periódico no motor de corrente contínua durante a desaceleração
+
+Cliques audíveis em sequência no motor elétrico em altas voltagens
+
+Clique constante e repetitivo no motor de indução em situações de baixa carga
+
+Ruído de clique constante no motor de corrente alternada durante a partida a quente
+
+Barulho de clique periódico no motor de corrente contínua em situações de alta carga
+
+Cliques audíveis em padrão regular no motor principal em altas temperaturas
+
+Clique rítmico e constante no motor elétrico em baixas rotações
+
+Ruído de clique regular no motor de corrente alternada durante a aceleração brusca
+
+Clique constante e repetitivo no motor de indução em situações de alta voltagem
+
+Barulho de clique periódico no motor de corrente contínua durante a desaceleração suave
+
+Cliques audíveis em sequência no motor elétrico em situações de baixa carga
+
+Ruído de clique constante no motor principal em altas voltagens
+
+Clique rítmico e constante no motor de corrente alternada em situações de alta carga
+
+Barulho de clique periódico no motor de corrente contínua em baixas rotações
+
+Cliques audíveis em padrão regular no motor elétrico em situações de alta temperatura
+
+Ruído de clique regular no motor de indução durante a partida a quente
+
+Clique constante e repetitivo no motor de corrente alternada em situações de baixa voltagem
+
+Barulho de clique periódico no motor de corrente contínua em altas rotações
+
+Cliques audíveis em sequência no motor principal em situações de carga variável
+
+Clique rítmico e constante no motor elétrico em altas temperaturas
+
+Ruído de clique constante no motor de corrente alternada durante a desaceleração
+
+Barulho de clique periódico no motor de corrente contínua em situações de alta voltagem
+
+Cliques audíveis em padrão regular no motor de indução em situações de baixa carga
+
+Clique constante e repetitivo no motor principal em altas rotações
+
+Ruído de clique regular no motor elétrico em situações de baixa voltagem
+
+Barulho de clique periódico no motor de corrente alternada durante a partida a frio
+
+Cliques audíveis em sequência no motor de corrente contínua em situações de alta temperatura
+
+Clique rítmico e constante no motor de indução em baixas cargas
+
+Ruído de clique constante no motor principal em situações de alta carga
+
+Barulho de clique periódico no motor de corrente contínua em altas temperaturas
+
+Cliques audíveis em padrão regular no motor elétrico em situações de carga leve
+
+Clique constante e repetitivo no motor de corrente alternada em situações de alta voltagem
+
+Ruído de clique regular no motor de indução durante a partida a quente
+
+Barulho de clique periódico no motor de corrente contínua em baixas cargas
+
+Cliques audíveis em sequência no motor principal em situações de alta temperatura
+
+Clique rítmico e constante no motor elétrico em situações de baixa voltagem
+
+Ruído de clique constante no motor de corrente alternada durante a aceleração brusca
+
+Barulho de clique periódico no motor de corrente contínua em situações de carga leve
+
+Cliques audíveis em padrão regular no motor de indução em altas cargas
+
+Clique constante e repetitivo no motor principal em baixas temperaturas
+
+Ruído de clique regular no motor elétrico em situações de alta carga
+
+Barulho de clique periódico no motor de corrente alternada durante a desaceleração suave
+
+Cliques audíveis em sequência no motor de corrente contínua em situações de baixa voltagem
+
+Clique rítmico e constante no motor de indução em altas temperaturas
+
+Ruído de clique constante no motor principal em baixas cargas
+
+Barulho de clique periódico no motor de corrente contínua em situações de alta voltagem
+
+Cliques audíveis em padrão regular no motor elétrico durante a partida a quente
+
+Clique constante e repetitivo no motor de corrente alternada em situações de carga leve
+
+Ruído de clique regular no motor de indução em altas rotações
+
+Barulho de clique periódico no motor de corrente contínua em situações de baixa temperatura
+
+Cliques audíveis em sequência no motor principal em situações de alta voltagem
+
+Clique rítmico e constante no motor elétrico em baixas temperaturas
+
+Ruído de clique constante no motor de corrente alternada durante a aceleração brusca
+
+Barulho de clique periódico no motor de corrente contínua em situações de carga variável
+
+Cliques audíveis em padrão regular no motor de indução em situações de baixa voltagem
+
+Clique constante e repetitivo no motor principal em altas temperaturas
+
+Ruído de clique regular no motor elétrico em situações de baixa carga
+
+Barulho de clique periódico no motor de corrente alternada durante a partida a frio
+
+Cliques audíveis em sequência no motor de corrente contínua em altas cargas
+
+Clique rítmico e constante no motor de indução em situações de alta voltagem
+
+Ruído de clique constante no motor principal em baixas rotações
+
+Barulho de clique periódico no motor de corrente contínua em situações de alta temperatura
+
+Cliques audíveis em padrão regular no motor elétrico em situações de carga leve
+
+Clique constante e repetitivo no motor de corrente alternada em situações de baixa carga
+
+Ruído de clique regular no motor de indução durante a partida a quente
+
+Barulho de clique periódico no motor de corrente contínua em altas voltagens
+
+Cliques audíveis em sequência no motor principal em situações de alta carga
+
+Clique rítmico e constante no motor elétrico em baixas rotações
+
+Ruído de clique constante no motor de corrente alternada durante a desaceleração
+
+Barulho de clique periódico no motor de corrente contínua em situações de alta voltagem
+
+Cliques audíveis em padrão regular no motor de indução em situações de baixa carga
+
+Clique constante e repetitivo no motor principal em altas temperaturas
+
+Ruído de clique regular no motor elétrico em situações de baixa voltagem
+
+Barulho de clique periódico no motor de corrente contínua durante a partida a frio
+
+Cliques audíveis em sequência no motor de corrente alternada em situações de alta temperatura
+
+Clique rítmico e constante no motor de indução em baixas rotações
+
+Ruído de clique constante no motor principal em situações de alta carga
+
+Barulho de clique periódico no motor de corrente contínua em baixas temperaturas
+
+Cliques audíveis em padrão regular no motor elétrico em situações de carga variável
+
+Clique constante e repetitivo no motor de corrente alternada em altas rotações
+
+Ruído de clique regular no motor de indução em situações de baixa voltagem
+
+Barulho de clique periódico no motor principal durante a aceleração brusca
+
+Cliques audíveis em sequência no motor elétrico em situações de alta carga
+
+Clique rítmico e constante no motor de corrente contínua em baixas temperaturas
+
+Ruído de clique constante no motor de corrente alternada em situações de alta voltagem
+
+Barulho de clique periódico no motor de indução em altas temperaturas
+
+Cliques audíveis em padrão regular no motor principal em situações de baixa carga
+
+Clique constante e repetitivo no motor elétrico em altas rotações
+
+Ruído de clique regular no motor de corrente contínua durante a desaceleração suave

@@ -1,0 +1,398 @@
+Disparo magnético involuntário
+
+Disjuntor disparando sem motivo aparente
+
+Problemas com o sistema de disparo magnético
+
+Disparo magnético incorreto do disjuntor
+
+Disjuntor com falha no disparo magnético
+
+Disparo magnético intermitente do disjuntor
+
+Disjuntor que dispara com corrente abaixo do limite
+
+Problemas de sensibilidade no disparo magnético
+
+Disjuntor com disparo magnético excessivo
+
+Falha no ajuste do disparo magnético do disjuntor
+
+Disparo magnético prematuro do disjuntor
+
+Disjuntor que dispara mesmo sem corrente de carga
+
+Problemas no circuito de disparo magnético
+
+Disparo magnético inconsistente do disjuntor
+
+Disjuntor com sensibilidade excessiva no disparo magnético
+
+Disparo magnético do disjuntor em momentos de alta corrente
+
+Disjuntor que não dispara mesmo com corrente acima do limite
+
+Problemas de ajuste no disparo magnético do disjuntor
+
+Disjuntor com disparo magnético aleatório
+
+Falha no mecanismo de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em casos de sobrecarga
+
+Disjuntor que dispara mesmo com corrente dentro dos limites
+
+Problemas de calibração no disparo magnético
+
+Disparo magnético do disjuntor durante transientes de corrente
+
+Disjuntor com disparo magnético inconsistente
+
+Disparo magnético em momentos de alta corrente de partida
+
+Disjuntor que não dispara mesmo com corrente anormal
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disjuntor com disparo magnético intempestivo
+
+Falha no circuito de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em casos de curto-circuito
+
+Disjuntor que dispara mesmo com corrente abaixo do limite mínimo
+
+Problemas de ajuste fino no disparo magnético
+
+Disparo magnético em momentos de pico de corrente
+
+Disjuntor com disparo magnético imprevisível
+
+Disparo magnético em correntes de inrush
+
+Disjuntor que não dispara mesmo com corrente acima do limite máximo
+
+Problemas de detecção no disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em situações de alta demanda
+
+Falha no mecanismo de liberação magnética do disjuntor
+
+Disparo magnético do disjuntor em casos de sobretensão
+
+Disjuntor que dispara mesmo sem presença de corrente
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disparo magnético em correntes transitórias
+
+Disjuntor com disparo magnético excessivo em picos de corrente
+
+Disparo magnético do disjuntor em correntes desbalanceadas
+
+Disjuntor que não dispara mesmo com corrente anormal de curto-circuito
+
+Problemas de tempo de resposta no disparo magnético
+
+Disparo magnético do disjuntor em situações de baixa demanda
+
+Falha no circuito de liberação magnética do disjuntor
+
+Disparo magnético do disjuntor em casos de subtensão
+
+Disjuntor que dispara mesmo com corrente dentro dos limites permitidos
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disparo magnético em correntes de falha à terra
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos
+
+Disparo magnético do disjuntor em correntes harmônicas
+
+Disjuntor que não dispara mesmo com corrente anormal de sobrecarga
+
+Problemas de sensibilidade no disparo magnético em baixas correntes
+
+Disparo magnético do disjuntor em situações de alta tensão
+
+Falha no mecanismo de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em casos de sobrecorrente
+
+Disjuntor que dispara mesmo sem corrente de carga conectada
+
+Problemas de calibração no disparo magnético do disjuntor
+
+Disparo magnético em correntes intermitentes
+
+Disjuntor com disparo magnético excessivo em condições normais
+
+Disparo magnético do disjuntor em correntes de curto-circuito
+
+Disjuntor que não dispara mesmo com corrente acima do limite nominal
+
+Problemas de sensibilidade no disparo magnético em altas correntes
+
+Disparo magnético do disjuntor em situações de baixa tensão
+
+Falha no circuito de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em casos de sobretemperatura
+
+Disjuntor que dispara mesmo com corrente abaixo do limite mínimo permitido
+
+Problemas de ajuste no disparo magnético do disjuntor
+
+Disparo magnético em correntes transitórias de partida de motores
+
+Disjuntor com disparo magnético excessivo em condições de carga normal
+
+Disparo magnético do disjuntor em correntes desequilibradas
+
+Disjuntor que não dispara mesmo com corrente anormal de falta à terra
+
+Problemas de sensibilidade no disparo magnético em baixas correntes de falha
+
+Disparo magnético do disjuntor em situações de alta temperatura
+
+Falha no mecanismo de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em casos de sobrecarga prolongada
+
+Disjuntor que dispara mesmo com corrente dentro dos limites aceitáveis
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disparo magnético em correntes transitórias de pico
+
+Disjuntor com disparo magnético excessivo em correntes desbalanceadas
+
+Disparo magnético do disjuntor em correntes harmônicas de alto conteúdo
+
+Disjuntor que não dispara mesmo com corrente anormal de sobretensão
+
+Problemas de sensibilidade no disparo magnético em altas correntes de falha
+
+Disparo magnético do disjuntor em situações de baixa temperatura
+
+Falha no circuito de liberação magnética do disjuntor
+
+Disparo magnético do disjuntor em casos de subtensão prolongada
+
+Disjuntor que dispara mesmo sem corrente conectada
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disparo magnético em correntes transitórias de falha à terra
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos persistentes
+
+Disparo magnético do disjuntor em correntes harmônicas de baixo conteúdo
+
+Disjuntor que não dispara mesmo com corrente anormal de falta à terra persistente
+
+Problemas de sensibilidade no disparo magnético em baixas correntes de sobretensão
+
+Disparo magnético do disjuntor em situações de alta temperatura ambiente
+
+Falha no mecanismo de disparo magnético em subtensão do disjuntor
+Disparo magnético em correntes transitórias de pico
+
+Disjuntor com disparo magnético excessivo em condições anormais
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disparo magnético em correntes harmônicas de alto conteúdo
+
+Disjuntor que não dispara mesmo com corrente anormal de sobretensão
+
+Falha no circuito de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em correntes de falha à terra
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos
+
+Problemas de tempo de resposta no disparo magnético
+
+Disparo magnético do disjuntor em situações de baixa demanda
+
+Disparo magnético em correntes transitórias de partida de motores
+
+Disjuntor que não dispara mesmo com corrente acima do limite nominal
+
+Problemas de sensibilidade no disparo magnético em altas correntes
+
+Disparo magnético do disjuntor em situações de baixa tensão
+
+Falha no mecanismo de disparo magnético do disjuntor
+
+Disparo magnético do disjuntor em casos de sobrecarga prolongada
+
+Disjuntor que dispara mesmo com corrente dentro dos limites permitidos
+
+Problemas de calibração no disparo magnético do disjuntor
+
+Disparo magnético em correntes de falta à terra
+
+Disjuntor com disparo magnético excessivo em condições normais
+
+Disparo magnético do disjuntor em correntes desequilibradas
+
+Disjuntor que não dispara mesmo com corrente anormal de falta à terra
+
+Problemas de sensibilidade no disparo magnético em baixas correntes de falha
+
+Disparo magnético do disjuntor em situações de alta temperatura
+
+Falha no circuito de liberação magnética do disjuntor
+
+Disparo magnético do disjuntor em casos de subtensão prolongada
+
+Disjuntor que dispara mesmo sem corrente conectada
+
+Problemas de sensibilidade no disparo magnético do disjuntor
+
+Disparo magnético em correntes transitórias de falha à terra
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos persistentes
+
+Disparo magnético do disjuntor em correntes harmônicas de baixo conteúdo
+
+Disjuntor que não dispara mesmo com corrente anormal de sobretensão persistente
+
+Problemas de sensibilidade no disparo magnético em baixas correntes de sobretensão
+
+Disparo magnético do disjuntor em situações de alta temperatura ambiente
+
+Falha no mecanismo de disparo magnético em subtensão do disjuntor
+
+Disparo magnético do disjuntor em casos de sobrecorrente prolongada
+
+Disjuntor que dispara mesmo com corrente dentro dos limites nominais
+
+Problemas de calibração no disparo magnético do disjuntor
+
+Disparo magnético em correntes de falta à terra persistente
+
+Disjuntor com disparo magnético excessivo em condições de operação normais
+
+Disparo magnético do disjuntor em correntes desequilibradas persistentes
+
+Disjuntor que não dispara mesmo com corrente anormal de falta à terra persistente
+
+Problemas de sensibilidade no disparo magnético em baixas correntes de falha persistente
+
+Disparo magnético do disjuntor em situações de alta temperatura prolongada
+
+Falha no circuito de liberação magnética do disjuntor em casos de sobretensão
+
+Disparo magnético do disjuntor em correntes transitórias de pico persistente
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos prolongados
+
+Problemas de tempo de resposta no disparo magnético do disjuntor em altas correntes
+
+Disparo magnético em correntes harmônicas de alto conteúdo persistente
+
+Disjuntor que não dispara mesmo com corrente anormal de sobretensão prolongada
+
+Problemas de sensibilidade no disparo magnético em correntes transitórias de pico
+
+Disparo magnético do disjuntor em situações de baixa demanda persistente
+
+Falha no mecanismo de disparo magnético do disjuntor em sobretensão
+
+Disparo magnético do disjuntor em correntes de falha à terra persistente
+
+Disjuntor com disparo magnético excessivo em condições normais prolongadas
+
+Problemas de sensibilidade no disparo magnético do disjuntor em correntes desequilibradas
+
+Disparo magnético do disjuntor em situações de baixa tensão prolongada
+
+Falha no circuito de disparo magnético do disjuntor em casos de sobrecarga
+
+Disparo magnético em correntes transitórias de partida de motores prolongadas
+
+Disjuntor que não dispara mesmo com corrente acima do limite nominal persistente
+
+Problemas de sensibilidade no disparo magnético em altas correntes prolongadas
+
+Disparo magnético do disjuntor em situações de baixa tensão persistente
+
+Falha no mecanismo de disparo magnético do disjuntor em sobrecarga
+
+Disparo magnético do disjuntor em correntes de falha à terra prolongadas
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos persistentes prolongados
+
+Problemas de tempo de resposta no disparo magnético em correntes harmônicas de baixo conteúdo
+
+Disparo magnético do disjuntor em situações de alta temperatura prolongada
+
+Falha no circuito de liberação magnética do disjuntor em casos de subtensão
+
+Disparo magnético em correntes transitórias de pico persistentes
+
+Disjuntor que não dispara mesmo com corrente anormal de sobretensão prolongada persistente
+
+Problemas de sensibilidade no disparo magnético em correntes de falta à terra persistentes
+
+Disparo magnético do disjuntor em situações de baixa demanda prolongada persistente
+
+Falha no mecanismo de disparo magnético do disjuntor em subtensão
+
+Disparo magnético do disjuntor em correntes desequilibradas prolongadas
+
+Disjuntor com disparo magnético excessivo em condições normais prolongadas persistente
+
+Problemas de sensibilidade no disparo magnético em correntes transitórias de partida de motores
+
+Disparo magnético do disjuntor em situações de baixa tensão prolongada persistente
+
+Falha no circuito de disparo magnético do disjuntor em sobrecarga persistente
+
+Disparo magnético em correntes de falha à terra persistente
+
+Disjuntor que não dispara mesmo com corrente acima do limite nominal prolongado
+
+Problemas de sensibilidade no disparo magnético em altas correntes prolongadas persistente
+
+Disparo magnético do disjuntor em situações de baixa tensão persistente persistente
+
+Falha no mecanismo de disparo magnético do disjuntor em sobretensão persistente
+
+Disparo magnético do disjuntor em correntes de falha à terra prolongadas persistente
+
+Disjuntor com disparo magnético excessivo em curtos-circuitos persistentes prolongados persistente
+
+Problemas de tempo de resposta no disparo magnético em correntes harmônicas de baixo conteúdo persistente
+
+Disparo magnético do disjuntor em situações de alta temperatura prolongada persistente persistente
+
+Falha no circuito de liberação magnética do disjuntor em casos de subtensão persistente
+
+Disparo magnético em correntes transitórias de pico persistentes persistente
+
+Disjuntor que não dispara mesmo com corrente anormal de sobretensão prolongada persistente persistente
+
+Problemas de sensibilidade no disparo magnético em correntes de falta à terra persistentes persistente
+
+Disparo magnético do disjuntor em situações de baixa demanda prolongada persistente persistente
+
+Falha no mecanismo de disparo magnético do disjuntor em subtensão persistente
+
+Disparo magnético do disjuntor em correntes desequilibradas prolongadas persistente
+
+Disjuntor com disparo magnético excessivo em condições normais prolongadas persistente persistente
+
+Problemas de sensibilidade no disparo magnético em correntes transitórias de partida de motores persistente
+
+Disparo magnético do disjuntor em situações de baixa tensão prolongada persistente persistente
+
+Falha no circuito de disparo magnético do disjuntor em sobrecarga persistente persistente
+
+Disparo magnético em correntes de falha à terra persistente persistente
+
+Disjuntor que não dispara mesmo com corrente acima do limite nominal prolongado persistente persistente

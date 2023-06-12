@@ -1,0 +1,398 @@
+Corrente de linha desequilibrada
+
+Desequilíbrio de corrente em motores elétricos
+
+Problema de desbalanceamento de corrente em motores polifásicos
+
+Corrente desigual entre fases do motor elétrico
+
+Corrente desbalanceada em motores trifásicos
+
+Desequilíbrio de corrente durante a operação do motor
+
+Motores elétricos com corrente de linha não uniforme
+
+Variação de corrente entre as fases do motor
+
+Corrente desproporcional em motores de múltiplas fases
+
+Problema de corrente assimétrica em motores elétricos
+
+Desvio de corrente em motores polifásicos
+
+Corrente de linha não balanceada em motores elétricos
+
+Diferença de corrente entre as fases do motor
+
+Corrente desigual durante o funcionamento do motor elétrico
+
+Problema de corrente desequilibrada em motores de várias fases
+
+Variação de intensidade de corrente em motores trifásicos
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico
+
+Motores elétricos com corrente de linha não homogênea
+
+Flutuação de corrente entre as fases do motor
+
+Corrente assimétrica em motores de múltiplas fases
+
+Problema de corrente desproporcional em motores elétricos
+
+Desvio de corrente em motores polifásicos durante a operação
+
+Corrente de linha não uniforme em motores elétricos
+
+Diferença de corrente entre as fases do motor durante a operação
+
+Corrente desigual em motores elétricos durante o funcionamento
+
+Problema de corrente desbalanceada em motores de várias fases
+
+Variação de intensidade de corrente em motores trifásicos durante a operação
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico
+
+Motores elétricos com corrente de linha não homogênea durante a operação
+
+Flutuação de corrente entre as fases do motor durante o funcionamento
+
+Corrente assimétrica em motores de múltiplas fases durante a operação
+
+Problema de corrente desproporcional em motores elétricos polifásicos
+
+Desvio de corrente em motores polifásicos durante a operação normal
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento
+
+Diferença de corrente entre as fases do motor elétrico durante a operação normal
+
+Corrente desigual em motores elétricos polifásicos durante a operação
+
+Problema de corrente desbalanceada em motores de várias fases durante a operação normal
+
+Variação de intensidade de corrente em motores trifásicos durante o funcionamento
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico
+
+Motores elétricos com corrente de linha não homogênea durante a operação normal
+
+Flutuação de corrente entre as fases do motor elétrico durante o funcionamento normal
+
+Corrente assimétrica em motores de múltiplas fases durante a operação normal
+
+Problema de corrente desproporcional em motores elétricos polifásicos durante a operação
+
+Desvio de corrente em motores polifásicos durante a operação normal do motor
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento normal
+
+Diferença de corrente entre as fases do motor elétrico durante a operação normal do motor
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal
+
+Problema de corrente desbalanceada em motores de várias fases durante o funcionamento
+
+Variação de intensidade de corrente em motores trifásicos durante a operação normal
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico
+
+Motores elétricos com corrente de linha não homogênea durante o funcionamento normal
+
+Flutuação de corrente entre as fases do motor elétrico durante a operação normal do motor
+
+Corrente assimétrica em motores de múltiplas fases durante a operação normal do motor
+
+Problema de corrente desproporcional em motores elétricos polifásicos durante a operação normal
+
+Desvio de corrente em motores polifásicos durante a operação normal do motor elétrico
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento normal do motor
+
+Diferença de corrente entre as fases do motor elétrico durante a operação normal do motor
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal do motor
+
+Problema de corrente desbalanceada em motores de várias fases durante o funcionamento normal
+
+Variação de intensidade de corrente em motores trifásicos durante a operação normal do motor
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico em situações específicas
+
+Motores elétricos com corrente de linha não homogênea durante o funcionamento normal em circunstâncias específicas
+
+Flutuação de corrente entre as fases do motor elétrico durante o funcionamento normal do motor em casos particulares
+
+Corrente assimétrica em motores de múltiplas fases durante a operação normal do motor em determinados momentos
+
+Problema de corrente desproporcional em motores elétricos polifásicos durante a operação normal em situações específicas
+
+Desvio de corrente em motores polifásicos durante a operação normal do motor elétrico em condições particulares
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento normal do motor em casos específicos
+
+Diferença de corrente entre as fases do motor elétrico durante a operação normal do motor em situações particulares
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal do motor em determinadas condições
+
+Problema de corrente desbalanceada em motores de várias fases durante o funcionamento normal em circunstâncias específicas
+
+Variação de intensidade de corrente em motores trifásicos durante a operação normal do motor em casos particulares
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico em situações específicas de carga
+
+Motores elétricos com corrente de linha não homogênea durante o funcionamento normal em circunstâncias específicas de operação
+
+Flutuação de corrente entre as fases do motor elétrico durante o funcionamento normal do motor em casos particulares de carga
+
+Corrente assimétrica em motores de múltiplas fases durante a operação normal do motor em determinados momentos de carga
+
+Problema de corrente desproporcional em motores elétricos polifásicos durante a operação normal em situações específicas de carga
+
+Desvio de corrente em motores polifásicos durante a operação normal do motor elétrico em condições particulares de carga
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento normal do motor em casos específicos de carga
+
+Diferença de corrente entre as fases do motor elétrico durante a operação normal do motor em situações particulares de carga
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal do motor em determinadas condições de carga
+
+Problema de corrente desbalanceada em motores de várias fases durante o funcionamento normal em circunstâncias específicas de carga
+
+Variação de intensidade de corrente em motores trifásicos durante a operação normal do motor em casos particulares de carga
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico em situações específicas de operação e carga
+
+Motores elétricos com corrente de linha não homogênea durante o funcionamento normal em circunstâncias específicas de operação e carga
+
+Flutuação de corrente entre as fases do motor elétrico durante o funcionamento normal do motor em casos particulares de operação e carga
+
+Corrente assimétrica em motores de múltiplas fases durante a operação normal do motor em determinados momentos de operação e carga
+
+Problema de corrente desproporcional em motores elétricos polifásicos durante a operação normal em situações específicas de operação e carga
+
+Desvio de corrente em motores polifásicos durante a operação normal do motor elétrico em condições particulares de operação e carga
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento normal do motor em casos específicos de operação e carga
+
+Diferença de corrente entre as fases do motor elétrico durante a operação normal do motor em situações particulares de operação e carga
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal do motor em determinadas condições de operação e carga
+
+Problema de corrente desbalanceada em motores de várias fases durante o funcionamento normal em circunstâncias específicas de operação e carga
+
+Variação de intensidade de corrente em motores trifásicos durante a operação normal do motor em casos particulares de operação e carga
+
+Desequilíbrio de corrente durante a operação normal do motor elétrico polifásico em situações específicas de manutenção
+
+Motores elétricos com corrente de linha não homogênea durante o funcionamento normal em circunstâncias específicas de manutenção
+
+Flutuação de corrente entre as fases do motor elétrico durante o funcionamento normal do motor em casos particulares de manutenção
+
+Corrente assimétrica em motores de múltiplas fases durante a operação normal do motor em determinados momentos de manutenção
+
+Problema de corrente desproporcional em motores elétricos polifásicos durante a operação normal em situações específicas de manutenção
+
+Desvio de corrente em motores polifásicos durante a operação normal do motor elétrico em condições particulares de manutenção
+
+Corrente de linha não uniforme em motores elétricos durante o funcionamento normal do motor em casos específicos de manutenção
+Variação excessiva de corrente em motores elétricos polifásicos durante a operação normal
+
+Problemas de corrente desequilibrada em motores de múltiplas fases durante a operação normal
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal
+
+Desequilíbrio de corrente em motores elétricos polifásicos sob carga normal
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal sob carga
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal sob carga
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob carga
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal sob carga
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal sob carga
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal sob carga
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal sob carga
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal sob carga
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal sob carga
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal sob carga pesada
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal sob carga pesada
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal sob carga extrema
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal sob carga extrema
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal sob condições adversas
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal sob condições adversas
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal em circunstâncias especiais
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal em circunstâncias especiais
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal em ambientes adversos
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal em ambientes adversos
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal em condições extremas
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal em condições extremas
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal em situações críticas
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal em situações críticas
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Corrente desigual em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Problemas de corrente desbalanceada em motores de múltiplas fases durante a operação normal em circunstâncias desafiadoras
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Instabilidade na corrente de linha em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Flutuações de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Corrente de linha assimétrica em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Desequilíbrio de carga em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Problemas de corrente em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Corrente de linha não uniforme em motores elétricos polifásicos durante a operação normal em circunstâncias desafiadoras
+
+Desequilíbrio de corrente em motores elétricos polifásicos durante a operação normal em ambientes críticos

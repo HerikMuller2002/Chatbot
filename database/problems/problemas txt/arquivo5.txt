@@ -1,0 +1,50 @@
+A bomba não está funcionando corretamente
+Falta de fluxo de água da bomba
+Ausência de abastecimento de água pela bomba
+A bomba não está bombando água
+Problema de fornecimento de água da bomba
+Não há água saindo da bomba
+Falha no bombeamento de água pela bomba
+Inoperância da bomba em fornecer água
+Nenhum fluxo de água gerado pela bomba
+A bomba não está entregando água como deveria
+Problemas de abastecimento de água relacionados à bomba
+Fluxo de água insuficiente da bomba
+A bomba não está puxando água
+Ausência de água sendo bombeada pela bomba
+Falta de pressão de água gerada pela bomba
+A bomba não está conseguindo extrair água
+Problemas de fornecimento de água potável da bomba
+A bomba não está jogando água
+Falta de vazão de água da bomba
+A bomba não está conseguindo distribuir água
+Problemas de sucção de água pela bomba
+A bomba não está liberando água
+Falta de abastecimento de água potável pela bomba
+A bomba não está funcionando para fornecer água
+Problemas de pressurização de água relacionados à bomba
+A bomba não está conseguindo bombear água adequadamente
+Falta de água sendo bombeada pela bomba
+A bomba não está gerando água como esperado
+Problemas de alimentação de água da bomba
+A bomba não está conseguindo extrair água do reservatório
+Nenhum fluxo de água produzido pela bomba
+A bomba não está conseguindo entregar água suficiente
+Problemas de circulação de água relacionados à bomba
+A bomba não está jogando água para fora
+Falta de abastecimento de água da bomba
+A bomba não está conseguindo bombear água com eficiência
+Problemas de distribuição de água relacionados à bomba
+A bomba não está captando água
+Falta de vazão de água gerada pela bomba
+A bomba não está fornecendo água de forma adequada
+Problemas de sucção de água pela bomba
+A bomba não está liberando água corretamente
+Falta de abastecimento de água limpa pela bomba
+A bomba não está operando para fornecer água
+Problemas de pressurização de água relacionados à bomba
+A bomba não está conseguindo bombear água de maneira eficiente
+Falta de água sendo bombeada pela bomba
+A bomba não está gerando água conforme o esperado
+Problemas de alimentação de água da bomba
+A bomba não está conseguindo extrair água do poço

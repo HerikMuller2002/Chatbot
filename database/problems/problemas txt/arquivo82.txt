@@ -1,0 +1,398 @@
+O motor liga, mas desliga em seguida
+
+Funcionamento intermitente do motor elétrico
+
+Motor operando por alguns instantes e depois parando
+
+O motor elétrico para de funcionar após alguns segundos
+
+Partida do motor seguida de desligamento repentino
+
+Motor inicializa e em seguida se desliga automaticamente
+
+Problema com o motor que para de operar subitamente
+
+Motor funcionando por curtos períodos e depois morrendo
+
+O motor elétrico liga brevemente e em seguida para
+
+Falha no motor após iniciar o funcionamento
+
+Motor elétrico desliga sozinho após alguns momentos
+
+Inicialização do motor e parada inesperada em sequência
+
+O motor opera brevemente antes de morrer
+
+Problema de funcionamento intermitente no motor
+
+Motor elétrico que liga e depois para de funcionar
+
+Motor iniciando e em seguida parando sem motivo aparente
+
+O motor funciona por um curto período e em seguida para
+
+Desligamento automático do motor após a partida
+
+Motor elétrico que para de operar após breve funcionamento
+
+O motor liga e imediatamente para de funcionar
+
+Motor iniciando e depois desligando sem razão aparente
+
+Problema com o motor que funciona e em seguida morre
+
+Motor elétrico parando logo após a inicialização
+
+Desligamento repentino do motor após a partida
+
+O motor funciona por instantes e depois se desliga
+
+Motor elétrico que não se mantém em funcionamento
+
+Motor ligando e desligando rapidamente
+
+Partida do motor seguida de paralisação imediata
+
+Motor elétrico que para de trabalhar após breves momentos
+
+O motor liga, mas cessa o funcionamento logo em seguida
+
+Funcionamento instável do motor elétrico
+
+Motor que entra em operação e depois pára
+
+Motor elétrico que desliga após breve período
+
+Problema com o motor que inicia e em seguida morre
+
+Motor que funciona brevemente antes de parar
+
+Motor elétrico que não se mantém ligado
+
+Motor ligando por alguns segundos e depois desligando
+
+Partida do motor seguida de interrupção imediata
+
+Motor elétrico que para de operar após curto tempo
+
+O motor funciona por um momento e depois para
+
+O motor liga, mas logo se desliga
+
+Funcionamento irregular do motor elétrico
+
+Motor iniciando e depois parando de repente
+
+Motor elétrico que desliga logo após a partida
+
+O motor funciona por instantes e depois para de funcionar
+
+Motor que liga e imediatamente para de operar
+
+Problema com o motor que funciona e depois morre
+
+Motor elétrico que para de trabalhar após breve funcionamento
+
+Motor ligando e desligando em curtos intervalos
+
+Partida do motor seguida de paralisação repentina
+
+Motor elétrico que não se mantém em funcionamento constante
+
+Motor iniciando e depois desligando de maneira inesperada
+
+Motor que funciona e em seguida para de operar
+
+Motor elétrico que para logo após a inicialização
+
+O motor liga por alguns momentos e depois se desliga
+
+Motor elétrico que não permanece ligado
+
+Motor ligando por breves segundos e depois desligando
+
+Partida do motor seguida de interrupção imediata do funcionamento
+
+Motor elétrico que para de operar após curto período de tempo
+
+O motor funciona por um instante e depois para
+
+O motor liga, mas para logo em seguida
+
+Funcionamento instável do motor elétrico
+
+Motor que inicia e depois para subitamente
+
+Motor elétrico que desliga após breve período de funcionamento
+
+O motor funciona por instantes e depois cessa a operação
+
+Motor que liga e imediatamente para de funcionar
+
+Problema com o motor que funciona e depois para
+
+Motor elétrico que para de trabalhar após breve período
+
+Motor ligando e desligando rapidamente
+
+Partida do motor seguida de paralisação imediata
+
+Motor elétrico que não se mantém em funcionamento contínuo
+
+Motor iniciando e depois desligando abruptamente
+
+Motor que funciona brevemente antes de desligar
+
+Motor elétrico que para logo após a inicialização
+
+O motor liga por alguns momentos e em seguida para de funcionar
+
+Motor elétrico que não permanece em operação
+
+Motor ligando por breves instantes e depois desligando
+
+Partida do motor seguida de interrupção imediata da operação
+
+Motor elétrico que para de trabalhar após curto tempo de funcionamento
+
+O motor funciona por um breve instante e depois para
+
+O motor liga, mas logo se desliga automaticamente
+
+Funcionamento irregular do motor elétrico
+
+Motor que inicia e depois para subitamente
+
+Motor elétrico que desliga após breve funcionamento
+
+O motor funciona por instantes e depois cessa o funcionamento
+
+Motor que liga e imediatamente para de operar
+
+Problema com o motor que funciona por algum tempo e em seguida para
+
+Motor elétrico que para de trabalhar após curto período
+
+Motor ligando e desligando em intervalos curtos
+
+Partida do motor seguida de paralisação imediata da operação
+
+Motor elétrico que não se mantém em funcionamento estável
+
+Motor iniciando e depois desligando inesperadamente
+
+Motor que opera brevemente antes de parar
+
+Motor elétrico que para logo após a partida
+
+O motor liga por alguns instantes e depois se desliga
+
+Motor elétrico que não permanece ligado continuamente
+
+Motor ligando por curtos segundos e depois desligando
+
+Partida do motor seguida de interrupção imediata do funcionamento
+
+Motor elétrico que para de operar após curto tempo
+
+O motor funciona por um momento e depois para
+O motor liga, mas logo desliga
+
+Motor elétrico que funciona intermitentemente
+
+Partida do motor seguida de parada abrupta
+
+O motor não se mantém em operação contínua
+
+Problema com o motor que inicia e para imediatamente
+
+O motor para de funcionar após breve período de operação
+
+Motor elétrico que falha logo após a partida
+
+Funcionamento instável do motor após a partida
+
+Motor que liga e desliga repetidamente
+
+O motor funciona por alguns instantes e depois morre
+
+Motor elétrico que desliga após curto tempo de operação
+
+Motor iniciando e depois parando repentinamente
+
+Motor que funciona intermitentemente antes de parar
+
+Partida do motor seguida de paralisação prematura
+
+Motor elétrico que para de operar após curto período
+
+O motor liga, mas para logo em seguida
+
+Problema com o motor que não se mantém ligado
+
+Motor funcionando e depois desligando de forma inesperada
+
+Motor elétrico que para após breve funcionamento
+
+O motor liga por alguns momentos e depois para de operar
+
+Motor elétrico que não permanece em funcionamento estável
+
+Motor iniciando e parando subitamente
+
+Motor que funciona brevemente antes de desligar
+
+Partida do motor seguida de interrupção súbita da operação
+
+Motor elétrico que para de trabalhar após curto tempo
+
+O motor liga por um breve instante e depois para
+
+Motor que inicia e logo para de funcionar
+
+Motor elétrico que desliga após curto período de funcionamento
+
+Problema com o motor que liga e imediatamente para
+
+Motor funcionando por um momento e depois parando
+
+O motor liga, mas em seguida desliga automaticamente
+
+Motor elétrico com operação irregular
+
+Motor que inicia e depois para subitamente
+
+Motor elétrico que para de funcionar após breve operação
+
+O motor liga por instantes e depois cessa a operação
+
+Motor que liga e imediatamente para de funcionar
+
+Problema com o motor que funciona por algum tempo e depois para
+
+Motor elétrico que para de trabalhar após curto período
+
+Motor ligando e desligando em intervalos curtos
+
+Partida do motor seguida de paralisação imediata da operação
+
+Motor elétrico que não se mantém em funcionamento estável
+
+Motor iniciando e depois desligando inesperadamente
+
+Motor que opera brevemente antes de parar
+
+Motor elétrico que para logo após a partida
+
+O motor liga por alguns instantes e depois se desliga
+
+Motor elétrico que não permanece ligado continuamente
+
+Motor ligando por curtos segundos e depois desligando
+
+Partida do motor seguida de interrupção imediata do funcionamento
+
+Motor elétrico que para após curto período de operação
+
+O motor inicia brevemente e depois para de operar
+
+Motor que funciona por um breve momento e depois morre
+
+Motor elétrico que para de trabalhar após curta duração
+
+Motor ligando e logo desligando repetidamente
+
+Motor que não se mantém em funcionamento constante
+
+O motor liga e imediatamente para de funcionar
+
+Motor elétrico que desliga após breve funcionamento
+
+Motor iniciando e depois parando abruptamente
+
+Motor que opera intermitentemente antes de parar
+
+Motor elétrico que para logo após a partida
+
+O motor liga por alguns instantes e depois para de operar
+
+Motor elétrico que não permanece em funcionamento contínuo
+
+Motor ligando e desligando após curto tempo
+
+Motor que funciona por breves momentos e depois para
+
+Motor elétrico com funcionamento instável
+
+O motor liga, mas logo em seguida para de operar
+
+Motor iniciando e parando logo após
+
+Motor que para de funcionar depois de breve operação
+
+Motor elétrico que não se mantém ligado
+
+Problema com o motor que liga e para rapidamente
+
+Motor funcionando e depois desligando de maneira repentina
+
+O motor liga por um breve instante e depois cessa a operação
+
+Motor elétrico que para após breve período de funcionamento
+
+Motor que inicia e logo em seguida para de funcionar
+
+Motor elétrico que desliga após curto tempo de trabalho
+
+O motor liga, mas em seguida para automaticamente
+
+Motor iniciando e parando subitamente
+
+Motor que para de funcionar depois de breve tempo
+
+Motor elétrico que não permanece em funcionamento estável
+
+Motor ligando e desligando após breve uso
+
+Partida do motor seguida de paralisação imediata da operação
+
+Motor elétrico que para de trabalhar após curto período
+
+Motor que funciona por um momento e depois para
+
+O motor liga, mas logo desliga
+
+Motor elétrico que funciona intermitentemente
+
+Partida do motor seguida de parada abrupta
+
+O motor não se mantém em operação contínua
+
+Problema com o motor que inicia e para imediatamente
+
+Funcionamento instável do motor após a partida
+
+Motor que liga e desliga repetidamente
+
+O motor funciona por alguns instantes e depois morre
+
+Motor elétrico que falha logo após a partida
+
+Funcionamento intermitente do motor após a partida
+
+Motor que liga e depois desliga subitamente
+
+O motor para de funcionar após curto período de operação
+
+Motor elétrico que para após breve funcionamento
+
+Motor iniciando e depois parando repentinamente
+
+Motor que funciona brevemente antes de desligar
+
+Partida do motor seguida de paralisação prematura
+
+Motor elétrico que para de operar após curto tempo
+
+O motor liga por alguns momentos e depois para de operar

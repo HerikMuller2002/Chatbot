@@ -1,0 +1,299 @@
+Fumaça saindo do circuito dielétrico
+Presença de fumaça no equipamento dielétrico
+Problema de fumaça no circuito isolante
+Fumaça excessiva no sistema dielétrico
+Circuito dielétrico emitindo fumaça anormal
+Sinal de fumaça proveniente do circuito dielétrico
+Ocorrência de fumaça no componente dielétrico
+Fumaça detectada no equipamento com isolamento dielétrico
+Problema de fumaça comprometendo o circuito dielétrico
+Fumaça saindo do dispositivo de isolamento dielétrico
+Indicação de fumaça no circuito dielétrico
+Fumaça proveniente do isolamento dielétrico
+Fumaça anormal no equipamento de circuito dielétrico
+Sinais de fumaça indicando falha no isolamento dielétrico
+Presença de fumaça prejudicando o circuito dielétrico
+Problema de fumaça afetando o isolamento dielétrico
+Fumaça emitida pelo circuito de isolamento dielétrico
+Fumaça excessiva proveniente do componente dielétrico
+Identificação de fumaça no sistema dielétrico
+Fumaça visível no circuito dielétrico
+Fumaça anormal detectada no equipamento com dielétrico
+Fumaça saindo do circuito isolante dielétrico
+Sinais de fumaça comprometendo o circuito dielétrico
+Fumaça no dispositivo de isolamento dielétrico
+Fumaça indicativa de problema no equipamento dielétrico
+Presença de fumaça prejudicando o isolamento dielétrico
+Problema de fumaça afetando o circuito isolante dielétrico
+Fumaça visível proveniente do componente dielétrico
+Identificação de fumaça no sistema de isolamento dielétrico
+Fumaça anormal no circuito dielétrico do equipamento
+Fumaça saindo do circuito isolador dielétrico
+Sinais de fumaça prejudicando o circuito dielétrico
+Fumaça proveniente do isolador dielétrico
+Fumaça anormal no equipamento com isolante dielétrico
+Presença de fumaça indicando falha no circuito dielétrico
+Problema de fumaça afetando o isolador dielétrico
+Fumaça emitida pelo circuito isolador dielétrico
+Fumaça excessiva proveniente do componente isolante dielétrico
+Identificação de fumaça no sistema isolante dielétrico
+Fumaça visível no circuito isolador dielétrico
+Fumaça anormal detectada no equipamento com dielétrico isolante
+Fumaça saindo do circuito de isolamento dielétrico
+Sinais de fumaça comprometendo o circuito isolador dielétrico
+Fumaça no dispositivo isolante dielétrico
+Fumaça indicativa de problema no equipamento com dielétrico
+Presença de fumaça prejudicando o isolador dielétrico
+Problema de fumaça afetando o circuito de isolamento dielétrico
+Fumaça visível proveniente do componente isolante dielétrico
+Identificação de fumaça no sistema de isolamento dielétrico
+Fumaça anormal no circuito de isolamento dielétrico do equipamento
+Fumaça saindo do isolador dielétrico
+Sinais de fumaça prejudicando o circuito isolador dielétrico
+Fumaça proveniente do isolador dielétrico do equipamento
+Fumaça anormal no equipamento com isolador dielétrico
+Presença de fumaça indicando falha no circuito de isolamento dielétrico
+Problema de fumaça afetando o isolador dielétrico do circuito
+Fumaça emitida pelo circuito de isolador dielétrico
+Fumaça excessiva proveniente do componente isolador dielétrico
+Identificação de fumaça no sistema de isolador dielétrico
+Fumaça visível no circuito de isolador dielétrico
+Fumaça anormal detectada no equipamento com isolador dielétrico
+Fumaça saindo do circuito isolador de dielétrico
+Sinais de fumaça comprometendo o circuito de isolador dielétrico
+Fumaça no dispositivo isolador de dielétrico
+Fumaça indicativa de problema no equipamento com isolador dielétrico
+Presença de fumaça prejudicando o circuito de isolador dielétrico
+Problema de fumaça afetando o circuito isolador de dielétrico
+Fumaça visível proveniente do componente isolador de dielétrico
+Identificação de fumaça no sistema de isolador dielétrico
+Fumaça anormal no circuito isolador de dielétrico do equipamento
+Fumaça saindo do isolador de dielétrico
+Sinais de fumaça prejudicando o circuito isolador de dielétrico
+Fumaça proveniente do isolador de dielétrico do equipamento
+Fumaça anormal no equipamento com isolador de dielétrico
+Presença de fumaça indicando falha no circuito de isolador dielétrico
+Problema de fumaça afetando o isolador de dielétrico do circuito
+Fumaça emitida pelo circuito de isolador de dielétrico
+Fumaça excessiva proveniente do componente isolador de dielétrico
+Identificação de fumaça no sistema de isolador de dielétrico
+Fumaça visível no circuito de isolador de dielétrico
+Fumaça anormal detectada no equipamento com isolador de dielétrico
+Fumaça saindo do circuito de dielétrico isolador
+Sinais de fumaça comprometendo o circuito de dielétrico isolador
+Fumaça no dispositivo de dielétrico isolador
+Fumaça indicativa de problema no equipamento com dielétrico isolador
+Presença de fumaça prejudicando o circuito de dielétrico isolador
+Problema de fumaça afetando o circuito de dielétrico isolador
+Fumaça visível proveniente do componente de dielétrico isolador
+Identificação de fumaça no sistema de dielétrico isolador
+Fumaça anormal no circuito de dielétrico isolador do equipamento
+Fumaça saindo do dielétrico isolador
+Sinais de fumaça prejudicando o circuito de dielétrico isolador
+Fumaça proveniente do dielétrico isolador do equipamento
+Fumaça anormal no equipamento com dielétrico isolador
+Presença de fumaça indicando falha no circuito de dielétrico isolador
+Problema de fumaça afetando o dielétrico isolador do circuito
+Fumaça emitida pelo circuito de dielétrico isolador
+Fumaça excessiva proveniente do componente de dielétrico isolador
+Identificação de fumaça no sistema de dielétrico isolador
+Fumaça visível no circuito de dielétrico isolador
+Fumaça excessiva no circuito isolante dielétrico
+
+Observando fumaça saindo do equipamento de dielétrico
+
+Problema de fumaça afetando o isolamento dielétrico
+
+Fumaça anormal detectada no circuito dielétrico do equipamento
+
+Fumaça visível proveniente do componente dielétrico
+
+Fumaça comprometendo o circuito de isolamento dielétrico
+
+Fumaça indicativa de falha no equipamento com dielétrico
+
+Presença de fumaça prejudicando o isolador dielétrico
+
+Identificação de fumaça no sistema de isolamento dielétrico
+
+Fumaça anormal no circuito de isolamento dielétrico do equipamento
+
+Fumaça saindo do isolador dielétrico
+
+Sinais de fumaça prejudicando o circuito isolador dielétrico
+
+Fumaça proveniente do isolador dielétrico do equipamento
+
+Fumaça anormal no equipamento com isolador dielétrico
+
+Presença de fumaça indicando problema no circuito dielétrico
+
+Problema de fumaça no circuito de isolador dielétrico
+
+Fumaça emitida pelo componente isolador dielétrico
+
+Fumaça excessiva proveniente do circuito de dielétrico isolante
+
+Identificação de fumaça no sistema de isolador dielétrico
+
+Fumaça visível no circuito de isolador dielétrico
+
+Fumaça anormal detectada no equipamento com isolador dielétrico
+
+Fumaça saindo do circuito isolador de dielétrico
+
+Sinais de fumaça comprometendo o circuito de isolador dielétrico
+
+Fumaça no dispositivo isolador de dielétrico
+
+Fumaça indicativa de problema no equipamento com isolador dielétrico
+
+Presença de fumaça prejudicando o circuito de isolador dielétrico
+
+Problema de fumaça afetando o circuito isolador de dielétrico
+
+Fumaça visível proveniente do componente isolador de dielétrico
+
+Identificação de fumaça no sistema de isolador dielétrico
+
+Fumaça anormal no circuito isolador de dielétrico do equipamento
+
+Fumaça saindo do isolador de dielétrico
+
+Sinais de fumaça prejudicando o circuito isolador de dielétrico
+
+Fumaça proveniente do isolador de dielétrico do equipamento
+
+Fumaça anormal no equipamento com isolador de dielétrico
+
+Presença de fumaça indicando falha no circuito de isolador dielétrico
+
+Problema de fumaça afetando o isolador de dielétrico do circuito
+
+Fumaça emitida pelo circuito de isolador de dielétrico
+
+Fumaça excessiva proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça visível no circuito de dielétrico isolante
+
+Fumaça anormal detectada no equipamento com dielétrico isolante
+
+Fumaça saindo do circuito de dielétrico isolante
+
+Sinais de fumaça comprometendo o circuito de dielétrico isolante
+
+Fumaça no dispositivo de dielétrico isolante
+
+Fumaça indicativa de problema no equipamento com dielétrico isolante
+
+Presença de fumaça prejudicando o circuito de dielétrico isolante
+
+Problema de fumaça afetando o circuito de dielétrico isolante
+
+Fumaça visível proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça anormal no circuito de dielétrico isolante do equipamento
+
+Fumaça saindo do dielétrico isolante
+
+Sinais de fumaça prejudicando o circuito de dielétrico isolante
+
+Fumaça proveniente do dielétrico isolante do equipamento
+
+Fumaça anormal no equipamento com dielétrico isolante
+
+Presença de fumaça indicando falha no circuito de dielétrico isolante
+
+Problema de fumaça afetando o dielétrico isolante do circuito
+
+Fumaça emitida pelo circuito de dielétrico isolante
+
+Fumaça excessiva proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça visível no circuito de dielétrico isolante
+
+Fumaça anormal detectada no equipamento com dielétrico isolante
+
+Fumaça saindo do circuito de dielétrico isolante
+
+Sinais de fumaça comprometendo o circuito de dielétrico isolante
+
+Fumaça no dispositivo de dielétrico isolante
+
+Fumaça indicativa de problema no equipamento com dielétrico isolante
+
+Presença de fumaça prejudicando o circuito de dielétrico isolante
+
+Problema de fumaça afetando o circuito de dielétrico isolante
+
+Fumaça visível proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça anormal no circuito de dielétrico isolante do equipamento
+
+Fumaça saindo do dielétrico isolante
+
+Sinais de fumaça prejudicando o circuito de dielétrico isolante
+
+Fumaça proveniente do dielétrico isolante do equipamento
+
+Fumaça anormal no equipamento com dielétrico isolante
+
+Presença de fumaça indicando falha no circuito de dielétrico isolante
+
+Problema de fumaça afetando o dielétrico isolante do circuito
+
+Fumaça emitida pelo circuito de dielétrico isolante
+
+Fumaça excessiva proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça visível no circuito de dielétrico isolante
+
+Fumaça anormal detectada no equipamento com dielétrico isolante
+
+Fumaça saindo do circuito de dielétrico isolante
+
+Sinais de fumaça comprometendo o circuito de dielétrico isolante
+
+Fumaça no dispositivo de dielétrico isolante
+
+Fumaça indicativa de problema no equipamento com dielétrico isolante
+
+Presença de fumaça prejudicando o circuito de dielétrico isolante
+
+Problema de fumaça afetando o circuito de dielétrico isolante
+
+Fumaça visível proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça anormal no circuito de dielétrico isolante do equipamento
+
+Fumaça saindo do dielétrico isolante
+
+Sinais de fumaça prejudicando o circuito de dielétrico isolante
+
+Fumaça proveniente do dielétrico isolante do equipamento
+
+Fumaça anormal no equipamento com dielétrico isolante
+
+Presença de fumaça indicando falha no circuito de dielétrico isolante
+
+Problema de fumaça afetando o dielétrico isolante do circuito
+
+Fumaça emitida pelo circuito de dielétrico isolante
+
+Fumaça excessiva proveniente do componente de dielétrico isolante
+
+Identificação de fumaça no sistema de dielétrico isolante
+
+Fumaça visível no circuito de dielétrico isolante

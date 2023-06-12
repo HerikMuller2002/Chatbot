@@ -1,0 +1,200 @@
+Isolamento queimado
+Isolante danificado
+Isolamento derretido
+Problema de isolamento térmico
+Isolamento comprometido
+Queima do material isolante
+Isolante derretido pelo calor
+Falha no isolamento elétrico
+Isolamento carbonizado
+Problema de isolamento dielétrico
+Isolamento deteriorado
+Material isolante queimado
+Isolamento em curto-circuito
+Isolamento derretido por sobrecarga
+Isolamento fundido pelo excesso de corrente
+Defeito no isolamento dielétrico
+Isolamento destruído por arco elétrico
+Isolante carbonizado pela alta tensão
+Problema de isolamento por sobreaquecimento
+Isolamento queimado devido a falha de conexão
+Isolamento danificado pela ação do tempo
+Queima do isolamento causada por descarga elétrica
+Isolante derretido devido a falha na dissipação de calor
+Problema de isolamento devido a componentes defeituosos
+Isolamento danificado por curto-circuito interno
+Isolamento queimado pela exposição a substâncias corrosivas
+Isolante derretido devido a problemas no sistema de refrigeração
+Problema de isolamento causado por mau dimensionamento do material isolante
+Isolamento danificado por vibrações excessivas
+Isolamento queimado devido a flutuações de tensão
+Isolante derretido por mau funcionamento de dispositivos de proteção
+Problema de isolamento causado por desgaste do material isolante
+Isolamento danificado por impacto mecânico
+Queima do isolamento devido a sobretensão
+Isolante carbonizado pela ação de arcos elétricos
+Isolamento queimado pela exposição a altas temperaturas
+Problema de isolamento causado por falha na vedação
+Isolamento danificado pela entrada de umidade
+Isolante derretido por correntes de fuga
+Problema de isolamento devido a instalação inadequada
+Isolamento queimado devido a operação em condições extremas
+Isolante danificado por envelhecimento do material
+Isolamento derretido por sobrecarga de corrente contínua
+Problema de isolamento causado por falha na proteção contra sobretensão
+Isolamento danificado por exposição a produtos químicos corrosivos
+Isolamento queimado pela ação de arcos elétricos de alta energia
+Isolante derretido devido a sobreaquecimento do equipamento
+Problema de isolamento causado por erosão do material isolante
+Isolamento danificado por falha no sistema de aterramento
+Isolamento queimado devido a falha no sistema de refrigeração
+Isolante carbonizado por falta de manutenção preventiva
+Problema de isolamento causado por falha na proteção contra raios
+Isolamento danificado por exposição a substâncias corrosivas e umidade
+Isolamento queimado pela operação em condições de alta umidade
+Isolante derretido devido a falha no sistema de monitoramento de temperatura
+Problema de isolamento causado por falha na proteção contra curto-circuito
+Isolamento danificado por operação em condições ambientais agressivas
+Isolamento queimado devido a mau funcionamento de dispositivos de proteção
+Isolante carbonizado por falha no sistema de refrigeração de emergência
+Problema de isolamento causado por exposição a altos níveis de radiação
+Isolamento danificado por desgaste mecânico contínuo
+Isolamento queimado pela operação em condições de alta carga
+Isolante derretido devido a falha na dissipação de calor do sistema
+Problema de isolamento causado por exposição a produtos químicos agressivos
+Isolamento danificado por falha no sistema de ventilação do equipamento
+Isolamento queimado devido a operação em ambiente com elevada poeira
+Isolante carbonizado por operação em condições de alta umidade e temperatura
+Problema de isolamento causado por instalação inadequada do equipamento
+Isolamento danificado por vibrações excessivas durante o transporte
+Isolamento queimado devido a falha no sistema de isolamento de aterramento
+Isolante derretido por sobrecarga de corrente alternada
+Problema de isolamento causado por falha no sistema de proteção contra sobrecarga
+Isolamento danificado por exposição a gases corrosivos
+Isolamento queimado pela ação de arcos elétricos de alta corrente
+Isolante carbonizado devido a operação em condições de alta temperatura ambiente
+Problema de isolamento causado por deterioração do material isolante ao longo do tempo
+Isolamento danificado por exposição a agentes externos agressivos
+Isolamento queimado devido a falha no sistema de monitoramento e controle
+Isolante derretido por falha no sistema de proteção contra surtos de tensão
+Problema de isolamento causado por falha no sistema de detecção de falhas à terra
+Isolamento danificado por impacto mecânico durante a operação
+Isolamento queimado pela ação de arcos elétricos de curta duração
+Isolante carbonizado devido a operação em ambiente com alta umidade relativa
+Problema de isolamento causado por falha na proteção contra descargas atmosféricas
+Isolamento danificado por exposição a líquidos inflamáveis
+Isolamento queimado devido a falha no sistema de ventilação forçada
+Isolante derretido por falha no sistema de proteção contra curto-circuito interno
+Problema de isolamento causado por sobretensão de origem externa
+Isolamento danificado por operação em ambiente com presença de poeira condutora
+Isolamento queimado pela ação de arcos elétricos em cabos subterrâneos
+Isolante carbonizado devido a falha no sistema de aterramento do equipamento
+Problema de isolamento causado por falha no sistema de detecção de corrente de fuga
+Isolamento danificado por exposição a produtos químicos inflamáveis
+Isolamento queimado devido a falha no sistema de refrigeração do transformador
+Isolante derretido por sobrecarga de corrente de curta duração
+Problema de isolamento causado por instalação inadequada de cabos de conexão
+Isolamento danificado por exposição a atmosfera corrosiva
+Isolamento queimado pela ação de arcos elétricos de alta potência
+Isolante carbonizado devido a operação em condições de alta umidade e poeira
+Problema de isolamento causado por falha na proteção contra corrente de fuga
+Isolamento em curto-circuito
+Isolamento derretido por sobrecarga de corrente
+Queima do isolamento por falha de conexão
+Isolamento danificado pela ação do tempo
+Isolamento comprometido por impacto mecânico
+Isolamento carbonizado pela exposição a substâncias corrosivas
+Problema de isolamento devido a falha no sistema de refrigeração
+Isolamento queimado por operação em condições ambientais extremas
+Isolante derretido por mau funcionamento de dispositivos de proteção
+Problema de isolamento causado por descarga elétrica atmosférica
+Isolamento danificado por vibrações excessivas durante o transporte
+Isolamento em curto-circuito devido a falha de isolamento térmico
+Isolamento derretido por falha no sistema de ventilação do equipamento
+Queima do isolamento causada por falha na proteção contra sobretensão
+Isolamento danificado pela exposição a produtos químicos agressivos
+Isolamento em curto-circuito por mau dimensionamento do material isolante
+Isolamento carbonizado por falha no sistema de aterramento do equipamento
+Problema de isolamento devido a operação em condições de alta umidade
+Isolamento queimado por exposição a altas temperaturas de operação
+Isolante derretido por sobrecarga de corrente contínua em curto-circuito
+Isolamento danificado pela ação de arcos elétricos de alta energia
+Isolamento em curto-circuito devido a falha no sistema de proteção
+Isolamento derretido por exposição a líquidos inflamáveis
+Problema de isolamento causado por desgaste do material isolante ao longo do tempo
+Isolamento queimado por falha no sistema de monitoramento de temperatura
+Isolamento danificado por operação em ambiente com alta umidade relativa
+Isolamento em curto-circuito devido a falha no sistema de ventilação
+Isolante carbonizado por exposição a gases corrosivos e inflamáveis
+Problema de isolamento devido a mau dimensionamento do isolante térmico
+Isolamento queimado por falha no sistema de proteção contra corrente de fuga
+Isolamento danificado pela ação de arcos elétricos de alta corrente
+Isolamento em curto-circuito por exposição a substâncias químicas reativas
+Isolante derretido devido a sobrecarga de corrente durante partida de motor
+Problema de isolamento causado por exposição a temperaturas extremas
+Isolamento queimado por falha no sistema de proteção contra sobrecarga
+Isolamento danificado por operação em ambiente com presença de poeira condutora
+Isolamento em curto-circuito devido a falha na vedação do equipamento
+Isolante carbonizado por exposição a arcos elétricos de curto-circuito
+Problema de isolamento devido a falha no sistema de aterramento do equipamento
+Isolamento queimado por operação em condições de alta umidade e poeira
+Isolamento danificado pela ação de arcos elétricos em cabos subterrâneos
+Isolamento em curto-circuito devido a falha no sistema de detecção de corrente de fuga
+Isolante derretido por exposição a produtos químicos inflamáveis
+Problema de isolamento causado por falha no sistema de refrigeração do transformador
+Isolamento queimado devido a falha no sistema de aterramento do transformador
+Isolamento danificado por sobrecarga de corrente de curta duração
+Isolamento em curto-circuito devido a instalação inadequada de cabos de conexão
+Isolante carbonizado por exposição a atmosfera corrosiva
+Problema de isolamento devido a falha no sistema de proteção contra sobretensão
+Isolamento queimado por ação de arcos elétricos de alta potência
+Isolamento danificado pela exposição a umidade e vibrações constantes
+Isolamento em curto-circuito devido a falha no sistema de refrigeração do motor
+Isolante derretido por falha no sistema de aterramento de painéis elétricos
+Problema de isolamento causado por exposição a produtos químicos corrosivos
+Isolamento queimado por falha no sistema de detecção de corrente de fuga
+Isolamento danificado pela ação de arcos elétricos em cabos de alta tensão
+Isolamento em curto-circuito devido a mau dimensionamento dos cabos de alimentação
+Isolante carbonizado por falha na vedação de equipamentos em áreas úmidas
+Problema de isolamento devido a operação em ambientes com temperaturas extremas
+Isolamento queimado por exposição prolongada a altas correntes de curto-circuito
+Isolamento danificado por falha no sistema de proteção contra falhas à terra
+Isolamento em curto-circuito devido a exposição a vapores corrosivos
+Isolante derretido por sobrecarga de corrente em circuito de partida de motores
+Problema de isolamento causado por desgaste natural do material ao longo do tempo
+Isolamento queimado por falha no sistema de ventilação em ambientes confinados
+Isolamento danificado pela ação de arcos elétricos devido a falhas de isolamento
+Isolamento em curto-circuito devido a falha no sistema de aterramento do circuito
+Isolante carbonizado por exposição a líquidos inflamáveis e materiais combustíveis
+Problema de isolamento devido a instalação incorreta de dispositivos de proteção
+Isolamento queimado por operação em condições ambientais com alta umidade relativa
+Isolamento danificado por exposição a gases corrosivos presentes no ambiente de trabalho
+Isolamento em curto-circuito devido a mau contato em conexões elétricas
+Isolante derretido por falha no sistema de aterramento de estruturas metálicas
+Problema de isolamento causado por exposição a poeira condutora e umidade
+Isolamento queimado por falha no sistema de detecção de curto-circuito
+Isolamento danificado pela ação de arcos elétricos devido a falhas de conexão
+Isolamento em curto-circuito devido a falha no sistema de proteção contra sobrecarga
+Isolante carbonizado por exposição a vapores químicos corrosivos
+Problema de isolamento devido a falha no sistema de aterramento do painel elétrico
+Isolamento queimado por falha no sistema de refrigeração de disjuntores
+Isolamento danificado por operação em condições de alta temperatura ambiente
+Isolamento em curto-circuito devido a mau dimensionamento do transformador
+Isolante derretido por exposição a substâncias químicas voláteis
+Problema de isolamento causado por falha no sistema de proteção contra descargas atmosféricas
+Isolamento queimado por ação de arcos elétricos de alta corrente e tensão
+Isolamento danificado pela exposição a ambientes com vibrações mecânicas intensas
+Isolamento em curto-circuito devido a falha no sistema de proteção contra curto-circuito
+Isolante carbonizado por falha no sistema de aterramento de equipamentos industriais
+Problema de isolamento devido a operação em condições de alta pressão e temperatura
+Isolamento queimado por falha no sistema de monitoramento de corrente de fuga
+Isolamento danificado por ação de arcos elétricos em conexões de barramentos elétricos
+Isolamento em curto-circuito devido a falha no sistema de aterramento do motor
+Isolante derretido por exposição a vapores químicos inflamáveis
+Problema de isolamento causado por operação em ambientes corrosivos e úmidos
+Isolamento queimado por falha no sistema de proteção contra sobretensão transiente
+Isolamento danificado pela ação de arcos elétricos devido a falhas no isolamento térmico
+Isolamento em curto-circuito devido a mau dimensionamento dos cabos de alimentação
+Isolante carbonizado por exposição a produtos químicos altamente corrosivos
+Problema de isolamento devido a falha no sistema de detecção de corrente de fuga
+Isolamento queimado por operação em ambiente com presença de gases inflamáveis

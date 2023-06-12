@@ -1,0 +1,377 @@
+Purgador não drena condensado adequadamente
+Descarga do purgador está obstruída
+Purgador não está eliminando o excesso de condensado
+Problema de drenagem no purgador de vapor
+Fluxo de condensado bloqueado no purgador
+Purgador com falha na descarga de condensado
+Purgador entupido, não descarrega vapor condensado
+Purgador não está liberando condensado acumulado
+Descarregamento ineficiente do purgador de vapor
+Purgador não está funcionando corretamente na drenagem de condensado
+Fluxo de vapor condensado preso no purgador
+Purgador não está purgando eficientemente o vapor condensado
+Problema de descarregamento do purgador em sistemas de vapor
+Purgador não está removendo condensado do sistema
+Descarregamento insuficiente do purgador de vapor
+Purgador não está eliminando o condensado de forma adequada
+Fluxo de condensado não é liberado pelo purgador
+Purgador não está drenando o condensado de maneira eficaz
+Problema de funcionamento do purgador de vapor
+Purgador não está descarregando vapor condensado corretamente
+Purgador com falha na abertura da válvula de descarga
+
+Acúmulo de ar no purgador, impedindo a descarga de condensado
+
+Válvula de descarga do purgador não está funcionando
+
+Purgador não está expelindo condensado de maneira eficiente
+
+Problema de purgador com vazamento na linha de descarga
+
+Falha no mecanismo de descarga do purgador
+
+Purgador não está liberando o condensado a tempo
+
+Descarga de condensado do purgador está restrita
+
+Purgador não está descarregando adequadamente devido à pressão excessiva
+
+Bloqueio na linha de descarga do purgador
+
+Purgador não está evacuando condensado de forma consistente
+
+Problema de descarga do purgador de vapor em sistemas de alta pressão
+
+Purgador não está descarregando vapor condensado devido a falha na válvula
+
+Fluxo de condensado preso no purgador, impedindo a descarga
+
+Purgador não está drenando o condensado devido a obstruções na linha
+
+Descarga do purgador de vapor está com baixa vazão
+
+Purgador não está removendo o condensado acumulado
+
+Problema de vazamento no purgador, afetando o descarregamento do condensado
+
+Purgador não está purgando vapor condensado devido a falha no sensor
+
+Fluxo de condensado insuficiente no purgador de vapor
+
+Purgador não está expelindo condensado corretamente devido a problemas de drenagem
+
+Falha no sistema de descarga do purgador de vapor
+
+Purgador não está descarregando condensado em sistemas de vapor saturado
+
+Bloqueio na válvula de descarga do purgador de vapor
+
+Purgador não está eliminando a água condensada do sistema
+
+Problema de vedação no purgador, resultando em descarga ineficiente
+
+Purgador não está descarregando vapor condensado devido a falha no controlador
+
+Fluxo de condensado não está sendo direcionado corretamente pelo purgador
+
+Purgador não está purgando vapor condensado em sistemas de vácuo
+
+Obstrução na linha de drenagem do purgador de vapor
+
+Purgador não está liberando condensado devido a problemas de pressão
+
+Descarga do purgador está bloqueada por detritos ou sujeira
+
+Purgador não está drenando condensado devido a defeito na válvula de controle
+
+Fluxo de condensado está sendo interrompido pelo purgador de vapor
+
+Purgador não está descarregando adequadamente devido a falha no controlador de nível
+
+Purgador com falha no mecanismo de abertura da válvula de descarga
+
+Purgador não está eliminando vapor condensado devido a obstruções na linha
+
+Problema de descarregamento do purgador de vapor em sistemas de baixa pressão
+
+Purgador não está descarregando condensado em sistemas de vapor superaquecido
+
+Bloqueio no orifício de descarga do purgador de vapor
+
+Purgador não está purgando vapor condensado devido a falha na sonda de temperatura
+
+Fluxo de condensado não está sendo totalmente descarregado pelo purgador
+
+Purgador não está drenando o condensado devido a problemas no controlador de pressão
+
+Descarga do purgador está parcialmente obstruída, resultando em descarregamento irregular
+
+Purgador não está eliminando vapor condensado devido a falha na válvula de bloqueio
+
+Purgador não está descarregando adequadamente devido a vazamento na linha de descarga
+
+Problema de descarga do purgador de vapor em sistemas de alta temperatura
+
+Purgador não está purgando vapor condensado em sistemas de processo
+
+Fluxo de condensado não está sendo controlado corretamente pelo purgador
+
+Purgador não está descarregando condensado em sistemas de vapor úmido
+
+Purgador com falha no mecanismo de fechamento da válvula de descarga
+
+Purgador não está eliminando o condensado devido a problemas no controlador de vazão
+
+Descarga do purgador está parcialmente fechada, reduzindo o descarregamento
+
+Purgador não está drenando adequadamente devido a falha no controlador de nível
+
+Purgador não está descarregando condensado em sistemas de vapor saturado
+
+Problema de vazamento no purgador, causando descarga incompleta
+
+Purgador não está purgando vapor condensado em sistemas de alta pressão
+
+Fluxo de condensado está sendo interrompido pelo purgador devido a falha na válvula
+
+Purgador não está descarregando adequadamente devido a problemas na sonda de nível
+
+Purgador não está eliminando o condensado devido a obstrução no orifício de descarga
+Purgador não está purgando condensado em sistemas de ar comprimido
+
+Descarga do purgador está com vazão insuficiente, resultando em acumulação de condensado
+
+Purgador não está descarregando condensado em sistemas de vapor seco
+
+Fluxo de condensado está restrito devido a entupimento na linha de descarga do purgador
+
+Purgador não está purgando vapor condensado em sistemas de recuperação de calor
+
+Purgador não está eliminando o condensado devido a problemas na válvula de controle de pressão
+
+Problema de descarregamento do purgador em sistemas de vapor de processo
+
+Purgador não está descarregando adequadamente devido a falha no mecanismo de acionamento
+
+Válvula de descarga do purgador não está fechando corretamente após a descarga
+
+Purgador não está purgando condensado em sistemas de vapor limpo
+
+Descarga do purgador está parcialmente bloqueada, causando redução no fluxo de condensado
+
+Purgador não está eliminando o condensado devido a defeito no controlador de temperatura
+
+Purgador não está descarregando condensado em sistemas de vapor superaquecido
+
+Fluxo de condensado está sendo desviado para a linha de vapor devido a falha no purgador
+
+Purgador não está purgando vapor condensado em sistemas de vácuo
+
+Purgador não está descarregando adequadamente devido a problemas na válvula de retenção
+
+Descarga do purgador está com vazão excessiva, resultando em perda de vapor
+
+Purgador não está eliminando o condensado devido a bloqueio no dreno de condensado
+
+Purgador não está descarregando condensado em sistemas de vapor úmido
+
+Problema de vazamento no purgador, causando perda de energia
+
+Purgador não está purgando vapor condensado em sistemas de recuperação de produtos químicos
+
+Fluxo de condensado não está sendo direcionado corretamente pelo purgador de vapor
+
+Purgador não está descarregando adequadamente devido a falha no controlador de pressão
+
+Descarga do purgador está parcialmente obstruída, resultando em descarregamento irregular
+
+Purgador não está eliminando vapor condensado devido a obstruções na linha
+
+Purgador não está descarregando condensado em sistemas de vapor saturado
+
+Problema de descarga do purgador em sistemas de alta temperatura
+
+Purgador não está purgando condensado em sistemas de processo
+
+Fluxo de condensado não está sendo controlado corretamente pelo purgador
+
+Purgador não está descarregando adequadamente devido a falha no controlador de nível
+
+Purgador não está eliminando o condensado devido a problemas no controlador de vazão
+
+Descarga do purgador está parcialmente fechada, reduzindo o descarregamento
+
+Purgador não está drenando adequadamente devido a falha no mecanismo de fechamento
+
+Purgador não está descarregando condensado em sistemas de vapor limpo
+
+Problema de vazamento no purgador, causando descarga incompleta
+
+Purgador não está purgando vapor condensado em sistemas de alta pressão
+
+Fluxo de condensado está sendo interrompido pelo purgador devido a falha na válvula
+
+Purgador não está descarregando adequadamente devido a problemas na sonda de nível
+
+Purgador não está eliminando o condensado devido a obstrução no orifício de descarga
+
+Purgador não está descarregando condensado em sistemas de vapor seco
+
+Purgador não está purgando condensado em sistemas de ar comprimido
+
+Descarga do purgador está com vazão insuficiente, resultando em acumulação de condensado
+
+Purgador não está descarregando condensado em sistemas de vapor úmido
+
+Fluxo de condensado está restrito devido a entupimento na linha de descarga do purgador
+
+Purgador não está purgando vapor condensado em sistemas de recuperação de calor
+
+Purgador não está eliminando o condensado devido a problemas na válvula de controle de pressão
+
+Problema de descarregamento do purgador em sistemas de vapor de processo
+
+Purgador não está descarregando adequadamente devido a falha no mecanismo de acionamento
+
+Válvula de descarga do purgador não está fechando corretamente após a descarga
+
+Purgador não está purgando condensado em sistemas de vapor limpo
+
+Descarga do purgador está parcialmente bloqueada, causando redução no fluxo de condensado
+
+Purgador não está eliminando o condensado devido a defeito no controlador de temperatura
+
+Purgador não está descarregando condensado em sistemas de vapor superaquecido
+
+Fluxo de condensado está sendo desviado para a linha de vapor devido a falha no purgador
+
+Purgador não está purgando vapor condensado em sistemas de vácuo
+
+Purgador não está descarregando adequadamente devido a problemas na válvula de retenção
+
+Descarga do purgador está com vazão excessiva, resultando em perda de vapor
+
+Purgador não está eliminando o condensado devido a bloqueio no dreno de condensado
+
+Purgador não está descarregando condensado em sistemas de vapor saturado
+
+Problema de vazamento no purgador, causando perda de energia
+Purgador não está descarregando condensado em sistemas de baixa pressão
+
+Descarga do purgador está obstruída, resultando em falha na eliminação do condensado
+
+Purgador não está purgando vapor condensado em sistemas de aquecimento
+
+Fluxo de condensado está sendo desviado para a linha de vapor devido a mau funcionamento do purgador
+
+Purgador não está descarregando adequadamente devido a falha no sistema de controle de vazão
+
+Válvula de descarga do purgador não está abrindo corretamente durante o ciclo de descarga
+
+Purgador não está eliminando o condensado devido a problemas na linha de drenagem
+
+Purgador não está descarregando condensado em sistemas de água quente
+
+Problema de descarregamento intermitente do purgador em sistemas de alta temperatura
+
+Purgador não está purgando condensado em sistemas de vapor úmido
+
+Descarga do purgador está com vazão reduzida, causando acúmulo de condensado
+
+Purgador não está descarregando condensado em sistemas de aquecimento de ar
+
+Fluxo de condensado está restrito devido a problemas na válvula de descarga do purgador
+
+Purgador não está purgando vapor condensado em sistemas de refrigeração
+
+Purgador não está descarregando adequadamente devido a falha no mecanismo de abertura
+
+Purgador não está eliminando o condensado devido a obstrução no sistema de drenagem
+
+Purgador não está descarregando condensado em sistemas de vapor limpo
+
+Problema de vazamento na linha de descarga do purgador, resultando em perda de eficiência
+
+Purgador não está purgando condensado em sistemas de alta pressão
+
+Descarga do purgador está parcialmente obstruída, resultando em fluxo de condensado inadequado
+
+Purgador não está descarregando condensado em sistemas de recuperação de calor
+
+Fluxo de condensado não está sendo controlado corretamente pelo purgador
+
+Purgador não está eliminando o condensado devido a problemas no sistema de controle de nível
+
+Purgador não está descarregando condensado em sistemas de vapor superaquecido
+
+Descarga do purgador está bloqueada, impedindo o fluxo de condensado
+
+Purgador não está purgando vapor condensado em sistemas de vácuo
+
+Purgador não está descarregando adequadamente devido a falha no sistema de controle de pressão
+
+Purgador não está eliminando o condensado devido a obstrução no orifício de saída
+
+Purgador não está descarregando condensado em sistemas de vapor seco
+
+Problema de vazamento no purgador, causando perda de energia
+
+Purgador não está purgando condensado em sistemas de ar comprimido
+
+Descarga do purgador está com vazão insuficiente, resultando em acumulação de condensado
+
+Purgador não está descarregando condensado em sistemas de vapor úmido
+
+Fluxo de condensado está restrito devido a entupimento na linha de descarga do purgador
+
+Purgador não está purgando vapor condensado em sistemas de recuperação de calor
+
+Purgador não está eliminando o condensado devido a problemas na válvula de controle de pressão
+
+Problema de descarregamento do purgador em sistemas de vapor de processo
+
+Purgador não está descarregando adequadamente devido a falha no mecanismo de acionamento
+
+Válvula de descarga do purgador não está fechando corretamente após a descarga
+
+Purgador não está purgando condensado em sistemas de vapor limpo
+
+Descarga do purgador está parcialmente bloqueada, causando redução no fluxo de condensado
+
+Purgador não está eliminando o condensado devido a defeito no controlador de temperatura
+
+Purgador não está descarregando condensado em sistemas de vapor superaquecido
+
+Fluxo de condensado está sendo desviado para a linha de vapor devido a falha no purgador
+
+Purgador não está purgando vapor condensado em sistemas de vácuo
+
+Purgador não está descarregando adequadamente devido a problemas na válvula de retenção
+
+Descarga do purgador está com vazão excessiva, resultando em perda de vapor
+
+Purgador não está eliminando o condensado devido a bloqueio no dreno de condensado
+
+Purgador não está descarregando condensado em sistemas de vapor saturado
+
+Problema de vazamento no purgador, causando perda de energia
+
+Purgador não está purgando condensado em sistemas de baixa pressão
+
+Descarga do purgador está obstruída, resultando em falha na eliminação do condensado
+
+Purgador não está purgando vapor condensado em sistemas de aquecimento
+
+Fluxo de condensado está sendo desviado para a linha de vapor devido a mau funcionamento do purgador
+
+Purgador não está descarregando adequadamente devido a falha no sistema de controle de vazão
+
+Válvula de descarga do purgador não está abrindo corretamente durante o ciclo de descarga
+
+Purgador não está eliminando o condensado devido a problemas na linha de drenagem
+
+Purgador não está descarregando condensado em sistemas de água quente
+
+Problema de descarregamento intermitente do purgador em sistemas de alta temperatura
+
+Purgador não está purgando condensado em sistemas de vapor úmido

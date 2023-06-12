@@ -1,0 +1,200 @@
+Cinto mole
+Cinto inchado
+Correia com aparência flácida
+Correia com inchaço anormal
+Cinto desgastado e flácido
+Inchaço excessivo na correia
+Correia com aspecto de inchada
+Problema de cinto frouxo
+Correia com deformação devido a inchaço
+Cinto com aumento de volume
+Correia com espessura irregular
+Inchaço incomum na correia
+Cinto flexível demais
+Correia excessivamente macia
+Problema de inchaço no cinto de transmissão
+Correia com sensação de moleza
+Cinto que não mantém a tensão adequada
+Correia com característica de expansão
+Cinto que não oferece rigidez suficiente
+Correia com aparência de inchamento
+Problema de cinto solto
+Correia com flacidez excessiva
+Cinto que perdeu a firmeza
+Correia com sinal de inchaço anormal
+Cinto com elasticidade comprometida
+Correia com sensação de inchada
+Problema de deformação no cinto de transmissão
+Correia com textura de moleza
+Cinto com falta de tensão adequada
+Correia com características de expansão
+Cinto com aspecto solto
+Correia flácida e maleável
+Cinto que não mantém a tensão correta
+Correia com sinal de inchaço excessivo
+Cinto com elasticidade comprometida
+Correia com aparência de estar inchada
+Problema de cinto frouxo
+Correia com excesso de flexibilidade
+Cinto que perdeu a firmeza
+Correia com inchaço anormal visível
+Cinto com perda de elasticidade
+Correia com sensação de estar inchada
+Problema de deformação no cinto de transmissão
+Correia com textura de moleza
+Cinto com tensão insuficiente
+Correia com características de expansão
+Cinto solto e maleável
+Correia flácida e sem rigidez
+Cinto com falta de tensão adequada
+Correia com sinal de inchaço pronunciado
+Cinto com elasticidade reduzida
+Correia com aspecto de estar inchada
+Problema de cinto frouxo
+Correia com excesso de flexibilidade
+Cinto que não mantém a tensão correta
+Correia com inchaço anormal evidente
+Cinto com perda de elasticidade
+Correia com sensação de estar inchada e flácida
+Problema de deformação no cinto de transmissão
+Correia com textura de moleza e falta de rigidez
+Cinto com tensão insuficiente para a transmissão adequada
+Correia com características de expansão evidentes
+Cinto solto e maleável
+Correia flácida e sem rigidez suficiente
+Cinto com falta de tensão adequada para o funcionamento adequado
+Correia com inchaço anormal visível
+Cinto com elasticidade reduzida
+Correia com aspecto de estar inchada e flexível demais
+Problema de cinto frouxo prejudicando a transmissão de potência
+Correia com excesso de flexibilidade e moleza
+Cinto que não mantém a tensão correta para o funcionamento ideal
+Correia com inchaço anormal evidente comprometendo o desempenho
+Cinto com perda de elasticidade e rigidez
+Correia com sensação de estar inchada, flácida e pouco rígida
+Problema de deformação no cinto de transmissão afetando o acionamento
+Correia com textura de moleza e falta de rigidez adequada
+Cinto com tensão insuficiente para a transmissão de força adequada
+Correia com características de expansão evidentes prejudicando a operação
+Cinto solto, maleável e com pouca tensão
+Correia flácida e sem rigidez suficiente para o bom funcionamento
+Cinto com falta de tensão adequada para a transmissão de potência necessária
+Correia com inchaço anormal visível e excessivo
+Cinto com elasticidade reduzida comprometendo a eficiência
+Correia com aspecto de estar inchada, flexível demais e pouco rígida
+Problema de cinto frouxo prejudicando a transmissão de torque
+Correia com excesso de flexibilidade, moleza e pouca tensão
+Cinto que não mantém a tensão correta para o bom desempenho
+Correia com inchaço anormal evidente comprometendo a operação adequada
+Cinto com perda de elasticidade, rigidez e tensão adequadas
+Correia com sensação de estar inchada, flácida, pouco rígida e solta
+Problema de deformação no cinto de transmissão prejudicando a eficiência
+Correia com textura de moleza, falta de rigidez e tensão inadequada
+Cinto com tensão insuficiente para a transmissão de potência necessária
+Correia com características de expansão evidentes comprometendo o funcionamento
+Cinto solto, maleável e com pouca tensão adequada
+Correia flácida e sem rigidez suficiente para o acionamento adequado
+Cinto com falta de tensão adequada para a transmissão de força necessária
+Correia com inchaço anormal visível e excessivo prejudicando a operação
+Cinto com elasticidade reduzida, comprometendo a eficiência do sistema
+Correia com aspecto de estar inchada, flexível demais e pouco rígida, afetando o desempenho
+Problema de desgaste excessivo no cinto
+Cinto com aparência de estar inchado e flácido
+Correia apresentando inchaço anormal e falta de tensão
+Cinto com deformação visível e textura mole
+Correia inchada comprometendo a transmissão de potência
+Cinto com folga excessiva e sensação de moleza
+Correia inchada afetando a estabilidade do acionamento
+Cinto com desgaste anormal e aspecto de estar inchado
+Correia mole e inchada prejudicando o funcionamento adequado
+Problema de falta de tensão no cinto de acionamento
+Cinto apresentando inchaço e falta de rigidez
+Correia com aspecto de estar inchada e maleável demais
+Cinto com folga excessiva e deformação no envelope
+Correia inchada comprometendo a eficiência do sistema
+Cinto com desgaste anormal e textura de moleza
+Correia mole e inchada prejudicando a transmissão de força
+Problema de falta de tensão adequada no cinto
+Cinto com inchaço anormal e ausência de rigidez
+Correia inchada afetando a estabilidade do acionamento por correia
+Cinto com desgaste excessivo e sensação de moleza
+Correia com aspecto de estar inchada, flácida e pouco rígida
+Cinto frouxo comprometendo a transmissão adequada de potência
+Correia inchada prejudicando o funcionamento ideal
+Cinto com falta de tensão e deformação visível
+Correia mole e inchada afetando a estabilidade do sistema
+Problema de desalinhamento no cinto de acionamento
+Cinto apresentando inchaço excessivo e pouca rigidez
+Correia com aspecto de estar inchada e flexível demais
+Cinto com folga e deformação no envelope do acionamento
+Correia inchada comprometendo a eficiência da transmissão
+Cinto com desgaste anormal e textura de moleza evidente
+Correia mole e inchada prejudicando a transferência de força
+Problema de tensão insuficiente no cinto de acionamento
+Cinto com inchaço anormal e falta de rigidez adequada
+Correia inchada afetando a estabilidade do acionamento por correia em V
+Cinto com desgaste excessivo e sensação de moleza evidente
+Correia com aspecto de estar inchada, flácida e com pouca rigidez
+Cinto frouxo comprometendo a transmissão adequada de torque
+Correia inchada prejudicando o funcionamento ideal do sistema
+Cinto com falta de tensão e deformação visível no envelope
+Correia mole e inchada afetando a estabilidade do sistema de acionamento
+Problema de desalinhamento no cinto de transmissão em V
+Cinto apresentando inchaço excessivo e pouca rigidez adequada
+Correia com aspecto de estar inchada e excessivamente flexível
+Cinto com folga e deformação no envelope do acionamento por correia
+Correia inchada comprometendo a eficiência da transmissão de potência
+Cinto com desgaste anormal e textura mole perceptível
+Correia mole e inchada prejudicando a transferência adequada de força
+Problema de tensão insuficiente no cinto de acionamento por correia
+Cinto com inchaço anormal e falta de rigidez adequada para o funcionamento
+Correia inchada afetando a estabilidade do acionamento por correia em V
+Cinto com desgaste excessivo e sensação de moleza perceptível
+Correia com aspecto de estar inchada, flácida e com flexibilidade excessiva
+Cinto frouxo comprometendo a transmissão adequada de potência e torque
+Correia inchada prejudicando o funcionamento ideal do sistema de acionamento
+Cinto com falta de tensão e deformação visível no envelope de transmissão
+Correia mole e inchada afetando a estabilidade e a eficiência do sistema
+Problema de desalinhamento e desgaste no cinto de acionamento em V
+Cinto apresentando inchaço excessivo e pouca rigidez adequada para a operação
+Correia com aspecto de estar inchada e excessivamente flexível, comprometendo o funcionamento
+Cinto com folga e deformação no envelope do acionamento por correia em V
+Correia inchada comprometendo a eficiência e a transmissão adequada de potência
+Cinto com desgaste anormal e textura mole perceptível, dificultando a operação
+Correia mole e inchada prejudicando a transferência adequada de força e torque
+Problema de tensão insuficiente e desalinhamento no cinto de acionamento por correia
+Cinto com inchaço anormal e falta de rigidez adequada para o acionamento
+Correia inchada afetando a estabilidade do acionamento por correia em V e comprometendo o funcionamento
+Cinto frouxo comprometendo a transmissão adequada de potência e torque no sistema
+Correia inchada prejudicando o funcionamento ideal do sistema de acionamento por correia em V
+Cinto com falta de tensão e deformação visível no envelope de transmissão de força
+Correia mole e inchada afetando a estabilidade, a eficiência e o desempenho do sistema
+Problema de desalinhamento e desgaste excessivo no cinto de acionamento por correia em V
+Cinto apresentando inchaço excessivo e pouca rigidez adequada para a operação do equipamento
+Correia com aspecto de estar inchada e excessivamente flexível, prejudicando a funcionalidade
+Cinto com folga e deformação no envelope do acionamento por correia, afetando a transmissão de potência
+Correia inchada comprometendo a eficiência e a transmissão adequada de força e torque
+Cinto com desgaste anormal e textura mole perceptível, dificultando o correto funcionamento
+Correia mole e inchada prejudicando a transferência adequada de força e o desempenho do sistema
+Problema de tensão insuficiente e desalinhamento no cinto de acionamento por correia em V
+Cinto com inchaço anormal e falta de rigidez adequada para o acionamento correto
+Correia inchada afetando a estabilidade do acionamento por correia em V e comprometendo a funcionalidade
+Cinto frouxo comprometendo a transmissão adequada de potência e torque no sistema industrial
+Correia inchada prejudicando o funcionamento ideal do sistema de acionamento por correia em V
+Cinto com falta de tensão e deformação visível no envelope de transmissão de força e potência
+Correia mole e inchada afetando a estabilidade, a eficiência e o desempenho do sistema industrial
+Problema de desalinhamento e desgaste excessivo no cinto de acionamento por correia em V
+Cinto apresentando inchaço excessivo e pouca rigidez adequada para a operação e a transmissão
+Correia com aspecto de estar inchada e excessivamente flexível, prejudicando o funcionamento correto
+Cinto com folga e deformação no envelope do acionamento por correia, impactando a transmissão de potência
+Correia inchada comprometendo a eficiência e a transmissão adequada de força e torque no sistema
+Cinto com desgaste anormal e textura mole perceptível, dificultando a operação adequada
+Correia mole e inchada prejudicando a transferência adequada de força e torque no sistema industrial
+Problema de tensão insuficiente e desalinhamento no cinto de acionamento por correia em V
+Cinto com inchaço anormal e falta de rigidez adequada para o acionamento eficiente
+Correia inchada afetando a estabilidade do acionamento por correia em V e comprometendo a operação
+Cinto frouxo comprometendo a transmissão adequada de potência e torque no sistema industrial
+Correia inchada prejudicando o funcionamento ideal do sistema de acionamento por correia em V
+Cinto com falta de tensão e deformação visível no envelope de transmissão de força e potência
+Correia mole e inchada afetando a estabilidade, a eficiência e o desempenho do sistema industrial
+Problema de desalinhamento e desgaste excessivo no cinto de acionamento por correia em V

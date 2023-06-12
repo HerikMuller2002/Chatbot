@@ -1,0 +1,50 @@
+O motor está consumindo mais potência do que o esperado
+Excesso de potência sendo utilizada pelo motor na temperatura nominal
+O motor está operando com potência acima do recomendado para a temperatura nominal
+Problema de consumo de energia do motor acima do normal na temperatura nominal
+Potência excessiva sendo demandada pelo motor quando atinge a temperatura nominal
+O motor está consumindo mais energia do que o necessário para a temperatura nominal
+Sobrecarga de potência do motor durante a operação na temperatura nominal
+O motor está exigindo uma quantidade excessiva de potência na temperatura nominal
+Problema de alto consumo de potência do motor no ponto de temperatura nominal
+Potência sendo utilizada de forma excessiva pelo motor quando atinge a temperatura recomendada
+O motor está operando com uma carga de potência acima do normal na temperatura nominal
+Excesso de demanda de energia do motor na temperatura nominal
+Consumo excessivo de potência pelo motor durante a operação em temperatura nominal
+O motor está usando mais potência do que deveria para a temperatura nominal
+Problema de potência excessiva do motor quando atinge a temperatura de operação recomendada
+Consumo de energia acima do normal pelo motor na temperatura nominal
+O motor está operando com uma potência maior do que o necessário para a temperatura nominal
+Excesso de carga elétrica do motor durante a operação na temperatura nominal
+Potência utilizada em excesso pelo motor ao atingir a temperatura nominal
+O motor está demandando uma potência excessiva na temperatura nominal
+Problema de consumo elevado de potência do motor no ponto de temperatura nominal
+Potência excessiva sendo consumida pelo motor quando está na temperatura recomendada
+O motor está funcionando com uma potência superior à recomendada para a temperatura nominal
+Sobrecarga de energia do motor durante a operação na temperatura nominal
+O motor está exigindo mais potência do que o normal na temperatura nominal
+Problema de alto consumo de energia do motor ao atingir a temperatura nominal
+Potência sendo utilizada em excesso pelo motor na temperatura nominal
+O motor está utilizando uma potência maior do que o necessário para a temperatura nominal
+Consumo excessivo de potência do motor durante a operação na temperatura nominal
+O motor está consumindo mais potência do que deveria para a temperatura nominal
+Problema de potência excessiva do motor quando está na temperatura de operação recomendada
+Consumo de energia acima do normal pelo motor na temperatura nominal
+O motor está operando com uma carga elétrica maior do que o necessário para a temperatura nominal
+Excesso de demanda de potência do motor ao atingir a temperatura nominal
+Potência utilizada em excesso pelo motor na temperatura de operação recomendada
+O motor está exigindo uma potência excessiva para a temperatura nominal
+Problema de consumo elevado de potência do motor no ponto de temperatura recomendada
+Potência excessiva sendo consumida pelo motor durante a operação na temperatura nominal
+O motor está funcionando com uma potência superior ao recomendado para a temperatura nominal
+Sobrecarga de energia do motor quando atinge a temperatura nominal
+O motor está demandando mais potência do que o normal para a temperatura nominal
+Problema de alto consumo de energia do motor na temperatura nominal
+Potência sendo utilizada em excesso pelo motor durante a operação na temperatura nominal
+O motor está utilizando uma potência maior do que deveria para a temperatura nominal
+Consumo excessivo de potência do motor ao atingir a temperatura nominal
+O motor está consumindo mais potência do que o esperado para a temperatura nominal
+Problema de potência excessiva do motor na temperatura de operação recomendada
+Consumo de energia acima do normal pelo motor durante a temperatura nominal
+O motor está operando com uma carga elétrica acima do recomendado para a temperatura nominal
+Excesso de demanda de potência do motor na temperatura nominal

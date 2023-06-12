@@ -1,0 +1,398 @@
+Motor não liga
+
+Falha na partida do motor
+
+Dificuldades para iniciar o motor elétrico
+
+O motor não está funcionando corretamente ao ser ligado
+
+Problemas de arranque do motor elétrico
+
+Partida do motor elétrico não acontece
+
+Motor elétrico não dá sinal de vida ao ser ligado
+
+O motor não dá partida mesmo após tentativas
+
+Falha no acionamento do motor elétrico
+
+O motor não responde ao comando de partida
+
+Problemas de ligação do motor elétrico
+
+Dificuldades na partida do motor elétrico após desligamento
+
+Motor elétrico não inicia mesmo com energia aplicada
+
+Falha no sistema de partida do motor
+
+Motor elétrico não entra em operação após a partida
+
+Dificuldades em fazer o motor elétrico funcionar
+
+Motor elétrico não dá sinal de vida ao ser acionado
+
+O motor não dá partida mesmo com a energia disponível
+
+Partida do motor elétrico não é bem-sucedida
+
+Problemas de acionamento do motor elétrico
+
+Motor elétrico não liga mesmo após acionamento
+
+O motor não entra em funcionamento após a partida
+
+Dificuldades para acionar o motor elétrico
+
+Motor elétrico não dá sinal de vida ao ser ligado
+
+Problemas de partida do motor elétrico mesmo com a chave acionada
+
+Falha no sistema de acionamento do motor
+
+Motor elétrico não inicia a rotação
+
+O motor não responde ao comando de ligar
+
+Falha na partida do motor elétrico após interrupção
+
+O motor não dá partida mesmo com a chave no modo "ligado"
+
+Problemas de ligação do motor elétrico após desligamento
+
+Dificuldades na partida do motor elétrico após período de inatividade
+
+Motor elétrico não inicia mesmo com energia aplicada
+
+Falha no sistema de partida do motor após manutenção
+
+Motor elétrico não entra em operação após ser acionado
+
+Dificuldades em fazer o motor elétrico funcionar corretamente
+
+Motor elétrico não dá sinal de vida mesmo com a energia disponível
+
+O motor não dá partida mesmo com a chave acionada
+
+Partida do motor elétrico não é bem-sucedida mesmo após várias tentativas
+
+Problemas de acionamento do motor elétrico em diferentes condições
+
+Motor elétrico não liga mesmo após acionamento do painel de controle
+
+O motor não entra em funcionamento após a partida ser acionada
+
+Dificuldades para acionar o motor elétrico em diferentes situações
+
+Motor elétrico não dá sinal de vida ao ser ligado, independentemente da voltagem aplicada
+
+Problemas de partida do motor elétrico mesmo com a chave de partida acionada
+
+Falha no sistema de acionamento do motor elétrico, independente das configurações
+
+Motor elétrico não inicia a rotação mesmo após várias tentativas
+
+O motor não responde ao comando de ligar, mesmo com os dispositivos de controle corretos
+
+Falha na partida do motor elétrico após interrupção do fornecimento de energia
+
+O motor não dá partida mesmo com a chave no modo "ligado"
+
+Problemas de ligação do motor elétrico após desligamento não programado
+
+Dificuldades na partida do motor elétrico após longos períodos de inatividade
+
+Motor elétrico não inicia mesmo com energia aplicada corretamente
+
+Falha no sistema de partida do motor elétrico após manutenção recente
+
+Motor elétrico não entra em operação após ser acionado a partir do painel de controle
+
+Dificuldades em fazer o motor elétrico funcionar corretamente em diferentes situações
+
+Motor elétrico não dá sinal de vida mesmo com a energia disponível e todas as conexões verificadas
+
+O motor não dá partida mesmo com a chave de partida acionada e os dispositivos de controle operantes
+
+Partida do motor elétrico não é bem-sucedida mesmo após várias tentativas em diferentes cenários
+
+Problemas de acionamento do motor elétrico em diferentes condições de carga e voltagem
+
+Motor elétrico não liga mesmo após acionamento do painel de controle e verificação das conexões
+
+O motor não entra em funcionamento após a partida ser acionada, mesmo com todos os dispositivos de segurança verificados
+
+Dificuldades para acionar o motor elétrico em diferentes situações e ambientes
+
+Motor elétrico não dá sinal de vida ao ser ligado, independentemente da voltagem aplicada e configurações de chave
+
+Problemas de partida do motor elétrico mesmo com a chave de partida acionada e todos os sistemas operantes
+
+Falha no sistema de acionamento do motor elétrico, independentemente das configurações e ajustes
+
+Motor elétrico não inicia a rotação mesmo após várias tentativas e inspeção minuciosa
+
+O motor não responde ao comando de ligar, mesmo com os dispositivos de controle corretos e todos os parâmetros configurados
+
+Falha na partida do motor elétrico após interrupção do fornecimento de energia e análise das condições
+
+O motor não dá partida mesmo com a chave no modo "ligado" e as configurações adequadas
+
+Problemas de ligação do motor elétrico após desligamento não programado e verificação de todas as conexões
+
+Dificuldades na partida do motor elétrico após longos períodos de inatividade e testes de componentes
+
+Motor elétrico não inicia mesmo com energia aplicada corretamente e todos os dispositivos de controle em ordem
+
+Falha no sistema de partida do motor elétrico após manutenção recente e revisão dos procedimentos realizados
+
+Motor elétrico não entra em operação após ser acionado a partir do painel de controle e análise dos parâmetros
+
+Dificuldades em fazer o motor elétrico funcionar corretamente em diferentes situações de carga e ambiente
+
+Motor elétrico não dá sinal de vida mesmo com a energia disponível e todas as conexões verificadas e ajustadas
+
+O motor não dá partida mesmo com a chave de partida acionada e os dispositivos de controle operantes
+
+Partida do motor elétrico não é bem-sucedida mesmo após várias tentativas em diferentes cenários de operação
+
+Problemas de acionamento do motor elétrico em diferentes condições de carga, voltagem e temperatura
+
+Motor elétrico não liga mesmo após acionamento do painel de controle e verificação das conexões elétricas
+
+O motor não entra em funcionamento após a partida ser acionada, mesmo com todos os dispositivos de segurança verificados e ajustados
+
+Dificuldades para acionar o motor elétrico em diferentes situações e ambientes industriais
+
+Motor elétrico não dá sinal de vida ao ser ligado, independentemente da voltagem aplicada e configurações de chave de partida
+
+Problemas de partida do motor elétrico mesmo com a chave de partida acionada e todos os sistemas operantes
+
+Falha no sistema de acionamento do motor elétrico, independentemente das configurações e ajustes realizados
+
+Motor elétrico não inicia a rotação mesmo após várias tentativas e inspeção minuciosa dos componentes
+
+O motor não responde ao comando de ligar, mesmo com os dispositivos de controle corretos e todos os parâmetros configurados de forma adequada
+
+Falha na partida do motor elétrico após interrupção do fornecimento de energia e análise das condições de alimentação
+
+O motor não dá partida mesmo com a chave no modo "ligado" e as configurações adequadas de acionamento
+
+Problemas de ligação do motor elétrico após desligamento não programado e verificação de todas as conexões e cabos elétricos
+
+Dificuldades na partida do motor elétrico após longos períodos de inatividade e testes de componentes e sensores
+
+Motor elétrico não inicia mesmo com energia aplicada corretamente e todos os dispositivos de controle em ordem e ajustados
+
+Falha no sistema de partida do motor elétrico após manutenção recente e revisão dos procedimentos realizados e configurações de parâmetros
+
+Motor elétrico não entra em operação após ser acionado a partir do painel de controle e análise dos parâmetros e sinais de controle
+
+Dificuldades em fazer o motor elétrico funcionar corretamente em diferentes situações de carga e ambiente industrial específico
+
+Motor elétrico não dá sinal de vida mesmo com a energia disponível e todas as conexões verificadas e ajustadas conforme normas técnicas
+
+O motor não dá partida mesmo com a chave de partida acionada e os dispositivos de controle operantes em conformidade com as especificações
+
+Partida do motor elétrico não é bem-sucedida mesmo após várias tentativas em diferentes cenários de operação e ajustes finos
+
+Problemas de acionamento do motor elétrico em diferentes condições de carga, voltagem, temperatura e ambientes corrosivos ou agressivos.
+O motor não gira mesmo com a energia ligada
+
+Dificuldades na partida do motor elétrico
+
+Motor não responde aos comandos de controle
+
+Problemas de sobreaquecimento no motor
+
+Falha na isolação do motor elétrico
+
+Motor faz barulhos estranhos durante a operação
+
+Motor elétrico apresenta vibração excessiva
+
+Problemas de desgaste nos rolamentos do motor
+
+Falha no sistema de refrigeração do motor elétrico
+
+Problemas com curtos-circuitos no motor
+
+Motor elétrico consome mais energia do que o normal
+
+Motor não atinge a velocidade adequada
+
+Dificuldades na reversão de rotação do motor
+
+Motor elétrico desliga abruptamente durante a operação
+
+Problemas de mau contato nos terminais do motor
+
+Falha no sistema de proteção do motor elétrico
+
+Motor não mantém a velocidade constante
+
+Problemas de vibração excessiva durante a partida do motor
+
+Motor elétrico apresenta superaquecimento em determinadas condições de carga
+
+Problemas de corrosão nos componentes do motor
+
+Motor não responde ao controle de velocidade
+
+Dificuldades na partida a frio do motor elétrico
+
+Motor elétrico apresenta perda de potência
+
+Problemas de variação de velocidade no motor
+
+Falha no sistema de freio do motor elétrico
+
+Motor não alcança a velocidade máxima especificada
+
+Problemas de desbalanceamento do rotor do motor
+
+Motor elétrico apresenta alta resistência ao girar
+
+Falha no sistema de aterramento do motor
+
+Problemas de interferência eletromagnética no motor elétrico
+
+Motor não liga após interrupção de energia
+
+Dificuldades na partida do motor em baixas temperaturas
+
+Motor elétrico apresenta oscilações de velocidade
+
+Problemas de falta de torque no motor
+
+Falha no sistema de controle de temperatura do motor elétrico
+
+Motor não responde aos comandos de aceleração
+
+Problemas de desalinhamento do motor elétrico
+
+Motor elétrico apresenta falhas intermitentes
+
+Falha no sistema de frenagem do motor
+
+Problemas de ruído excessivo no motor
+
+Motor não mantém a velocidade em cargas variáveis
+
+Dificuldades na partida do motor após longos períodos de inatividade
+
+Motor elétrico apresenta odor de queimado
+
+Problemas de falta de resposta aos sensores do motor
+
+Falha no sistema de lubrificação do motor elétrico
+
+Motor não atinge a potência nominal
+
+Problemas de vibração durante a aceleração do motor
+
+Motor elétrico apresenta problemas de mau funcionamento em altas temperaturas
+
+Falha no sistema de controle de tensão do motor
+
+Problemas de desgaste prematuro dos componentes do motor
+
+Motor não liga após longos períodos de uso contínuo
+
+Dificuldades na partida do motor em altas temperaturas
+
+Motor elétrico apresenta falhas ao operar em carga máxima
+
+Problemas de falta de resposta aos comandos de velocidade
+
+Falha no sistema de proteção contra sobrecarga do motor elétrico
+
+Motor não atinge a velocidade requerida em cargas elevadas
+
+Problemas de oscilação de tensão no motor
+
+Motor elétrico apresenta problemas de funcionamento em condições de umidade
+
+Falha no sistema de controle de torque do motor
+
+Problemas de mau funcionamento do motor em ambientes agressivos
+
+Motor não liga após interrupções de curta duração na energia
+
+Dificuldades na partida do motor em situações de baixa tensão
+
+Motor elétrico apresenta falhas em cargas de partida elevadas
+
+Problemas de falta de resposta aos comandos de direção
+
+Falha no sistema de detecção de falhas do motor elétrico
+
+Motor não atinge a velocidade desejada em cargas reduzidas
+
+Problemas de flutuação de tensão no motor
+
+Motor elétrico apresenta problemas de funcionamento em ambientes corrosivos
+
+Falha no sistema de controle de aceleração do motor
+
+Problemas de curto-circuito interno no motor
+
+Motor não liga mesmo com tensão adequada
+
+Dificuldades na partida do motor em situações de alta carga
+
+Motor elétrico apresenta falhas em cargas variáveis
+
+Problemas de falta de resposta aos comandos de frenagem
+
+Falha no sistema de detecção de sobreaquecimento do motor elétrico
+
+Motor não atinge a velocidade desejada em cargas elevadas
+
+Problemas de variação de tensão no motor
+
+Motor elétrico apresenta problemas de funcionamento em ambientes explosivos
+
+Falha no sistema de controle de reversão do motor
+
+Problemas de desgaste dos contatos elétricos do motor
+
+Motor não liga após períodos prolongados de inatividade
+
+Dificuldades na partida do motor em situações de alta temperatura ambiente
+
+Motor elétrico apresenta falhas em cargas excessivas
+
+Problemas de falta de resposta aos comandos de parada
+
+Falha no sistema de detecção de desequilíbrio do motor elétrico
+
+Motor não atinge a velocidade desejada em cargas reduzidas
+
+Problemas de variação de corrente no motor
+
+Motor elétrico apresenta problemas de funcionamento em ambientes úmidos
+
+Falha no sistema de controle de reversão de rotação do motor
+
+Problemas de falha de contato nos cabos do motor
+
+Motor não liga após períodos de chuva intensa
+
+Dificuldades na partida do motor em situações de baixa temperatura ambiente
+
+Motor elétrico apresenta falhas em cargas leves
+
+Problemas de falta de resposta aos comandos de acionamento
+
+Falha no sistema de detecção de falta de fase do motor elétrico
+
+Motor não atinge a velocidade desejada em cargas elevadas
+
+Problemas de variação de frequência no motor
+
+Motor elétrico apresenta problemas de funcionamento em ambientes empoeirados
+
+Falha no sistema de controle de parada do motor
+
+Problemas de desgaste nos cabos de alimentação do motor

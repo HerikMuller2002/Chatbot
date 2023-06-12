@@ -1,0 +1,19 @@
+PROMPT:
+preciso que realize uma tarefa que vai se repetir algumas vezes, por isso vou te passar tudo o que vc deve lembrar de requisitos aqui para vc não esquecer ok? bom... estou fazendo um chatbot de suporte industrial. basicamente estou agora desenvolvendo um classificador de intenções com bert, mas para poder treinar... eu preciso de alguns textos chaves que representam cada intenção/label pois o modelo deverá reconhecer intenções por informações chaves no texto de entrada e não reconhecer um texto inteiro pois não vou conseguir um grande banco de dados de exemplos. dado o contexto... irei começar a te mandar a partir da proxima menssagem, algumas das intenções que possuo e quero que vc faça o seguinte:
+
+-Criar uma lista de 100 exemplos de termos, frases e palavras-chave que o modelo deve procurar no texto do usuário para associar com a intenção.
+-Incluir exemplos curtos e longos para maior variabilidade.
+-Os exemplos devem ser diretos e não necessariamente uma descrição completa que um usuário daria, pois o texto virá pré-processado (sem acentos, pontuações, divididos em sentenças e sem stop words).
+-Focar em frases e textos relevantes que ajudarão o modelo a encontrar e associar a intenção no texto.
+-Os exemplos devem refletir frases que usuários reais escreveriam.
+-Incluir exemplos informais e formais para maior variabilidade.
+-Incluir gírias, abreviações e terminologia técnica, pois os usuários podem variar em seus níveis de conhecimento técnico.
+-Reconhecer que o modelo não precisa ser extremamente preciso, pois em caso de dúvida, o modelo pode perguntar ao usuário para esclarecer ou obter mais informações.
+-Não será necessário extrair informações de textos muito genéricos ou de má qualidade.
+-Permitir a especificação de restrições para evitar confusão entre as classes de problemas.
+Incluir variabilidade de estrutura nas frases de exemplo.
+-Incorporar sinônimos e variações linguísticas para os termos e palavras-chave.
+
+ok vamos começar... para ser melhor a geração dos textos, eu vou dar a informação de qual é a intenção
+
+intenção: [...]

@@ -1,0 +1,200 @@
+Desgaste excessivo da correia superior
+Correia superior desgastada
+Degradação da correia superior
+Desgaste prematuro da correia superior
+Fadiga da correia superior
+Danos na superfície da correia superior
+Perda de material na correia superior
+Desgaste anormal na correia superior
+Desgaste irregular na correia superior
+Erosão da correia superior
+Correia superior desfiando
+Desgaste por abrasão na correia superior
+Rachaduras na correia superior
+Desgaste por fricção na correia superior
+Desgaste por impacto na correia superior
+Desgaste químico na correia superior
+Desgaste térmico na correia superior
+Correia superior desgastando-se rapidamente
+Desgaste progressivo na correia superior
+Áreas desgastadas na correia superior
+Desgaste nas bordas da correia superior
+Desgaste na superfície de contato da correia superior
+Perda de tensão devido ao desgaste na correia superior
+Desgaste por deslizamento na correia superior
+Desgaste por atrito na correia superior
+Desgaste por arraste na correia superior
+Desgaste por impacto lateral na correia superior
+Desgaste por flexão na correia superior
+Desgaste por torção na correia superior
+Desgaste na área de transição da correia superior
+Desgaste na região de acionamento da correia superior
+Desgaste na região de retorno da correia superior
+Desgaste na região de tensionamento da correia superior
+Desgaste na região de contato com as polias da correia superior
+Desgaste na região de contato com as guias laterais da correia superior
+Desgaste na região de contato com outras partes do equipamento
+Desgaste causado por partículas abrasivas na correia superior
+Desgaste devido à presença de substâncias corrosivas na correia superior
+Desgaste devido à alta temperatura na correia superior
+Desgaste causado por sobrecarga na correia superior
+Desgaste causado por mau alinhamento da correia superior
+Desgaste causado por tensão excessiva na correia superior
+Desgaste causado por falta de lubrificação na correia superior
+Desgaste causado por impactos frequentes na correia superior
+Desgaste causado por vibração excessiva na correia superior
+Desgaste causado por cargas desbalanceadas na correia superior
+Desgaste causado por contaminação na correia superior
+Desgaste causado por desgaste na correia inferior afetando a correia superior
+Desgaste causado por problemas de tensionamento na correia superior
+Desgaste causado por problemas de tensionamento da correia inferior afetando a correia superior
+Desgaste causado por problemas de alinhamento na correia superior
+Desgaste causado por problemas de alinhamento da correia inferior afetando a correia superior
+Desgaste causado por problemas de lubrificação na correia superior
+Desgaste causado por problemas de lubrificação da correia inferior afetando a correia superior
+Desgaste causado por falha no sistema de proteção contra sobrecarga na correia superior
+Desgaste causado por falha no sistema de proteção contra vibração na correia superior
+Desgaste causado por falha no sistema de proteção contra desalinhamento na correia superior
+Desgaste causado por falha no sistema de proteção contra tensão excessiva na correia superior
+Desgaste causado por falha no sistema de proteção contra temperatura elevada na correia superior
+Desgaste causado por falha no sistema de proteção contra contaminação na correia superior
+Desgaste causado por falha no sistema de proteção contra desgaste na correia inferior afetando a correia superior
+Desgaste causado por falha no sistema de proteção contra problemas de tensionamento na correia superior
+Desgaste causado por falha no sistema de proteção contra problemas de tensionamento da correia inferior afetando a correia superior
+Desgaste causado por falha no sistema de proteção contra problemas de alinhamento na correia superior
+Desgaste causado por falha no sistema de proteção contra problemas de alinhamento da correia inferior afetando a correia superior
+Desgaste causado por falha no sistema de proteção contra problemas de lubrificação na correia superior
+Desgaste causado por falha no sistema de proteção contra problemas de lubrificação da correia inferior afetando a correia superior
+Desgaste causado por falta de inspeção regular na correia superior
+Desgaste causado por falta de manutenção preventiva na correia superior
+Desgaste causado por falta de substituição periódica da correia superior
+Desgaste causado por falta de treinamento adequado na operação do equipamento
+Desgaste causado por falha no projeto do sistema de acionamento por correia em V
+Desgaste causado por falha na seleção do tipo de correia para o acionamento
+Desgaste causado por falha no projeto das polias do acionamento por correia em V
+Desgaste causado por falha na instalação da correia superior
+Desgaste causado por falha no ajuste da tensão da correia superior
+Desgaste causado por falha no monitoramento do estado da correia superior
+Desgaste causado por operação em condições ambientais adversas
+Desgaste causado por exposição a agentes químicos corrosivos na correia superior
+Desgaste causado por exposição a altas temperaturas na correia superior
+Desgaste causado por exposição a partículas abrasivas na correia superior
+Desgaste causado por exposição a cargas desbalanceadas no equipamento
+Desgaste causado por exposição a vibrações intensas no equipamento
+Desgaste causado por exposição a impactos frequentes no equipamento
+Desgaste causado por exposição a ambientes com alta umidade na correia superior
+Desgaste causado por exposição a ambientes com baixa temperatura na correia superior
+Desgaste causado por exposição a ambientes com poeira ou sujeira na correia superior
+Desgaste causado por exposição a materiais abrasivos na correia superior
+Desgaste causado por exposição a líquidos corrosivos na correia superior
+Desgaste causado por exposição a produtos químicos na correia superior
+Desgaste causado por exposição a alta carga de trabalho na correia superior
+Desgaste causado por exposição a condições de operação contínua na correia superior
+Desgaste causado por exposição a operação em velocidades excessivas na correia superior
+Desgaste causado por exposição a operação em velocidades muito baixas na correia superior
+Desgaste causado por exposição a condições de operação intermitente na correia superior
+Desgaste causado por exposição a condições de operação em inversão de marcha na correia superior
+Desgaste causado por exposição a condições de operação em ambientes externos na correia superior
+Desgaste causado por exposição a condições de operação em ambientes internos na correia superior
+Desgaste causado por exposição a altos níveis de carga na correia superior
+Desgaste causado por exposição a baixos níveis de carga na correia superior
+Desgaste prematuro da correia superior
+Desgaste irregular da correia superior
+Desgaste excessivo da correia superior
+Desgaste anormal da correia superior
+Desgaste acentuado da correia superior
+Desgaste progressivo da correia superior
+Desgaste desigual da correia superior
+Desgaste por atrito na correia superior
+Desgaste por deslizamento na correia superior
+Desgaste por desgaste na correia superior
+Desgaste por abrasão na correia superior
+Desgaste por desgaste químico na correia superior
+Desgaste por desgaste térmico na correia superior
+Desgaste por fadiga na correia superior
+Desgaste por envelhecimento na correia superior
+Desgaste por danos mecânicos na correia superior
+Desgaste por contaminação na correia superior
+Desgaste por exposição prolongada na correia superior
+Desgaste por falta de lubrificação na correia superior
+Desgaste por uso intensivo na correia superior
+Desgaste por carga excessiva na correia superior
+Desgaste por velocidade excessiva na correia superior
+Desgaste por temperatura elevada na correia superior
+Desgaste por impactos repetitivos na correia superior
+Desgaste por condições ambientais adversas na correia superior
+Desgaste por falha no sistema de proteção na correia superior
+Desgaste por falta de manutenção na correia superior
+Desgaste por desalinhamento na correia superior
+Desgaste por tensionamento inadequado na correia superior
+Desgaste por instalação incorreta da correia superior
+Desgaste por seleção inadequada da correia superior
+Desgaste por problemas de vedação na correia superior
+Desgaste por problemas de alinhamento do sistema de acionamento
+Desgaste por problemas de tensionamento do sistema de acionamento
+Desgaste por problemas de lubrificação do sistema de acionamento
+Desgaste por problemas de polias do sistema de acionamento
+Desgaste por problemas no tensionador da correia superior
+Desgaste por problemas na estrutura de suporte da correia superior
+Desgaste por problemas de desgaste na correia inferior afetando a correia superior
+Desgaste por problemas de tensão na correia inferior afetando a correia superior
+Desgaste por problemas de alinhamento na correia inferior afetando a correia superior
+Desgaste por problemas de lubrificação na correia inferior afetando a correia superior
+Desgaste por falta de inspeção regular da correia superior
+Desgaste por falta de manutenção preventiva da correia superior
+Desgaste por falta de substituição periódica da correia superior
+Desgaste por operação em condições severas na correia superior
+Desgaste por uso de materiais inadequados na correia superior
+Desgaste por problemas de projeto da correia superior
+Desgaste por problemas de fabricação da correia superior
+Desgaste por problemas de qualidade da correia superior
+Desgaste por problemas de armazenamento da correia superior
+Desgaste por problemas de transporte da correia superior
+Desgaste por problemas de montagem da correia superior
+Desgaste por problemas de limpeza da correia superior
+Desgaste por problemas de ajuste da correia superior
+Desgaste por problemas de vedação da correia superior
+Desgaste por problemas de segurança na correia superior
+Desgaste por problemas de eficiência na correia superior
+Desgaste por problemas de produtividade na correia superior
+Desgaste por problemas de desperdício de energia na correia superior
+Desgaste por problemas de paradas não programadas na correia superior
+Desgaste por problemas de impacto ambiental na correia superior
+Desgaste por problemas de ruído na correia superior
+Desgaste por problemas de vibração na correia superior
+Desgaste por problemas de poluição na correia superior
+Desgaste por problemas de segurança do operador na correia superior
+Desgaste por problemas de custo operacional na correia superior
+Desgaste por problemas de qualidade do produto na correia superior
+Desgaste por problemas de falhas no processo produtivo na correia superior
+Desgaste por problemas de perda de material na correia superior
+Desgaste por problemas de interrupção no fluxo de produção na correia superior
+Desgaste por problemas de avarias em componentes relacionados à correia superior
+Desgaste por problemas de paradas não programadas em equipamentos relacionados à correia superior
+Desgaste por problemas de acidentes de trabalho na correia superior
+Desgaste por problemas de retrabalho devido a falhas na correia superior
+Desgaste por problemas de retrabalho devido a substituição frequente da correia superior
+Desgaste por problemas de despesas adicionais devido ao desgaste da correia superior
+Desgaste por problemas de indisponibilidade do equipamento devido ao desgaste da correia superior
+Desgaste por problemas de aumento do tempo de ciclo devido ao desgaste da correia superior
+Desgaste por problemas de impacto na qualidade do produto devido ao desgaste da correia superior
+Desgaste por problemas de impacto na produtividade devido ao desgaste da correia superior
+Desgaste por problemas de impacto no prazo de entrega devido ao desgaste da correia superior
+Desgaste por problemas de redução da vida útil da correia superior
+Desgaste por problemas de impacto na eficiência energética devido ao desgaste da correia superior
+Desgaste por problemas de ruído excessivo causado pelo desgaste da correia superior
+Desgaste por problemas de trepidação no sistema causado pelo desgaste da correia superior
+Desgaste por problemas de aquecimento excessivo da correia superior
+Desgaste por problemas de aumento do consumo de energia devido ao desgaste da correia superior
+Desgaste por problemas de perda de tensão da correia superior
+Desgaste por problemas de deslizamento da correia superior
+Desgaste por problemas de falha na transmissão de potência devido ao desgaste da correia superior
+Desgaste por problemas de desgaste nas polias relacionadas à correia superior
+Desgaste por problemas de ruptura da correia superior
+Desgaste por problemas de formação de fissuras na correia superior
+Desgaste por problemas de perda de tração na correia superior
+Desgaste por problemas de desalinhamento devido ao desgaste da correia superior
+Desgaste por problemas de vibração excessiva causada pelo desgaste da correia superior
+Desgaste por problemas de falta de aderência da correia superior
+Desgaste por problemas de formação de sulcos ou cortes na correia superior
+Desgaste por problemas de perda de flexibilidade da correia superior

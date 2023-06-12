@@ -1,0 +1,448 @@
+A bomba está agitando o fluido e não realizando a descarga adequada de água.
+A bomba está causando agitação no fluido, sem escoar a água corretamente após o início do surto, mantendo a recirculação constante.
+A bomba está agitando o líquido e falhando em descarregar a água após um surto inicial, permanecendo em um ciclo contínuo de recirculação.
+Há agitação do fluido pela bomba, porém a água não é descarregada após um surto inicial, resultando em recirculação constante.
+A bomba está provocando movimentação excessiva do fluido e não realiza a descarga adequada da água após um surto, mantendo a recirculação contínua.
+A bomba está agitando o líquido, mas não descarrega a água após um surto inicial, continuando a recircular sem interrupção.
+Há agitação excessiva do fluido pela bomba, sem a descarga adequada da água após um surto inicial, resultando em recirculação contínua e indesejada.
+A bomba está gerando turbulência no fluido e não realiza a descarga apropriada da água após um surto inicial, mantendo a recirculação constante.
+A bomba está agitando o líquido sem efetuar a descarga correta da água após um surto inicial, causando recirculação contínua e não desejada.
+Há agitação do fluido pela bomba, porém a água não é adequadamente descarregada após um surto, resultando em recirculação constante e ineficiente.
+A bomba está promovendo agitação excessiva do fluido, sem descarregar a água de forma adequada após um surto inicial, mantendo um ciclo de recirculação persistente.
+A bomba está causando turbulência no líquido, mas não realiza a descarga apropriada da água após um surto inicial, continuando a recircular sem cessar.
+Há agitação excessiva do fluido devido à ação da bomba, porém a água não é descarregada corretamente após um surto inicial, resultando em recirculação contínua e indesejada.
+A bomba está provocando movimento intenso do fluido, mas não descarrega a água de maneira adequada após um surto inicial, mantendo a recirculação de forma persistente.
+A bomba está agitando o líquido sem realizar a descarga correta da água após um surto inicial, o que leva a uma recirculação contínua e indesejada.
+Há agitação excessiva do fluido devido à atuação da bomba, sem a descarga apropriada da água após um surto inicial, resultando em recirculação constante e ineficiente.
+A bomba está promovendo turbulência no líquido, mas não realiza a descarga adequada da água após um surto inicial, continuando a recircular sem interrupção.
+Há agitação do fluido pela bomba, porém a água não é descarregada de forma adequada após um surto, resultando em recirculação constante e ineficaz.
+A bomba está gerando movimento excessivo do fluido, sem descarregar a água corretamente após um surto inicial, mantendo um ciclo de recirculação constante.
+A bomba está agitando o líquido, mas não realiza a descarga adequada da água após um surto inicial, continuando a recircular sem interrupção.
+Há agitação excessiva do fluido devido à ação da bomba, sem a descarga apropriada da água após um surto inicial, resultando em recirculação constante e indesejada.
+A bomba está causando turbulência no líquido, porém não realiza a descarga correta da água após um surto inicial, mantendo a recirculação constante.
+A bomba está agitando o fluido, mas não descarrega a água após um surto inicial, resultando em recirculação contínua e falha no escoamento.
+Há agitação excessiva do fluido pela bomba, sem a descarga adequada da água após um surto inicial, mantendo a recirculação constante e ineficiente.
+A bomba está promovendo movimentação intensa do fluido, mas não descarrega a água de forma adequada após um surto inicial, continuando a recircular sem interrupção.
+A bomba está agitando o líquido sem efetuar a descarga correta da água após um surto inicial, causando recirculação constante e indesejada.
+Há agitação do fluido pela bomba, porém a água não é adequadamente descarregada após um surto, resultando em recirculação contínua e ineficiente.
+A bomba está causando turbulência no líquido, mas não realiza a descarga apropriada da água após um surto inicial, mantendo a recirculação persistente.
+A bomba está agitando o fluido sem descarregar a água corretamente após um surto inicial, resultando em recirculação constante e ineficaz.
+Há agitação excessiva do fluido devido à ação da bomba, porém a água não é descarregada de maneira adequada após um surto inicial, continuando a recircular sem cessar.
+A bomba está promovendo movimento intenso do fluido, sem descarregar a água de forma adequada após um surto inicial, mantendo um ciclo de recirculação persistente.
+A bomba está agitando o líquido, mas não realiza a descarga apropriada da água após um surto inicial, continuando a recircular sem interrupção.
+Há agitação excessiva do fluido devido à atuação da bomba, sem a descarga adequada da água após um surto inicial, resultando em recirculação constante e ineficiente.
+A bomba está causando turbulência no líquido, porém não realiza a descarga correta da água após um surto inicial, mantendo a recirculação constante.
+A bomba está agitando o fluido, mas não descarrega a água após um surto inicial, resultando em recirculação contínua e falha no escoamento.
+Há agitação excessiva do fluido pela bomba, sem a descarga adequada da água após um surto inicial, mantendo a recirculação constante e ineficiente.
+A bomba está promovendo movimentação intensa do fluido, mas não descarrega a água de forma adequada após um surto inicial, continuando a recircular sem interrupção.
+A bomba está agitando o líquido sem efetuar a descarga correta da água após um surto inicial, causando recirculação constante e indesejada.
+Há agitação do fluido pela bomba, porém a água não é adequadamente descarregada após um surto, resultando em recirculação contínua e ineficiente.
+A bomba está causando turbulência no líquido, mas não realiza a descarga apropriada da água após um surto inicial, mantendo a recirculação persistente.
+A bomba está agitando o fluido sem descarregar a água corretamente após um surto inicial, resultando em recirculação constante e ineficaz.
+Há agitação excessiva do fluido devido à ação da bomba, porém a água não é descarregada de maneira adequada após um surto inicial, continuando a recircular sem cessar.
+A bomba está promovendo movimento intenso do fluido, sem descarregar a água de forma adequada após um surto inicial, mantendo um ciclo de recirculação persistente.
+A bomba está agitando o líquido, mas não realiza a descarga apropriada da água após um surto inicial, continuando a recircular sem interrupção.
+Há agitação excessiva do fluido devido à atuação da bomba, sem a descarga adequada da água após um surto inicial, resultando em recirculação constante e ineficiente.
+A bomba está causando turbulência no líquido, porém não realiza a descarga correta da água após um surto inicial, mantendo a recirculação constante.
+A bomba está agitando o fluido, mas não descarrega a água após um surto inicial, resultando em recirculação contínua e falha no escoamento.
+Há agitação excessiva do fluido pela bomba, sem a descarga adequada da água após um surto inicial, mantendo a recirculação constante e ineficiente.
+A bomba está promovendo movimentação intensa do fluido, mas não descarrega a água de forma adequada após um surto inicial, continuando a recircular sem interrupção.
+A bomba está agitando o líquido sem efetuar a descarga correta da água após um surto inicial, causando recirculação constante e indesejada.
+Bomba agitando o fluido
+
+Falha na descarga da água
+
+Recirculação contínua do fluido
+
+Problema de fluxo inadequado na bomba
+
+Ineficiência na transferência de água
+
+Bomba não está bombeando corretamente
+
+Problema de recirculação excessiva
+
+Incapacidade da bomba de descarregar a água
+
+Fluxo de água interrompido pela bomba
+
+Desempenho insatisfatório da bomba
+
+Problema de agitação excessiva do fluido
+
+Falta de pressão na descarga da bomba
+
+Recirculação anormal da água na bomba
+
+Problema de estagnação do fluido
+
+Bomba não está expelindo a água adequadamente
+
+Dificuldade na retirada da água após o surto inicial
+
+Ineficiência na operação de descarga da bomba
+
+Problema de bloqueio do fluxo de água
+
+Desalinhamento da bomba com o sistema de tubulação
+
+Falha na função de drenagem da bomba
+
+Problema de pressão inadequada na descarga da bomba
+
+Recirculação contínua da água sem descarga adequada
+
+Falha na remoção da água após o surto inicial
+
+Problema de ressurgência do fluido na bomba
+
+Bomba não está evacuando a água corretamente
+
+Fluxo de água obstruído pela bomba
+
+Problema de descarga ineficiente da bomba
+
+Incapacidade da bomba de eliminar a água após o surto inicial
+
+Dificuldade na retirada da água do sistema
+
+Desempenho inconsistente da bomba na descarga da água
+
+Problema de recirculação prolongada do fluido
+
+Falta de eficácia na remoção da água pela bomba
+
+Recirculação excessiva da água sem descarga adequada
+
+Problema de refluxo do fluido na bomba
+
+Bomba não está descarregando a água após o surto inicial
+
+Fluxo de água bloqueado pela bomba
+
+Problema de escoamento insuficiente na bomba
+
+Incapacidade da bomba de retirar a água após o surto inicial
+
+Dificuldade na evacuação da água pela bomba
+
+Desempenho deficiente da bomba na remoção da água
+
+Problema de agitação excessiva do fluido pela bomba
+
+Falha na liberação da água pela bomba após o surto inicial
+
+Recirculação prolongada da água sem descarga adequada
+
+Problema de retrocesso do fluido na bomba
+
+Bomba não está expulsando a água após o surto inicial
+
+Fluxo de água obstruído pelo funcionamento da bomba
+
+Problema de drenagem ineficiente na bomba
+
+Incapacidade da bomba de eliminar a água após o início
+
+Dificuldade na remoção da água do sistema pela bomba
+
+Desempenho inconsistente da bomba na drenagem da água
+
+Problema de recirculação excessiva da água
+
+Falta de descarga adequada da água pela bomba
+
+Recirculação contínua da água sem liberação eficiente
+
+Problema de retenção do fluido na bomba
+
+Bomba não está evacuando a água após o início
+
+Fluxo de água bloqueado pelo mau funcionamento da bomba
+
+Problema de descarga insatisfatória na bomba
+
+Incapacidade da bomba de remover a água após o início
+
+Dificuldade na retirada da água do sistema com a bomba
+
+Desempenho inadequado da bomba na descarga da água
+
+Problema de agitação excessiva do fluido na bomba
+
+Falha na liberação da água pela bomba após o início
+
+Recirculação prolongada da água sem descarga adequada
+
+Problema de retrocesso do fluido na bomba de água
+
+Bomba não está expelindo a água após o surto inicial
+
+Fluxo de água obstruído pelo mau funcionamento da bomba
+
+Problema de drenagem ineficiente da água pela bomba
+
+Incapacidade da bomba de eliminar a água após o surto inicial
+
+Dificuldade na remoção da água do sistema com a bomba
+
+Desempenho deficiente da bomba na drenagem da água
+
+Problema de recirculação excessiva da água no sistema
+
+Falta de descarga adequada da água pela bomba
+
+Recirculação contínua da água sem liberação eficiente
+
+Problema de retenção do fluido na bomba de água
+
+Bomba não está evacuando a água após o surto inicial
+
+Fluxo de água bloqueado pelo mau funcionamento da bomba
+
+Problema de descarga insatisfatória da água na bomba
+
+Incapacidade da bomba de remover a água após o surto inicial
+
+Dificuldade na retirada da água do sistema com a bomba
+
+Desempenho inadequado da bomba na descarga da água
+
+Problema de agitação excessiva do fluido pela bomba
+
+Falha na liberação da água pela bomba após o surto inicial
+
+Recirculação prolongada da água sem descarga adequada
+
+Problema de retrocesso do fluido na bomba de água
+
+Bomba não está expulsando a água após o surto inicial
+
+Fluxo de água obstruído pelo mau funcionamento da bomba
+
+Problema de drenagem ineficiente da água pela bomba
+
+Incapacidade da bomba de eliminar a água após o surto inicial
+
+Dificuldade na remoção da água do sistema com a bomba
+
+Desempenho deficiente da bomba na drenagem da água
+
+Problema de recirculação excessiva da água no sistema
+
+Falta de descarga adequada da água pela bomba
+
+Recirculação contínua da água sem liberação eficiente
+
+Problema de retenção do fluido na bomba de água
+
+Bomba não está evacuando a água após o surto inicial
+
+Fluxo de água bloqueado pelo mau funcionamento da bomba
+
+Problema de descarga insatisfatória da água na bomba
+
+Incapacidade da bomba de remover a água após o surto inicial
+
+Dificuldade na retirada da água do sistema com a bomba
+
+Desempenho inadequado da bomba na descarga da água
+Água não é expelida pela bomba após o surto
+
+Fluxo de água interrompido pela bomba
+
+Problema de vazão da bomba após o início
+
+Bomba não está liberando a água adequadamente
+
+Falha na evacuação da água pela bomba
+
+Problema de escoamento da bomba após o surto
+
+Água não está sendo descarregada pela bomba
+
+Dificuldade na remoção da água pela bomba
+
+Bomba continua a circular a água sem descarga
+
+Problema de recirculação de água pela bomba
+
+Água não é expulsa pela bomba após o início
+
+Fluxo de água bloqueado pela bomba
+
+Problema de descarga da bomba após o surto
+
+Bomba não está liberando a água corretamente
+
+Incapacidade da bomba de drenar a água
+
+Problema de escoamento da bomba após o início
+
+Água não está sendo eliminada pela bomba
+
+Dificuldade na remoção da água com a bomba
+
+Bomba continua a recircular a água sem descarregar
+
+Problema de recirculação contínua de água pela bomba
+
+Água não é expelida pela bomba depois do surto
+
+Fluxo de água obstruído pela bomba
+
+Problema de vazão da bomba depois do início
+
+Bomba não está liberando a água de forma adequada
+
+Falha na evacuação da água através da bomba
+
+Problema de escoamento da bomba depois do surto
+
+Água não está sendo descarregada pela bomba
+
+Dificuldade na remoção da água usando a bomba
+
+Bomba continua a circular a água sem descarregá-la
+
+Problema de recirculação de água contínua pela bomba
+
+Água não é expulsa pela bomba após o início do funcionamento
+
+Fluxo de água bloqueado devido à falha da bomba
+
+Problema de descarga da bomba após o surto inicial
+
+Bomba não está liberando a água de maneira adequada
+
+Incapacidade da bomba de drenar a água após o início
+
+Problema de escoamento da bomba após o início do surto
+
+Água não está sendo eliminada pela bomba
+
+Dificuldade na remoção da água usando a bomba
+
+Bomba continua a recircular a água sem descarregá-la
+
+Problema de recirculação contínua de água pela bomba
+
+Água não é expelida pela bomba após o surto inicial
+
+Fluxo de água bloqueado pela bomba
+
+Problema de vazão da bomba após o início do funcionamento
+
+Bomba não está liberando a água de maneira correta
+
+Falha na evacuação da água através da bomba
+
+Problema de escoamento da bomba após o surto inicial
+
+Água não está sendo descarregada pela bomba
+
+Dificuldade na remoção da água com o uso da bomba
+
+Bomba continua a recircular a água sem descarregá-la
+
+Problema de recirculação de água contínua pela bomba
+
+Água não é expulsa pela bomba depois do surto inicial
+
+Fluxo de água obstruído devido a falha da bomba
+
+Problema de descarga da bomba após o início do funcionamento
+
+Bomba não está liberando a água corretamente
+
+Incapacidade da bomba de drenar a água após o surto inicial
+
+Problema de escoamento da bomba após o início do surto
+
+Água não está sendo eliminada pela bomba
+
+Dificuldade na remoção da água usando a bomba
+
+Bomba continua a recircular a água sem descarregá-la
+
+Problema de recirculação contínua de água pela bomba
+
+A bomba não está expelindo a água após o surto
+
+A bomba está bloqueando o fluxo de água
+
+Problema de vazão da bomba após o início da operação
+
+A bomba não está liberando a água adequadamente
+
+A bomba não está evacuando a água corretamente
+
+Problema de escoamento da bomba após o surto inicial
+
+A água não está sendo descarregada pela bomba
+
+Dificuldade na remoção da água utilizando a bomba
+
+A bomba continua a recircular a água sem descarregar
+
+Problema de recirculação contínua de água pela bomba
+
+A bomba não está expelindo a água depois do surto
+
+A bomba está obstruindo o fluxo de água
+
+Problema de descarga da bomba após o início da operação
+
+A bomba não está liberando a água corretamente
+
+Incapacidade da bomba de drenar a água após o surto inicial
+
+Problema de escoamento da bomba após o surto
+
+A água não está sendo eliminada pela bomba
+
+Dificuldade na remoção da água com o uso da bomba
+
+A bomba continua a recircular a água sem descarregá-la
+
+Problema de recirculação constante de água pela bomba
+
+A bomba não está expulsando a água após o surto inicial
+
+A bomba está bloqueando o fluxo de água
+
+Problema de vazão da bomba após o início da operação
+
+A bomba não está liberando a água adequadamente
+
+A bomba não está evacuando a água corretamente
+
+Problema de escoamento da bomba após o início do surto
+
+A água não está sendo descarregada pela bomba
+
+Dificuldade na remoção da água utilizando a bomba
+
+A bomba continua a recircular a água sem descarregá-la
+
+Problema de recirculação contínua de água pela bomba
+
+A bomba não está expulsando a água depois do surto inicial
+
+A bomba está obstruindo o fluxo de água
+
+Problema de descarga da bomba após o início da operação
+
+A bomba não está liberando a água corretamente
+
+Incapacidade da bomba de drenar a água após o surto inicial
+
+Problema de escoamento da bomba após o início do surto
+
+A água não está sendo eliminada pela bomba
+
+Dificuldade na remoção da água com o uso da bomba
+
+A bomba continua a recircular a água sem descarregá-la
+
+Problema de recirculação constante de água pela bomba

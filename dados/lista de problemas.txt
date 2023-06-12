@@ -1,0 +1,165 @@
+PROMPT:
+preciso que realize uma tarefa que vai se repetir algumas vezes, por isso vou te passar tudo o que vc deve lembrar de requisitos aqui para vc não esquecer ok? bom... estou fazendo um chatbot de suporte industrial. basicamente possuo uma base de dados com varios problemas e soluções. para isso precisaria extrair/identificar no texto do usuário, duas infos importantes: qual o equipamento e qual o problema. para identificar o equipamento eu fiz um modelo NER que já está funcionando. agor preciso do modelo que identifica qual o problema que o usuário está enfrentando. por isso que criei um modelo bert que vai classificar uma frase/sentença já pré classificada como um possivel problema que o usuário está enfrentando. e dessa frase/ sentença o modelo deve verificar em qual classe ele pertence para poder retornar a solução, no caso as classes seriam os problemas que tenho no banco. mas para isso eu preciso de vários exemplos de termos e palavras chaves de cada problema para que o meu modelo possa ser treinado. dado o contexto... irei começar a te mandar a partir da proxima menssagem, alguns exemplos de problemas... e quero que vc faça o seguinte:
+
+-Criar uma lista de 100 exemplos de termos, frases e palavras-chave que o modelo deve procurar no texto do usuário para associar com o problema especificado.
+-Incluir exemplos curtos e longos para maior variabilidade.
+-Os exemplos devem ser diretos e não necessariamente uma descrição completa que um usuário daria, pois o texto virá pré-processado (sem acentos, pontuações, divididos em sentenças e sem stop words).
+-Focar em frases e textos relevantes que ajudarão o modelo a encontrar e associar o problema no texto.
+-Os exemplos devem refletir frases que usuários reais escreveriam.
+Incluir exemplos informais e formais para maior variabilidade.
+Incluir gírias, abreviações e terminologia técnica, pois os usuários podem variar em seus níveis de conhecimento técnico.
+-Reconhecer que o modelo não precisa ser extremamente preciso, pois em caso de dúvida, o modelo pode perguntar ao usuário para esclarecer ou obter mais informações.
+-Não será necessário extrair informações de textos muito genéricos ou de má qualidade.
+-Permitir a especificação de restrições para evitar confusão entre as classes de problemas.
+Incluir variabilidade de estrutura nas frases de exemplo.
+-Incorporar sinônimos e variações linguísticas para os termos e palavras-chave.
+
+ok vamos começar... para ser melhor a geração dos textos, eu vou dar a informação de qual é o equipamento e qual o problema.
+
+equipamento: [...]
+problema: [...]
+
+-------------------------------------------------------------------
+bombas:
+1 - bomba muito quente e piscando 
+2 - bomba agitando o fluido e não descarregando a água após um surto inicial e continuando a recircular 
+3 - fortes vibrações durante a operação da bomba 
+4 - capacidade ou pressão da bomba reduzida 
+5 - a bomba não está fornecendo água 
+6 - motor usando potência excessiva na temperatura nominal 
+7 - relé de proteção do motor sendo acionado pela bomba 
+8 - rolamentos em alta temperatura 
+9 - descarga insuficiente 
+10 - consumo excessivo de energia
+
+rolamentos:
+11 - superaquecimento 
+12 - rolamento barulhento 
+13 - amassados irregulares ou material incrustado nas pistas 
+14 - vibração 
+15 - rolamento solto no eixo 
+16 - eixo difícil de girar com a mão 
+17 - desalinhamento angular 
+18 - substituições frequentes 
+19 - vazamento de óleo 
+
+válvulas
+20 - vazamento da glândula da válvula 
+21 - vazamento da junta do corpo ao capô 
+22 - válvula de gaveta difícil de operar 
+23 - vibração da válvula de gaveta 
+24 - vazamento através do disco e da sede em uma válvula globo 
+25 - vazamento intermitente na válvula 
+26 - o capô parafusado se solta repetidamente 
+27 - flange da tubulação com vazamento 
+28 - válvula de segurança de pressão com vazamento 
+29 - vibração intermitente em válvulas e tubulações associadas 
+30 - vazamento contínuo em uma válvula borboleta 
+31 - válvula operada manualmente difícil de abrir 
+
+acionamentos por corrente:
+32 - unidade barulhenta 
+33 - dentes da roda dentada de escalada de corrente 
+34 - a unidade está funcionando excessivamente quente 
+35 - corrente pendurada na roda dentada 
+36 - chicote de corrente 
+37 - articulações rígidas em cadeia 
+38 - desgaste nas placas do elo da corrente ou nas laterais dos dentes da roda dentada 
+39 - pinos, buchas ou roletes quebrados 
+40 - pulsação 
+41 - dentes da roda dentada quebrados 
+42 - pinos de contrapino saindo 
+43 - artigos transportados danificados 
+
+caixas de engrenagens:
+44 - operação ruidosa da unidade 
+45 - temperatura operacional excessiva 
+46 - parafusos de montagem soltos 
+
+Sistemas de óleo lubrificante:
+47 - pressão do sistema muito baixa 
+48 - pressão do sistema muito alta 
+49 - pressão do sistema constantemente flutuante 
+50 - pressões e fluxos de visão muito irregulares, indicando um fluxo muito irregular e acidentado 
+51 - soar o alarme 
+52 - bomba de reserva e alarme ligando e desligando 
+53 - bomba funcionando ruidosamente 
+54 - bomba funcionando de forma ruidosa 
+
+Acionamentos por correia em V:
+55 - deslizamento da correia 
+56 - correia virada na polia 
+57 - quebra repetida da correia 
+58 - desgaste rápido da correia 
+59 - correia rachada e endurecida, causando deslizamento 
+60 - chicoteamento com cinto 
+61 - rolamentos quentes 
+62 - uma ou duas correias quebradas em um conjunto 
+63 - esticamento excessivo da correia 
+64 - alongamento desigual da correia 
+65 - separação por correia 
+66 - desgaste da correia superior 
+67 - abertura da costura do envelope no cinto 
+68 - desgaste anormal do envelope 
+69 - cinto mole ou inchado 
+70 - endurecimento e rachaduras no envelope da correia 
+
+Sistemas de ventiladores:
+71 - saída do ventilador abaixo de scfm 
+72 - vibração e ruído 
+73 - rolamentos danificados 
+74 - superaquecimento do rolamento 
+
+Purgadores de vapor:
+75 - armadilha que sopra vapor vivo 
+76 - purgador não está descarregando 
+77 - descarga contínua do purgador 
+78 - aquecimento lento ou irregular 
+79 - problemas de contrapressão 
+
+Motores elétricos:
+80 - o motor não está dando partida 
+81 - paralisação do motor 
+82 - motor funcionando e depois morrendo 
+83 - o motor não está atingindo a velocidade 
+84 - motor demorando muito para acelerar 
+85 - rotação incorreta 
+86 - superaquecimento do motor durante o funcionamento sob carga 
+87 - o motor vibra após as correções terem sido feitas 
+88 - corrente de linha desequilibrada em motores polifásicos durante a operação normal 
+89 - ruído de raspagem 
+90 - operação ruidosa 
+91 - rolamentos de bucha quente 
+92 - rolamento antifricção a quente 
+93 - sobrecarga no controlador 
+94 - faíscas ou flashes excessivos nas escovas 
+95 - comutador escurecido 
+96 - faíscas intermitentes nas escovas 
+97 - poeira fina sob o acoplamento que utiliza amortecedores ou pinos de borracha 
+98 - fumaça ou "bigodes" de solda que se estendem da armadura 
+99 - o motor não dá partida 
+100 - zumbido excessivo 
+101 - ruído de clique regular 
+102 - batidas rápidas 
+103 - escova 'chatter' 
+104 - superaquecimento do motor 
+105 - comutador quente 
+
+Contatos elétricos:
+106 - soldagem dos contatos 
+107 - menor vida útil do contato 
+
+Disjuntores elétricos de caixa moldada:
+108 - cortes térmicos frequentes 
+109 - disparo magnético do disjuntor 
+110 - defeitos mecânicos e elétricos 
+
+Circuito magnético:
+111 - alta corrente de excitação 
+112 - alta perda de núcleo 
+113 - falha no isolamento 
+
+Circuito dielétrico:
+114 - fumaça 
+115 - isolamento queimado 
+116 - disjuntores ou fusíveis abertos 

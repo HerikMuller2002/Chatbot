@@ -1,0 +1,890 @@
+,AGRADECIMENTO,DESPEDIDA,FEEDBACK_NEGATIVO,PEDIDO_AJUDA,SAUDACAO
+0,obrigado,ate logo,estou insatisfeito com o serviço prestado,pode me ajudar,Bem vindo
+1,obrigado,ate logo,insatisfeito serviço prestado,pode ajudar,bem vindo
+2,muito obrigado,ate mais,estou insatisfeito com o serviço prestado,estou com problema,Bem vindo
+3,muito obrigado,ate,nao estou satisfeito com o produto que comprei,problema,Ola novamente
+4,agradeço,ate mais,nao satisfeito produto comprei,tenho um problema,ola novamente
+5,agradeço,ate a proxima,nao estou satisfeito com o produto que comprei,me ajuda,Bom dia Como posso ajuda lo com a sua questao industrial
+6,gratidao,ate proxima,estou muito desapontado com o atendimento recebido,ajuda,bom dia posso ajuda lo questao industrial
+7,gratidao,ate a proxima,desapontado atendimento recebido,estou com um problemao,Bom dia Como posso ajuda lo com a sua questao industrial
+8,obrigado pela ajuda,foi bom conversar com voce,estou muito desapontado com o atendimento recebido,problemao,Boa tarde Como esta o seu dia
+9,obrigado ajuda,bom conversar voce,estou extremamente insatisfeito com a qualidade do serviço,tenho um problemao,boa tarde dia
+10,obrigado pela ajuda,foi bom conversar com voce,extremamente insatisfeito qualidade serviço,estou com probleminha,Boa tarde Como esta o seu dia
+11,muito obrigado pela assistencia,ate breve,estou extremamente insatisfeito com a qualidade do serviço,probleminha,Oi voce e um chatbot
+12,obrigado assistencia,ate breve,nao estou contente com a soluçao oferecida,tenho um probleminha,oi voce chatbot
+13,muito obrigado pela assistencia,tchau,nao contente soluçao oferecida,preciso de uma mao,Oi voce e um chatbot
+14,agradeço pela orientaçao,tchau,nao estou contente com a soluçao oferecida,preciso mao,Oi tudo bom Como posso ajuda lo
+15,agradeço orientaçao,ate mais tarde,estou bastante insatisfeito com o tratamento que recebi,me da uma maozinha,oi tudo bom posso ajuda lo
+16,agradeço pela orientaçao,ate tarde,bastante insatisfeito tratamento recebi,maozinha,Oi tudo bom Como posso ajuda lo
+17,obrigado pelo suporte,ate mais tarde,estou bastante insatisfeito com o tratamento que recebi,preciso de uma ajudinha,Oi sabe me dizer o que pode estar acontecendo com minha maquina
+18,obrigado suporte,tenha um otimo dia,nao fiquei satisfeito com o resultado final,preciso ajudinha,oi sabe dizer pode acontecendo maquina
+19,obrigado pelo suporte,tenha otimo dia,nao fiquei satisfeito resultado final,problemas,Oi sabe me dizer o que pode estar acontecendo com minha maquina
+20,muito obrigado pela colaboraçao,tenha um otimo dia,nao fiquei satisfeito com o resultado final,Qual e a melhor forma de prevenir a ferrugem em equipamentos,Oi tudo bem
+21,obrigado colaboraçao,ate mais cedo,estou chateado com a forma como fui tratado,melhor forma prevenir ferrugem equipamentos,oi tudo bem
+22,muito obrigado pela colaboraçao,ate cedo,chateado forma tratado,Estou tendo problemas em identificar a causa de um curto circuito,Oi tudo bem
+23,agradeço por resolver o problema,ate mais cedo,estou chateado com a forma como fui tratado,tendo problemas identificar causa curto circuito,Ola preciso de ajuda para solucionar um problema em um motor
+24,agradeço resolver problema,ate amanha,nao estou feliz com a resposta que recebi,Preciso de ajuda para resolver um problema com um robo industrial,ola preciso ajuda solucionar problema motor
+25,agradeço por resolver o problema,ate amanha,nao feliz resposta recebi,preciso ajuda resolver problema robo industrial,Oi como voce esta
+26,grato pelo apoio,nos vemos em breve,nao estou feliz com a resposta que recebi,Minha maquina esta demorando a iniciar o que pode estar causando isso,oi voce
+27,grato apoio,vemos breve,estou muito frustrado com a demora na resoluçao do problema,maquina demorando iniciar pode causando,Oi como voce esta
+28,grato pelo apoio,no vemos em breve,frustrado demora resoluçao problema,Como posso maximizar a eficiencia de minha linha de produçao,Ola voce pode me ajudar
+29,obrigado pela atençao,fique bem,estou muito frustrado com a demora na resoluçao do problema,posso maximizar eficiencia linha produçao,ola voce pode ajudar
+30,obrigado atençao,fique bem,nao estou satisfeito com a falta de suporte recebida,Estou recebendo mensagens de erro em meu equipamento como posso resolve las,Ola voce pode me ajudar
+31,obrigado pela atençao,tenha uma boa semana,nao satisfeito falta suporte recebida,recebendo mensagens erro equipamento posso resolve las,Ola em que posso ajudar nesse momento
+32,muito obrigado pela rapidez,tenha boa semana,nao estou satisfeito com a falta de suporte recebida,Estou recebendo mensagens de erro em meu equipamento como posso resolve la,ola posso ajudar nesse momento
+33,obrigado rapidez,tenha uma boa semana,estou insatisfeito com a falta de clareza nas informaçoes,recebendo mensagens erro equipamento posso resolve la,Ola em que posso ajudar nesse momento
+34,muito obrigado pela rapidez,ate a proxima vez,insatisfeito falta clareza informaçoes,Preciso substituir uma peça da minha maquina como faço para encontrar e comprar,Boas vindas
+35,agradeço pela dedicaçao,ate proxima vez,estou insatisfeito com a falta de clareza na informaçoes,preciso substituir peça maquina faço encontrar comprar,boas vindas
+36,agradeço dedicaçao,ate a proxima vez,nao estou contente com a falta de comprometimento da empresa,Minha maquina esta precisando de calibraçao como faço para realizar,boa vindas
+37,agradeço pela dedicaçao,desejo lhe tudo de bom,nao contente falta comprometimento empresa,maquina precisando calibraçao faço realizar,Oi gostaria de uma ajuda
+38,gratidao pela soluçao,desejo tudo bom,nao estou contente com a falta de comprometimento da empresa,Minha maquina esta vibrando muito o que devo fazer,oi gostaria ajuda
+39,gratidao soluçao,desejo lhe tudo de bom,estou bastante insatisfeito com a falta de profissionalismo,maquina vibrando devo fazer,Oi Como posso ser util
+40,gratidao pela soluçao,ate a proxima conversa,bastante insatisfeito falta profissionalismo,Como posso evitar o desgaste excessivo de meus equipamentos,oi posso util
+41,obrigado pela gentileza,ate proxima conversa,estou bastante insatisfeito com a falta de profissionalismo,posso evitar desgaste excessivo equipamentos,Oi Como posso ser util
+42,obrigado gentileza,ate a proxima conversa,nao estou feliz com a falta de respeito demonstrada,Como resolver problemas no sistema de freios,Oi estou a disposiçao para te ajudar
+43,obrigado pela gentileza,tenha um bom descanso,nao feliz falta respeito demonstrada,resolver problemas sistema freios,oi disposiçao ajudar
+44,muito obrigado por tudo,tenha bom descanso,nao estou feliz com a falta de respeito demonstrada,Minha maquina esta fazendo um barulho estranho como posso resolver,Oi estou a disposiçao para te ajudar
+45,obrigado tudo,tenha um bom descanso,estou muito decepcionado com o descaso da empresa,maquina fazendo barulho estranho posso resolver,Oi como posso ajudar nesse momento
+46,muito obrigado por tudo,ate a proxima oportunidade,decepcionado descaso empresa,Minha maquina esta falhando na entrega do produto final como posso solucionar,oi posso ajudar nesse momento
+47,agradeço pelo suporte fornecido,ate proxima oportunidade,estou muito decepcionado com o descaso da empresa,maquina falhando entrega produto final posso solucionar,Oi como posso ajudar nesse momento
+48,agradeço suporte fornecido,ate a proxima oportunidade,nao estou satisfeito com a falta de empatia por parte do suporte,Nao sei como resolver um problema com um sistema pneumatico,Boa tarde
+49,agradeço pelo suporte fornecido,desejo lhe sucesso,nao satisfeito falta empatia parte suporte,nao sei resolver problema sistema pneumatico,boa tarde
+50,grato pela disponibilidade,desejo sucesso,nao estou satisfeito com a falta de empatia por parte do suporte,Tenho uma duvida sobre o funcionamento do meu equipamento como posso esclarece la,Ola precise de ajuda com problemas eletricos ou mecanicos
+51,grato disponibilidade,desejo lhe sucesso,estou insatisfeito com a falta de soluçao para o meu problema,duvida sobre funcionamento equipamento posso esclarece la,ola precise ajuda problemas eletricos mecanicos
+52,grato pela disponibilidade,foi um prazer falar com voce,insatisfeito falta soluçao problema,Tenho um problema em uma maquina especifica como posso encontrar a causa raiz,Ola precise de ajuda com problemas eletricos ou mecanicos
+53,obrigado pela competencia,prazer falar voce,estou insatisfeito com a falta de soluçao para o meu problema,problema maquina especifica posso encontrar causa raiz,Bom dia
+54,obrigado competencia,foi um prazer falar com voce,nao estou contente com a falta de comunicaçao eficiente,Preciso solucionar problemas com o sistema de arrefecimento da minha fabrica por onde começar,bom dia
+55,obrigado pela competencia,tenha um dia maravilhoso,nao contente falta comunicaçao eficiente,preciso solucionar problemas sistema arrefecimento fabrica onde começar,Ola eu nao sei se voces podem me ajudar mas preciso de ajuda
+56,muito obrigado pela ajuda prestada,tenha dia maravilhoso,nao estou contente com a falta de comunicaçao eficiente,Preciso fazer manutençao preventiva na minha maquina como devo proceder,ola nao sei voces podem ajudar preciso ajuda
+57,obrigado ajuda prestada,tenha um dia maravilhoso,estou bastante insatisfeito com a falta de cuidado com o cliente,preciso fazer manutençao preventiva maquina devo proceder,Ola eu nao sei se vox podem me ajudar ma preciso de ajuda
+58,muito obrigado pela ajuda prestada,ate mais tarde amigo,bastante insatisfeito falta cuidado cliente,Minha maquina deu pane e nao esta ligando como posso solucionar,ola nao sei vox podem ajudar preciso ajuda
+59,agradeço por facilitar as coisas,ate tarde amigo,estou bastante insatisfeito com a falta de cuidado com o cliente,maquina deu pane nao ligando posso solucionar,Ola
+60,agradeço facilitar coisas,ate mais tarde amigo,nao estou feliz com a falta de atençao aos detalhes,Como identificar e corrigir problemas de transmissao do equipamento,ola
+61,agradeço por facilitar a coisas,desejo lhe um otimo fim de semana,nao feliz falta atençao detalhes,identificar corrigir problemas transmissao equipamento,Ola
+62,gratidao pela prontidao,desejo otimo fim semana,nao estou feliz com a falta de atençao aos detalhes,Como posso resolver uma falha na minha linha de produçao que esta causando desperdicio de material,Oi como posso ajudar
+63,gratidao prontidao,desejo lhe um otimo fim de semana,estou muito aborrecido com a falta de compromisso da empresa,posso resolver falha linha produçao causando desperdicio material,oi posso ajudar
+64,gratidao pela prontidao,espero te ver em breve,aborrecido falta compromisso empresa,Minha produçao esta parada por causa de um problema na maquina como posso solucionar rapidamente,Oi como posso ajudar
+65,obrigado pela paciencia,espero ver breve,estou muito aborrecido com a falta de compromisso da empresa,produçao parada causa problema maquina posso solucionar rapidamente,Oi estou aqui para lhe ajudar com soluçoes industriais
+66,obrigado paciencia,espero te ver em breve,nao estou satisfeito com a falta de cumprimento das promessas,Qual e o melhor momento para realizar a manutençao preventiva em meu maquinario,oi aqui ajudar soluçoes industriais
+67,obrigado pela paciencia,tenha um bom tempo,nao satisfeito falta cumprimento promessas,melhor momento realizar manutençao preventiva maquinario,Oi estou aqui para lhe ajudar com soluçoes industriais
+68,muito obrigado pela generosidade,tenha bom tempo,nao estou satisfeito com a falta de cumprimento da promessas,Estou com dificuldades para identificar o tipo de problema que a minha maquina esta apresentando o que fazer,Como vai
+69,obrigado generosidade,tenha um bom tempo,estou insatisfeito com a falta de qualidade do produto,dificuldades identificar tipo problema maquina apresentando fazer,vai
+70,muito obrigado pela generosidade,ate logo meu amigo,insatisfeito falta qualidade produto,Minha maquina esta com um vazamento como devo proceder,Como vai
+71,agradeço pela disponibilidade em compartilhar conhecimento,ate logo amigo,estou insatisfeito com a falta de qualidade do produto,maquina vazamento devo proceder,Ola tudo tranquilo
+72,agradeço disponibilidade compartilhar conhecimento,ate logo meu amigo,nao estou contente com a falta de transparencia nas informaçoes,A maquina parou de funcionar inesperadamente o que posso fazer para resolve la,ola tudo tranquilo
+73,agradeço pela disponibilidade em compartilhar conhecimento,desejo lhe um bom dia,nao contente falta transparencia informaçoes,maquina parou funcionar inesperadamente posso fazer resolve la,Ola tudo tranquilo
+74,obrigada,desejo bom dia,nao estou contente com a falta de transparencia na informaçoes,Preciso identificar a causa de um ruido estranho que esta vindo da minha maquina o que pode ser,Ola preciso de ajuda para solucionar um problema em uma bomba
+75,tks,desejo lhe um bom dia,estou bastante insatisfeito com a falta de suporte tecnico adequado,preciso identificar causa ruido estranho vindo maquina pode,ola preciso ajuda solucionar problema bomba
+76,thank you,ate mais tarde companheiro,bastante insatisfeito falta suporte tecnico adequado,Preciso realizar a manutençao corretiva da minha maquina o que fazer,Oi preciso de ajuda para resolver um problema em um sistema hidraulico
+77,valeu,ate tarde companheiro,estou bastante insatisfeito com a falta de suporte tecnico adequado,preciso realizar manutençao corretiva maquina fazer,oi preciso ajuda resolver problema sistema hidraulico
+78,obrigada pela ajuda,ate mais tarde companheiro,nao estou feliz com a falta de eficiencia no atendimento,Qual a melhor forma de solucionar problemas com sensores em minha maquina,Oi como posso ajuda lo com problemas industriais
+79,obrigada ajuda,tenha uma otima noite,nao feliz falta eficiencia atendimento,melhor forma solucionar problemas sensores maquina,oi posso ajuda lo problemas industriais
+80,muito obrigada,tenha otima noite,nao estou feliz com a falta de eficiencia no atendimento,O que fazer para corrigir problemas com o sistema hidraulico da minha fabrica,Oi como posso ajuda lo com problemas industriais
+81,ogd,tenha uma otima noite,estou muito irritado com a falta de acompanhamento do meu problema,fazer corrigir problemas sistema hidraulico fabrica,Boa noite
+82,agradeço muito,ate mais tarde colega,irritado falta acompanhamento problema,Quando devo trocar as peças do equipamento,boa noite
+83,agradeço muito,ate tarde colega,estou muito irritado com a falta de acompanhamento do meu problema,devo trocar peças equipamento,Ola Como esta indo hoje Em que posso ajudar
+84,obrigada,ate mais tarde colega,nao estou satisfeito com a falta de disponibilidade do suporte,Quando devo trocar a peças do equipamento,ola indo hoje posso ajudar
+85,muito obrigada,desejo lhe tudo de bom para o futuro,nao satisfeito falta disponibilidade suporte,Minha maquina esta esquentando demais na parte externa como posso resolver,Ola Como esta indo hoje Em que posso ajudar
+86,obrigado por sua ajuda,desejo tudo bom futuro,nao estou satisfeito com a falta de disponibilidade do suporte,maquina esquentando demais parte externa posso resolver,Boa tarde O que posso fazer por voce hoje
+87,obrigado por sua ajuda,desejo lhe tudo de bom para o futuro,estou insatisfeito com a falta de atençao aos prazos,O que fazer para solucionar problemas com o sistema de iluminaçao de minha fabrica,boa tarde posso fazer voce hoje
+88,muito obrigado por sua ajuda,ate a proxima vez parceiro,insatisfeito falta atençao prazos,fazer solucionar problemas sistema iluminaçao fabrica,Boa tarde O que posso fazer por voce hoje
+89,muito obrigado por sua ajuda,ate proxima vez parceiro,estou insatisfeito com a falta de atençao aos prazos,Minha maquina esta emitindo sons estranhos o que eu devo fazer,Tudo bem
+90,agradeço muito por sua ajuda,ate a proxima vez parceiro,nao estou contente com a falta de competencia da equipe,maquina emitindo sons estranhos devo fazer,tudo bem
+91,agradeço ajuda,tenha um otimo feriado,nao contente falta competencia equipe,Minha maquina esta emitindo son estranhos o que eu devo fazer,Tudo bem
+92,agradeço muito por sua ajuda,tenha otimo feriado,nao estou contente com a falta de competencia da equipe,maquina emitindo son estranhos devo fazer,Oi estou com um problema no meu equipamento
+93,obrigado pela resposta,tenha um otimo feriado,estou bastante insatisfeito com a falta de responsabilidade da empresa,Preciso de ajuda para solucionar um problema com uma esteira transportadora,oi problema equipamento
+94,obrigado resposta,ate a proxima meu caro,bastante insatisfeito falta responsabilidade empresa,preciso ajuda solucionar problema esteira transportadora,Oi tudo joia
+95,obrigado pela resposta,ate proxima caro,estou bastante insatisfeito com a falta de responsabilidade da empresa,A maquina esta fazendo muito barulho o que pode ser,oi tudo joia
+96,muito obrigado pela resposta,ate a proxima meu caro,nao estou feliz com a falta de cumprimento dos acordos,maquina fazendo barulho pode,Oi tudo joia
+97,muito obrigado pela resposta,desejo lhe um dia maravilhoso,nao feliz falta cumprimento acordos,Estou com dificuldades na leitura do manual tecnico da minha maquina como posso entender melhor,Boa tarde Como posso ajuda lo
+98,agradeço muito pela resposta,desejo dia maravilhoso,nao estou feliz com a falta de cumprimento do acordos,dificuldades leitura manual tecnico maquina posso entender melhor,boa tarde posso ajuda lo
+99,agradeço resposta,desejo lhe um dia maravilhoso,estou muito revoltado com a falta de comprometimento da equipe,Estou com dificuldades para instalar ou atualizar o software da minha maquina o que fazer,Boa tarde Como posso ajuda lo
+100,agradeço muito pela resposta,ate mais tarde camarada,revoltado falta comprometimento equipe,dificuldades instalar atualizar software maquina fazer,Ola O que voce precisa
+101,obrigado pela sua atençao,ate tarde camarada,estou muito revoltado com a falta de comprometimento da equipe,Tenho um vazamento de oleo o que devo fazer,ola voce precisa
+102,obrigado pela sua atençao,ate mais tarde camarada,nao estou satisfeito com a falta de cuidado com as demandas dos clientes,vazamento oleo devo fazer,Ola O que voce precisa
+103,muito obrigado pela sua atençao,tenha um bom descanso amigo,nao satisfeito falta cuidado demandas clientes,Qual e a melhor forma de trocar o oleo do equipamento,Boa tarde
+104,muito obrigado pela sua atençao,tenha bom descanso amigo,nao estou satisfeito com a falta de cuidado com a demandas do clientes,melhor forma trocar oleo equipamento,Boa tarde acho que meu equipamento esta com defeito
+105,agradeço muito pela sua atençao,tenha um bom descanso amigo,estou insatisfeito com a falta de agilidade nas respostas,Estou com problemas no sistema de segurança de minha fabrica como posso solucionar,boa tarde acho equipamento defeito
+106,agradeço atençao,ate logo meu querido,insatisfeito falta agilidade respostas,problemas sistema segurança fabrica posso solucionar,Boa noite Qual e a soluçao para meu problema
+107,agradeço muito pela sua atençao,ate logo querido,estou insatisfeito com a falta de agilidade na respostas,Estou tendo dificuldades em identificar uma falha no processo produtivo,boa noite soluçao problema
+108,muito obrigado pela sua ajuda voce foi muito util,ate logo meu querido,nao estou contente com a falta de acompanhamento do meu caso,tendo dificuldades identificar falha processo produtivo,Boa noite Qual e a soluçao para meu problema
+109,obrigado ajuda voce util,desejo lhe felicidades,nao contente falta acompanhamento caso,Meu equipamento esta apresentando uma queda constante de desempenho como solucionar,Eaew
+110,muito obrigado pela sua ajuda voce foi muito util,desejo felicidades,nao estou contente com a falta de acompanhamento do meu caso,equipamento apresentando queda constante desempenho solucionar,eaew
+111,agradeço muito pela sua ajuda voce foi muito util,desejo lhe felicidades,estou bastante insatisfeito com a falta de conhecimento tecnico da equipe,Minha maquina esta emitindo ruidos altos como posso diminuir o barulho,Ola Como posso te ajudar a resolver o seu problema
+112,agradeço ajuda voce util,ate mais tarde meu camarada,bastante insatisfeito falta conhecimento tecnico equipe,maquina emitindo ruidos altos posso diminuir barulho,ola posso ajudar resolver problema
+113,agradeço muito pela sua ajuda voce foi muito util,ate mais tarde meu camarada,estou bastante insatisfeito com a falta de conhecimento tecnico da equipe,Minha maquina esta emitindo ruidos alto como posso diminuir o barulho,Ola Como posso te ajudar a resolver o seu problema
+114,vlw,tenha uma boa jornada,nao estou feliz com a falta de compromisso com a qualidade,maquina emitindo ruidos alto posso diminuir barulho,Boa tarde Em que posso ser util na sua resoluçao de problemas
+115,muito obrigado foi de grande ajuda,tenha boa jornada,nao feliz falta compromisso qualidade,Qual e a melhor maneira de evitar problemas em minha linha de produçao,boa tarde posso util resoluçao problemas
+116,obrigado grande ajuda,tenha uma boa jornada,nao estou feliz com a falta de compromisso com a qualidade,melhor maneira evitar problemas linha produçao,Boa tarde Em que posso ser util na sua resoluçao de problemas
+117,muito obrigado foi de grande ajuda,ate a proxima vez meu companheiro,estou muito descontente com a falta de atençao aos detalhes,Estou com dificuldade em instalar um novo equipamento como posso solucionar,Bom dia Qual e o seu problema industrial
+118,agradeço demais voce salvou meu dia,ate proxima vez companheiro,descontente falta atençao detalhes,dificuldade instalar novo equipamento posso solucionar,bom dia problema industrial
+119,agradeço demais voce salvou dia,ate a proxima vez meu companheiro,estou muito descontente com a falta de atençao aos detalhes,Estou com problemas eletricos na minha maquina o que eu faço,Bom dia Qual e o seu problema industrial
+120,agradeço demais voce salvou meu dia,desejo lhe tudo de bom para sua jornada,nao gostei,problemas eletricos maquina faço,Ola como posso ajudar
+121,obrigado pela prontidao em responder,desejo tudo bom jornada,nao gostei,Estou com dificuldades para ajustar o equipamento o que devo fazer,ola posso ajudar
+122,obrigado prontidao responder,desejo lhe tudo de bom para sua jornada,pessimo serviço,dificuldades ajustar equipamento devo fazer,Ola como posso ajudar
+123,obrigado pela prontidao em responder,ate mais tarde meu colega,pessimo serviço,Minha maquina esta produzindo menos do que o esperado o que pode estar ocorrendo,Boa tarde tudo certo
+124,muito obrigado estou realmente grato,ate mais tarde meu colega,atendimento ruim,maquina produzindo menos esperado pode ocorrendo,boa tarde tudo certo
+125,obrigado realmente grato,tenha uma noite tranquila,atendimento ruim,Meu equipamento esta superaquecendo como posso evitar problemas maiores,Boa tarde tudo certo
+126,muito obrigado estou realmente grato,tenha noite tranquila,decepcionado,equipamento superaquecendo posso evitar problemas maiores,Boa noite Como resolver um problema em um sistema pneumatico
+127,agradeço de coraçao voce e incrivel,tenha uma noite tranquila,decepcionado,Como posso solucionar um problema de falta de energia eletrica em minha fabrica,boa noite resolver problema sistema pneumatico
+128,agradeço coraçao voce incrivel,ate logo meu parceiro,insatisfeito total,posso solucionar problema falta energia eletrica fabrica,Boa noite Como resolver um problema em um sistema pneumatico
+129,agradeço de coraçao voce e incrivel,ate logo parceiro,insatisfeito total,Estou com problemas na instalaçao eletrica da minha fabrica,Ola como esta hoje
+130,obrigado pelo suporte voce e top,ate logo meu parceiro,muito frustrado,problemas instalaçao eletrica fabrica,ola hoje
+131,obrigado suporte voce top,desejo lhe um futuro brilhante,frustrado,Nao consigo encontrar a causa de um defeito em uma maquina,Ola como esta hoje
+132,obrigado pelo suporte voce e top,desejo futuro brilhante,muito frustrado,nao consigo encontrar causa defeito maquina,Oi precisa de ajuda
+133,muito obrigado pela atençao dedicada,desejo lhe um futuro brilhante,nao recomendo,Minha maquina esta superaquecendo o que devo fazer,oi precisa ajuda
+134,obrigado atençao dedicada,ate a proxima meu amigo,nao recomendo,maquina superaquecendo devo fazer,Oi precisa de ajuda
+135,muito obrigado pela atençao dedicada,ate proxima amigo,desapontado demais,Estou enfrentando dificuldades para fazer a manutençao preventiva o que pode estar errado,Oi estou com um problema no funcionamento de uma maquina
+136,agradeço imensamente voce e um anjo,ate a proxima meu amigo,desapontado demais,enfrentando dificuldades fazer manutençao preventiva pode errado,oi problema funcionamento maquina
+137,agradeço imensamente voce anjo,tenha um otimo dia de descanso,que decepçao,Nao sei como solucionar um problema com um equipamento mecanico,Oi preciso de ajuda
+138,agradeço imensamente voce e um anjo,tenha otimo dia descanso,decepçao,nao sei solucionar problema equipamento mecanico,oi preciso ajuda
+139,obrigado por tudo sou muito grato,tenha um otimo dia de descanso,que decepçao,O que e preciso fazer para evitar a corrosao de peças do equipamento,Oi Como posso ajuda lo a solucionar o problema
+140,obrigado tudo grato,ate mais tarde meu caro,inaceitavel,preciso fazer evitar corrosao peças equipamento,oi posso ajuda lo solucionar problema
+141,obrigado por tudo sou muito grato,ate tarde caro,inaceitavel,Estou tendo problema com um motor eletrico,Oi Como posso ajuda lo a solucionar o problema
+142,muito obrigado voce e uma pessoa incrivel,ate mais tarde meu caro,nao aguento mais,tendo problema motor eletrico,Oi estou com um defeito em minha maquina
+143,obrigado voce pessoa incrivel,desejo lhe um otimo dia cheio de alegria,nao aguento,O que fazer para solucionar um problema de superaquecimento da minha maquina,oi defeito maquina
+144,muito obrigado voce e uma pessoa incrivel,desejo otimo dia cheio alegria,nao aguento mais,fazer solucionar problema superaquecimento maquina,Oi de novo
+145,agradeço de todo coraçao nao sei o que seria sem voce,desejo lhe um otimo dia cheio de alegria,estou revoltado,Estou com problemas em identificar a causa de uma falha em uma maquina de solda,oi novo
+146,agradeço todo coraçao nao sei voce,tenha um bom descanso meu querido,revoltado,problemas identificar causa falha maquina solda,Boa noite precisa de suporte
+147,agradeço de todo coraçao nao sei o que seria sem voce,tenha bom descanso querido,estou revoltado,Estou com dificuldades em diagnosticar um problema em um sistema de refrigeraçao,boa noite precisa suporte
+148,obrigado por estar sempre disponivel voce e incrivel,tenha um bom descanso meu querido,nao me conformo,dificuldades diagnosticar problema sistema refrigeraçao,Boa noite precisa de suporte
+149,obrigado sempre disponivel voce incrivel,bye,nao conformo,Como posso solucionar problemas com a transmissao de minha maquina,Ei
+150,obrigado por estar sempre disponivel voce e incrivel,falou,nao me conformo,posso solucionar problemas transmissao maquina,ei
+151,muito obrigado pela gentileza e compreensao,tchau tchau,nunca mais compro aqui,Preciso realizar a calibraçao de meu equipamento como fazer,E ai alguma duvida
+152,obrigado gentileza compreensao,bye bye,nunca compro aqui,preciso realizar calibraçao equipamento fazer,ai alguma duvida
+153,muito obrigado pela gentileza e compreensao,a gente se ve,nunca mais compro aqui,Como posso resolver um problema de sobrecarga,E ai alguma duvida
+154,agradeço muito pela ajuda valiosa,gente ve,triste com essa situaçao,posso resolver problema sobrecarga,Ola prazer em te receber
+155,agradeço ajuda valiosa,adeus,triste situaçao,Preciso de ajuda para resolver um problema com um equipamento hidraulico,ola prazer receber
+156,agradeço muito pela ajuda valiosa,exit,triste com essa situaçao,preciso ajuda resolver problema equipamento hidraulico,Ola prazer em te receber
+157,obrigado pela paciencia em me explicar,sair,nao esperava isso,Estou com dificuldades para entender o manual de instruçoes da maquina pode me ajudar,Bom dia
+158,obrigado paciencia explicar,sai,nao esperava,dificuldades entender manual instruçoes maquina pode ajudar,Bom dia tenho um problema em minha maquina
+159,obrigado pela paciencia em me explicar,flw,nao esperava isso,Estou tendo dificuldade em solucionar um problema com a automaçao de um processo produtivo,bom dia problema maquina
+160,muito obrigado voce fez a diferença,xau,estou indignado,tendo dificuldade solucionar problema automaçao processo produtivo,Boa tarde posso ajudar em algo
+161,obrigado voce fez diferença,encerrar,indignado,Preciso de ajuda para solucionar um circuito eletrico,boa tarde posso ajudar algo
+162,muito obrigado voce fez a diferença,finalizar,estou indignado,preciso ajuda solucionar circuito eletrico,Boa tarde posso ajudar em algo
+163,agradeço demais por toda sua dedicaçao,parar,nao vale a pena,Estou com dificuldades para operar um novo equipamento pode me auxiliar,Bom dia Como posso resolver um problema em um gerador
+164,agradeço demais toda dedicaçao,cancelar,nao vale pena,dificuldades operar novo equipamento pode auxiliar,bom dia posso resolver problema gerador
+165,agradeço demais por toda sua dedicaçao,desligar,nao vale a pena,Como posso solucionar o vazamento de oleo que esta ocorrendo na minha fabrica,Bom dia Como posso resolver um problema em um gerador
+166,obrigado pela orientaçao foi de grande valia,terminar,uma vergonha,posso solucionar vazamento oleo ocorrendo fabrica,Boa tarde preciso de assistencia tecnica
+167,obrigado orientaçao grande valia,flw,vergonha,Minha maquina esta apresentando erros de programaçao como posso resolver,boa tarde preciso assistencia tecnica
+168,obrigado pela orientaçao foi de grande valia,vlw,uma vergonha,maquina apresentando erros programaçao posso resolver,E ai como vai
+169,muito obrigado sou imensamente grato,vlw,total descaso,Estou com problema no sistema de ar condicionado,ai vai
+170,obrigado imensamente grato,valeu,total descaso,problema sistema ar condicionado,E ai como vai
+171,muito obrigado sou imensamente grato,valeu,me sinto lesado,Nao consigo solucionar um defeito em um sistema de iluminaçao,Boa noite estou com um problema eletrico em minha fabrica
+172,agradeço de coraçao voce e excepcional,tchauzinho,sinto lesado,nao consigo solucionar defeito sistema iluminaçao,boa noite problema eletrico fabrica
+173,agradeço coraçao voce excepcional,tchauzinho,me sinto lesado,Como identificar e solucionar problemas no sistema hidraulico,Ola estou tendo problemas na configuraçao de uma maquina
+174,agradeço de coraçao voce e excepcional,ate,tratamento desrespeitoso,identificar solucionar problemas sistema hidraulico,ola tendo problemas configuraçao maquina
+175,obrigado pelo apoio voce e sensacional,xau,tratamento desrespeitoso,Estou enfrentando problemas em minha rede eletrica o que posso fazer,Ola meu equipamento nao esta funcionando
+176,obrigado apoio voce sensacional,thx,falta de consideraçao,enfrentando problemas rede eletrica posso fazer,ola equipamento nao funcionando
+177,obrigado pelo apoio voce e sensacional,thx,falta consideraçao,Meu equipamento parou de funcionar o que pode ser,Ola conto com sua ajuda
+178,muito obrigado voce e um verdadeiro heroi,bye,falta de consideraçao,equipamento parou funcionar pode,ola conto ajuda
+179,obrigado voce verdadeiro heroi,falou,muito chateado,Estou tendo problemas com o sistema eletrico o que devo checar primeiro,Oi
+180,muito obrigado voce e um verdadeiro heroi,fui,chateado,tendo problemas sistema eletrico devo checar primeiro,oi
+181,agradeço de todo coraçao voce e incrivel,,muito chateado,Estou tendo problemas com a suspensao da maquina o que devo fazer,Bom dia Como resolver o defeito deste equipamento
+182,agradeço todo coraçao voce incrivel,fui,nao quero mais,tendo problemas suspensao maquina devo fazer,bom dia resolver defeito deste equipamento
+183,agradeço de todo coraçao voce e incrivel,abraços,nao quero,Preciso de ajuda para solucionar um problema em um sistema de exaustao,Bom dia Como resolver o defeito deste equipamento
+184,agradeço sua ajuda,abraços,nao quero mais,preciso ajuda solucionar problema sistema exaustao,Oi
+185,agradeço sua ajuda,ate logo mano,um absurdo,Qual a melhor forma de substituir um componente defeituoso em minha maquina,Ola estou com problemas em um sistema de iluminaçao
+186,obrigado por tudo,ate logo mano,absurdo,melhor forma substituir componente defeituoso maquina,ola problemas sistema iluminaçao
+187,obrigado por tudo,bjus,um absurdo,Preciso fazer a manutençao preventiva em minha maquina por onde devo começar,Bom dia Qual e o seu problema eletrico ou mecanico
+188,agradeço de coraçao,bjus,isso nao e justo,preciso fazer manutençao preventiva maquina onde devo começar,bom dia problema eletrico mecanico
+189,agradeço coraçao,bom findi,nao justo,Como posso otimizar o uso de meu maquinario para reduzir custos,Bom dia Qual e o seu problema eletrico ou mecanico
+190,agradeço de coraçao,bom findi,isso nao e justo,posso otimizar uso maquinario reduzir custos,Oi como vai
+191,obrigado por ser tao prestativo,later,incompetencia total,Preciso de ajuda para solucionar um vazamento em uma tubulaçao,oi vai
+192,obrigado tao prestativo,later,incompetencia total,preciso ajuda solucionar vazamento tubulaçao,Oi como vai
+193,obrigado por ser tao prestativo,cya,desperdicio de dinheiro,Estou com problemas em minha maquina de produçao o que pode estar acontecendo,Boa tarde Como resolver um problema em um motor de esteira
+194,agradeço sinceramente pela sua atençao,cya,desperdicio dinheiro,problemas maquina produçao pode acontecendo,boa tarde resolver problema motor esteira
+195,agradeço sinceramente atençao,vazando,desperdicio de dinheiro,Estou com dificuldades para encontrar uma peça de reposiçao para meu equipamento pode me ajudar,Boa tarde Como resolver um problema em um motor de esteira
+196,agradeço sinceramente pela sua atençao,vazando,quanta negligencia,dificuldades encontrar peça reposiçao equipamento pode ajudar,Oi estou precisando de ajuda
+197,muito obrigado pela pronta resposta,paz,quanta negligencia,Meu equipamento esta apresentando uma alta taxa de defeitos o que pode estar causando isso,oi precisando ajuda
+198,obrigado pronta resposta,paz,quantum negligencia,equipamento apresentando alta taxa defeitos pode causando,Boa noite poderia me orientar
+199,muito obrigado pela pronta resposta,sucesso,nao cumpriram o combinado,Meu equipamento esta apresentando uma alta taxon de defeitos o que pode estar causando isso,boa noite poderia orientar
+200,obrigado por estar sempre disponivel,sucesso,nao cumpriram combinado,equipamento apresentando alta taxon defeitos pode causando,Boa noite poderia me orientar
+201,obrigado sempre disponivel,ate a proxima meu chapa,nao cumpriram o combinado,Minha maquina esta apresentando problemas intermitentes como posso diagnosticar,Bom dia Voce precisa de ajuda com algum problema
+202,obrigado por estar sempre disponivel,ate proxima chapa,atendimento pessimo,maquina apresentando problemas intermitentes posso diagnosticar,bom dia voce precisa ajuda algum problema
+203,agradeço pela sua dedicaçao,ate a proxima meu chapa,atendimento pessimo,O que fazer quando a maquina apresenta superaquecimento,Bom dia Voce precisa de ajuda com algum problema
+204,agradeço pela sua dedicaçao,firmeza,nao resolveram meu problema,fazer maquina apresenta superaquecimento,Ola voce pode resolver meu problema
+205,obrigado por resolver meu problema,firmeza,nao resolveram problema,Minha maquina esta parando sem motivo aparente como posso resolver,ola voce pode resolver problema
+206,obrigado resolver problema,vida longa e prospera,nao resolveram meu problema,maquina parando motivo aparente posso resolver,Ola voce pode resolver meu problema
+207,obrigado por resolver meu problema,vida longa prospera,triste com essa experiencia,Nao consigo solucionar um defeito em um equipamento de mediçao,Ola Em que posso ajudar
+208,muito obrigado por sua colaboraçao,vida longa e prospera,triste experiencia,nao consigo solucionar defeito equipamento mediçao,Ola Em que posso ajudar
+209,muito obrigado por sua colaboraçao,beijinhos,triste com essa experiencia,Como detectar e resolver problemas no sistema pneumatico,Boa noite
+210,agradeço pela rapidez em resolver o assunto,beijinhos,muito insatisfeito,detectar resolver problemas sistema pneumatico,Ola preciso de sua ajuda
+211,agradeço rapidez resolver assunto,cuida se,insatisfeito,Como posso identificar a causa de uma falha no sistema eletrico da minha fabrica,ola preciso ajuda
+212,agradeço pela rapidez em resolver o assunto,cuida,muito insatisfeito,posso identificar causa falha sistema eletrico fabrica,Oi Qual e o seu problema
+213,obrigado por ser tao compreensivo,cuida se,estou com raiva,Estou com problemas no sistema pneumatico de minha fabrica como posso resolver,oi problema
+214,obrigado tao compreensivo,ate mais meu parceiro,raiva,problemas sistema pneumatico fabrica posso resolver,Oi Qual e o seu problema
+215,obrigado por ser tao compreensivo,ate parceiro,estou com raiva,Como lidar com problemas causados por mau uso de equipamentos,Boa noite posso te pedir um favor
+216,agradeço imensamente pela assistencia,ate mais meu parceiro,desperdicio de tempo,lidar problemas causados mau uso equipamentos,boa noite posso pedir favor
+217,agradeço imensamente assistencia,valeu demais,desperdicio tempo,Nao sei como resolver um problema em um sistema de filtragem de liquido,Boa noite posso te pedir um favor
+218,agradeço imensamente pela assistencia,valeu demais,desperdicio de tempo,nao sei resolver problema sistema filtragem liquido,Oi Como posso ser util para corrigir o seu problema
+219,muito obrigado por tudo que voce fez por mim,manda bala,nao entendo como podem agir assim,Minha maquina esta com vazamento de oleo o que devo fazer,oi posso util corrigir problema
+220,obrigado tudo voce fez mim,manda bala,nao entendo podem agir assim,maquina vazamento oleo devo fazer,Oi Como posso ser util para corrigir o seu problema
+221,muito obrigado por tudo que voce fez por mim,abç,nao entendo como podem agir assim,Minha maquina esta funcionando muito devagar como posso aumentar a produtividade,E ai
+222,obrigado por sua paciencia,abç,ma qualidade,maquina funcionando devagar posso aumentar produtividade,ai
+223,obrigado por sua paciencia,bom descanso,ma qualidade,O que e preciso fazer para proteger os equipamentos de danos causados por agua,E ai
+224,agradeço seu suporte continuo,bom descanso,atendimento horrivel,preciso fazer proteger equipamentos danos causados agua,Bom dia Qual e o problema que voce esta enfrentando
+225,agradeço suporte continuo,catch you later,atendimento horrivel,O que e preciso fazer para proteger o equipamentos de danos causados por agua,bom dia problema voce enfrentando
+226,agradeço seu suporte continuo,catch you later,uma decepçao,Minha maquina esta produzindo com qualidade inferior o que pode estar errado,Bom dia Qual e o problema que voce esta enfrentando
+227,obrigado por ser tao prestativo e atencioso,inte,uma decepçao,maquina produzindo qualidade inferior pode errado,Oi posso ajudar em algo
+228,obrigado tao prestativo atencioso,inte,nao recebi o que esperava,Estou com um problema no motor da minha maquina o que devo fazer,oi posso ajudar algo
+229,obrigado por ser tao prestativo e atencioso,bora,nao recebi esperava,problema motor maquina devo fazer,Oi posso ajudar em algo
+230,agradeço por fazer um otimo trabalho,bora,nao recebi o que esperava,Um software que uso regularmente esta apresentando falhas Como posso corrigi las,Opa
+231,agradeço fazer otimo trabalho,show de bola,falta de profissionalismo,software uso regularmente apresentando falhas posso corrigi las,opa
+232,agradeço por fazer um otimo trabalho,show bola,falta profissionalismo,Um software que uso regularmente esta apresentando falhas Como posso corrigi la,Oi poderia me ajudar
+233,obrigado por tornar as coisas mais faceis para mim,show de bola,falta de profissionalismo,software uso regularmente apresentando falhas posso corrigi la,oi poderia ajudar
+234,obrigado tornar coisas faceis mim,vou nessa,total falta de respeito,Meu computador esta lento e travando muito O que posso fazer para melhorar o desempenho,Oi poderia me ajudar
+235,obrigado por tornar a coisas mais faceis para mim,vou nessa,total falta respeito,computador lento travando posso fazer melhorar desempenho,Ola preciso que me ajude a resolver um problema
+236,agradeço por ser um profissional excepcional,beleza,total falta de respeito,Nao consigo acessar minha conta o que devo fazer,ola preciso ajude resolver problema
+237,agradeço profissional excepcional,beleza,serviço deploravel,nao consigo acessar conta devo fazer,Oi ha algo que possa fazer por voce
+238,agradeço por ser um profissional excepcional,fica com deus,serviço deploravel,Estou tentando aprender programaçao mas nao sei por onde começar Voce tem alguma sugestao,oi ha algo possa fazer voce
+239,obrigado por estar sempre disposto a ajudar,fica deus,isso e inadmissivel,tentando aprender programaçao nao sei onde começar voce alguma sugestao,Oi ha algo que possa fazer por voce
+240,obrigado sempre disposto ajudar,fica com deus,inadmissivel,Estou tentando aprender programaçao ma nao sei por onde começar Voce tem alguma sugestao,Boa tarde O que posso fazer por voce
+241,obrigado por estar sempre disposto a ajudar,fechou,isso e inadmissivel,tentando aprender programaçao ma nao sei onde começar voce alguma sugestao,boa tarde posso fazer voce
+242,agradeço pela sua gentileza,fechou,simplesmente pessimo,Meu computador esta congelando constantemente Como posso resolver esse problema,Boa tarde O que posso fazer por voce
+243,agradeço gentileza,de boas,simplesmente pessimo,computador congelando constantemente posso resolver problema,Oi o que precisa de ajuda
+244,agradeço pela sua gentileza,boas,estou desanimado,Minha geladeira nao esta gelando adequadamente o que pode ser,Oi o que precisa de ajuda
+245,obrigado por sua dedicaçao e comprometimento,de boa,desanimado,geladeira nao gelando adequadamente pode,Boa noite como posso ajudar
+246,obrigado dedicaçao comprometimento,boa,estou desanimado,Ola estou com problemas em conectar meu dispositivo a internet Pode me ajudar,boa noite posso ajudar
+247,obrigado por sua dedicaçao e comprometimento,paz e amor,nao consigo acreditar,ola problemas conectar dispositivo internet pode ajudar,Boa noite como posso ajudar
+248,agradeço por sempre superar minhas expectativas,paz amor,nao consigo acreditar,Ola estou enfrentando um problema no meu dispositivo voce pode me ajudar,Oi qual e o seu nome
+249,agradeço sempre superar expectativas,paz e amor,perdi a confiança,ola enfrentando problema dispositivo voce pode ajudar,oi nome
+250,agradeço por sempre superar minhas expectativas,abraçao,perdi confiança,Estou tendo problemas para imprimir um documento O que devo verificar,Oi qual e o seu nome
+251,obrigado por sua prontidao em resolver problemas,abraçao,perdi a confiança,tendo problemas imprimir documento devo verificar,Ola tudo bem
+252,obrigado prontidao resolver problemas,sucesso sempre,nao merecem minha fidelidade,Como faço para consertar um vazamento na minha pia,ola tudo bem
+253,obrigado por sua prontidao em resolver problemas,sucesso sempre,nao merecem fidelidade,faço consertar vazamento pia,Ola tudo bem
+254,agradeço por sua atençao aos detalhes,ate mais meu camarada,nao merecem minha fidelidade,Nao consigo instalar um programa em meu computador O que pode estar errado,Bom dia Como posso resolver um problema em um ar condicionado industrial
+255,agradeço atençao detalhes,ate camarada,nao volto mais,nao consigo instalar programa computador pode errado,bom dia posso resolver problema ar condicionado industrial
+256,agradeço por sua atençao aos detalhes,ate mais meu camarada,nao volto,Meu celular esta travando o que posso fazer para consertar,Bom dia Como posso resolver um problema em um ar condicionado industrial
+257,obrigado por sua ajuda valiosa,valeuzao,nao volto mais,celular travando posso fazer consertar,Oi prazer em conhece lo
+258,obrigado ajuda valiosa,valeuzao,fiquei muito irritado,Perdi minha senha do email e nao consigo recupera la Tem alguma forma de resolver isso,oi prazer conhece lo
+259,obrigado por sua ajuda valiosa,siga em frente,fiquei irritado,perdi senha email nao consigo recupera la alguma forma resolver,Hello
+260,agradeço por ser um recurso confiavel,siga frente,fiquei muito irritado,Minha impressora nao esta funcionando corretamente Como posso resolver isso,hello
+261,agradeço recurso confiavel,siga em frente,isso e inaceitavel,impressora nao funcionando corretamente posso resolver,Oi bom te ver por aqui
+262,agradeço por ser um recurso confiavel,bom descanso meu chapa,isso e inaceitavel,Meu carro esta fazendo um barulho estranho o que pode ser,oi bom ver aqui
+263,obrigado por sua disponibilidade e flexibilidade,bom descanso chapa,nao consigo entender essa falta de cuidado,carro fazendo barulho estranho pode,Opa tudo tranquilo
+264,obrigado disponibilidade flexibilidade,bom descanso meu chapa,nao consigo entender falta cuidado,Ola estou enfrentando um problema com a minha conexao de internet O que devo fazer,opa tudo tranquilo
+265,obrigado por sua disponibilidade e flexibilidade,bora partir,nao consigo entender essa falta de cuidado,ola enfrentando problema conexao internet devo fazer,Saudaçoes
+266,agradeço por sua orientaçao e suporte,bora partir,estou profundamente desapontado,Meu celular nao esta carregando como posso solucionar,saudaçoes
+267,agradeço orientaçao suporte,beijos,profundamente desapontado,celular nao carregando posso solucionar,Qual e o seu nome
+268,agradeço por sua orientaçao e suporte,beijos,estou profundamente desapontado,Minha tela do computador esta piscando o que devo fazer,nome
+269,obrigado por tornar as coisas mais simples para mim,agradeço,que descaso,tela computador piscando devo fazer,Como voce esta
+270,obrigado tornar coisas simples mim,agradeço,descaso,Meu celular nao esta fazendo ligaçoes O que posso fazer para solucionar o problema,voce
+271,obrigado por tornar a coisas mais simple para mim,tranquilo,que descaso,celular nao fazendo ligaçoes posso fazer solucionar problema,Bom dia tudo bem com voce
+272,obrigado tornar coisas simple mim,tranquilo,uma verdadeira bagunça,Estou tentando acessar um site e nao estou conseguindo O que pode estar errado,bom dia tudo bem voce
+273,agradeço por ser um verdadeiro profissional,valeu mesmo,verdadeira bagunça,tentando acessar site nao conseguindo pode errado,Hi
+274,agradeço verdadeiro profissional,valeu mesmo,uma verdadeira bagunça,Nao estou conseguindo conectar no Wi Fi o que devo fazer,hi
+275,agradeço por ser um verdadeiro profissional,manda ver,nao merecem minha confiança,nao conseguindo conectar wi fi devo fazer,Oi como vai voce
+276,obrigado por sua atençao dedicada,manda ver,nao merecem confiança,Nao estou conseguindo conectar na internet o que pode ser,oi vai voce
+277,obrigado por sua atençao dedicada,abraçao forte,nao merecem minha confiança,nao conseguindo conectar internet pode,Ola como voce esta
+278,agradeço por sua contribuiçao significativa,abraçao forte,pessimo atendimento,Estou tendo problemas com o meu computador pode me ajudar,ola voce
+279,agradeço contribuiçao significativa,falou meu caro,pessimo atendimento,tendo problemas computador pode ajudar,Ola prazer em conhece lo
+280,agradeço por sua contribuiçao significativa,falou caro,total falta de comprometimento,Preciso recuperar um arquivo que apaguei por engano,ola prazer conhece lo
+281,obrigado por seu tempo e esforço,falou meu caro,total falta comprometimento,preciso recuperar arquivo apaguei engano,Oi como esta
+282,obrigado tempo esforço,bjks ate logo,total falta de comprometimento,Estou com problemas no meu carro o que fazer para consertar,Alo
+283,obrigado por seu tempo e esforço,bjks ate logo,estou extremamente insatisfeito,problemas carro fazer consertar,alo
+284,agradeço por sua amabilidade,ate mais parceiro,extremamente insatisfeito,Estou com dificuldades para enviar arquivos por e mail o que pode estar acontecendo,Eai
+285,agradeço amabilidade,ate mais parceiro,estou extremamente insatisfeito,dificuldades enviar arquivos mail pode acontecendo,eai
+286,agradeço por sua amabilidade,fica na paz beleza,isso nao pode ser ignorado,Meu celular esta com problemas na bateria,Ola como esta
+287,obrigado por sempre oferecer soluçoes criativas,fica paz beleza,nao pode ignorado,celular problemas bateria,Tudo bem com voce
+288,obrigado sempre oferecer soluçoes criativas,fica na paz beleza,isso nao pode ser ignorado,O meu dispositivo de armazenamento externo nao esta sendo reconhecido pelo meu computador O que posso fazer,tudo bem voce
+289,obrigado por sempre oferecer soluçoes criativas,later bro,uma situaçao lamentavel,dispositivo armazenamento externo nao sendo reconhecido computador posso fazer,Oi como posso ajuda lo
+290,agradeço por sua resposta rapida,later bro,situaçao lamentavel,Nao consigo conectar meu celular ao Wi Fi,oi posso ajuda lo
+291,agradeço resposta rapida,fui valeu demais,uma situaçao lamentavel,nao consigo conectar celular wi fi,Hey
+292,agradeço por sua resposta rapida,fui valeu demais,nao sei como lidar com essa incompetencia,Gostaria de saber como posso formatar meu computador sem perder meus arquivos pessoais,hey
+293,obrigado por ser um membro valioso da equipe,to de saida se cuida,nao sei lidar incompetencia,gostaria saber posso formatar computador perder arquivos pessoais,Tudo certo
+294,obrigado membro valioso equipe,to saida cuida,nao sei como lidar com essa incompetencia,Meu e mail nao esta funcionando como faço para solucionar,tudo certo
+295,obrigado por ser um membro valioso da equipe,to de saida se cuida,me sinto lesado e frustrado,mail nao funcionando faço solucionar,Ola como vai
+296,agradeço por sua atitude positiva,ate logo meu camarada,sinto lesado frustrado,Nao consigo conectar meu dispositivo a minha rede Wi Fi o que devo tentar,ola vai
+297,agradeço atitude positiva,ate logo camarada,me sinto lesado e frustrado,nao consigo conectar dispositivo rede wi fi devo tentar,Prazer em conhece lo
+298,agradeço por sua atitude positiva,ate logo meu camarada,estou muito chateado com essa situaçao,Preciso configurar minha impressora pode me orientar,prazer conhece lo
+299,obrigado por suas habilidades excepcionais,valeuzao sucesso sempre,chateado situaçao,preciso configurar impressora pode orientar,E ai beleza
+300,obrigado habilidades excepcionais,valeuzao sucesso sempre,estou muito chateado com essa situaçao,Estou com dificuldades para usar determinado software,ai beleza
+301,obrigado por suas habilidades excepcionais,bora partir meu chapa,nao acredito no que estou vendo,dificuldades usar determinado software,Oi o que voce precisa de auxilio
+302,agradeço por sua experiencia e conhecimento,bora partir chapa,nao acredito vendo,Nao estou conseguindo acessar meu e mail o que devo fazer,oi voce precisa auxilio
+303,agradeço experiencia conhecimento,bora partir meu chapa,nao acredito no que estou vendo,nao conseguindo acessar mail devo fazer,Boa tarde estou com duvidas
+304,agradeço por sua experiencia e conhecimento,valeu mesmo manda ver,uma total falta de respeito,Meu telefone esta desligando sozinho e nao liga novamente Como posso solucionar isso,boa tarde duvidas
+305,obrigado por sua generosidade,valeu manda ver,uma total falta de respeito,telefone desligando sozinho nao liga novamente posso solucionar,Boa noite posso ajuda lo
+306,obrigado por sua generosidade,valeu mesmo manda ver,nao quero mais ter qualquer envolvimento com isso,Nao consigo instalar um programa em meu computador,boa noite posso ajuda lo
+307,agradeço por compartilhar seu tempo e talento,abraçao forte fica com deus,nao quero ter qualquer envolvimento,nao consigo instalar programa computador,Oi preciso de sua ajuda para solucionar um problema de lubrificaçao
+308,agradeço compartilhar tempo talento,abraçao forte fica deus,nao quero mais ter qualquer envolvimento com isso,Estou tendo problemas para acessar meu e mail,oi preciso ajuda solucionar problema lubrificaçao
+309,agradeço por compartilhar seu tempo e talento,abraçao forte fica com deus,uma total falta de consideraçao,tendo problemas acessar mail,Bom dia qual e o desafio
+310,obrigado por sua ajuda inestimavel,tchauzinho se cuida,total falta consideraçao,Nao consigo instalar um programa no meu computador o que devo fazer,bom dia desafio
+311,obrigado ajuda inestimavel,tchauzinho cuida,uma total falta de consideraçao,nao consigo instalar programa computador devo fazer,Boa tarde como posso ajudar
+312,obrigado por sua ajuda inestimavel,tchauzinho se cuida,que desrespeito,Nao estou conseguindo acessar minha conta bancaria online O que esta acontecendo,boa tarde posso ajudar
+313,agradeço por ser um colega de trabalho exemplar,xauzinho ate mais tarde,desrespeito,nao conseguindo acessar conta bancaria online acontecendo,Bom dia como faço para identificar problema de aquecimento em uma maquina
+314,agradeço colega trabalho exemplar,xauzinho ate tarde,que desrespeito,Meu computador esta muito lento como posso melhorar seu desempenho,bom dia faço identificar problema aquecimento maquina
+315,agradeço por ser um colega de trabalho exemplar,xauzinho ate mais tarde,nunca vi algo tao mal feito,computador lento posso melhorar desempenho,Ola como posso ser util
+316,obrigado por sua dedicaçao incansavel,fui bom findi,nunca vi algo tao mal feito,Nao estou conseguindo imprimir documentos,ola posso util
+317,obrigado dedicaçao incansavel,fui bom findi,nao da para acreditar nisso,nao conseguindo imprimir documentos,Oi tudo bem O que voce precisa resolver
+318,obrigado por sua dedicaçao incansavel,vazando abraços,nao acreditar nisso,Minha impressora nao esta funcionando o que devo verificar,oi tudo bem voce precisa resolver
+319,agradeço por sua atençao aos prazos,vazando abraços,nao da para acreditar nisso,impressora nao funcionando devo verificar,Ola preciso de sua ajuda para entender como funciona um PLC
+320,agradeço atençao prazos,beijinhos sucesso,essa e a ultima vez que passo por isso,Minha TV nao esta funcionando o que devo verificar,ola preciso ajuda entender funciona plc
+321,agradeço por sua atençao aos prazos,beijinhos sucesso,ultima vez passo,tv nao funcionando devo verificar,Oi em que posso ajudar hoje
+322,obrigado por sua paciencia e compreensao,bora la meu parceiro,essa e a ultima vez que passo por isso,Meu computador esta lento e travando como posso resolver isso,oi posso ajudar hoje
+323,obrigado paciencia compreensao,bora la parceiro,nao sou tratado com seriedade,computador lento travando posso resolver,Oi equipe
+324,obrigado por sua paciencia e compreensao,bora la meu parceiro,nao tratado seriedade,Nao estou conseguindo instalar um aplicativo o que devo fazer,oi equipe
+325,agradeço por sua postura profissional,valeu a força mano,nao sou tratado com seriedade,nao conseguindo instalar aplicativo devo fazer,Ola o que posso ajudar
+326,agradeço postura profissional,valeu força mano,uma completa falta de profissionalismo,Estou recebendo mensagens de erro ao tentar utilizar um aplicativo o que devo fazer,Ola posso ajudar em algo
+327,agradeço por sua postura profissional,valeu a força mano,completa falta profissionalismo,recebendo mensagens erro tentar utilizar aplicativo devo fazer,ola posso ajudar algo
+328,obrigado por ser um exemplo inspirador,inte meu camarada,uma completa falta de profissionalismo,Meu notebook esta apresentando tela azul frequentemente,Ola preciso de ajuda
+329,obrigado exemplo inspirador,inte camarada,nao ha justificativa para isso,notebook apresentando tela azul frequentemente,Ola o que precisa de soluçao
+330,obrigado por ser um exemplo inspirador,inte meu camarada,nao ha justificativa,Estou com problemas para instalar um programa ha alguma soluçao,ola precisa soluçao
+331,agradeço por sua eficiencia e eficacia,bjao fica com deus,nao ha justificativa para isso,problemas instalar programa ha alguma soluçao,Bom dia como posso lhe ser util
+332,agradeço eficiencia eficacia,bjao fica deus,estou profundamente decepcionado,Meu celular esta travando muito o que posso fazer para resolver,bom dia posso util
+333,agradeço por sua eficiencia e eficacia,bjao fica com deus,profundamente decepcionado,celular travando posso fazer resolver,E ai qual e a necessidade
+334,obrigado por sua contribuiçao excepcional,paz e amor sucesso sempre,estou profundamente decepcionado,Como economizar energia em meu sistema industrial,ai necessidade
+335,obrigado contribuiçao excepcional,paz amor sucesso sempre,nao fizeram o minimo necessario,economizar energia sistema industrial,Oi como posso resolver isso
+336,obrigado por sua contribuiçao excepcional,paz e amor sucesso sempre,nao fizeram minimo necessario,Qual e a melhor forma de corrigir um problema de superaquecimento,oi posso resolver
+337,agradeço pela sua atençao,ate mais meu brother,nao fizeram o minimo necessario,melhor forma corrigir problema superaquecimento,Oi tudo tranquilo
+338,agradeço pela sua atençao,ate brother,nao posso aceitar esse tipo de serviço,Estou sofrendo com queda de produçao em minha linha de envase Como posso solucionar o problema,oi tudo tranquilo
+339,obrigado pela sua ajuda voce foi muito util,ate mais meu brother,nao posso aceitar tipo serviço,sofrendo queda produçao linha envase posso solucionar problema,Bom dia pode me ajudar
+340,obrigado pela sua ajuda voce foi muito util,valeu demais fica na paz,nao posso aceitar esse tipo de serviço,Minha maquina esta apresentando mau contato o que devo fazer,bom dia pode ajudar
+341,muito obrigado pela sua ajuda voce foi incrivel,valeu demais fica paz,que desperdicio de tempo e dinheiro,maquina apresentando mau contato devo fazer,Oi em que posso ajudar
+342,obrigado ajuda voce incrivel,valeu demais fica na paz,desperdicio tempo dinheiro,O robo da minha fabrica parou de funcionar como posso conserta lo,Boa noite alguem pode me ajudar
+343,muito obrigado pela sua ajuda voce foi incrivel,manda bala meu chapa,que desperdicio de tempo e dinheiro,robo fabrica parou funcionar posso conserta lo,boa noite alguem pode ajudar
+344,muito obrigado pela sua paciencia,manda bala chapa,uma verdadeira falta de compromisso,A luz indicadora do meu equipamento esta piscando isso e grave,Oi estou com uma duvida em relaçao a manutençao preventiva
+345,muito obrigado pela sua paciencia,manda bala meu chapa,verdadeira falta compromisso,luz indicadora equipamento piscando grave,oi duvida relaçao manutençao preventiva
+346,agradeço demais a sua dedicaçao,abraços sucesso sempre,uma verdadeira falta de compromisso,Poderia me ajudar com um problema na maquina de corte,Ola o que precisa
+347,agradeço demais dedicaçao,abraços sucesso sempre,nao mereço ser tratado dessa forma,poderia ajudar problema maquina corte,ola precisa
+348,agradeço demais a sua dedicaçao,bom descanso tamo junto,nao mereço tratado dessa forma,O sistema hidraulico do equipamento nao esta pressurizando como devo solucionar,Ola poderia me orientar
+349,muito obrigado por resolver meu problema,bom descanso tamo junto,nao mereço ser tratado dessa forma,sistema hidraulico equipamento nao pressurizando devo solucionar,ola poderia orientar
+350,muito obrigado por resolver meu problema,later sucesso,total falta de cuidado com o cliente,Meu maquinario esta apresentando problemas mecanicos O que devo fazer,Oi como faço para solucionar um problema de sobrecarga em uma maquina
+351,agradeço pelo excelente serviço,later sucesso,total falta cuidado cliente,maquinario apresentando problemas mecanicos devo fazer,oi faço solucionar problema sobrecarga maquina
+352,agradeço excelente serviço,cuida se meu camarada,total falta de cuidado com o cliente,Estou enfrentando dificuldades com minha rede eletrica voce pode me dar alguma orientaçao,Boa tarde por favor preciso de ajuda
+353,agradeço pelo excelente serviço,cuida camarada,nao recomendo de forma alguma,enfrentando dificuldades rede eletrica voce pode dar alguma orientaçao,boa tarde favor preciso ajuda
+354,muito obrigado por me orientar,cuida se meu camarada,nao recomendo forma alguma,Como resolver um problema de sobrecarga em meu chiller,Boa tarde posso ser util
+355,obrigado orientar,valeu mesmo se cuida,nao recomendo de forma alguma,resolver problema sobrecarga chiller,boa tarde posso util
+356,muito obrigado por me orientar,valeu cuida,estou indignado com essa situaçao,Nao estou conseguindo ligar o equipamento o que pode ser,Oi galera
+357,agradeço a prontidao na resposta,valeu mesmo se cuida,indignado situaçao,nao conseguindo ligar equipamento pode,oi galera
+358,agradeço prontidao resposta,manda ver sucesso,estou indignado com essa situaçao,Tenho problemas com a ventilaçao da minha maquina O que pode estar acontecendo,Oi preciso de ajuda para instalar um novo painel eletrico em minha industria
+359,agradeço a prontidao na resposta,manda ver sucesso,isso ultrapassa todos os limites,problemas ventilaçao maquina pode acontecendo,oi preciso ajuda instalar novo painel eletrico industria
+360,obrigado pela eficiencia,abraçao fica com deus,ultrapassa todos limites,Meu equipamento esta fazendo muito barulho O que pode ser,Ola preciso resolver um problema mecanico Algum especialista pode me ajudar
+361,obrigado eficiencia,abraçao fica deus,isso ultrapassa todos o limites,equipamento fazendo barulho pode,ola preciso resolver problema mecanico algum especialista pode ajudar
+362,obrigado pela eficiencia,abraçao fica com deus,nao ha palavras para descrever o quao insatisfeito estou,Estou com dificuldades para programar o meu equipamento o que devo fazer,Bom dia como identificar quais sao as peças que precisam ser substituidas
+363,muito obrigado por me ajudar a entender,bom findi meu chapa,nao ha palavras descrever quao insatisfeito,dificuldades programar equipamento devo fazer,bom dia identificar quais sao peças precisam substituidas
+364,obrigado ajudar entender,bom findi chapa,nao ha palavras para descrever o quao insatisfeito estou,Meu maquinario parece estar com um mau funcionamento o que devo fazer,Bom dia como identificar quais sao a peças que precisam ser substituidas
+365,muito obrigado por me ajudar a entender,bom findi meu chapa,nao sou ouvido nem levado a serio,maquinario parece mau funcionamento devo fazer,Oi tudo certo
+366,agradeço imensamente sua colaboraçao,vazando sucesso sempre,nao ouvido levado serio,Preciso de orientaçao para fazer a manutençao da minha maquina de forma eficiente,oi tudo certo
+367,agradeço imensamente colaboraçao,vazando sucesso sempre,nao sou ouvido nem levado a serio,preciso orientaçao fazer manutençao maquina forma eficiente,Oi como posso auxiliar
+368,agradeço imensamente sua colaboraçao,beijinhos meu parceiro,uma verdadeira bagunça organizacional,Qual e a melhor maneira de lidar com problemas de estanqueidade em equipamentos,oi posso auxiliar
+369,obrigado por tornar tudo mais facil,beijinhos parceiro,verdadeira bagunça organizacional,melhor maneira lidar problemas estanqueidade equipamentos,Bom dia Qual o problema que esta enfrentando
+370,obrigado tornar tudo facil,beijinhos meu parceiro,uma verdadeira bagunça organizacional,Estou com dificuldades em solucionar um problema com a bomba de agua da minha linha de produçao,bom dia problema enfrentando
+371,obrigado por tornar tudo mais facil,bora la sucesso,que falta de respeito com o consumidor,dificuldades solucionar problema bomba agua linha produçao,Oi qual e a duvida
+372,muito obrigado por sua generosidade,bora la sucesso,falta respeito consumidor,O motor da minha maquina esta superaquecendo o que fazer,oi duvida
+373,muito obrigado por sua generosidade,valeu a força meu chapa,que falta de respeito com o consumidor,motor maquina superaquecendo fazer,Alguem pode me ajudar
+374,obrigado por ser tao profissional,valeu força chapa,nao fui valorizado como cliente,Estou percebendo uma queda no desempenho de minha maquina O que pode causar isso,alguem pode ajudar
+375,obrigado tao profissional,valeu a força meu chapa,nao valorizado cliente,percebendo queda desempenho maquina pode causar,Ola gostaria de saber mais sobre como solucionar falhas eletricas
+376,obrigado por ser tao profissional,inte fica na paz,nao fui valorizado como cliente,Estou tendo problemas no controle de temperatura na minha produçao o que fazer,ola gostaria saber sobre solucionar falhas eletricas
+377,muito obrigado pela sua dedicaçao continua,inte fica paz,estou cansado de tanta incompetencia,tendo problemas controle temperatura produçao fazer,Fala ai tudo ok
+378,obrigado dedicaçao continua,inte fica na paz,cansado tanta incompetencia,Minha maquina parou de funcionar do nada O que pode estar errado,fala ai tudo ok
+379,muito obrigado pela sua dedicaçao continuum,bjao sucesso sempre,estou cansado de tanta incompetencia,maquina parou funcionar nada pode errado,Oi preciso de uma soluçao
+380,obrigado dedicaçao continuum,bjao sucesso sempre,nao quero mais ter nenhum tipo de relaçao com isso,Minha maquina esta vibrando excessivamente Isso e um problema,oi preciso soluçao
+381,agradeço por ir alem das minhas expectativas,paz e amor meu brother,nao quero ter nenhum tipo relaçao,maquina vibrando excessivamente problema,Boa tarde preciso de ajuda com um problema mecanico
+382,agradeço ir alem expectativas,paz amor brother,nao quero mais ter nenhum tipo de relaçao com isso,Como posso solucionar um problema de sobrecarga em minha linha de produçao,boa tarde preciso ajuda problema mecanico
+383,agradeço por ir alem da minhas expectativas,paz e amor meu brother,nao sou tratado com a devida atençao,posso solucionar problema sobrecarga linha produçao,Oi boa noite
+384,obrigado por fazer um otimo trabalho,ate mais meu chapa,nao tratado devida atençao,Minha maquina parou de funcionar como posso resolver,oi boa noite
+385,obrigado fazer otimo trabalho,ate chapa,nao sou tratado com a devida atençao,maquina parou funcionar posso resolver,Bom dia pode me dar uma dica
+386,obrigado por fazer um otimo trabalho,ate mais meu chapa,estou enojado com essa situaçao,Estou com dificuldades para entender o manual do meu equipamento o que devo fazer,bom dia pode dar dica
+387,muito obrigado por ser tao prestativo e amigavel,valeu demais tamo junto,enojado situaçao,dificuldades entender manual equipamento devo fazer,Bom dia como esta
+388,obrigado tao prestativo amigavel,valeu demais tamo junto,estou enojado com essa situaçao,A conexao eletrica do meu equipamento esta apresentando problemas o que devo verificar,Boa noite como faço para entender as especificaçoes tecnicas de uma valvula hidraulica
+389,muito obrigado por ser tao prestativo e amigavel,manda bala sucesso sempre,nao confio mais nessa empresa,conexao eletrica equipamento apresentando problemas devo verificar,boa noite faço entender especificaçoes tecnicas valvula hidraulica
+390,agradeço por tornar isso uma experiencia agradavel,manda bala sucesso sempre,nao confio nessa empresa,Preciso de um especialista para me ajudar a solucionar um problema complexo na minha maquina,Boa noite como faço para entender a especificaçoes tecnicas de uma valvula hidraulica
+391,agradeço tornar experiencia agradavel,abraços meu camarada,nao confio mais nessa empresa,preciso especialista ajudar solucionar problema complexo maquina,Alguem ai
+392,agradeço por tornar isso uma experiencia agradavel,abraços camarada,isso e uma falta de consideraçao tremenda,Minha rede eletrica esta sofrendo com curtos circuitos o que esta causando isso,alguem ai
+393,obrigado por sempre encontrar soluçoes,abraços meu camarada,falta consideraçao tremenda,rede eletrica sofrendo curtos circuitos causando,Ola amigos
+394,obrigado sempre encontrar soluçoes,bom descanso meu parceiro,isso e uma falta de consideraçao tremenda,Minha maquina de corte esta apresentando alguns erros o que devo fazer,ola amigos
+395,obrigado por sempre encontrar soluçoes,bom descanso parceiro,uma verdadeira falta de comprometimento com o cliente,maquina corte apresentando alguns erros devo fazer,Ola amigo
+396,muito obrigado por sua orientaçao valiosa,bom descanso meu parceiro,verdadeira falta comprometimento cliente,Poderia me orientar sobre como resolver um problema de falta de energia em meu equipamento de armazenamento,ola amigo
+397,obrigado orientaçao valiosa,later meu chapa,uma verdadeira falta de comprometimento com o cliente,poderia orientar sobre resolver problema falta energia equipamento armazenamento,E ai qual e a ideia
+398,muito obrigado por sua orientaçao valiosa,later chapa,nao consigo acreditar que isso esta acontecendo,Como solucionar um problema no sistema de iluminaçao da minha fabrica,ai ideia
+399,agradeço por sempre estar disponivel para me ajudar,later meu chapa,nao consigo acreditar acontecendo,solucionar problema sistema iluminaçao fabrica,E ai precisando de ajuda
+400,agradeço sempre disponivel ajudar,cuida se sucesso,nao consigo acreditar que isso esta acontecendo,Meu sistema de automaçao nao esta funcionando corretamente como posso conserta lo,ai precisando ajuda
+401,agradeço por sempre estar disponivel para me ajudar,cuida sucesso,estou revoltado com essa situaçao,sistema automaçao nao funcionando corretamente posso conserta lo,Tudo bom
+402,obrigado por sua prontidao e eficiencia,cuida se sucesso,revoltado situaçao,Estou com dificuldade em solucionar um problema eletrico em minha maquina de costura,tudo bom
+403,obrigado prontidao eficiencia,ate logo fica com deus,estou revoltado com essa situaçao,dificuldade solucionar problema eletrico maquina costura,Boa tarde gostaria de saber se e possivel consertar um motor danificado
+404,obrigado por sua prontidao e eficiencia,ate logo fica deus,nao recebi o suporte necessario,Meu equipamento esta apresentando falhas o que devo fazer,boa tarde gostaria saber possivel consertar motor danificado
+405,muito obrigado por sua paciencia e suporte,ate logo fica com deus,nao recebi suporte necessario,equipamento apresentando falhas devo fazer,Ola pode me ajudar
+406,obrigado paciencia suporte,valeu mesmo meu brother,nao recebi o suporte necessario,Estou enfrentando uma falha em meu sistema eletrico O que devo fazer,ola pode ajudar
+407,muito obrigado por sua paciencia e suporte,valeu brother,total falta de responsabilidade,enfrentando falha sistema eletrico devo fazer,Oi estou com um problema
+408,agradeço por sua atençao aos detalhes e profissionalismo,valeu mesmo meu brother,total falta responsabilidade,Meu equipamento nao esta funcionando corretamente O que pode ser,Oi pessoal
+409,agradeço atençao detalhes profissionalismo,manda ver meu chapa,total falta de responsabilidade,equipamento nao funcionando corretamente pode,oi pessoal
+410,agradeço por sua atençao aos detalhes e profissionalismo,manda ver chapa,nao vale a pena passar por tudo isso,Estou com dificuldades para fazer a manutençao corretiva o que posso fazer,Ola o que posso fazer por voce
+411,obrigado por sua disposiçao em resolver meu problema,manda ver meu chapa,nao vale pena passar tudo,dificuldades fazer manutençao corretiva posso fazer,ola posso fazer voce
+412,obrigado disposiçao resolver problema,abraçao sucesso sempre,nao vale a pena passar por tudo isso,Estou enfrentando problemas em meu sistema de controle de qualidade O que fazer,Ola estou com dificuldades
+413,obrigado por sua disposiçao em resolver meu problema,abraçao sucesso sempre,nao estou satisfeito,enfrentando problemas sistema controle qualidade fazer,ola dificuldades
+414,muito obrigado por sua atençao personalizada,Tchau,nao satisfeito,Meu equipamento esta emitindo ruidos estranhos o que pode estar causando,Ola preciso de ajuda para identificar um ruido estranho em minha maquina
+415,obrigado atençao personalizada,Agradeço pela ajuda finalizando aqui a conversa,nao estou satisfeito,equipamento emitindo ruidos estranhos pode causando,ola preciso ajuda identificar ruido estranho maquina
+416,muito obrigado por sua atençao personalizada,agradeço ajuda finalizando aqui conversa,estou insatisfeito com isso,Como fazer a manutençao preventiva de maquinas e equipamentos,Ola quer conversar
+417,agradeço por sua dedicaçao em me ajudar a alcançar meus objetivos,Muito obrigado encerrando aqui,estou insatisfeito com isso,fazer manutençao preventiva maquinas equipamentos,ola quer conversar
+418,agradeço dedicaçao ajudar alcançar objetivos,obrigado encerrando aqui,nao gostei do serviço,Minha maquina esta fazendo barulhos estranhos o que pode ser,Ola poderia me indicar um especialista em manutençao de equipamentos industriais
+419,agradeço por sua dedicaçao em me ajudar a alcançar meus objetivos,Certo vou ver se consigo resolver isso sozinho Obrigado,nao gostei serviço,maquina fazendo barulhos estranhos pode,ola poderia indicar especialista manutençao equipamentos industriais
+420,obrigado por sua orientaçao e conselhos uteis,certo vou ver consigo resolver sozinho obrigado,nao gostei do serviço,Minha maquina nao esta respondendo aos comandos o que pode estar acontecendo,Boas
+421,obrigado orientaçao conselhos uteis,Encerrando a conversa por agora,nao estou contente com o atendimento,maquina nao respondendo comandos pode acontecendo,boas
+422,obrigado por sua orientaçao e conselhos uteis,encerrando conversa agora,nao contente atendimento,Como corrigir um curto circuito em um sistema de energia eletrica,boa
+423,muito obrigado por sua ajuda valiosa e insights perspicazes,Obrigado pela ajuda ate mais,nao estou contente com o atendimento,corrigir curto circuito sistema energia eletrica,E ai em que posso ajudar
+424,obrigado ajuda valiosa insights perspicazes,obrigado ajuda ate,fiquei decepcionado,Minha maquina esta vibrando excessivamente como posso solucionar esse problema,ai posso ajudar
+425,muito obrigado por sua ajuda valiosa e insight perspicazes,Ate a proxima,fiquei decepcionado,maquina vibrando excessivamente posso solucionar problema,Oi qual e a melhor forma de prevenir problemas eletricos nas maquinas
+426,obrigado ajuda valiosa insight perspicazes,Obrigado pelo suporte encerrando a conversa,estou desapontado,Como diagnosticar o problema em uma maquina,oi melhor forma prevenir problemas eletricos maquinas
+427,agradeço por seu excelente serviço ao cliente,obrigado suporte encerrando conversa,desapontado,diagnosticar problema maquina,Oi qual e a melhor forma de prevenir problemas eletricos na maquinas
+428,agradeço excelente serviço cliente,Vou encerrar a conversa obrigado pelo atendimento,estou desapontado,Estou com problemas no meu sistema de refrigeraçao o que fazer,E ai tudo bem
+429,agradeço por seu excelente serviço ao cliente,vou encerrar conversa obrigado atendimento,nao estou feliz com o suporte,problemas sistema refrigeraçao fazer,ai tudo bem
+430,obrigado por sempre ir alem do esperado,Encerrando a conversa,nao feliz suporte,Minha maquina esta superaquecendo o que pode estar causando isso,Ola estou com um vazamento hidraulico e nao sei como solucionar Pode me ajudar
+431,obrigado sempre ir alem esperado,encerrando conversa,nao estou feliz com o suporte,maquina superaquecendo pode causando,ola vazamento hidraulico nao sei solucionar pode ajudar
+432,obrigado por sempre ir alem do esperado,Obrigado pela assistencia podemos encerrar a conversa,estou frustrado,Minha maquina esta superaquecendo O que fazer,Oi nao sei o que fazer
+433,muito obrigado por sua resposta rapida e eficiente,obrigado assistencia podemos encerrar conversa,estou frustrado,maquina superaquecendo fazer,oi nao sei fazer
+434,obrigado resposta rapida eficiente,Muito obrigado pela assistencia ate breve,nao estou satisfeito com a resposta,Minha maquina esta produzindo peças com defeito o que pode estar causando isso,Bom dia alguem pode me ajudar
+435,muito obrigado por sua resposta rapida e eficiente,obrigado assistencia ate breve,nao satisfeito resposta,maquina produzindo peças defeito pode causando,bom dia alguem pode ajudar
+436,agradeço por sua habilidade em encontrar soluçoes,Grato a pelo auxilio,nao estou satisfeito com a resposta,Estou com dificuldades para ajustar a tensao do meu equipamento como posso solucionar,Boa noite como faço para evitar a falta de energia em minha industria
+437,agradeço habilidade encontrar soluçoes,grato auxilio,estou insatisfeito com o serviço recebido,dificuldades ajustar tensao equipamento posso solucionar,boa noite faço evitar falta energia industria
+438,agradeço por sua habilidade em encontrar soluçoes,Acho que ja resolvi o meu problema Obrigado,insatisfeito serviço recebido,Tenho um problema com a minha esteira de montagem Pode me ajudar a conserta la,Boa noite por favor me ajude
+439,obrigado por tornar tudo mais simples e compreensivel,acho ja resolvi problema obrigado,estou insatisfeito com o serviço recebido,problema esteira montagem pode ajudar conserta la,boa noite favor ajude
+440,obrigado tornar tudo simples compreensivel,Encerrando a conversa por enquanto,nao gostei do tratamento que recebi,Tenho uma peça quebrada na minha maquina onde posso encontrar outra,Boa tarde qual e a questao
+441,obrigado por tornar tudo mais simple e compreensivel,encerrando conversa enquanto,nao gostei tratamento recebi,peça quebrada maquina onde posso encontrar outra,boa tarde questao
+442,obrigado tornar tudo simple compreensivel,Meu problema foi resolvido obrigado a,nao gostei do tratamento que recebi,Estou com problemas no controle de qualidade dos produtos voce pode me ajudar a solucionar isso,Boa tarde pode me ajudar com um problema
+443,muito obrigado por sua assistencia oportuna e profissional,problema resolvido obrigado,estou descontente,problemas controle qualidade produtos voce pode ajudar solucionar,boa tarde pode ajudar problema
+444,obrigado assistencia oportuna profissional,Finalizar conversa obrigado pela ajuda,descontente,Estou com problemas no controle de qualidade do produtos voce pode me ajudar a solucionar isso,Boa noite qual e a demanda
+445,muito obrigado por sua assistencia oportuna e profissional,finalizar conversa obrigado ajuda,estou descontente,Estou com dificuldades em encontrar a causa dos ruidos em minha maquina de impressao,boa noite demanda
+446,agradeço por sua atençao individualizada e cuidado genuino,Ate a proxima vez,nao estou satisfeito com a qualidade,dificuldades encontrar causa ruidos maquina impressao,Boa tarde tenho uma duvida sobre a calibragem de equipamentos Pode me orientar
+447,agradeço atençao individualizada cuidado genuino,Obrigado pela ajuda encerrar a conversa,nao satisfeito qualidade,Estou com dificuldades em encontrar a causa do ruidos em minha maquina de impressao,boa tarde duvida sobre calibragem equipamentos pode orientar
+448,agradeço por sua atençao individualizada e cuidado genuino,obrigado ajuda encerrar conversa,nao estou satisfeito com a qualidade,A maquina esta fazendo um barulho estranho como posso consertar,Oi amigao
+449,obrigado por sua orientaçao estrategica e apoio constante,Fiquei satisfeito a com as soluçoes apresentadas,estou chateado com isso,maquina fazendo barulho estranho posso consertar,oi amigao
+450,obrigado orientaçao estrategica apoio constante,fiquei satisfeito soluçoes apresentadas,estou chateado com isso,O meu equipamento esta desligando sozinho o que pode ser o problema,Oi time
+451,obrigado por sua orientaçao estrategica e apoio constante,Fiquei satisfeito a com a soluçoes apresentadas,nao estou contente com a assistencia,equipamento desligando sozinho pode problema,oi time
+452,muito obrigado por sua ajuda em resolver esse problema complexo,Tudo resolvido encerrar conversa,nao contente assistencia,Minha maquina esta apresentando problemas de vibraçao como posso resolver,Boa tarde em que posso ser util
+453,obrigado ajuda resolver problema complexo,tudo resolvido encerrar conversa,nao estou contente com a assistencia,maquina apresentando problemas vibraçao posso resolver,e ai
+454,muito obrigado por sua ajuda em resolver esse problema complexo,Foi muito util conversar com voce obrigado,estou irritado com essa situaçao,Estou tendo problemas com a resistencia eletrica de minha maquina O que devo fazer,ola como posso te ajudar
+455,agradeço por sua paciencia inabalavel e compreensao profunda,util conversar voce obrigado,irritado situaçao,tendo problemas resistencia eletrica maquina devo fazer,oi precisa de alguma assistencia
+456,agradeço paciencia inabalavel compreensao profunda,Muito obrigado a pela ajuda,estou irritado com essa situaçao,Minha produçao esta caindo o que pode estar ocorrendo,oi precisa alguma assistencia
+457,agradeço por sua paciencia inabalavel e compreensao profunda,obrigado ajuda,nao gostei do atendimento,produçao caindo pode ocorrendo,ola estou aqui para responder suas duvidas
+458,obrigado por seu compromisso inabalavel em fornecer um serviço excepcional,Encerrar chatbot obrigado,nao gostei atendimento,Estou com dificuldades para encontrar as peças corretas para reequipar a minha maquina O que devo fazer,ola aqui responder duvidas
+459,obrigado compromisso inabalavel fornecer serviço excepcional,encerrar chatbot obrigado,nao gostei do atendimento,dificuldades encontrar peças corretas reequipar maquina devo fazer,ola como esta o seu dia
+460,obrigado por seu compromisso inabalavel em fornecer um serviço excepcional,Valeu pela ajuda encerrando a conversa agora,estou insatisfeito com a demora,Estou com dificuldades para encontrar a peças corretas para reequipar a minha maquina O que devo fazer,ola dia
+461,muito obrigado por sua dedicaçao incansavel e expertise de alto nivel,valeu ajuda encerrando conversa agora,insatisfeito demora,Como diagnosticar e reparar os problemas em um motor eletrico,bom dia como posso tornar seu dia melhor
+462,obrigado dedicaçao incansavel expertise alto nivel,Finalizar chat obrigado pela ajuda,estou insatisfeito com a demora,diagnosticar reparar problemas motor eletrico,bom dia posso tornar dia melhor
+463,muito obrigado por sua dedicaçao incansavel e expertise de alto nivel,finalizar chat obrigado ajuda,nao estou feliz com a falta de soluçao,Como diagnosticar e reparar o problemas em um motor eletrico,boa tarde como posso facilitar sua vida
+464,agradeço por sua contribuiçao significativa e impacto positivo,Agradeço pela ajuda ate mais,nao feliz falta soluçao,Estou com dificuldades em solucionar um problema em minha prensa hidraulica,boa tarde posso facilitar vida
+465,agradeço contribuiçao significativa impacto positivo,agradeço ajuda ate,nao estou feliz com a falta de soluçao,dificuldades solucionar problema prensa hidraulica,boa noite o que posso fazer por voce
+466,agradeço por sua contribuiçao significativa e impacto positivo,Tchau ate mais,estou decepcionado com a falta de ajuda,Preciso trocar uma peça da minha maquina qual e a mais indicada,boa noite posso fazer voce
+467,obrigado por ser um parceiro confiavel e confiavel em nosso caminho para o sucesso,tchau ate,decepcionado falta ajuda,preciso trocar peça maquina indicada,oi em que posso ser util hoje
+468,obrigado parceiro confiavel confiavel caminho sucesso,Foi um otimo atendimento podemos encerrar agora,estou decepcionado com a falta de ajuda,Estou tendo dificuldades em identificar a causa de um problema na minha produçao voce pode me ajudar,oi posso util hoje
+469,obrigado por ser um parceiro confiavel e confiavel em nosso caminho para o sucesso,otimo atendimento podemos encerrar agora,nao estou satisfeito com a eficiencia,tendo dificuldades identificar causa problema produçao voce pode ajudar,ola estou a disposiçao para te ajudar
+470,Obrigado por ter resolvido o meu problema prontamente,Muito obrigado pelo suporte encerrando aqui,nao satisfeito eficiencia,Preciso de ajuda para realizar a troca de uma peça especifica no meu equipamento,ola disposiçao ajudar
+471,obrigado ter resolvido problema prontamente,obrigado suporte encerrando aqui,nao estou satisfeito com a eficiencia,preciso ajuda realizar troca peça especifica equipamento,oi como posso contribuir para o seu dia
+472,Muito obrigado por me ajudar a resolver o meu problema,Encerrando aqui a conversa todas as duvidas foram solucionadas,estou desapontado com a falta de suporte,Tenho um problema com meu sistema de ar comprimido Pode me ajudar,oi posso contribuir dia
+473,obrigado ajudar resolver problema,encerrando aqui conversa todas duvidas solucionadas,desapontado falta suporte,problema sistema ar comprimido pode ajudar,ola qual e a sua necessidade no momento
+474,Obrigado pela soluçao,Encerrando aqui a conversa toda a duvidas foram solucionadas,estou desapontado com a falta de suporte,O sistema de lubrificaçao da minha maquina nao esta funcionando como posso solucionar esse problema,ola necessidade momento
+475,obrigado soluçao,encerrando aqui conversa toda duvidas solucionadas,nao gostei da forma como fui tratado,sistema lubrificaçao maquina nao funcionando posso solucionar problema,ola o que posso fazer por voce hoje
+476,Agradeço pelo suporte,Agradeço pela ajuda encerrando a conversa,nao gostei forma tratado,Estou com dificuldades para entender o funcionamento de uma ferramenta pode me ajudar,ola posso fazer voce hoje
+477,agradeço suporte,agradeço ajuda encerrando conversa,nao gostei da forma como fui tratado,dificuldades entender funcionamento ferramenta pode ajudar,oi como posso facilitar sua jornada
+478,Muito agradecido pelo suporte,Obrigado pelo suporte vamos encerrar agora,estou insatisfeito com a falta de atençao,Minha linha de produçao esta produzindo muito lentamente o que devo fazer,oi posso facilitar jornada
+479,agradecido suporte,obrigado suporte vamos encerrar agora,insatisfeito falta atençao,linha produçao produzindo lentamente devo fazer,oi tudo bom como posso tornar seu dia mais facil
+480,Muito obrigado pela soluçao rapida e eficiente do problema,Thanks closing the chat now,estou insatisfeito com a falta de atençao,Preciso de ajuda para solucionar um problema em meu gerador eletrico,oi tudo bom posso tornar dia facil
+481,obrigado soluçao rapida eficiente problema,thanks closing the chat now,nao estou contente com a falta de profissionalismo,preciso ajuda solucionar problema gerador eletrico,ola como posso contribuir para o seu sucesso
+482,Muito grato pela competencia na resoluçao do meu problema,Encerrando a conversa obrigado,nao contente falta profissionalismo,A maquina esta consumindo muito mais energia do que o esperado o que pode ser,ola posso contribuir sucesso
+483,grato competencia resoluçao problema,encerrando conversa obrigado,nao estou contente com a falta de profissionalismo,maquina consumindo energia esperado pode,oi estou aqui para resolver suas duvidas como posso ajudar
+484,Obrigado pelo excelente serviço prestado,Agradeço imensamente encerrando por aqui,estou frustrado com a falta de resposta,O que pode estar causando um problema de vibraçao em meu motor eletrico,oi aqui resolver duvidas posso ajudar
+485,obrigado excelente serviço prestado,agradeço imensamente encerrando aqui,frustrado falta resposta,pode causando problema vibraçao motor eletrico,ola em que posso ser util para voce hoje
+486,Obrigado pela competencia,Encerrando a conversa aqui obrigado pela ajuda,estou frustrado com a falta de resposta,Estou com dificuldades para encontrar a causa raiz de um problema na minha maquina como posso melhorar essa analise,ola posso util voce hoje
+487,Muito grato pela sua ajuda voce foi extremamente util,encerrando conversa aqui obrigado ajuda,nao estou satisfeito com a assistencia recebida,dificuldades encontrar causa raiz problema maquina posso melhorar analise,oi como posso melhorar sua experiencia conosco
+488,grato ajuda voce extremamente util,Finalizar chatbot agradeço a ajuda,nao satisfeito assistencia recebida,A bomba de agua do meu equipamento esta com vazamentos o que devo verificar,oi posso melhorar experiencia conosco
+489,Muito obrigado pelo suporte durante todo o processo,finalizar chatbot agradeço ajuda,nao estou satisfeito com a assistencia recebida,bomba agua equipamento vazamentos devo verificar,ola como posso simplificar suas tarefas
+490,obrigado suporte durante todo processo,Agradecido pela soluçao ate mais,estou descontente com a demora na resoluçao,A velocidade do meu motor esta irregular como solucionar esse problema,ola posso simplificar tarefas
+491,Agradeço pelo suporte rapido e eficaz,agradecido soluçao ate,descontente demora resoluçao,velocidade motor irregular solucionar problema,oi tudo tranquilo por ai como posso te auxiliar
+492,agradeço suporte rapido eficaz,Terminei de conversar obrigado a,estou descontente com a demora na resoluçao,Poderia me orientar sobre como resolver um problema de superaquecimento em meu equipamento de força,oi tudo tranquilo ai posso auxiliar
+493,Nao poderia estar mais agradecido pelo excelente serviço prestado,terminei conversar obrigado,nao estou feliz com a falta de suporte adequado,poderia orientar sobre resolver problema superaquecimento equipamento força,ola estou pronto para te fornecer suporte excepcional
+494,nao poderia agradecido excelente serviço prestado,Encerrar obrigado pela ajuda,nao feliz falta suporte adequado,Como posso resolver um problema de vazamento em meu equipamento de pintura,ola pronto fornecer suporte excepcional
+495,Voce fez um otimo trabalho,encerrar obrigado ajuda,nao estou feliz com a falta de suporte adequado,posso resolver problema vazamento equipamento pintura,oi como posso tornar seu dia mais produtivo
+496,voce fez otimo trabalho,Acho que e tudo por ora,estou chateado com a falta de comprometimento,Meu equipamento de solda esta apresentando falhas Como posso conserta lo,oi posso tornar dia produtivo
+497,Eu so queria deixar registrado o quanto eu estou grato pelas suas dicas,acho tudo ora,chateado falta comprometimento,equipamento solda apresentando falhas posso conserta lo,ola seja bem vindo como posso te ajudar
+498,so queria deixar registrado quanto grato dicas,Acho que e tudo por os,estou chateado com a falta de comprometimento,Estou tendo dificuldades para interpretar as informaçoes do painel de controle voce pode me auxiliar,ola seja bem vindo posso ajudar
+499,Muito obrigado pela paciencia e dedicaçao,acho tudo os,nao gostei da falta de empatia,tendo dificuldades interpretar informaçoes painel controle voce pode auxiliar,oi qual e a sua pergunta estou aqui para responder
+500,obrigado paciencia dedicaçao,acho tudo,nao gostei falta empatia,Estou tendo dificuldades para interpretar a informaçoes do painel de controle voce pode me auxiliar,oi pergunta aqui responder
+501,Agradeço pela paciencia em explicar tudo de forma detalhada,Acho que e tudo por o,nao gostei da falta de empatia,Como posso evitar problemas comuns em maquinas,ola estou a disposiçao para resolver seus problemas
+502,agradeço paciencia explicar tudo forma detalhada,acho tudo o,estou insatisfeito com a falta de agilidade,posso evitar problemas comuns maquinas,ola disposiçao resolver problemas
+503,Agradeço pela rapidez,Obrigado pela orientaçao finalizando aqui a conversa,insatisfeito falta agilidade,Nao estou conseguindo fazer a manutençao preventiva da minha maquina o que devo fazer,ola como vai voce
+504,agradeço rapidez,obrigado orientaçao finalizando aqui conversa,estou insatisfeito com a falta de agilidade,nao conseguindo fazer manutençao preventiva maquina devo fazer,ola vai voce
+505,Fiquei muito satisfeito com o serviço prestado,Foi otimo conversar contigo muito obrigado,nao estou contente com a falta de eficiencia,Estou sofrendo com queda de energia na minha fabrica existe algo que eu possa fazer para evitar isso,oi estou aqui para ajudar no que precisar
+506,fiquei satisfeito serviço prestado,otimo conversar contigo obrigado,nao contente falta eficiencia,sofrendo queda energia fabrica existe algo possa fazer evitar,oi aqui ajudar precisar
+507,Obrigado pela atençao e dedicaçao ao meu caso,Agradeço pela orientaçao encerrando a conversa,nao estou contente com a falta de eficiencia,Um dos meus equipamentos parou de funcionar o que devo fazer,ola como posso facilitar sua vida hoje
+508,obrigado atençao dedicaçao caso,agradeço orientaçao encerrando conversa,estou irritado com a falta de soluçao para o meu problema,equipamentos parou funcionar devo fazer,ola posso facilitar vida hoje
+509,Obrigado pelo suporte tecnico,Terminei meu atendimento podemos encerrar,irritado falta soluçao problema,Um do meus equipamentos parou de funcionar o que devo fazer,oi tudo certo como posso ser util
+510,obrigado suporte tecnico,terminei atendimento podemos encerrar,estou irritado com a falta de soluçao para o meu problema,Estou tendo dificuldades para identificar o tipo de lubrificante que deve ser usado em minha maquina pode me ajudar,oi tudo certo posso util
+511,Seu suporte foi fundamental para o bom funcionamento da minha maquina,Grato pela ajuda encerrando a conversa,nao estou satisfeito com a falta de suporte tecnico,tendo dificuldades identificar tipo lubrificante deve usado maquina pode ajudar,ola estou a disposiçao para esclarecer suas duvidas
+512,suporte fundamental bom funcionamento maquina,grato ajuda encerrando conversa,nao satisfeito falta suporte tecnico,Preciso realizar manutençao preventiva em meu equipamento voce pode me dar algumas orientaçoes,ola disposiçao esclarecer duvidas
+513,Obrigado por me ajudar a identificar onde estava meu problema mecanico,Ate mais muito obrigado,nao estou satisfeito com a falta de suporte tecnico,preciso realizar manutençao preventiva equipamento voce pode dar algumas orientaçoes,oi como posso tornar seu dia mais agradavel
+514,obrigado ajudar identificar onde problema mecanico,ate obrigado,estou desapontado com a falta de atençao ao meu caso,A calibraçao da ferramenta da minha maquina esta desajustada o que fazer,oi posso tornar dia agradavel
+515,Fico agradecido pela ajuda,Foi bom conversar ate mais,desapontado falta atençao caso,calibraçao ferramenta maquina desajustada fazer,ola como posso fazer o seu dia melhor
+516,fico agradecido ajuda,bom conversar ate,estou desapontado com a falta de atençao ao meu caso,Qual e a melhor forma de lidar com problemas de lubrificaçao em maquinas,ola posso fazer dia melhor
+517,Agradeço pelo excelente atendimento e competencia,Foi um prazer conversar com voce,nao gostei da falta de respeito,melhor forma lidar problemas lubrificaçao maquinas,oi o que posso fazer por voce
+518,agradeço excelente atendimento competencia,prazer conversar voce,nao gostei falta respeito,Minhas maquinas estao apresentando baixo rendimento Pode me ajudar a solucionar o problema,oi posso fazer voce
+519,Obrigado pela ajuda valiosa,Ótimo vou encerrar a conversa,nao gostei da falta de respeito,maquinas estao apresentando baixo rendimento pode ajudar solucionar problema,ola como posso ajudar voce hoje
+520,Agradecido pela eficiencia,ótimo vou encerrar conversa,estou insatisfeito com a falta de resposta satisfatoria,Estou com dificuldades para realizar a manutençao preditiva como posso melhorar isso,ola posso ajudar voce hoje
+521,agradecido eficiencia,otimo vou encerrar conversa,insatisfeito falta resposta satisfatoria,dificuldades realizar manutençao preditiva posso melhorar,oi tudo bem por ai como posso ser util
+522,Muito obrigado pela ajuda em solucionar meu problema tecnico,Encerrar conversa obrigado pelo suporte prestado,estou insatisfeito com a falta de resposta satisfatoria,Preciso de ajuda para solucionar um problema em meus motores eletricos,oi tudo bem ai posso util
+523,obrigado ajuda solucionar problema tecnico,encerrar conversa obrigado suporte prestado,nao estou contente com a falta de dedicaçao,preciso ajuda solucionar problema motores eletricos,ola estou aqui para oferecer suporte excepcional
+524,Agradeço por terem resolvido um problema que parecia impossivel de ser solucionado,Encerrar dialogo agradeço pelo atendimento,nao contente falta dedicaçao,A correia da minha maquina esta desgastada como devo proceder,ola aqui oferecer suporte excepcional
+525,agradeço terem resolvido problema parecia impossivel solucionado,encerrar dialogo agradeço atendimento,nao estou contente com a falta de dedicaçao,correia maquina desgastada devo proceder,oi como posso tornar sua jornada mais facil
+526,Muito obrigado pelo profissionalismo e dedicaçao na resoluçao do meu problema,Obrigado a pelo suporte,estou frustrado com a demora na soluçao,Estou enfrentando problemas de umidade em meu sistema de refrigeraçao O que devo fazer,oi posso tornar jornada facil
+527,obrigado profissionalismo dedicaçao resoluçao problema,obrigado suporte,frustrado demora soluçao,enfrentando problemas umidade sistema refrigeraçao devo fazer,ola estou pronto para atender as suas necessidades
+528,Agradeço pela sua ajuda,Agradeço pelos esclarecimentos finalizar conversa,estou frustrado com a demora na soluçao,Ola Estou com um problema na linha de produçao pode me ajudar,ola pronto atender necessidades
+529,Muito obrigado pela sua atençao e prestatividade,agradeço esclarecimentos finalizar conversa,nao estou satisfeito com a falta de compromisso,ola problema linha produçao pode ajudar,ola estou pronto para atender a suas necessidades
+530,obrigado atençao prestatividade,Acabou meu tempo disponivel encerrar conversa,nao satisfeito falta compromisso,Minha linha de produçao esta parada por causa de um problema como posso soluciona lo,oi tudo tranquilo por ai como posso auxiliar
+531,Muito obrigado por me guiar na soluçao do problema,acabou tempo disponivel encerrar conversa,nao estou satisfeito com a falta de compromisso,linha produçao parada causa problema posso soluciona lo,good morning
+532,obrigado guiar soluçao problema,Consegui solucionar meu problema podemos encerrar a conversa,estou descontente com a falta de profissionalismo,Gostaria de saber qual o melhor combustivel para utilizar na minha maquina,eae
+533,Agradeço pela soluçao,consegui solucionar problema podemos encerrar conversa,descontente falta profissionalismo,gostaria saber melhor combustivel utilizar maquina,e ae
+534,agradeço soluçao,Muito obrigado pela assistencia encerrando agora,estou descontente com a falta de profissionalismo,O sistema de refrigeraçao do meu equipamento esta com problemas o que devo verificar,ae
+535,Estou extremamente agradecido por ter solucionado meu problema eletrico rapidamente,obrigado assistencia encerrando agora,nao estou feliz com a falta de agilidade na resoluçao,sistema refrigeraçao equipamento problemas devo verificar,esta bem
+536,extremamente agradecido ter solucionado problema eletrico rapidamente,Encerrar dialogo agradeço pela ajuda,nao feliz falta agilidade resoluçao,estou com dificuldade,bem
+537,Excelente suporte agradeço muito,encerrar dialogo agradeço ajuda,nao estou feliz com a falta de agilidade na resoluçao,dificuldade,salve
+538,excelente suporte agradeço,Obrigado foi util,estou chateado com a falta de suporte adequado,preciso de ajuda,seja bem vindo
+539,Agradeço pela soluçao do meu problema,obrigado util,chateado falta suporte adequado,preciso ajuda,oi como vai
+540,agradeço soluçao problema,Encerrar chatbot obrigado pelo suporte,estou chateado com a falta de suporte adequado,alguem pode me ajudar,oi seja bem vindo
+541,Obrigado pelo suporte profissional e cordial,encerrar chatbot obrigado suporte,nao gostei da falta de atençao ao meu caso,alguem pode ajudar,ola e um prazer te ver
+542,obrigado suporte profissional cordial,Entendi tudo o que precisava encerrar atendimento,nao gostei falta atençao caso,nao sei o que fazer,ola prazer ver
+543,Agradeço por terem ajudado a manter minha fabrica em operaçao,entendi tudo precisava encerrar atendimento,nao gostei da falta de atençao ao meu caso,nao sei fazer,oi que bom que voce veio
+544,agradeço terem ajudado manter fabrica operaçao,Ok muito obrigado,estou insatisfeito com a falta de empatia e compreensao,estou perdido,oi bom voce veio
+545,Agradeço pela rapidez na soluçao do problema,ok obrigado,insatisfeito falta empatia compreensao,perdido,ola como posso ajudar
+546,agradeço rapidez soluçao problema,Por hoje e so encerrar atendimento,estou insatisfeito com a falta de empatia e compreensao,estou com dificuldades,oi estou aqui para ajudar
+547,Estou muito grato pela ajuda,hoje so encerrar atendimento,nao estou contente com a falta de eficacia,dificuldades,oi aqui ajudar
+548,grato ajuda,Encerrar atendimento obrigado pelo tempo dispensado,nao contente falta eficacia,estou com uma duvida,oi o que voce precisa
+549,Muito obrigado pelo auxilio na minha demanda,encerrar atendimento obrigado tempo dispensado,nao estou contente com a falta de eficacia,duvida,oi voce precisa
+550,obrigado auxilio demanda,Encerrar chat agradecido pela ajuda,estou irritado com a falta de resposta adequada,nao entendo,oi como posso ser util
+551,Fico grato por toda ajuda e suporte,encerrar chat agradecido ajuda,irritado falta resposta adequada,como resolver,oi precisando de alguma assistencia
+552,fico grato toda ajuda suporte,Obrigado pela ajuda encerrar conversa,estou irritado com a falta de resposta adequada,resolver,oi precisando alguma assistencia
+553,Grato pela atençao,Agradeço pelas soluçoes apresentadas encerrando a conversa,estou desapontado com a demora na resposta,o que devo fazer,oi em que posso auxiliar
+554,grato atençao,agradeço soluçoes apresentadas encerrando conversa,desapontado demora resposta,devo fazer,oi estou a disposiçao
+555,Muito obrigado pela prontidao,Agradeço a assistencia podemos encerrar,estou desapontado com a demora na resposta,estou empacado,oi disposiçao
+556,obrigado prontidao,agradeço assistencia podemos encerrar,nao gostei da falta de soluçao para o meu problema,empacado,oi posso ajudar em algo
+557,Agradecido pela atençao dada a minha solicitaçao,Muito obrigado pelo atendimento vamos finalizar a conversa,nao gostei falta soluçao problema,socorro,oi o que posso fazer por voce hoje
+558,agradecido atençao dada solicitaçao,obrigado atendimento vamos finalizar conversa,nao gostei da falta de soluçao para o meu problema,nao consigo,oi posso fazer voce hoje
+559,Voces sao incriveis muito obrigado pela ajuda,Encerrar dialogo agora,estou insatisfeito com a falta de suporte tecnico adequado,estou confuso,oi estou pronto para responder suas duvidas
+560,voces sao incriveis obrigado ajuda,encerrar dialogo agora,insatisfeito falta suporte tecnico adequado,confuso,oi pronto responder duvidas
+561,vox sao incriveis obrigado ajuda,Obrigado a pela assistencia prestada,estou insatisfeito com a falta de suporte tecnico adequado,estou com uma dificuldade,oi como posso contribuir
+562,Fiquei imensamente agradecido por ter ajudado a resolver meu problema mecanico,obrigado assistencia prestada,estou insatisfeito com a falta de clareza nas informaçoes,preciso de suporte,oi posso contribuir
+563,fiquei imensamente agradecido ter ajudado resolver problema mecanico,Encerrar dialogo obrigado pela assistencia,nao estou satisfeito com a falta de cumprimento das promessas,preciso suporte,oi estou aqui para te ajudar
+564,Parabens pelo trabalho e obrigado,encerrar dialogo obrigado assistencia,nao estou contente com a falta de transparencia nas informaçoes,estou enfrentando um problema,oi estou disponivel para qualquer pergunta
+565,parabens trabalho obrigado,Muito obrigado pela ajuda,nao estou feliz com a falta de cumprimento dos acordos,enfrentando problema,oi disponivel qualquer pergunta
+566,Estou muito agradecido por ter resolvido minha falha no motor,Encerrar dialogo obrigado,nao estou satisfeito com a falta de cuidado com as demandas dos clientes,alguma sugestao,oi em que posso colaborar
+567,agradecido ter resolvido falha motor,encerrar dialogo obrigado,estou insatisfeito com a falta de agilidade nas respostas,estou com um contratempo,oi posso colaborar
+568,Obrigado pela resposta rapida,Agradeço pela atençao ate mais,isso ultrapassa todos os limites,contratempo,oi qual e a sua duvida
+569,obrigado resposta rapida,agradeço atençao ate,O prazo de entrega nao foi cumprido,estou com um obstaculo,oi o que voce gostaria de saber
+570,Obrigado pela paciencia,Solucionei meu problema Obrigado a,prazo entrega nao cumprido,obstaculo,oi voce gostaria saber
+571,Agradecido pela cordialidade,solucionei problema obrigado,Nao gostei do prazo de entrega,o que posso fazer,oi estou pronto para começar
+572,agradecido cordialidade,Encerrar a conversa obrigado pelo suporte,nao gostei prazo entrega,posso fazer,oi pronto começar
+573,Obrigado por terem resolvido o problema de forma tao eficiente,encerrar conversa obrigado suporte,O produto veio com defeito,estou com um desafio,oi estou aqui para esclarecer suas questoes
+574,obrigado terem resolvido problema forma tao eficiente,Encerrar conversa agradeço pela ajuda,produto veio defeito,desafio,oi aqui esclarecer questoes
+575,Excelente atendimento Obrigado,encerrar conversa agradeço ajuda,Sinto me prejudicado com o serviço prestado,estou com um dilema,oi como posso te auxiliar hoje
+576,excelente atendimento obrigado,Muito obrigado pela assistencia finalizando a conversa,sinto prejudicado serviço prestado,dilema,oi posso auxiliar hoje
+577,Muito obrigado,obrigado assistencia finalizando conversa,Senti falta de informaçoes claras sobre o produto,alguma ideia,oi estou preparado para te ajudar no que precisar
+578,Agradeço pela gentileza e presteza,Ja entendi tudo que precisava podemos encerrar a conversa,senti falta informaçoes claras sobre produto,nao sei por onde começar,oi preparado ajudar precisar
+579,agradeço gentileza presteza,ja entendi tudo precisava podemos encerrar conversa,sent falta informaçoes claras sobre produto,nao sei onde começar,oi o que posso fazer por voce agora
+580,Obrigado por me ajudar a resolver o problema,Agradeço pela ajuda do chatbot encerrar conversa,Nao gostei do atendimento recebido,estou com dificuldade para resolver,oi posso fazer voce agora
+581,Obrigado pela rapidez na resoluçao do meu problema,agradeço ajuda chatbot encerrar conversa,nao gostei atendimento recebido,dificuldade resolver,oi estou a sua disposiçao
+582,obrigado rapidez resoluçao problema,Preciso ir agora mas obrigado pela ajuda,O atendimento deixou muito a desejar,estou com uma dificuldade enorme,oi como posso ser util hoje
+583,Obrigado pela presteza,preciso ir agora obrigado ajuda,atendimento deixou desejar,dificuldade enorme,oi estou aqui para responder suas perguntas
+584,obrigado presteza,Preciso ir agora ma obrigado pela ajuda,O produto chegou com defeito,estou com uma dificuldade imensa,oi aqui responder perguntas
+585,Muito obrigado por ter me dado a soluçao,preciso ir agora ma obrigado ajuda,produto chegou defeito,dificuldade imensa,oi em que posso te ajudar nesta conversa
+586,obrigado ter dado soluçao,Encerrar o atendimento obrigado,Esperava mais profissionalismo da empresa,preciso de orientaçao,oi posso ajudar nesta conversa
+587,Agradeço pelo excelente atendimento e soluçao do meu problema,encerrar atendimento obrigado,esperava profissionalismo empresa,preciso orientaçao,oi estou pronto para te guiar
+588,agradeço excelente atendimento soluçao problema,Encerrar conversa obrigado,Fui mal atendido pelo suporte,estou enfrentando um obstaculo,oi pronto guiar
+589,Obrigado por me orientar nessa situaçao,encerrar conversa obrigado,mal atendido suporte,enfrentando obstaculo,oi qual e o seu interesse
+590,obrigado orientar nessa situaçao,Ja tenho a informaçao necessaria encerrando a conversa,O produto que me foi entregue estava danificado,preciso superar um desafio,oi interesse
+591,Sua ajuda foi essencial para restaurar a eficiencia da minha maquina,ja informaçao necessaria encerrando conversa,produto entregue danificado,preciso superar desafio,oi estou aqui para te dar suporte
+592,ajuda essencial restaurar eficiencia maquina,Agradeço pela ajuda finalizar conversa,O atendente nao foi prestativo,estou com um desafio complicado,oi aqui dar suporte
+593,Grato pela rapida resoluçao do meu problema eletrico,agradeço ajuda finalizar conversa,atendente nao prestativo,desafio complicado,oi como posso facilitar a sua vida
+594,grato rapida resoluçao problema eletrico,Excelente atendimento obrigado a,O produto nao atendeu as minhas expectativas,algum conselho,oi posso facilitar vida
+595,Obrigado pela ajuda com o meu maquinario,excelente atendimento obrigado,produto nao atendeu expectativas,nao sei como lidar com isso,oi estou aqui para tornar sua experiencia melhor
+596,obrigado ajuda maquinario,Foi um prazer conversar contigo ate a proxima,O produto nao atendeu a minhas expectativas,nao sei lidar,oi aqui tornar experiencia melhor
+597,Grato pela eficiencia na soluçao do meu problema,prazer conversar contigo ate proxima,Nao estou satisfeito com o valor cobrado,estou com dificuldades para lidar,oi o que voce gostaria de discutir
+598,grato eficiencia soluçao problema,Preciso me concentrar agora encerrar,nao satisfeito valor cobrado,dificuldades lidar,oi voce gostaria discutir
+599,Agradecimentos pela otima assistencia prestada,preciso concentrar agora encerrar,Nao recebi meu reembolso ate agora,estou com dificuldades para entender,oi em que posso te orientar
+600,agradecimentos otima assistencia prestada,Foi muito util podemos encerrar agora,nao recebi reembolso ate agora,dificuldades entender,oi posso orientar
+601,Agradeço pela sua paciencia em me ajudar a resolver o problema,util podemos encerrar agora,Nao recebi o suporte necessario para solucionar meu problema,preciso de um direcionamento,oi estou pronto para te atender
+602,agradeço paciencia ajudar resolver problema,Adeus,nao recebi suporte necessario solucionar problema,preciso direcionamento,oi pronto atender
+603,Muito obrigado pela sua assistencia,Agradeço pelo suporte vamos encerrar a conversa,O serviço nao atendeu minhas expectativas,estou com dificuldades para encontrar uma soluçao,oi como posso tornar seu dia melhor
+604,Nao sei o que faria sem a ajuda de voces obrigado,agradeço suporte vamos encerrar conversa,serviço nao atendeu expectativas,dificuldades encontrar soluçao,oi posso tornar dia melhor
+605,nao sei faria ajuda voces obrigado,Obrigado pela ajuda encerrando a conversa,Estou decepcionado com a qualidade do produto,estou com dificuldades para resolver,oi estou aqui para te acompanhar nesta jornada
+606,Nao sei o que faria sem a ajuda de vox obrigado,obrigado ajuda encerrando conversa,decepcionado qualidade produto,dificuldades resolver,oi aqui acompanhar nesta jornada
+607,nao sei faria ajuda vox obrigado,Obrigado pelas orientaçoes encerrando aqui,O serviço que contratei nao foi conforme o combinado,estou com dificuldades para prosseguir,oi qual e o seu objetivo
+608,Obrigado por terem sido solicitos,obrigado orientaçoes encerrando aqui,serviço contratei nao conforme combinado,dificuldades prosseguir,oi objetivo
+609,obrigado terem sido solicitos,Devo ir agora muito obrigado,Fiquei insatisfeito com a demora na entrega,estou com dificuldades para avançar,oi estou pronto para te oferecer minha ajuda
+610,Agradeço pela ajuda tecnica prestada,devo ir agora obrigado,fiquei insatisfeito demora entrega,dificuldades avançar,oi pronto oferecer ajuda
+611,agradeço ajuda tecnica prestada,Obrigado pelo suporte podemos encerrar a conversa,O serviço que recebi nao foi de qualidade,estou com dificuldades para progredir,oi como posso te deixar mais confortavel
+612,Obrigado pela resposta esclarecedora,obrigado suporte podemos encerrar conversa,serviço recebi nao qualidade,dificuldades progredir,oi posso deixar confortavel
+613,obrigado resposta esclarecedora,Encerrar atendimento obrigado pela paciencia,Nao estou gostando do produto,alguma ajuda,oi estou aqui para te apoiar
+614,Obrigado por ter me ajudado a economizar tempo e dinheiro,encerrar atendimento obrigado paciencia,nao gostando produto,estou com dificuldades para tomar uma decisao,oi aqui apoiar
+615,obrigado ter ajudado economizar tempo dinheiro,Por enquanto e so encerrando,Estou descontente com o atendimento recebido,dificuldades tomar decisao,oi o que voce deseja conversar
+616,Fiquei muito feliz com o resultado agradeço a dedicaçao de voces,enquanto so encerrando,descontente atendimento recebido,nao sei como resolver isso pode me auxiliar,oi voce deseja conversar
+617,fiquei feliz resultado agradeço dedicaçao voces,Nos falamos depois,Nao gostei da forma como fui tratado pela empresa,nao sei resolver pode auxiliar,oi em que posso te auxiliar hoje
+618,Fiquei muito feliz com o resultado agradeço a dedicaçao de vox,falamos,nao gostei forma tratado empresa,estou com um problema complicado e preciso de ajuda,oi estou preparado para te dar todo o suporte necessario
+619,fiquei feliz resultado agradeço dedicaçao vox,Foi bom conversar com voce,O produto que comprei nao corresponde a descriçao,problema complicado preciso ajuda,oi preparado dar todo suporte necessario
+620,Agradeço pela orientaçao precisa e pontual,Foi bom conversar,produto comprei nao corresponde descriçao,por favor me de uma maozinha com isso,oi como posso te servir
+621,agradeço orientaçao precisa pontual,bom conversar,Nao estou satisfeito com o produto que comprei,favor maozinha,oi posso servir
+622,Ótimo atendimento obrigado,Ate breve,O aplicativo apresentou falhas durante o uso,estou enfrentando uma situaçao dificil sera que voce pode me orientar,oi estou aqui para te guiar no processo
+623,ótimo atendimento obrigado,Hora de partir adeus,aplicativo apresentou falhas durante uso,enfrentando situaçao dificil sera voce pode orientar,oi aqui guiar processo
+624,otimo atendimento obrigado,hora partir adeus,O serviço prestado foi de baixa qualidade,estou enfrentando uma situaçao dificil serum que voce pode me orientar,oi qual e a sua expectativa
+625,Obrigado pela orientaçao na soluçao do meu problema,Parando,serviço prestado baixa qualidade,enfrentando situaçao dificil serum voce pode orientar,oi expectativa
+626,obrigado orientaçao soluçao problema,parando,Nao gostei da qualidade do produto,preciso de suporte para solucionar um problema,oi estou pronto para te oferecer a melhor soluçao
+627,Grato pela presteza no atendimento,Ja tirei todas as minhas duvidas obrigado,nao gostei qualidade produto,preciso suporte solucionar problema,oi pronto oferecer melhor soluçao
+628,grato presteza atendimento,ja tirei todas duvidas obrigado,Nao recomendaria a empresa para ninguem,estou com dificuldades para encontrar uma soluçao pode me ajudar,oi estou aqui
+629,Nao existem palavras para descrever minha gratidao por toda ajuda,Ja tirei toda a minhas duvidas obrigado,nao recomendaria empresa ninguem,dificuldades encontrar soluçao pode ajudar,oi aqui
+630,nao existem palavras descrever gratidao toda ajuda,ja tirei toda duvidas obrigado,Nao fui bem atendido,tenho uma dificuldade e gostaria de pedir sua ajuda,ola preciso de ajuda
+631,Obrigado pela ajuda,Acho que ja esta resolvido vou encerrar a conversa,nao bem atendido,dificuldade gostaria pedir ajuda,ei alguem pode me ajudar
+632,Obrigado por me ajudar a entender o problema,acho ja resolvido vou encerrar conversa,A empresa nao cumpriu com o prazo combinado,estou com um desafio e preciso de orientaçao para supera lo,ei alguem pode ajudar
+633,obrigado ajudar entender problema,Fechando,empresa nao cumpriu prazo combinado,desafio preciso orientaçao supera lo,oi estou com algumas duvidas
+634,Muito grato pela sua ajuda,fechando,Nao recebi o produto dentro do prazo,nao consigo entender o que esta acontecendo pode me explicar,oi algumas duvidas
+635,Sinceramente agradecido pela ajuda,Finalizando,nao recebi produto dentro prazo,nao consigo entender acontecendo pode explicar,ola gostaria de fazer algumas perguntas
+636,sinceramente agradecido ajuda,finalizando,Tive uma experiencia ruim com o aplicativo da empresa,estou com um contratempo e preciso de assistencia,ola gostaria fazer algumas perguntas
+637,Agradeço muito pela rapidez na soluçao do problema,Finalizando a conversa,experiencia ruim aplicativo empresa,contratempo preciso assistencia,oi sera que voce pode me auxiliar
+638,Muito obrigado por terem salvo meu dia,finalizando conversa,Minha reclamaçao nao foi resolvida,estou com uma dificuldade enorme e preciso de alguem que possa me auxiliar,oi sera voce pode auxiliar
+639,obrigado terem salvo dia,Encerrando por aqui,reclamaçao nao resolvida,dificuldade enorme preciso alguem possa auxiliar,oi serum que voce pode me auxiliar
+640,Muito obrigado pela assistencia,encerrando aqui,Nao consigo contato com a empresa para solucionar meu problema,nao sei como lidar com isso sera que voce pode me dar um conselho,oi serum voce pode auxiliar
+641,Agradeço sua orientaçao,Encerrado,nao consigo contato empresa solucionar problema,nao sei lidar sera voce pode dar conselho,e ai alguem pode me dar uma maozinha
+642,Agradeço pelo atendimento de primeira qualidade,encerrado,Estou insatisfeito com o atendimento,nao sei como lidar com isso serum que voce pode me dar um conselho,ai alguem pode dar maozinha
+643,agradeço atendimento primeira qualidade,Vou sair agora,insatisfeito atendimento,nao sei lidar serum voce pode dar conselho,oi estou um pouco perdido alguem pode me orientar
+644,Mais uma vez agradeço pelo atendimento impecavel,vou sair agora,Nao tive uma boa experiencia de compra,estou enfrentando um problema e nao sei por onde começar pode me dar um norte,oi pouco perdido alguem pode orientar
+645,vez agradeço atendimento impecavel,Obrigado encerrando,nao boa experiencia compra,enfrentando problema nao sei onde começar pode dar norte,oi preciso de uma informaçao
+646,Obrigado pela paciencia e disposiçao em me ajudar,obrigado encerrando,O produto que recebi nao estava em boas condiçoes,estou com dificuldades para resolver isso precisa de sugestoes,oi preciso informaçao
+647,obrigado paciencia disposiçao ajudar,Ate mais,produto recebi nao boas condiçoes,dificuldades resolver precisa sugestoes,oi estou com um problema e nao sei como resolver
+648,Agradeço pela atençao dispensada,Vamos encerrar por aqui,O produto que recebi nao estava em boa condiçoes,preciso superar um obstaculo pode me ajudar a encontrar uma soluçao,oi problema nao sei resolver
+649,agradeço atençao dispensada,vamos encerrar aqui,produto recebi nao boa condiçoes,preciso superar obstaculo pode ajudar encontrar soluçao,oi gostaria de tirar uma duvida
+650,Esta tudo funcionando perfeitamente obrigado,Encerrando a sessao,Tive problemas para realizar o pagamento,estou com dificuldades para progredir nesse assunto preciso de suporte,oi gostaria tirar duvida
+651,tudo funcionando perfeitamente obrigado,encerrando sessao,problemas realizar pagamento,dificuldades progredir nesse assunto preciso suporte,ei tem alguem disponivel para me ajudar
+652,Agradeço pela soluçao encontrada,Acho que ja podemos encerrar,Nao gostei do produto que recebi,estou com uma dificuldade imensa e nao sei como resolver pode me guiar,ei alguem disponivel ajudar
+653,agradeço soluçao encontrada,acho ja podemos encerrar,nao gostei produto recebi,dificuldade imensa nao sei resolver pode guiar,oi estou com dificuldades e gostaria de uma orientaçao
+654,A soluçao apresentada foi muito eficaz e estou muito grato,Fico feliz em ter aprendido mais sobre isso ate mais,Estou descontente com a qualidade do produto,nao estou conseguindo encontrar uma soluçao voce pode me dar algumas ideias,oi dificuldades gostaria orientaçao
+655,soluçao apresentada eficaz grato,fico feliz ter aprendido sobre ate,descontente qualidade produto,nao conseguindo encontrar soluçao voce pode dar algumas ideias,ola preciso de uma soluçao para o meu caso
+656,Muito obrigado por ter resolvido o meu problema,Ate logo,Fiquei chateado com a forma como fui tratado,estou com um dilema e preciso de ajuda para tomar uma decisao,ola preciso soluçao caso
+657,obrigado ter resolvido problema,A conversa foi util vou desligar agora,fiquei chateado forma tratado,dilema preciso ajuda tomar decisao,oi estou enfrentando um desafio e preciso de assistencia
+658,Agradecido por toda a ajuda prestada,conversa util vou desligar agora,Fui cobrado de forma indevida,estou com dificuldades para lidar com isso precisa de orientaçoes,oi enfrentando desafio preciso assistencia
+659,agradecido toda ajuda prestada,Bye,cobrado forma indevida,dificuldades lidar precisa orientaçoes,oi alguem pode me dar um suporte
+660,Obrigado por ter me orientado na soluçao do problema voce foi muito prestativo,Despedindo,Nao gostei do tratamento que recebi do atendente,nao entendo o que esta acontecendo voce pode me ajudar a compreender,oi alguem pode dar suporte
+661,obrigado ter orientado soluçao problema voce prestativo,despedindo,nao gostei tratamento recebi atendente,nao entendo acontecendo voce pode ajudar compreender,oi preciso de alguem que possa me auxiliar neste assunto
+662,Agradeço pela informaçao,Obrigado pela ajuda,Fui maltratado pelo funcionario,estou com um problema complexo e preciso de assistencia especializada,oi preciso alguem possa auxiliar neste assunto
+663,agradeço informaçao,Obrigado pela conversa,maltratado funcionario,problema complexo preciso assistencia especializada,e ai alguem pode me dar uma força
+664,Agradeço pelo esforço,obrigado conversa,Fui mal atendido a pela empresa,estou com dificuldades para avançar nessa questao preciso de direcionamento,ai alguem pode dar força
+665,agradeço esforço,Vou encerrar a conversa por aqui,mal atendido empresa,dificuldades avançar nessa questao preciso direcionamento,oi estou com um problema tecnico e preciso de ajuda
+666,Agradeço a ajuda prestada,vou encerrar conversa aqui,Estou insatisfeito com a qualidade do serviço prestado,estou enfrentando um desafio complicado voce tem alguma sugestao,oi problema tecnico preciso ajuda
+667,agradeço ajuda prestada,Encerrando,insatisfeito qualidade serviço prestado,enfrentando desafio complicado voce alguma sugestao,oi preciso de orientaçoes sobre o procedimento correto
+668,Grato pelo excelente atendimento,encerrando,Nao concordo com a taxa cobrada,estou com dificuldades para prosseguir precisa de ajuda,oi preciso orientaçoes sobre procedimento correto
+669,grato excelente atendimento,Vou me despedir por aqui,nao concordo taxa cobrada,dificuldades prosseguir precisa ajuda,oi alguem pode me explicar como fazer isso
+670,Aproveito para agradecer,vou despedir aqui,Nao concordo com a taxon cobrada,nao sei o que fazer pode me auxiliar,oi alguem pode explicar fazer
+671,aproveito agradecer,Encerrando a conversa agora,nao concordo taxon cobrada,nao sei fazer pode auxiliar,ola estou com dificuldades para prosseguir alguem pode me orientar
+672,Nao sei como agradecer,Gostei de falar com voce encerrando,Recebi um produto diferente do que foi anunciado,estou com dificuldades para tomar uma decisao preciso de orientaçoes,ola dificuldades prosseguir alguem pode orientar
+673,nao sei agradecer,gostei falar voce encerrando,recebi produto diferente anunciado,dificuldades tomar decisao preciso orientaçoes,oi gostaria de pedir ajuda com um assunto especifico
+674,Foi muito gentil obrigado,Vamos falar depois,Meu problema nao foi solucionado adequadamente,estou com um obstaculo no caminho e preciso supera lo pode me guiar,oi gostaria pedir ajuda assunto especifico
+675,gentil obrigado,vamos falar,problema nao solucionado adequadamente,obstaculo caminho preciso supera lo pode guiar,oi alguem esta disponivel para me dar suporte tecnico
+676,Obrigada,Encerra,Nao estou satisfeito com o desempenho do meu equipamento,estou com uma dificuldade enorme e nao sei como resolver voce tem alguma ideia,oi alguem disponivel dar suporte tecnico
+677,Obrigado,encerra,nao satisfeito desempenho equipamento,dificuldade enorme nao sei resolver voce alguma ideia,ei preciso de alguem que possa me dar algumas informaçoes
+678,Nao tenho palavras para agradecer,Acho que ja conversamos bastante Vamos encerrar,Acredito que o problema em minha maquina poderia ter sido evitado com melhores recomendaçoes de uso,nao consigo lidar com isso sozinho preciso de ajuda,ei preciso alguem possa dar algumas informaçoes
+679,nao palavras agradecer,acho ja conversamos bastante vamos encerrar,acredito problema maquina poderia ter sido evitado melhores recomendaçoes uso,nao consigo lidar sozinho preciso ajuda,oi estou com algumas questoes e gostaria de esclarece las
+680,Gratidao,Saindo,Nao estou conseguindo contato com o suporte tecnico,estou com dificuldades para lidar com essa situaçao voce pode me dar um conselho,oi algumas questoes gostaria esclarece las
+681,Muito agradecido,saindo,nao conseguindo contato suporte tecnico,dificuldades lidar situaçao voce pode dar conselho,oi estou com algumas questoes e gostaria de esclarece la
+682,agradecido,Foi otimo falar com voce,Nao estou conseguindo solucionar um problema na minha maquina,estou com um problema complicado e nao sei por onde começar voce pode me orientar,oi algumas questoes gostaria esclarece la
+683,Obrigado pela orientaçao,otimo falar voce,nao conseguindo solucionar problema maquina,problema complicado nao sei onde começar voce pode orientar,oi estou com um contratempo e preciso de orientaçoes
+684,obrigado orientaçao,nos vemos em breve,Estou frustrado com a demora no conserto da minha maquina,por favor me ajude,oi contratempo preciso orientaçoes
+685,Muito obrigado pelas informaçoes,de boas,frustrado demora conserto maquina,favor ajude,oi alguem pode me guiar no processo
+686,obrigado informaçoes,,Nao fiquei satisfeito com a forma como os reparos foram feitos,alguem sabe como resolver isso,oi alguem pode guiar processo
+687,Muito obrigado pela resposta rapida,,nao fiquei satisfeito forma reparos feitos,alguem sabe resolver,oi preciso de um auxilio para resolver um problema
+688,Muito obrigado a mesmo,,Nao fiquei satisfeito com a forma como o reparos foram feitos,pode me orientar,oi preciso auxilio resolver problema
+689,Agradeço de coraçao,,Fiquei insatisfeito com o atendimento ao cliente,pode orientar,ola estou com algumas duvidas e gostaria de obter respostas
+690,Obrigado pelo suporte,,fiquei insatisfeito atendimento cliente,necessito de suporte,ola algumas duvidas gostaria obter respostas
+691,Muito obrigada mesmo,,Nao estou satisfeito com a manutençao preventiva,necessito suporte,oi alguem pode me ajudar com um pedido
+692,Agradecido pela gentileza,,nao satisfeito manutençao preventiva,alguem tem uma soluçao,oi alguem pode ajudar pedido
+693,agradecido gentileza,,Problemas tecnicos estao prejudicando meus prazos de entrega,alguem soluçao,oi estou procurando por assistencia em um determinado assunto
+694,Fico agradecido a por tudo que tem feito,,problemas tecnicos estao prejudicando prazos entrega,me sinto perdido,oi procurando assistencia determinado assunto
+695,fico agradecido tudo feito,,Acho que a manutençao preventiva nao esta sendo realizada adequadamente,sinto perdido,oi preciso de suporte para resolver um impasse
+696,Voce foi incrivel obrigado,,acho manutençao preventiva nao sendo realizada adequadamente,estou com dificuldades tecnicas,oi preciso suporte resolver impasse
+697,voce incrivel obrigado,,Estou muito insatisfeito com a falta de comunicaçao sobre o andamento do meu caso,dificuldades tecnicas,oi estou em busca de orientaçoes sobre um topico especifico
+698,So queria agradecer,,insatisfeito falta comunicaçao sobre andamento caso,nao entendo o que esta acontecendo,oi busca orientaçoes sobre topico especifico
+699,so queria agradecer,,Minha empresa precisa de soluçoes mais eficientes para economizar energia,nao entendo acontecendo,oi alguem pode me dar uma mao com uma situaçao
+700,Agradeço pela rapidez na resposta,,empresa precisa soluçoes eficientes economizar energia,gostaria de contar com a ajuda de voces,oi alguem pode dar mao situaçao
+701,agradeço rapidez resposta,,Acho que os prazos de entrega nao sao respeitados,gostaria contar ajuda voces,oi preciso de ajuda para lidar com uma dificuldade
+702,Agradeço muito pela sua ajuda,,acho prazos entrega nao sao respeitados,gostaria de contar com a ajuda de vox,oi preciso ajuda lidar dificuldade
+703,Agradeço muito,,Acho que o prazos de entrega nao sao respeitados,gostaria contar ajuda vox,ola estou enfrentando um obstaculo e preciso de auxilio
+704,Gratidao pela soluçao do meu problema,,Nao acredito que paguei por um serviço tao ruim,preciso de uma luz,ola enfrentando obstaculo preciso auxilio
+705,gratidao soluçao problema,,nao acredito paguei serviço tao ruim,preciso luz,oi alguem pode me oferecer orientaçoes sobre o proximo passo
+706,Agradeço muito pela ajuda,,A soluçao apresentada nao pode ser a unica opçao,alguem mais experiente pode me ajudar,oi alguem pode oferecer orientaçoes sobre proximo passo
+707,Obrigado a por estar sempre presente,,soluçao apresentada nao pode unica opçao,alguem experiente pode ajudar,oi estou com problemas e preciso de assistencia profissional
+708,obrigado sempre presente,,Nao sinto que a equipe esteja realmente empenhada em me ajudar,pode me dar um conselho,oi problemas preciso assistencia profissional
+709,Obrigada pela ajuda,,nao sinto equipe esteja realmente empenhada ajudar,pode dar conselho,oi preciso de uma opiniao sobre um assunto especifico
+710,Obrigado pelo atendimento,,Estou com problemas de vazamento em uma das minhas maquinas,estou com duvidas,oi preciso opiniao sobre assunto especifico
+711,obrigado atendimento,,problemas vazamento maquinas,duvidas,oi alguem pode me auxiliar com um desafio que estou enfrentando
+712,Agradeço pela indicaçao,,Estou com problemas de vazamento em uma da minhas maquinas,solicito assistencia,oi alguem pode auxiliar desafio enfrentando
+713,agradeço indicaçao,,Nao estou satisfeito com o desempenho da minha maquina,nao consigo resolver sozinho,oi estou em busca de soluçoes para uma questao
+714,Agradeço pelo suporte tecnico,,nao satisfeito desempenho maquina,pode me indicar uma soluçao,oi busca soluçoes questao
+715,agradeço suporte tecnico,,A qualidade dos produtos nao esta satisfatoria,pode indicar soluçao,oi preciso de um conselho sobre um tema em particular
+716,Obrigado por tudo,,qualidade produtos nao satisfatoria,gostaria de obter suporte,oi preciso conselho sobre tema particular
+717,Muito obrigado pela gentileza,,A qualidade do produtos nao esta satisfatoria,gostaria obter suporte,oi alguem pode me dar uma orientaçao sobre um determinado assunto
+718,Agradeço por toda a atençao,,Acredito que a manutençao realizada nao resolveu o problema,alguem tem alguma ideia,oi alguem pode dar orientaçao sobre determinado assunto
+719,agradeço toda atençao,,acredito manutençao realizada nao resolveu problema,alguem alguma ideia,oi estou com dificuldades em entender algo alguem pode me ajudar
+720,Agradeço a atençao,,Nao estou conseguindo resolver meu problema sozinho,como posso resolver isso,oi dificuldades entender algo alguem pode ajudar
+721,Agradeço sua ajuda,,nao conseguindo resolver problema sozinho,posso resolver,oi preciso de assistencia para resolver um problema complicado
+722,Obrigado pelo seu trabalho,,Nao estou gostando da qualidade das peças que estao sendo utilizadas para reparar o meu equipamento,alguem pode me dar um direcionamento,oi preciso assistencia resolver problema complicado
+723,obrigado trabalho,,nao gostando qualidade peças estao sendo utilizadas reparar equipamento,alguem pode dar direcionamento,oi alguem pode me fornecer algumas dicas
+724,Agradecido pela atençao dispensada,,Nao estou gostando da qualidade da peças que estao sendo utilizadas para reparar o meu equipamento,preciso de ajuda urgente,oi alguem pode fornecer algumas dicas
+725,agradecido atençao dispensada,,Nao estou conseguindo encontrar uma soluçao para meu problema,preciso ajuda urgente,oi estou em busca de suporte tecnico para um problema especifico
+726,Estou muito grato a,,nao conseguindo encontrar soluçao problema,pode me explicar como fazer,oi busca suporte tecnico problema especifico
+727,grato,,Nao recebi suporte adequado quando entrei em contato anteriormente,pode explicar fazer,oi preciso de alguem que possa me explicar como proceder
+728,agradeço por facilitar as coisas,,nao recebi suporte adequado entrei contato anteriormente,alguem tem experiencia nesse assunto,oi preciso alguem possa explicar proceder
+729,obrigado por tornar as coisas mais faceis para mim,,Estou insatisfeito com o tempo que esta sendo levado para solucionar meu problema,alguem experiencia nesse assunto,oi alguem pode me ajudar a encontrar uma soluçao eficaz
+730,obrigado por tornar as coisas mais simples para mim,,insatisfeito tempo sendo levado solucionar problema,pode me auxiliar,oi alguem pode ajudar encontrar soluçao eficaz
+731,muito obrigado pela sua dedicaçao continua,,Nao concordei com a cobrança realizada,pode auxiliar,oi estou com algumas questoes e preciso de respostas rapidas
+732,agradeço por ir alem das minhas expectativas,,nao concordei cobrança realizada,nao sei qual e a soluçao,oi algumas questoes preciso respostas rapidas
+733,muito obrigado por sua ajuda valiosa e insights perspicazes,,Nao estou conseguindo utilizar minha maquina de forma adequada,nao sei soluçao,oi preciso de alguem que possa me orientar em relaçao a um desafio
+734,obrigado por tornar tudo mais simples e compreensivel,,nao conseguindo utilizar maquina forma adequada,alguem pode me guiar,oi preciso alguem possa orientar relaçao desafio
+735,,,Estou frustrado com a qualidade do suporte tecnico,alguem pode guiar,
+736,,,frustrado qualidade suporte tecnico,estou com um problema complicado,
+737,,,Nao estou satisfeito com o serviço prestado,problema complicado,
+738,,,nao satisfeito serviço prestado,solicito a ajuda da equipe,
+739,,,Estou irritado com a falta de profissionalismo no atendimento,solicito ajuda equipe,
+740,,,irritado falta profissionalismo atendimento,preciso de orientaçoes,
+741,,,Nao estou feliz com o descaso em relaçao ao meu problema,preciso orientaçoes,
+742,,,nao feliz descaso relaçao problema,alguem ja passou por isso,
+743,,,Estou com dificuldades para encontrar peças de reposiçao,alguem ja passou,
+744,,,dificuldades encontrar peças reposiçao,pode me dar um conselho valioso,
+745,,,Estou tendo dificuldades para encontrar peças de reposiçao para uma de minhas maquinas,pode dar conselho valioso,
+746,,,tendo dificuldades encontrar peças reposiçao maquinas,estou em apuros,
+747,,,Nao recebi o suporte necessario para soluçao do problema,apuros,
+748,,,nao recebi suporte necessario soluçao problema,como posso resolver esse obstaculo,
+749,,,Estou tendo dificuldades em encontrar peças para substituiçao,posso resolver obstaculo,
+750,,,tendo dificuldades encontrar peças substituiçao,alguem sabe a resposta,
+751,,,Aumento de custo devido a problemas constantes,alguem sabe resposta,
+752,,,aumento custo devido problemas constantes,estou com dificuldades para resolver isso,
+753,,,Nao estou feliz com a postura da empresa em relaçao ao meu caso,pode me ajudar a encontrar uma soluçao,
+754,,,nao feliz postura empresa relaçao caso,pode ajudar encontrar soluçao,
+755,,,Me sinto prejudicado pelo serviço prestado,estou com um problema,
+756,,,Minha maquina esta produzindo abaixo da capacidade estimada,alguem pode me orientar,
+757,,,maquina produzindo abaixo capacidade estimada,alguem pode orientar,
+758,,,Nao estou contente com o resultado obtido,,
+759,,,nao contente resultado obtido,,
+760,,,Acho que a soluçao oferecida nao e a ideal,,
+761,,,acho soluçao oferecida nao ideal,,
+762,,,Minha maquina parou de funcionar do nada,,
+763,,,maquina parou funcionar nada,,
+764,,,Minha maquina esta causando prejuizos a minha produçao,,
+765,,,maquina causando prejuizos produçao,,
+766,,,Minha produçao esta parada por causa de problemas mecanicos,,
+767,,,produçao parada causa problemas mecanicos,,
+768,,,Estou desapontado com a falta de disponibilidade para atender o meu caso,,
+769,,,desapontado falta disponibilidade atender caso,,
+770,,,Nao acho que esta sendo levada em consideraçao minha opiniao,,
+771,,,nao acho sendo levada consideraçao opiniao,,
+772,,,Nao estou satisfeito com a quantidade de vezes que tive que entrar em contato para solucionar meu problema,,
+773,,,nao satisfeito quantidade vezes entrar contato solucionar problema,,
+774,,,Estou muito insatisfeito com o serviço prestado no meu equipamento,,
+775,,,insatisfeito serviço prestado equipamento,,
+776,,,Nao estou satisfeito com a qualidade do produto que recebi,,
+777,,,nao satisfeito qualidade produto recebi,,
+778,,,Nao estou conseguindo acessar o suporte tecnico,,
+779,,,nao conseguindo acessar suporte tecnico,,
+780,,,Problemas mecanicos causando atraso na produçao,,
+781,,,problemas mecanicos causando atraso produçao,,
+782,,,Nao recebi o suporte que esperava ter,,
+783,,,nao recebi suporte esperava ter,,
+784,,,As soluçoes oferecidas nao estao resolvendo meu problema,,
+785,,,soluçoes oferecidas nao estao resolvendo problema,,
+786,,,Nao estou satisfeito com a qualidade do serviço prestado,,
+787,,,nao satisfeito qualidade serviço prestado,,
+788,,,Estou frustrado com a dificuldade em resolver o meu problema,,
+789,,,frustrado dificuldade resolver problema,,
+790,,,Minha maquina esta ficando muito tempo parada por problemas,,
+791,,,maquina ficando tempo parada problemas,,
+792,,,Acho que o frete cobrado e muito alto,,
+793,,,acho frete cobrado alto,,
+794,,,Estou tendo problemas com minha linha de produçao,,
+795,,,tendo problemas linha produçao,,
+796,,,Estou tendo problemas com a produçao,,
+797,,,tendo problemas produçao,,
+798,,,Nao estou satisfeito com a durabilidade das peças da minha maquina,,
+799,,,nao satisfeito durabilidade peças maquina,,
+800,,,Nao estou satisfeito com a durabilidade da peças da minha maquina,,
+801,,,Minha produçao esta parada por conta de um problema no sistema eletrico,,
+802,,,produçao parada conta problema sistema eletrico,,
+803,,,Nao estou contente com a falta de empatia por parte da equipe tecnica,,
+804,,,nao contente falta empatia parte equipe tecnica,,
+805,,,Estou insatisfeito com o atendimento tecnico que recebi,,
+806,,,insatisfeito atendimento tecnico recebi,,
+807,,,Estou descontente com o preço cobrado pelo serviço prestado,,
+808,,,descontente preço cobrado serviço prestado,,
+809,,,Estou desapontado com a falta de soluçao para o meu problema,,
+810,,,desapontado falta soluçao problema,,
+811,,,Nao estou gostando da maneira como o meu problema esta sendo tratado,,
+812,,,nao gostando maneira problema sendo tratado,,
+813,,,Nao estou feliz com a assistencia tecnica que recebi,,
+814,,,nao feliz assistencia tecnica recebi,,
+815,,,Estou tendo que lidar com muitos problemas tecnicos,,
+816,,,tendo lidar muitos problemas tecnicos,,
+817,,,Minha maquina esta apresentando falhas constantes,,
+818,,,maquina apresentando falhas constantes,,
+819,,,Prefiro trabalhar com outra empresa por conta dos problemas tecnicos,,
+820,,,prefiro trabalhar outra empresa conta problemas tecnicos,,
+821,,,Prefiro trabalhar com outra empresa por conta do problemas tecnicos,,
+822,,,Minhas maquinas apresentam problemas frequentes,,
+823,,,maquinas apresentam problemas frequentes,,
+824,,,Estou tendo dificuldades para identificar o que esta causando um problema em uma de minhas maquinas,,
+825,,,tendo dificuldades identificar causando problema maquinas,,
+826,,,Minha maquina esta apresentando problemas que nao existiam antes,,
+827,,,maquina apresentando problemas nao existiam antes,,
+828,,,Minha maquina esta apresentando problemas que nao existiam ante,,
+829,,,maquina apresentando problemas nao existiam ante,,
+830,,,Nao estou contente com o atendimento que recebi,,
+831,,,nao contente atendimento recebi,,
+832,,,Nao estou vendo melhorias na minha situaçao,,
+833,,,nao vendo melhorias situaçao,,
+834,,,Estou cansado de ter que lidar com esses problemas tecnicos,,
+835,,,cansado ter lidar problemas tecnicos,,
+836,,,Estou cansado de ter que lidar com es problemas tecnicos,,
+837,,,cansado ter lidar es problemas tecnicos,,
+838,,,Estou cansado de ter que lidar com e problemas tecnicos,,
+839,,,cansado ter lidar e problemas tecnicos,,
+840,,,A qualidade do produto final nao esta atendendo minhas expectativas,,
+841,,,qualidade produto final nao atendendo expectativas,,
+842,,,Nao fui atendido de maneira adequada,,
+843,,,nao atendido maneira adequada,,
+844,,,Nao estou satisfeito com o atendimento tecnico que recebi,,
+845,,,nao satisfeito atendimento tecnico recebi,,
+846,,,Nao entendi as razoes para a soluçao proposta,,
+847,,,nao entendi razoes soluçao proposta,,
+848,,,Nao entendi a razoes para a soluçao proposta,,
+849,,,Estou preocupado com a manutençao da minha maquina,,
+850,,,preocupado manutençao maquina,,
+851,,,Meu investimento nao esta valendo a pena devido aos problemas tecnicos,,
+852,,,investimento nao valendo pena devido problemas tecnicos,,
+853,,,Acho que o equipamento entregue nao atende as especificaçoes solicitadas,,
+854,,,acho equipamento entregue nao atende especificaçoes solicitadas,,
+855,,,Acho que o equipamento entregue nao atende a especificaçoes solicitadas,,
+856,,,Minha maquina esta produzindo produtos com defeito,,
+857,,,maquina produzindo produtos defeito,,
+858,,,Estou desapontado com a maneira como meu problema foi tratado,,
+859,,,desapontado maneira problema tratado,,
+860,,,Minha empresa precisa de soluçoes adicionais para melhorar a segurança de nossos colaboradores,,
+861,,,empresa precisa soluçoes adicionais melhorar segurança colaboradores,,
+862,,,Nao estou satisfeito com a resposta que obtive sobre o meu problema,,
+863,,,nao satisfeito resposta obtive sobre problema,,
+864,,,Estou decepcionado com a soluçao proposta,,
+865,,,decepcionado soluçao proposta,,
+866,,,Nao estou conseguindo acessar as configuraçoes do meu equipamento,,
+867,,,nao conseguindo acessar configuraçoes equipamento,,
+868,,,Nao estou conseguindo acessar a configuraçoes do meu equipamento,,
+869,,,Minha empresa esta sofrendo prejuizos por conta de falhas em produtos,,
+870,,,empresa sofrendo prejuizos conta falhas produtos,,
+871,,,Minha maquina esta apresentando barulhos estranhos,,
+872,,,maquina apresentando barulhos estranhos,,
+873,,,Problemas eletricos impactando minha produçao,,
+874,,,problemas eletricos impactando produçao,,
+875,,,Estou irritado com a pouca eficiencia do sistema de suporte tecnico,,
+876,,,irritado pouca eficiencia sistema suporte tecnico,,
+877,,,Nao vejo transparencia na forma como as coisas estao sendo resolvidas,,
+878,,,nao vejo transparencia forma coisas estao sendo resolvidas,,
+879,,,Nao vejo transparencia na forma como a coisas estao sendo resolvidas,,
+880,,,Minha produçao esta parada por causa de problemas na maquina,,
+881,,,produçao parada causa problemas maquina,,
+882,,,Estou insatisfeito com o serviço prestado,,
+883,,,Nao estou satisfeito com o funcionamento da minha maquina,,
+884,,,nao satisfeito funcionamento maquina,,
+885,,,Minha produçao esta ficando aquem do esperado,,
+886,,,produçao ficando aquem esperado,,
+887,,,Estou descontente com o prazo de entrega do produto,,
+888,,,descontente prazo entrega produto,,

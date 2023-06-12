@@ -1,0 +1,398 @@
+Motor elétrico não liga
+
+Falha na partida do motor
+
+Problemas de partida no motor elétrico
+
+Motor não inicia
+
+Motor não dá sinal de vida
+
+Falha de partida no motor elétrico
+
+Motor elétrico não responde
+
+Dificuldade em ligar o motor
+
+Motor não dá sinal de funcionamento
+
+O motor não aciona
+
+Motor elétrico não funciona após a partida
+
+Problema de inicialização do motor
+
+Motor não dá partida mesmo com energia
+
+Motor não dá partida mesmo após ligado
+
+Motor elétrico não gira ao dar partida
+
+Motor não entra em funcionamento
+
+Falha no acionamento do motor elétrico
+
+Motor não liga mesmo com energia
+
+Dificuldade em acionar o motor elétrico
+
+Motor elétrico não arranca
+
+O motor não dá sinal de ligar
+
+Motor elétrico não parte
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo após ligado
+
+Motor não responde ao comando de partida
+
+Falha de inicialização do motor elétrico
+
+Motor elétrico não entra em operação
+
+Dificuldade em dar partida no motor
+
+Motor não dá sinal de atividade
+
+O motor não funciona ao ligar
+
+Motor elétrico não arranca mesmo com energia
+
+Problema de acionamento do motor
+
+Motor não dá partida mesmo com energia aplicada
+
+Motor não gira ao tentar ligar
+
+Motor elétrico não dá sinal de funcionar
+
+Falha no arranque do motor elétrico
+
+Motor não liga mesmo com energia aplicada
+
+Dificuldade em acionar o motor elétrico
+
+Motor elétrico não inicia a rotação
+
+Motor não entra em funcionamento após a partida
+
+O motor não responde ao tentar ligar
+
+Motor elétrico não dá partida mesmo após ser ligado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com energia aplicada
+
+Motor não aciona ao tentar ligar
+
+Motor elétrico não funciona após ser ligado
+
+Falha de acionamento do motor elétrico
+
+Motor elétrico não parte ao dar a partida
+
+Dificuldade em dar partida no motor elétrico
+
+Motor não dá sinal de ligação
+
+O motor não liga ao ser acionado
+
+Motor elétrico não arranca mesmo após a partida
+
+Problema de inicialização do motor elétrico
+
+Motor não responde mesmo com energia aplicada
+
+Motor não gira ao dar a partida
+
+Motor elétrico não entra em operação após ser ligado
+
+Falha no arranque do motor
+
+Motor não liga mesmo após receber energia
+
+Dificuldade em acionar o motor elétrico para partida
+
+Motor elétrico não inicia a rotação ao ser ligado
+
+O motor não responde ao comando de ligar
+
+Motor elétrico não dá partida mesmo após ser energizado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com a aplicação de energia
+
+Motor não aciona ao receber sinal de ligação
+
+Motor elétrico não funciona após receber energia
+
+Falha de acionamento do motor elétrico na partida
+
+Motor elétrico não parte mesmo ao tentar dar a partida
+
+Dificuldade em dar a partida no motor elétrico
+
+Motor não dá sinal de iniciar
+
+O motor não liga mesmo após receber sinal de acionamento
+
+Motor elétrico não arranca mesmo após ser energizado
+
+Problema de inicialização do motor elétrico
+
+Motor não responde mesmo com a aplicação de energia
+
+Motor não gira ao tentar dar a partida
+
+Motor elétrico não entra em operação após ser energizado
+
+Falha no arranque do motor
+
+Motor não liga mesmo após receber energia elétrica
+
+Dificuldade em acionar o motor elétrico para a partida
+
+Motor elétrico não inicia a rotação após ser energizado
+
+O motor não responde ao tentar ligar
+
+Motor elétrico não dá partida mesmo após ser ligado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com energia aplicada
+
+Motor não aciona ao tentar ligar
+
+Motor elétrico não funciona após ser ligado
+
+Falha de acionamento do motor elétrico
+
+Motor elétrico não parte ao dar a partida
+
+Dificuldade em dar partida no motor elétrico
+
+Motor não dá sinal de ligação
+
+O motor não liga ao ser acionado
+
+Motor elétrico não arranca mesmo após a partida
+
+Problema de inicialização do motor elétrico
+
+Motor não responde mesmo com energia aplicada
+
+Motor não gira ao dar a partida
+
+Motor elétrico não entra em operação após ser ligado
+
+Falha no arranque do motor
+
+Motor não liga mesmo após receber energia
+
+Dificuldade em acionar o motor elétrico para partida
+
+Motor elétrico não inicia a rotação ao ser ligado
+O motor não responde ao tentar ligar mesmo com a energia aplicada
+
+Motor elétrico não liga mesmo após ser energizado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com a aplicação de energia elétrica
+
+Motor não aciona ao receber o sinal de ligação
+
+O motor não dá partida, não apresenta nenhum movimento
+
+Motor elétrico não funciona após a aplicação de energia
+
+Falha no acionamento do motor elétrico na partida
+
+Motor elétrico não parte mesmo ao tentar dar a partida
+
+Dificuldade em dar a partida no motor elétrico, não há resposta
+
+O motor não demonstra nenhum sinal de iniciar a operação
+
+Motor elétrico não liga mesmo após receber o sinal de acionamento
+
+Problema de inicialização do motor elétrico, não há movimento
+
+Motor não responde mesmo com a aplicação de energia elétrica
+
+Motor não gira ao tentar dar a partida, não há rotação
+
+Motor elétrico não entra em operação após ser energizado
+
+Falha no arranque do motor, não há resposta ao acionamento
+
+Motor não liga mesmo após receber energia elétrica
+
+Dificuldade em acionar o motor elétrico para a partida, não há movimento
+
+Motor elétrico não inicia a rotação após ser energizado
+
+O motor não responde ao tentar ligar mesmo após a aplicação de energia
+
+Motor elétrico não dá partida mesmo depois de ser ligado
+
+Problema de partida no motor elétrico, não há resposta ao acionamento
+
+Motor não inicia mesmo com energia aplicada
+
+Motor não aciona ao tentar ligar, não há movimento
+
+Motor elétrico não funciona após ser ligado
+
+Falha de acionamento do motor elétrico, não há resposta na partida
+
+Motor elétrico não parte ao dar a partida, não há movimento
+
+Dificuldade em dar partida no motor elétrico, não há resposta
+
+Motor não dá sinal de ligação, não há movimento
+
+O motor não liga ao ser acionado, não há resposta
+
+Motor elétrico não arranca mesmo após a partida, não há movimento
+
+Problema de inicialização do motor elétrico, não há resposta ao acionamento
+
+Motor não responde mesmo com energia aplicada, não há movimento
+
+Motor não gira ao dar a partida, não há rotação
+
+Motor elétrico não entra em operação mesmo após ser ligado
+
+Falha no arranque do motor elétrico, não há resposta ao acionamento
+
+Motor não liga mesmo após receber energia elétrica, não há movimento
+
+Dificuldade em acionar o motor elétrico para a partida, não há resposta
+
+Motor elétrico não inicia a rotação mesmo após ser energizado
+
+O motor não responde ao tentar ligar mesmo com a energia aplicada
+
+Motor elétrico não liga mesmo após ser energizado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com a aplicação de energia elétrica
+
+Motor não aciona ao receber o sinal de ligação
+
+O motor não dá partida, não há nenhum movimento
+
+Motor elétrico não funciona após a aplicação de energia
+
+Falha no acionamento do motor elétrico na partida
+
+Motor elétrico não parte mesmo ao tentar dar a partida
+
+Dificuldade em dar a partida no motor elétrico, não há resposta
+
+O motor não demonstra nenhum sinal de iniciar a operação
+
+Motor elétrico não liga mesmo após receber o sinal de acionamento
+
+Problema de inicialização do motor elétrico, não há movimento
+
+Motor não responde mesmo com a aplicação de energia elétrica
+
+Motor não gira ao tentar dar a partida, não há rotação
+
+Motor elétrico não entra em operação após ser energizado
+
+Falha no arranque do motor, não há resposta ao acionamento
+
+Motor não liga mesmo após receber energia elétrica
+
+Dificuldade em acionar o motor elétrico para a partida, não há movimento
+
+Motor elétrico não inicia a rotação após ser energizado
+
+O motor não responde ao tentar ligar
+
+Motor elétrico não dá partida mesmo após ser energizado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com a aplicação de energia
+
+Motor não aciona ao tentar ligar
+
+Motor elétrico não funciona após ser ligado
+
+Falha de acionamento do motor elétrico
+
+Motor elétrico não parte ao dar a partida
+
+Dificuldade em dar a partida no motor elétrico
+
+Motor não dá sinal de ligação
+
+O motor não liga ao ser acionado
+
+Motor elétrico não arranca mesmo após a partida
+
+Problema de inicialização do motor elétrico
+
+Motor não responde mesmo com a aplicação de energia
+
+Motor não gira ao dar a partida
+
+Motor elétrico não entra em operação após ser ligado
+
+Falha no arranque do motor
+
+Motor não liga mesmo após receber energia
+
+Dificuldade em acionar o motor elétrico para partida
+
+Motor elétrico não inicia a rotação ao ser ligado
+
+O motor não responde ao tentar ligar
+
+Motor elétrico não dá partida mesmo após ser ligado
+
+Problema de partida no motor elétrico
+
+Motor não inicia mesmo com energia aplicada
+
+Motor não aciona ao tentar ligar
+
+Motor elétrico não funciona após ser ligado
+
+Falha de acionamento do motor elétrico
+
+Motor elétrico não parte ao dar a partida
+
+Dificuldade em dar partida no motor elétrico
+
+Motor não dá sinal de ligação
+
+O motor não liga ao ser acionado
+
+Motor elétrico não arranca mesmo após a partida
+
+Problema de inicialização do motor elétrico
+
+Motor não responde mesmo com energia aplicada
+
+Motor não gira ao dar a partida
+
+Motor elétrico não entra em operação após ser ligado
+
+Falha no arranque do motor elétrico
+
+Motor não liga mesmo após receber energia
+
+Dificuldade em acionar o motor elétrico para a partida
+
+Motor elétrico não inicia a rotação após ser ligado
