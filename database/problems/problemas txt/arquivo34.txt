@@ -48,3 +48,153 @@ Unidade de acionamento por corrente com superaquecimento fora do padrão
 Problema de dissipação de calor em um acionamento por corrente
 Unidade de acionamento por corrente com aquecimento acima do normal
 Problema de aquecimento anormal em uma unidade de acionamento por corrente
+A unidade aquece demais
+Temperatura elevada na unidade de acionamento
+Aquecimento excessivo na unidade de corrente
+Problema de superaquecimento nos acionamentos por corrente
+Unidade de acionamento esquentando muito
+A temperatura está alta na unidade de corrente
+O equipamento está operando em temperatura elevada
+Excesso de calor na unidade de acionamentos por corrente
+A unidade fica quente durante o funcionamento
+A temperatura do equipamento está fora dos limites
+Problema de superaquecimento nos acionamentos de corrente
+O equipamento esquenta demais durante o uso
+A unidade de corrente está funcionando com temperatura elevada
+Aquecimento excessivo nos acionamentos por corrente
+A temperatura está acima do normal na unidade de acionamento
+O equipamento está apresentando superaquecimento
+A unidade de corrente está superaquecendo
+A temperatura do equipamento está muito alta
+O acionamento por corrente está operando em temperatura excessiva
+A unidade de acionamentos está esquentando demasiadamente
+Problema de aquecimento na unidade de corrente
+O equipamento está funcionando com calor excessivo
+A temperatura da unidade de corrente está além do esperado
+A unidade de acionamento está superaquecendo durante o funcionamento
+O equipamento está emitindo muito calor
+A temperatura da unidade está acima dos limites recomendados
+A unidade de corrente está operando com temperatura elevada
+O equipamento está apresentando aquecimento excessivo
+A temperatura na unidade de acionamento está muito alta
+O acionamento por corrente está aquecendo demais
+A unidade de corrente está superaquecida durante a operação
+A temperatura do equipamento está fora do controle
+O equipamento está esquentando além do normal
+A unidade de acionamentos por corrente está com alta temperatura
+A temperatura na unidade está excedendo os limites seguros
+O equipamento está funcionando com superaquecimento
+A unidade de acionamento está emitindo calor excessivo
+A temperatura da unidade de corrente está elevada
+O equipamento está operando com temperaturas elevadas
+A unidade de corrente está aquecendo demasiadamente
+Problema de aquecimento excessivo nos acionamentos por corrente
+A temperatura do equipamento está muito alta durante a operação
+O acionamento por corrente está superaquecendo
+A unidade de corrente está operando em alta temperatura
+O equipamento está esquentando mais do que o esperado
+A temperatura da unidade de acionamento está além do limite seguro
+A unidade de corrente está superaquecendo durante o funcionamento
+A temperatura do equipamento está fora dos parâmetros normais
+O equipamento está emitindo calor em excesso
+A temperatura na unidade de acionamentos por corrente está elevada
+A unidade de acionamento está funcionando com temperaturas altas
+O equipamento está apresentando problema de superaquecimento
+A temperatura da unidade de corrente está acima do normal
+A unidade de acionamentos está esquentando demais durante a operação
+A temperatura do equipamento está acima dos limites aceitáveis
+A unidade de corrente está operando com calor excessivo
+O equipamento está emitindo calor em quantidades anormais
+A temperatura na unidade de acionamento está muito elevada
+O acionamento por corrente está aquecendo além do esperado
+A unidade de corrente está superaquecida durante a utilização
+A temperatura do equipamento está desregulada
+O equipamento está esquentando de forma excessiva
+A unidade de acionamentos por corrente está com temperatura elevada
+A temperatura na unidade está ultrapassando os limites seguros
+O equipamento está funcionando com superaquecimento excessivo
+A unidade de acionamento está emitindo calor em excesso
+A temperatura da unidade de corrente está elevada durante a operação
+O equipamento está operando com temperaturas muito altas
+A unidade de corrente está aquecendo de maneira exagerada
+Problema de aquecimento excessivo nos acionamentos de corrente
+A temperatura do equipamento está muito alta durante o uso
+O acionamento por corrente está superaquecido
+A unidade de corrente está operando em temperatura elevada
+O equipamento está esquentando além do recomendado
+A temperatura na unidade de acionamentos por corrente está acima do normal
+A unidade de acionamento está funcionando com temperaturas elevadas
+O equipamento está apresentando superaquecimento anormal
+A temperatura da unidade de corrente está além dos limites aceitáveis
+A unidade de acionamentos está esquentando muito durante a operação
+A temperatura do equipamento está fora dos parâmetros esperados
+A unidade de corrente está superaquecendo durante a utilização
+A temperatura do equipamento está descontrolada
+O equipamento está esquentando em excesso
+A unidade de acionamentos por corrente está com alta temperatura
+A temperatura na unidade está ultrapassando os limites recomendados
+O equipamento está funcionando com superaquecimento anormal
+A unidade de acionamento está emitindo calor excessivo
+A temperatura da unidade de corrente está alta durante a operação
+O equipamento está operando com temperaturas elevadas demais
+A unidade de corrente está aquecendo demasiadamente
+Problema de aquecimento excessivo nos acionamentos por corrente
+A temperatura do equipamento está muito alta durante o funcionamento
+O acionamento por corrente está superaquecendo durante a operação
+A unidade de corrente está operando com calor excessivo
+O equipamento está emitindo calor em quantidades elevadas
+A temperatura na unidade de acionamento está muito elevada durante o uso
+A unidade de acionamentos por corrente está aquecendo além do esperado
+A temperatura do equipamento está acima dos limites seguros
+A unidade de corrente está superaquecida durante a operação
+A temperatura do equipamento está fora dos parâmetros normais
+O equipamento está esquentando de forma descontrolada
+A temperatura na unidade de acionamentos por corrente está anormalmente alta
+A unidade de acionamento está operando com temperaturas perigosas
+O acionamento por corrente está gerando calor em excesso
+A temperatura do equipamento está acima da faixa de operação normal
+A unidade de corrente está superaquecendo constantemente
+O equipamento está aquecendo rapidamente durante a utilização
+A temperatura na unidade de acionamento está além dos limites toleráveis
+A unidade de acionamentos por corrente está esquentando demasiadamente
+A dissipação de calor na unidade de corrente não está adequada
+O equipamento está operando com temperaturas extremamente altas
+A temperatura da unidade de acionamento está fora dos parâmetros esperados
+O acionamento por corrente está enfrentando problemas de resfriamento
+A unidade de corrente está superaquecendo e causando danos ao equipamento
+O equipamento está emitindo calor excessivo, colocando em risco a segurança operacional
+A temperatura na unidade de acionamentos por corrente está subindo rapidamente
+A unidade de acionamento está esquentando de forma anormal
+A dissipação de calor no equipamento não está eficiente
+A temperatura da unidade de corrente está além dos limites recomendados pelo fabricante
+O acionamento por corrente está apresentando falhas de refrigeração
+A unidade de corrente está superaquecendo, prejudicando o desempenho do equipamento
+O equipamento está emitindo calor em excesso, causando desconforto aos operadores
+A temperatura na unidade de acionamento está se aproximando de níveis críticos
+A unidade de acionamentos por corrente está enfrentando problemas de dissipação térmica
+A temperatura do equipamento está acima do limite seguro de funcionamento
+O acionamento por corrente está operando em condições térmicas desfavoráveis
+A unidade de corrente está superaquecendo e prejudicando a vida útil do equipamento
+O equipamento está esquentando rapidamente, reduzindo sua eficiência operacional
+A temperatura na unidade de acionamento está instável e oscilando em níveis perigosos
+A dissipação de calor no equipamento não está adequada, resultando em superaquecimento
+A temperatura da unidade de corrente está fora dos padrões aceitáveis de funcionamento
+O acionamento por corrente está gerando altas temperaturas, comprometendo a integridade dos componentes
+A unidade de acionamentos por corrente está enfrentando problemas de resfriamento insuficiente
+A temperatura do equipamento está acima da capacidade de refrigeração dos sistemas de ventilação
+O equipamento está emitindo calor excessivo, causando desconforto térmico aos operadores
+A temperatura na unidade de acionamento está aumentando progressivamente durante a operação
+A unidade de acionamento está esquentando além dos valores esperados
+A dissipação de calor no equipamento está comprometida, resultando em superaquecimento
+A temperatura da unidade de corrente está acima dos limites estabelecidos pela norma técnica
+O acionamento por corrente está operando com temperaturas elevadas, requerendo intervenção imediata
+A unidade de acionamentos por corrente está enfrentando problemas de refrigeração insuficiente
+A temperatura do equipamento está além da faixa segura, aumentando o risco de falhas
+O equipamento está emitindo calor em excesso, afetando a vida útil dos componentes
+A temperatura na unidade de acionamento está subindo rapidamente durante a utilização
+A unidade de acionamento está superaquecendo e causando interrupções na produção
+O acionamento por corrente está gerando temperaturas excessivas, prejudicando o desempenho do equipamento
+A unidade de corrente está superaquecendo, resultando em falhas frequentes no sistema
+O equipamento está aquecendo anormalmente, indicando possíveis problemas de resfriamento
+A temperatura na unidade de acionamento está fora dos parâmetros de segurança estabelecidos
+A dissipação de calor no equipamento não está eficiente o suficiente para controlar a temperatura

@@ -48,3 +48,401 @@ Pinos de contrapino que se desprendem em acionamentos por corrente submetidos a 
 Pinos de contrapino com dificuldade de fixação em sistemas de corrente
 Pinos de contrapino que se desprendem em condições de alta velocidade em equipamentos de acionamento por corrente
 Pinos de contrapino que não permanecem corretamente encaixados em correntes de transmissão
+Pinos de contrapino soltos
+
+Contrapinos se soltando
+
+Pinos de segurança saindo do lugar
+
+Falha no travamento dos contrapinos
+
+Problemas com os pinos de fixação
+
+Pinos de contrapino escapando durante a operação
+
+Contrapinos mal fixados
+
+Pinos de retenção se desprendendo
+
+Contrapinos se soltando em acionamentos de corrente
+
+Pinos de trava escapando do lugar
+
+Pinos de contrapino se movendo
+
+Problemas de segurança com os contrapinos
+
+Pinos de fixação se desprendendo
+
+Contrapinos deslizando fora da posição correta
+
+Pinos de retenção com mau funcionamento
+
+Pinos de contrapino fora do lugar
+
+Falha no encaixe dos contrapinos
+
+Pinos de segurança quebrados ou danificados
+
+Contrapinos desgastados que não prendem corretamente
+
+Pinos de travamento que não seguram a carga
+
+Pinos de contrapino soltando em acionamentos industriais
+
+Problemas de estabilidade devido aos pinos de contrapino soltos
+
+Contrapinos desencaixando durante a operação
+
+Pinos de segurança que não cumprem sua função
+
+Pinos de fixação que não travam adequadamente
+
+Contrapinos escapando do acionamento por corrente
+
+Pinos de retenção que se soltam facilmente
+
+Contrapinos com mau ajuste
+
+Pinos de contrapino desalinhados
+
+Problemas de segurança devido aos pinos de contrapino saindo
+
+Pinos de fixação desencaixando durante a operação
+
+Contrapinos mal instalados
+
+Pinos de segurança deslizando fora do lugar
+
+Pinos de contrapino soltando repetidamente
+
+Problemas de confiabilidade dos pinos de contrapino
+
+Pinos de travamento que se soltam com o tempo
+
+Contrapinos danificados que não seguram a carga
+
+Pinos de fixação com desgaste excessivo
+
+Contrapinos desengatando inesperadamente
+
+Pinos de contrapino frouxos
+
+Pinos de segurança com folga
+
+Contrapinos deslocando-se durante o funcionamento
+
+Pinos de fixação com folga excessiva
+
+Problemas de segurança devido aos pinos de contrapino soltos
+
+Pinos de retenção desencaixando facilmente
+
+Contrapinos com problemas de encaixe
+
+Pinos de contrapino soltando ao longo do tempo
+
+Pinos de segurança que não se encaixam corretamente
+
+Contrapinos com mau funcionamento
+
+Pinos de fixação soltos
+
+Pinos de contrapino desgastados
+
+Problemas de segurança relacionados aos pinos de contrapino
+
+Pinos de travamento com problemas de retenção
+
+Contrapinos que não permanecem no lugar
+
+Pinos de segurança com mau ajuste
+
+Pinos de fixação que requerem manutenção frequente
+
+Contrapinos com defeito que não seguram adequadamente
+
+Pinos de contrapino desapertando durante a operação
+
+Problemas de estabilidade devido aos pinos de contrapino saindo
+
+Pinos de retenção com desgaste excessivo
+
+Pinos de contrapino soltos durante o transporte
+
+Contrapinos desencaixando em altas velocidades
+
+Pinos de segurança com problemas de travamento
+
+Pinos de fixação que precisam ser apertados regularmente
+
+Contrapinos escapando durante a movimentação da carga
+
+Pinos de contrapino desalinhados durante o funcionamento
+
+Problemas de segurança causados por pinos de contrapino soltos
+
+Pinos de retenção que se soltam em condições de vibração
+
+Contrapinos com problemas de encaixe adequado
+
+Pinos de travamento que não suportam cargas pesadas
+
+Pinos de contrapino soltando durante operações de alta pressão
+
+Contrapinos deslocando-se em situações de mudança brusca de direção
+
+Pinos de segurança com desgaste prematuro
+
+Pinos de fixação que não suportam impactos intensos
+
+Contrapinos escapando em acionamentos de corrente pesada
+
+Pinos de contrapino desencaixando em condições ambientais adversas
+
+Problemas de segurança devido a pinos de contrapino mal fixados
+
+Pinos de retenção que se soltam durante manobras rápidas
+
+Contrapinos com desgaste acentuado
+
+Pinos de travamento que não resistem a cargas elevadas
+
+Pinos de contrapino soltos em ambientes com vibração intensa
+
+Contrapinos deslizando durante manobras de alta velocidade
+
+Pinos de segurança que não se encaixam corretamente em acionamentos por corrente
+
+Pinos de fixação que requerem aperto constante
+
+Contrapinos escapando durante operações em temperaturas extremas
+
+Pinos de contrapino desencaixando em condições de umidade elevada
+
+Problemas de segurança causados por pinos de contrapino mal ajustados
+
+Pinos de retenção que se soltam em acionamentos de alta carga
+
+Contrapinos com desgaste acelerado devido a condições agressivas
+
+Pinos de travamento que não suportam forças repentinas
+
+Pinos de contrapino soltando em acionamentos de alta potência
+
+Contrapinos deslocando-se em ambientes com movimentação brusca
+
+Pinos de segurança com problemas de fixação em aplicações industriais
+
+Pinos de fixação que requerem manutenção frequente em operações contínuas
+
+Contrapinos escapando durante transportes em terrenos acidentados
+
+Pinos de contrapino desalinhados em ambientes sujeitos a vibração
+
+Problemas de segurança relacionados a pinos de contrapino soltos em equipamentos industriais
+
+Pinos de retenção que se soltam em operações com altas cargas dinâmicas
+
+Contrapinos com mau ajuste devido a desgaste prematuro
+
+Pinos de travamento que não suportam esforços repetitivos
+Pinos de segurança soltando durante a operação
+
+Problemas de fixação devido aos pinos de contrapino
+
+Contrapinos escapando durante acelerações bruscas
+
+Pinos de retenção com folga excessiva
+
+Contrapinos deslizando durante mudanças de direção
+
+Problemas de segurança causados por pinos de contrapino soltos
+
+Pinos de travamento com mau ajuste
+
+Contrapinos desencaixando em altas temperaturas
+
+Pinos de segurança que não suportam cargas pesadas
+
+Contrapinos escapando durante manobras em terrenos acidentados
+
+Pinos de contrapino soltos durante o transporte
+
+Problemas de estabilidade devido aos pinos de contrapino saindo
+
+Contrapinos deslocando-se em altas velocidades
+
+Pinos de retenção com desgaste excessivo
+
+Contrapinos soltando em condições de vibração intensa
+
+Pinos de segurança com problemas de fixação
+
+Contrapinos que não permanecem no lugar
+
+Pinos de travamento com folga anormal
+
+Contrapinos desencaixando em condições de umidade elevada
+
+Pinos de contrapino quebrados ou danificados
+
+Pinos de segurança que não se encaixam corretamente
+
+Problemas de segurança relacionados a pinos de contrapino soltos
+
+Pinos de retenção desgastados ou danificados
+
+Contrapinos escapando durante manobras bruscas
+
+Pinos de fixação que requerem aperto constante
+
+Contrapinos deslizando em condições de temperatura extrema
+
+Pinos de segurança que não suportam cargas dinâmicas
+
+Contrapinos soltando durante operações contínuas
+
+Pinos de travamento com desgaste acelerado
+
+Contrapinos deslocando-se em ambientes agressivos
+
+Pinos de contrapino mal ajustados causando problemas de operação
+
+Problemas de segurança devido a pinos de contrapino soltos em acionamentos por corrente
+
+Pinos de retenção com problemas de encaixe adequado
+
+Contrapinos desencaixando em situações de alta potência
+
+Pinos de fixação que requerem manutenção frequente
+
+Contrapinos escapando em aplicações industriais exigentes
+
+Pinos de segurança com desgaste prematuro
+
+Contrapinos soltando durante movimentação em terrenos irregulares
+
+Pinos de travamento que não suportam forças repentinas
+
+Contrapinos deslocando-se em ambientes com vibração intensa
+
+Pinos de contrapino que não fornecem retenção adequada
+
+Problemas de segurança causados por pinos de contrapino mal fixados
+
+Pinos de retenção que se soltam em acionamentos de alta carga
+
+Contrapinos desencaixando em situações de alto torque
+
+Pinos de segurança com folga excessiva
+
+Contrapinos escapando durante manobras em espaços confinados
+
+Pinos de fixação danificados ou quebrados
+
+Contrapinos soltando durante operações em ambientes hostis
+
+Pinos de travamento com mau ajuste devido a desgaste
+
+Contrapinos deslocando-se em condições de umidade excessiva
+
+Pinos de contrapino que não permanecem fixos durante a operação
+
+Problemas de segurança relacionados a pinos de contrapino soltos em acionamentos por corrente
+
+Pinos de retenção desgastados prematuramente
+
+Contrapinos desencaixando em condições de alta velocidade
+
+Pinos de segurança com desgaste anormal
+
+Contrapinos escapando durante movimentação em terrenos acidentados
+
+Pinos de fixação que requerem aperto frequente
+
+Contrapinos soltando durante operações de longa duração
+
+Pinos de travamento com folga inesperada
+
+Contrapinos deslocando-se em ambientes com temperaturas extremas
+
+Pinos de contrapino que não oferecem segurança adequada
+
+Problemas de segurança devido a pinos de contrapino desalinhados
+
+Pinos de retenção com mau ajuste devido a vibrações
+
+Contrapinos desencaixando em aplicações com alto desgaste
+
+Pinos de segurança que não suportam cargas pesadas
+
+Contrapinos escapando durante manobras em ambientes agressivos
+
+Pinos de fixação que requerem constante verificação
+
+Contrapinos soltando durante operações em alta potência
+
+Pinos de travamento com desgaste acelerado devido a condições adversas
+
+Contrapinos deslocando-se em ambientes sujeitos a umidade elevada
+
+Pinos de contrapino com encaixe inadequado causando problemas de operação
+
+Problemas de segurança devido a pinos de contrapino soltos em acionamentos industriais
+
+Pinos de retenção desgastados ou danificados por uso excessivo
+
+Contrapinos desencaixando em situações de alta carga
+
+Pinos de segurança com problemas de fixação
+
+Contrapinos escapando durante movimentação em espaços limitados
+
+Pinos de fixação danificados ou quebrados devido a sobrecarga
+
+Contrapinos soltando durante operações em ambientes de alto estresse
+
+Pinos de travamento com mau ajuste devido a desgaste prematuro
+
+Contrapinos deslocando-se em ambientes com vibração intensa
+
+Pinos de contrapino que não oferecem retenção adequada em acionamentos por corrente
+
+Problemas de segurança causados por pinos de contrapino mal fixados
+
+Pinos de retenção que se soltam durante acionamentos com alta demanda de torque
+
+Contrapinos desencaixando em situações de alta potência e velocidade
+
+Pinos de segurança com folga excessiva comprometendo a estabilidade
+
+Contrapinos escapando durante manobras em terrenos irregulares e inclinados
+
+Pinos de fixação que requerem ajustes frequentes devido a vibrações constantes
+
+Contrapinos soltando durante operações contínuas em ambientes hostis
+
+Pinos de travamento com desgaste acelerado em condições extremas de temperatura
+
+Contrapinos deslocando-se em ambientes sujeitos a umidade e corrosão
+
+Pinos de contrapino que não se encaixam corretamente comprometendo a segurança
+
+Problemas de segurança relacionados a pinos de contrapino soltos em acionamentos industriais pesados
+
+Pinos de retenção desgastados prematuramente devido a cargas excessivas
+
+Contrapinos desencaixando em condições de alta carga e velocidade
+
+Pinos de segurança com desgaste anormal comprometendo a confiabilidade
+
+Contrapinos escapando durante movimentação em terrenos acidentados e instáveis
+
+Pinos de fixação que requerem aperto frequente devido a variações de temperatura
+
+Contrapinos soltando durante operações de longa duração em ambientes adversos
+
+Pinos de travamento com folga inesperada causando instabilidade
+
+Contrapinos deslocando-se em ambientes sujeitos a vibrações intensas e frequências ressonantes

@@ -48,3 +48,252 @@ Dificuldade em deslizar suavemente a haste da válvula de gaveta
 Válvula de gaveta com operação travada e ineficiente
 Problema de resistência ao girar a alavanca da válvula de gaveta
 Válvula de gaveta com movimento rígido e operação complicada
+Válvula de gaveta emperrada
+
+Dificuldade na operação da válvula de gaveta
+
+Válvula de gaveta travada
+
+Problemas ao abrir ou fechar a válvula de gaveta
+
+Válvula de gaveta com dificuldade de movimentação
+
+Válvula de gaveta emperrando durante a operação
+
+Válvula de gaveta com resistência excessiva ao manuseio
+
+Dificuldade em girar a haste da válvula de gaveta
+
+Válvula de gaveta com movimentação rígida
+
+Válvula de gaveta com esforço excessivo para operar
+
+Válvula de gaveta com operação pesada
+
+Válvula de gaveta com dificuldade de abrir ou fechar completamente
+
+Válvula de gaveta com operação emperrada
+
+Problemas de funcionamento na válvula de gaveta
+
+Válvula de gaveta com resistência ao movimento
+
+Dificuldade em deslizar a válvula de gaveta
+
+Válvula de gaveta com atrito durante a operação
+
+Válvula de gaveta com movimento travado
+
+Válvula de gaveta com dificuldade de vedação
+
+Dificuldade em girar a manopla da válvula de gaveta
+
+Válvula de gaveta com movimentação irregular
+
+Válvula de gaveta com esforço excessivo para abrir ou fechar
+
+Válvula de gaveta com operação lenta
+
+Válvula de gaveta com resistência na haste
+
+Problemas na abertura ou fechamento da válvula de gaveta
+
+Válvula de gaveta com dificuldade de deslizamento
+
+Dificuldade em manobrar a válvula de gaveta
+
+Válvula de gaveta com travamento durante a operação
+
+Válvula de gaveta com movimento duro
+
+Válvula de gaveta com dificuldade de controle do fluxo
+
+Problemas de manuseio na válvula de gaveta
+
+Válvula de gaveta com resistência excessiva no acionamento
+
+Dificuldade em acionar a válvula de gaveta
+
+Válvula de gaveta com operação emperrando no meio do curso
+
+Válvula de gaveta com dificuldade em posicionar na abertura ou fechamento desejado
+
+Válvula de gaveta com movimentação áspera
+
+Válvula de gaveta com esforço elevado para movimentar
+
+Válvula de gaveta com operação imprecisa
+
+Problemas de deslizamento na válvula de gaveta
+
+Válvula de gaveta com dificuldade de rotação
+
+Dificuldade em manobrar a manopla da válvula de gaveta
+
+Válvula de gaveta com movimento preso
+
+Válvula de gaveta com resistência no deslocamento
+
+Válvula de gaveta com dificuldade de ajuste fino
+
+Problemas de travamento na válvula de gaveta
+
+Válvula de gaveta com dificuldade em manter a posição desejada
+
+Dificuldade em movimentar a haste da válvula de gaveta
+
+Válvula de gaveta com operação instável
+
+Válvula de gaveta com esforço excessivo no manuseio
+
+Válvula de gaveta com resistência ao acionamento
+
+Dificuldade em abrir ou fechar a válvula de gaveta
+
+Válvula de gaveta com engripamento durante a operação
+
+Válvula de gaveta com movimentação pesada
+
+Válvula de gaveta com dificuldade em desobstruir o fluxo
+
+Problemas na manipulação da válvula de gaveta
+
+Válvula de gaveta com resistência no movimento de abertura ou fechamento
+
+Dificuldade em girar a alavanca da válvula de gaveta
+
+Válvula de gaveta com movimentação difícil
+
+Válvula de gaveta com esforço excessivo para operar
+
+Válvula de gaveta com dificuldade de vedação completa
+
+Dificuldade em movimentar a válvula de gaveta
+
+Válvula de gaveta com travamento no curso de abertura ou fechamento
+
+Válvula de gaveta com resistência ao deslizamento
+
+Válvula de gaveta com movimento emperrado
+
+Problemas de abertura ou fechamento da válvula de gaveta
+
+Válvula de gaveta com dificuldade em movimentar suavemente
+
+Dificuldade em operar a válvula de gaveta
+
+Válvula de gaveta com travamento na posição intermediária
+
+Válvula de gaveta com resistência na manopla
+
+Válvula de gaveta com dificuldade no controle de fluxo
+
+Problemas no manuseio da válvula de gaveta
+
+Válvula de gaveta com esforço excessivo no acionamento
+
+Dificuldade em girar a manivela da válvula de gaveta
+
+Válvula de gaveta com operação engripada
+
+Válvula de gaveta com dificuldade em deslocar o fluido
+
+Válvula de gaveta com movimentação árdua
+
+Problemas de deslizamento na válvula de gaveta
+
+Válvula de gaveta com dificuldade de rotação
+
+Dificuldade em manobrar a manopla da válvula de gaveta
+
+Válvula de gaveta com movimento preso
+
+Válvula de gaveta com resistência no deslocamento
+
+Válvula de gaveta com dificuldade de ajuste fino
+
+Problemas de travamento na válvula de gaveta
+
+Válvula de gaveta com dificuldade em manter a posição desejada
+
+Dificuldade em movimentar a haste da válvula de gaveta
+
+Válvula de gaveta com operação instável
+
+Válvula de gaveta com esforço excessivo no manuseio
+
+Válvula de gaveta com resistência ao acionamento
+
+Dificuldade em abrir ou fechar a válvula de gaveta
+
+Válvula de gaveta com engripamento durante a operação
+
+Válvula de gaveta com movimentação pesada
+
+Válvula de gaveta com dificuldade em desobstruir o fluxo
+
+Problemas na manipulação da válvula de gaveta
+
+Válvula de gaveta com resistência no movimento de abertura ou fechamento
+
+Dificuldade em girar a alavanca da válvula de gaveta
+
+Válvula de gaveta com movimentação difícil
+
+Válvula de gaveta com esforço excessivo para operar
+
+Válvula de gaveta com dificuldade de vedação completa
+
+Dificuldade em movimentar a válvula de gaveta
+
+Válvula de gaveta com travamento no curso de abertura ou fechamento
+Válvula de gaveta com problemas de funcionamento
+Dificuldade em acionar a válvula de gaveta
+Válvula de gaveta com movimento lento
+Válvula de gaveta com dificuldade de manuseio
+Dificuldade em controlar o fluxo na válvula de gaveta
+Válvula de gaveta com resistência ao girar a alavanca
+Problemas na operação da válvula de gaveta
+Válvula de gaveta com dificuldade em desligar completamente
+Válvula de gaveta com engripamento durante a abertura ou fechamento
+Dificuldade em girar o volante da válvula de gaveta
+Válvula de gaveta com movimento emperrado durante a operação
+Válvula de gaveta com dificuldade em regular o fluxo
+Problemas de vedação na válvula de gaveta
+Válvula de gaveta com resistência ao movimento de abertura ou fechamento
+Dificuldade em manipular a alavanca da válvula de gaveta
+Válvula de gaveta com movimentação pesada durante a operação
+Válvula de gaveta com dificuldade em desobstruir o fluido
+Problemas no acionamento da válvula de gaveta
+Válvula de gaveta com esforço excessivo para abrir ou fechar
+Válvula de gaveta com dificuldade em manter a pressão desejada
+Dificuldade em operar a válvula de gaveta durante a manutenção
+Válvula de gaveta com travamento no curso de movimento
+Válvula de gaveta com resistência ao deslizamento da haste
+Válvula de gaveta com movimento travado
+Problemas na abertura ou fechamento da válvula de gaveta
+Válvula de gaveta com dificuldade em movimentar suavemente
+Dificuldade em ajustar a posição da válvula de gaveta
+Válvula de gaveta com operação engripada durante o uso
+Válvula de gaveta com dificuldade em escoar o fluido
+Válvula de gaveta com movimentação difícil devido à sujeira
+Problemas de deslizamento na válvula de gaveta durante a operação
+Válvula de gaveta com dificuldade de rotação da alavanca
+Dificuldade em manobrar a válvula de gaveta
+Válvula de gaveta com travamento na posição intermediária
+Válvula de gaveta com resistência na manopla de acionamento
+Válvula de gaveta com dificuldade no controle do fluxo de líquido
+Dificuldade em girar a manivela da válvula de gaveta
+Válvula de gaveta com movimento duro durante a operação
+Válvula de gaveta com esforço excessivo no acionamento manual
+Válvula de gaveta com dificuldade em vedar completamente
+Dificuldade em movimentar a haste da válvula de gaveta
+Válvula de gaveta com travamento parcial na abertura ou fechamento
+Válvula de gaveta com resistência ao deslocamento lateral
+Válvula de gaveta com movimento travado em uma posição
+Dificuldade em operar a alavanca da válvula de gaveta
+Válvula de gaveta com dificuldade em regular a vazão
+Problemas na vedação da válvula de gaveta durante o uso
+Válvula de gaveta com resistência ao movimento de deslizamento
+Dificuldade em manipular o volante da válvula de gaveta
+Válvula de gaveta com movimentação pesada ao ser acionada

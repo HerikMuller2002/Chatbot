@@ -48,3 +48,402 @@ Ruído constante no rolamento, mesmo em baixa rotação
 Rolamento fazendo ruído de chiado
 Barulho incômodo e irregular proveniente do rolamento
 Ruído anormal no rolamento durante a aceleração
+Ruído anormal em rolamentos durante a operação
+
+Rolamento emitindo sons estranhos
+
+Barulho excessivo vindo dos rolamentos
+
+Ruído irregular em rolamentos de alta carga
+
+Rolamento produzindo ruído incomum em altas velocidades
+
+Rolamento emitindo chiados ou rangidos
+
+Ruído audível proveniente dos rolamentos durante a rotação
+
+Barulho intermitente em rolamentos submetidos a cargas variáveis
+
+Rolamento com vibração e ruído excessivo
+
+Ruído constante em rolamentos de longa duração
+
+Barulho incomum em rolamentos em condições de alta temperatura
+
+Rolamento emitindo sons anômalos durante o funcionamento
+
+Ruído anormal em rolamentos submetidos a vibrações intensas
+
+Rolamento com ruído fora do padrão em diferentes modos de operação
+
+Barulho audível em rolamentos de carga elevada
+
+Ruído periódico em rolamentos em condições de umidade elevada
+
+Rolamento com ruído descontrolado em diferentes regimes de carga
+
+Barulho excessivo em rolamentos em ambientes contaminados
+
+Ruído incomum em rolamentos de alta velocidade
+
+Rolamento emitindo sons estranhos durante a aceleração
+
+Ruído anormal em rolamentos em operação intermitente
+
+Barulho recorrente em rolamentos em condições de alta carga
+
+Rolamento com ruído desigual em diferentes condições ambientais
+
+Ruído constante em rolamentos de pequeno porte
+
+Barulho incomum em rolamentos em ambientes corrosivos
+
+Rolamento emitindo sons anômalos em altas rotações e cargas variáveis
+
+Ruído audível em rolamentos durante paradas e partidas frequentes
+
+Barulho intermitente em rolamentos em operação contínua
+
+Rolamento com vibração e ruído excessivo em cargas variáveis
+
+Ruído constante em rolamentos em ambientes de umidade elevada
+
+Barulho incomum em rolamentos em diferentes posições de montagem
+
+Rolamento emitindo sons estranhos em diferentes regimes de lubrificação
+
+Ruído anormal em rolamentos submetidos a altas temperaturas
+
+Barulho excessivo em rolamentos em baixas velocidades e altas cargas
+
+Rolamento com ruído fora dos padrões em operação a baixas cargas
+
+Ruído audível em rolamentos em compartimentos fechados
+
+Barulho recorrente em rolamentos durante operação em ambientes corrosivos
+
+Rolamento emitindo sons anômalos em diferentes modos de lubrificação
+
+Ruído constante em rolamentos em altas velocidades e baixas cargas
+
+Barulho incomum em rolamentos em operação a baixas velocidades
+
+Rolamento com vibração e ruído excessivo em altas temperaturas
+
+Ruído constante em rolamentos de longa duração em ambientes contaminados
+
+Barulho intermitente em rolamentos durante a desaceleração
+
+Rolamento emitindo sons estranhos em diferentes modos de carga
+
+Ruído anormal em rolamentos em operação a velocidades variáveis
+
+Barulho excessivo em rolamentos durante operação em condições de umidade elevada
+
+Rolamento com ruído fora dos padrões em diferentes regimes de velocidade
+
+Ruído audível em rolamentos durante operação em altas cargas
+
+Barulho recorrente em rolamentos de carga variável
+
+Rolamento emitindo sons anômalos em diferentes modos de operação
+
+Ruído constante em rolamentos em baixas velocidades e cargas variáveis
+
+Barulho incomum em rolamentos durante paradas e partidas frequentes
+
+Rolamento com vibração e ruído excessivo em cargas intermitentes
+
+Ruído constante em rolamentos em operação em ambientes de alta temperatura
+
+Barulho intermitente em rolamentos em operação contínua em ambientes corrosivos
+
+Rolamento emitindo sons estranhos em diferentes regimes de lubrificação e velocidade
+
+Ruído anormal em rolamentos submetidos a altas cargas e vibrações intensas
+
+Barulho excessivo em rolamentos em ambientes contaminados com partículas sólidas
+
+Rolamento com ruído fora dos padrões em operação em compartimentos fechados
+
+Ruído audível em rolamentos em diferentes condições de montagem
+
+Barulho recorrente em rolamentos durante operação em altas temperaturas e umidade elevada
+
+Rolamento emitindo sons anômalos em diferentes modos de carga e lubrificação
+
+Ruído constante em rolamentos em altas velocidades e altas cargas
+
+Barulho incomum em rolamentos em operação a baixas velocidades e altas temperaturas
+
+Rolamento com vibração e ruído excessivo em operação intermitente
+
+Ruído constante em rolamentos em ambientes corrosivos e alta umidade
+
+Barulho intermitente em rolamentos durante a aceleração e desaceleração
+
+Rolamento emitindo sons estranhos em diferentes condições de carga e velocidade
+
+Ruído anormal em rolamentos submetidos a cargas variáveis e regimes de lubrificação
+
+Barulho excessivo em rolamentos em operação a altas velocidades e altas temperaturas
+
+Ruído audível em rolamentos durante operação em ambientes contaminados com substâncias químicas
+
+Rolamento com ruído fora dos padrões em diferentes modos de operação e montagem
+
+Barulho recorrente em rolamentos em condições de carga elevada e vibrações intensas
+
+Ruído constante em rolamentos em altas velocidades e cargas variáveis
+
+Rolamento emitindo sons anômalos em diferentes regimes de carga e lubrificação
+
+Barulho incomum em rolamentos em operação contínua e altas temperaturas
+
+Ruído audível em rolamentos em ambientes corrosivos e umidade elevada
+
+Rolamento com vibração e ruído excessivo em operação a baixas velocidades e altas cargas
+
+Ruído constante em rolamentos de longa duração em ambientes de alta umidade
+
+Barulho intermitente em rolamentos durante operação em compartimentos fechados e altas temperaturas
+
+Rolamento emitindo sons estranhos em diferentes modos de carga e velocidade
+
+Ruído anormal em rolamentos submetidos a cargas variáveis e regimes de lubrificação
+
+Barulho excessivo em rolamentos em operação a altas velocidades e ambientes contaminados
+
+Ruído audível em rolamentos durante operação em condições de carga elevada e vibrações intensas
+
+Rolamento com ruído fora dos padrões em diferentes modos de operação e ambientes corrosivos
+
+Barulho recorrente em rolamentos em operação a baixas velocidades e altas temperaturas
+
+Ruído constante em rolamentos em cargas variáveis e altas velocidades
+
+Rolamento emitindo sons anômalos em diferentes regimes de carga e ambientes de alta umidade
+
+Barulho incomum em rolamentos durante operação contínua e condições de vibração intensa
+
+Rolamento com vibração e ruído excessivo em operação a altas velocidades e cargas variáveis
+
+Ruído constante em rolamentos em ambientes corrosivos e altas temperaturas
+
+Barulho intermitente em rolamentos durante operação em compartimentos fechados e altas cargas
+
+Rolamento emitindo sons estranhos em diferentes modos de carga e regimes de lubrificação
+
+Ruído anormal em rolamentos submetidos a altas velocidades e ambientes contaminados
+
+Barulho excessivo em rolamentos em operação a altas temperaturas e umidade elevada
+
+Ruído audível em rolamentos durante operação em condições de carga elevada e altas temperaturas
+
+Rolamento com ruído fora dos padrões em diferentes modos de operação e ambientes de alta umidade
+
+Barulho recorrente em rolamentos em cargas variáveis e altas velocidades
+
+Ruído constante em rolamentos em operação a baixas velocidades e ambientes corrosivos
+
+Rolamento emitindo sons anômalos em diferentes regimes de carga e ambientes de alta temperatura
+Ruído excessivo em rolamentos durante a operação contínua
+Barulho anormal em rolamentos em altas temperaturas e cargas elevadas
+Rolamento emitindo sons estranhos durante a aceleração e desaceleração
+Ruído constante em rolamentos em regimes de velocidade variáveis
+Barulho intermitente em rolamentos durante operações de longa duração
+Rolamento com vibração e ruído excessivo em ambientes com altos níveis de umidade
+Ruído audível em rolamentos durante o funcionamento em condições corrosivas
+Barulho recorrente em rolamentos em operações com cargas variáveis
+Rolamento emitindo sons anômalos em diferentes modos de lubrificação
+Ruído constante em rolamentos em altas velocidades e ambientes contaminados
+Barulho incomum em rolamentos durante paradas e partidas frequentes
+Rolamento com vibração e ruído excessivo em cargas intermitentes
+Ruído constante em rolamentos em operações a velocidades baixas
+Barulho intermitente em rolamentos durante operações em altas temperaturas
+Rolamento emitindo sons estranhos em diferentes regimes de carga
+Ruído anormal em rolamentos durante a desaceleração e frenagem
+Barulho excessivo em rolamentos durante operações com altas cargas
+Rolamento com vibração e ruído excessivo em altas velocidades
+Ruído constante em rolamentos em ambientes de alta umidade
+Barulho incomum em rolamentos durante operações em baixas temperaturas
+Rolamento emitindo sons anômalos em diferentes condições de carga e velocidade
+Ruído audível em rolamentos durante operações com cargas variáveis
+Barulho recorrente em rolamentos em ambientes corrosivos
+Rolamento com vibração e ruído excessivo em operações de longa duração
+Ruído constante em rolamentos em altas velocidades e ambientes com partículas sólidas
+Barulho intermitente em rolamentos durante operações em compartimentos fechados
+Rolamento emitindo sons estranhos em diferentes modos de operação
+Ruído anormal em rolamentos durante a aceleração e desaceleração
+Barulho excessivo em rolamentos durante operações em altas temperaturas e umidade elevada
+Rolamento com vibração e ruído excessivo em regimes de velocidade variáveis
+Ruído constante em rolamentos em operações com altas cargas
+Barulho incomum em rolamentos durante operações em ambientes corrosivos
+Rolamento emitindo sons anômalos em diferentes condições de carga
+Ruído audível em rolamentos durante a desaceleração e frenagem
+Barulho recorrente em rolamentos durante operações com altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade
+Ruído constante em rolamentos em operações de longa duração
+Barulho intermitente em rolamentos durante operações em altas temperaturas
+Rolamento emitindo sons estranhos em diferentes modos de lubrificação
+Ruído anormal em rolamentos durante paradas e partidas frequentes
+Barulho excessivo em rolamentos durante operações com cargas variáveis
+Rolamento com vibração e ruído excessivo em altas velocidades
+Ruído constante em rolamentos em ambientes contaminados
+Barulho incomum em rolamentos durante operações a velocidades baixas
+Rolamento emitindo sons anômalos em diferentes regimes de carga
+Ruído audível em rolamentos durante a desaceleração e frenagem
+Barulho recorrente em rolamentos durante operações com altas cargas
+Rolamento com vibração e ruído excessivo em altas velocidades
+Ruído constante em rolamentos em ambientes de alta umidade
+Barulho intermitente em rolamentos durante operações em baixas temperaturas
+Rolamento emitindo sons estranhos em diferentes modos de operação
+Ruído anormal em rolamentos durante a aceleração e desaceleração
+Barulho excessivo em rolamentos durante operações com altas temperaturas
+Rolamento com vibração e ruído excessivo em regimes de velocidade variáveis
+Ruído constante em rolamentos em operações com cargas variáveis
+Barulho incomum em rolamentos durante operações de longa duração
+Rolamento emitindo sons anômalos em diferentes condições de carga e velocidade
+Ruído audível em rolamentos durante operações em ambientes corrosivos
+Barulho recorrente em rolamentos durante operações em compartimentos fechados
+Rolamento com vibração e ruído excessivo em operações com altas cargas
+Ruído constante em rolamentos em altas velocidades
+Barulho intermitente em rolamentos durante operações em ambientes contaminados
+Rolamento emitindo sons estranhos em diferentes modos de lubrificação
+Ruído anormal em rolamentos durante paradas e partidas frequentes
+Barulho excessivo em rolamentos durante operações a velocidades baixas
+Rolamento com vibração e ruído excessivo em altas temperaturas
+Ruído constante em rolamentos em ambientes de alta umidade e partículas sólidas
+Barulho incomum em rolamentos durante operações em compartimentos fechados e altas temperaturas
+Rolamento emitindo sons anômalos em diferentes modos de operação e regimes de lubrificação
+Ruído audível em rolamentos durante operações em cargas variáveis e altas velocidades
+Barulho recorrente em rolamentos em ambientes corrosivos e operações de longa duração
+Rolamento com vibração e ruído excessivo em altas temperaturas e cargas elevadas
+Ruído constante em rolamentos em altas velocidades e umidade elevada
+Barulho intermitente em rolamentos durante operações em compartimentos fechados e regimes de velocidade variáveis
+Rolamento emitindo sons estranhos em diferentes condições de carga e temperaturas extremas
+Ruído anormal em rolamentos durante a desaceleração e frenagem em operações com cargas variáveis
+Barulho excessivo em rolamentos durante operações em ambientes corrosivos e altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade e temperaturas extremas
+Ruído constante em rolamentos em regimes de velocidade variáveis e operações com cargas elevadas
+Barulho incomum em rolamentos durante operações em compartimentos fechados e ambientes contaminados
+Rolamento emitindo sons anômalos em diferentes modos de operação e ambientes corrosivos
+Ruído audível em rolamentos durante operações em altas temperaturas e altas cargas
+Barulho recorrente em rolamentos durante operações de longa duração e altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade e cargas elevadas
+Ruído constante em rolamentos em altas velocidades e altas temperaturas
+Barulho intermitente em rolamentos durante operações em ambientes contaminados e regimes de carga variáveis
+Rolamento emitindo sons estranhos em diferentes modos de lubrificação e regimes de velocidade
+Ruído anormal em rolamentos durante a aceleração e desaceleração em ambientes corrosivos
+Barulho excessivo em rolamentos durante operações com altas cargas e vibrações intensas
+Rolamento com vibração e ruído excessivo em altas temperaturas e altas velocidades
+Ruído constante em rolamentos em ambientes de alta umidade e cargas variáveis
+Barulho incomum em rolamentos durante operações de longa duração e em compartimentos fechados
+Rolamento emitindo sons anômalos em diferentes condições de carga e regimes de lubrificação
+Ruído audível em rolamentos durante operações com altas temperaturas e regimes de velocidade variáveis
+Barulho recorrente em rolamentos em ambientes corrosivos e altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade e operações com altas cargas
+Ruído constante em rolamentos em altas velocidades e regimes de carga variáveis
+Barulho intermitente em rolamentos durante operações em compartimentos fechados e altas temperaturas
+Rolamento emitindo sons estranhos em diferentes modos de operação e ambientes contaminados
+Ruído anormal em rolamentos durante a desaceleração e frenagem em operações com altas velocidades
+Ruído excessivo em rolamentos durante a operação contínua
+Barulho anormal em rolamentos em altas temperaturas e cargas elevadas
+Rolamento emitindo sons estranhos durante a aceleração e desaceleração
+Ruído constante em rolamentos em regimes de velocidade variáveis
+Barulho intermitente em rolamentos durante operações de longa duração
+Rolamento com vibração e ruído excessivo em ambientes com altos níveis de umidade
+Ruído audível em rolamentos durante o funcionamento em condições corrosivas
+Barulho recorrente em rolamentos em operações com cargas variáveis
+Rolamento emitindo sons anômalos em diferentes modos de lubrificação
+Ruído constante em rolamentos em altas velocidades e ambientes contaminados
+Barulho incomum em rolamentos durante paradas e partidas frequentes
+Rolamento com vibração e ruído excessivo em cargas intermitentes
+Ruído constante em rolamentos em operações a velocidades baixas
+Barulho intermitente em rolamentos durante operações em altas temperaturas
+Rolamento emitindo sons estranhos em diferentes regimes de carga
+Ruído anormal em rolamentos durante a desaceleração e frenagem
+Barulho excessivo em rolamentos durante operações com altas cargas
+Rolamento com vibração e ruído excessivo em altas velocidades
+Ruído constante em rolamentos em ambientes de alta umidade
+Barulho incomum em rolamentos durante operações em baixas temperaturas
+Rolamento emitindo sons anômalos em diferentes condições de carga e velocidade
+Ruído audível em rolamentos durante operações com cargas variáveis
+Barulho recorrente em rolamentos em ambientes corrosivos
+Rolamento com vibração e ruído excessivo em operações de longa duração
+Ruído constante em rolamentos em altas velocidades e ambientes com partículas sólidas
+Barulho intermitente em rolamentos durante operações em compartimentos fechados
+Rolamento emitindo sons estranhos em diferentes modos de operação
+Ruído anormal em rolamentos durante a aceleração e desaceleração
+Barulho excessivo em rolamentos durante operações em altas temperaturas e umidade elevada
+Rolamento com vibração e ruído excessivo em regimes de velocidade variáveis
+Ruído constante em rolamentos em operações com altas cargas
+Barulho incomum em rolamentos durante operações em ambientes corrosivos
+Rolamento emitindo sons anômalos em diferentes condições de carga
+Ruído audível em rolamentos durante a desaceleração e frenagem
+Barulho recorrente em rolamentos durante operações com altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade
+Ruído constante em rolamentos em operações de longa duração
+Barulho intermitente em rolamentos durante operações em altas temperaturas
+Rolamento emitindo sons estranhos em diferentes modos de lubrificação
+Ruído anormal em rolamentos durante paradas e partidas frequentes
+Barulho excessivo em rolamentos durante operações com cargas variáveis
+Rolamento com vibração e ruído excessivo em altas velocidades
+Ruído constante em rolamentos em ambientes contaminados
+Barulho incomum em rolamentos durante operações a velocidades baixas
+Rolamento emitindo sons anômalos em diferentes regimes de carga
+Ruído audível em rolamentos durante a desaceleração e frenagem
+Barulho recorrente em rolamentos durante operações com altas cargas
+Rolamento com vibração e ruído excessivo em altas velocidades
+Ruído constante em rolamentos em ambientes de alta umidade
+Barulho intermitente em rolamentos durante operações em baixas temperaturas
+Rolamento emitindo sons estranhos em diferentes modos de operação
+Ruído anormal em rolamentos durante a aceleração e desaceleração
+Barulho excessivo em rolamentos durante operações com altas temperaturas
+Rolamento com vibração e ruído excessivo em regimes de velocidade variáveis
+Ruído constante em rolamentos em operações com cargas variáveis
+Barulho incomum em rolamentos durante operações de longa duração
+Rolamento emitindo sons anômalos em diferentes condições de carga e velocidade
+Ruído audível em rolamentos durante operações em ambientes corrosivos
+Barulho recorrente em rolamentos durante operações em compartimentos fechados
+Rolamento com vibração e ruído excessivo em operações com altas cargas
+Ruído constante em rolamentos em altas velocidades
+Barulho intermitente em rolamentos durante operações em ambientes contaminados
+Rolamento emitindo sons estranhos em diferentes modos de lubrificação
+Ruído anormal em rolamentos durante paradas e partidas frequentes
+Barulho excessivo em rolamentos durante operações a velocidades baixas
+Rolamento com vibração e ruído excessivo em altas temperaturas
+Ruído constante em rolamentos em ambientes de alta umidade e partículas sólidas
+Barulho incomum em rolamentos durante operações em compartimentos fechados e altas temperaturas
+Rolamento emitindo sons anômalos em diferentes modos de operação e regimes de lubrificação
+Ruído audível em rolamentos durante operações em cargas variáveis e altas velocidades
+Barulho recorrente em rolamentos em ambientes corrosivos e operações de longa duração
+Rolamento com vibração e ruído excessivo em altas temperaturas e cargas elevadas
+Ruído constante em rolamentos em altas velocidades e umidade elevada
+Barulho intermitente em rolamentos durante operações em compartimentos fechados e regimes de velocidade variáveis
+Rolamento emitindo sons estranhos em diferentes condições de carga e temperaturas extremas
+Ruído anormal em rolamentos durante a desaceleração e frenagem em operações com cargas variáveis
+Barulho excessivo em rolamentos durante operações em ambientes corrosivos e altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade e temperaturas extremas
+Ruído constante em rolamentos em regimes de velocidade variáveis e operações com cargas elevadas
+Barulho incomum em rolamentos durante operações em compartimentos fechados e ambientes contaminados
+Rolamento emitindo sons anômalos em diferentes modos de operação e ambientes corrosivos
+Ruído audível em rolamentos durante operações em altas temperaturas e altas cargas
+Barulho recorrente em rolamentos durante operações de longa duração e altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade e cargas elevadas
+Ruído constante em rolamentos em altas velocidades e altas temperaturas
+Barulho intermitente em rolamentos durante operações em ambientes contaminados e regimes de carga variáveis
+Rolamento emitindo sons estranhos em diferentes modos de lubrificação e regimes de velocidade
+Ruído anormal em rolamentos durante a aceleração e desaceleração em ambientes corrosivos
+Barulho excessivo em rolamentos durante operações com altas cargas e vibrações intensas
+Rolamento com vibração e ruído excessivo em altas temperaturas e altas velocidades
+Ruído constante em rolamentos em ambientes de alta umidade e cargas variáveis
+Barulho incomum em rolamentos durante operações de longa duração e em compartimentos fechados
+Rolamento emitindo sons anômalos em diferentes condições de carga e regimes de lubrificação
+Ruído audível em rolamentos durante operações com altas temperaturas e regimes de velocidade variáveis
+Barulho recorrente em rolamentos em ambientes corrosivos e altas velocidades
+Rolamento com vibração e ruído excessivo em ambientes de alta umidade e operações com altas cargas
+Ruído constante em rolamentos em altas velocidades e regimes de carga variáveis
+Barulho intermitente em rolamentos durante operações em compartimentos fechados e altas temperaturas
+Rolamento emitindo sons estranhos em diferentes modos de operação e ambientes contaminados
+Ruído anormal em rolamentos durante a desaceleração e frenagem em operações com altas velocidades

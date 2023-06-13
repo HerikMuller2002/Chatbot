@@ -48,3 +48,203 @@ Chicote de corrente desgastado, pendente e desalinhado
 Chicote de corrente mal enrolado, escapando e arrastando
 Chicote de corrente solto, desenganchado e desenrolado
 Chicote de corrente frouxo, desalinhado e mal ajustado
+Desgaste excessivo no chicote de corrente
+Quebra do chicote de corrente
+Folga anormal no chicote de corrente
+Danos visíveis no chicote de corrente
+Desalinhamento do chicote de corrente
+Chicote de corrente desgastado prematuramente
+Chicote de corrente frouxo
+Problemas de tensão no chicote de corrente
+Chicote de corrente preso ou enganchado
+Ruídos ou vibrações anormais no chicote de corrente
+Problemas de lubrificação no chicote de corrente
+Desalinhamento dos elos do chicote de corrente
+Chicote de corrente quebradiço
+Rigidez ou falta de flexibilidade no chicote de corrente
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente solto ou desencaixado
+Desgaste desigual no chicote de corrente
+Chicote de corrente torcido ou dobrado
+Problemas de alinhamento dos pinos do chicote de corrente
+Chicote de corrente desgastado na região dos pinos
+Folga excessiva entre os elos do chicote de corrente
+Problemas de aquecimento no chicote de corrente
+Chicote de corrente com elos quebrados ou deformados
+Problemas de fixação do chicote de corrente na roda dentada
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou oxidação
+Problemas de lubrificação insuficiente no chicote de corrente
+Chicote de corrente com elos esticados ou estreitados
+Problemas de alinhamento do chicote de corrente com a roda dentada
+Chicote de corrente com desgaste nos dentes da roda dentada
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos ou desprendidos
+Problemas de desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido ou emaranhado
+Problemas de lubrificação excessiva ou escassa no chicote de corrente
+Chicote de corrente com elos danificados ou deformados
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou ferrugem
+Problemas de fixação do chicote de corrente na engrenagem
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente com elos esticados ou encurtados
+Problemas de alinhamento do chicote de corrente com a engrenagem
+Chicote de corrente com desgaste nos dentes da engrenagem
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos ou desprendidos
+Problemas de desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido ou emaranhado
+Problemas de lubrificação excessiva ou insuficiente no chicote de corrente
+Chicote de corrente com elos danificados ou deformados
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou oxidação
+Problemas de fixação do chicote de corrente na roda dentada
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente solto ou desencaixado
+Desgaste desigual no chicote de corrente
+Chicote de corrente torcido ou dobrado
+Problemas de alinhamento dos pinos do chicote de corrente
+Chicote de corrente desgastado na região dos pinos
+Folga excessiva entre os elos do chicote de corrente
+Problemas de aquecimento no chicote de corrente
+Chicote de corrente com elos quebrados ou deformados
+Problemas de fixação do chicote de corrente na roda dentada
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou oxidação
+Problemas de lubrificação insuficiente no chicote de corrente
+Chicote de corrente com elos esticados ou estreitados
+Problemas de alinhamento do chicote de corrente com a roda dentada
+Chicote de corrente com desgaste nos dentes da roda dentada
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos ou desprendidos
+Problemas de desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido ou emaranhado
+Problemas de lubrificação excessiva ou escassa no chicote de corrente
+Chicote de corrente com elos danificados ou deformados
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou ferrugem
+Problemas de fixação do chicote de corrente na engrenagem
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente solto ou desencaixado
+Desgaste desigual no chicote de corrente
+Chicote de corrente torcido ou dobrado
+Problemas de alinhamento dos pinos do chicote de corrente
+Chicote de corrente desgastado na região dos pinos
+Problemas de desgaste nas placas do elo da corrente
+Chicote de corrente com desgaste nas laterais dos elos
+Desalinhamento do chicote de corrente
+Chicote de corrente com articulações rígidas
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos
+Desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de lubrificação no chicote de corrente
+Chicote de corrente com elos danificados
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido
+Problemas de fixação do chicote de corrente
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de aquecimento no chicote de corrente
+Chicote de corrente com elos quebrados
+Problemas de fixação do chicote de corrente na roda dentada
+Chicote de corrente com corrosão
+Desalinhamento do chicote de corrente com a engrenagem
+Chicote de corrente com desgaste nos dentes da roda dentada
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos desprendidos
+Desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente emaranhado
+Problemas de lubrificação no chicote de corrente
+Chicote de corrente com elos deformados
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou oxidação
+Desalinhamento do chicote de corrente com a roda dentada
+Chicote de corrente com desgaste nos dentes da engrenagem
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos ou desprendidos
+Desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido ou emaranhado
+Problemas de lubrificação excessiva ou insuficiente no chicote de corrente
+Chicote de corrente com elos danificados ou deformados
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou ferrugem
+Desalinhamento do chicote de corrente com a engrenagem
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente solto ou desencaixado
+Desgaste desigual no chicote de corrente
+Chicote de corrente torcido ou dobrado
+Problemas de alinhamento dos pinos do chicote de corrente
+Chicote de corrente desgastado na região dos pinos
+Problemas de desgaste nas placas do elo da corrente
+Chicote de corrente com desgaste nas laterais dos elos
+Desalinhamento do chicote de corrente
+Chicote de corrente com articulações rígidas
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos
+Desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de lubrificação no chicote de corrente
+Chicote de corrente com elos danificados
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido
+Problemas de fixação do chicote de corrente
+Chicote de corrente com desgaste nos rolos ou buchas
+Problemas de aquecimento no chicote de corrente
+Chicote de corrente com elos quebrados
+Problemas de fixação do chicote de corrente na roda dentada
+Chicote de corrente com corrosão
+Desalinhamento do chicote de corrente com a engrenagem
+Chicote de corrente com desgaste nos dentes da roda dentada
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos desprendidos
+Desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente emaranhado
+Problemas de lubrificação no chicote de corrente
+Chicote de corrente com elos deformados
+Problemas de tensão inadequada no chicote de corrente
+Chicote de corrente com corrosão ou oxidação
+Desalinhamento do chicote de corrente com a roda dentada
+Chicote de corrente com desgaste nos dentes da engrenagem
+Problemas de tensão excessiva no chicote de corrente
+Chicote de corrente com elos soltos ou desprendidos
+Desgaste prematuro no chicote de corrente
+Chicote de corrente com folga nas laterais dos elos
+Problemas de tensão desigual no chicote de corrente
+Chicote de corrente preso ou enganchado nas guias
+Desgaste irregular no chicote de corrente
+Chicote de corrente torcido ou emaranhado

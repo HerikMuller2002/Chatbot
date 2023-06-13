@@ -48,3 +48,203 @@ Sistema de óleo lubrificante operando com pressão aumentada
 Problemas de viscosidade devido à alta pressão no sistema de lubrificação de óleo
 Pressão do sistema de óleo acima dos valores recomendados
 Sistema de óleo lubrificante com pressão elevada
+Pressão excessiva no sistema de óleo lubrificante.
+Nível de pressão acima do limite recomendado.
+Pressão do óleo muito alta.
+Problema com a pressão no sistema de lubrificação.
+Sistema de óleo lubrificante com pressão elevada.
+Excesso de pressão no sistema de lubrificação.
+Pressão anormalmente alta no sistema de lubrificação.
+Problemas relacionados à pressão no sistema de óleo lubrificante.
+Pressão demasiada no sistema de lubrificação.
+Pressão do óleo acima do normal.
+Falha devido à pressão excessiva no sistema de óleo lubrificante.
+Aumento repentino da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Leitura de pressão muito alta no sistema de lubrificação.
+Pressão fora dos parâmetros aceitáveis no sistema de óleo lubrificante.
+Problema devido à pressão elevada no sistema de lubrificação.
+Pressão excessiva comprometendo o sistema de óleo lubrificante.
+A pressão do óleo está muito alta.
+Excesso de pressão afetando o sistema de lubrificação.
+Pressão não está dentro dos limites recomendados no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação.
+Leitura de pressão acima do normal no sistema de óleo lubrificante.
+Pressão demasiadamente alta no sistema de óleo lubrificante.
+Problemas decorrentes da pressão excessiva no sistema de lubrificação.
+Pressão anormalmente elevada no sistema de lubrificação de óleo.
+Sistema de óleo lubrificante operando com pressão muito alta.
+Pressão do óleo fora dos padrões recomendados.
+Aumento súbito da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo lubrificante.
+Pressão no sistema de óleo está além do normal.
+Pressão elevada comprometendo a eficiência do sistema de lubrificação.
+Leitura de pressão muito alta no sistema de óleo lubrificante.
+Pressão acima dos parâmetros aceitáveis no sistema de óleo lubrificante.
+Problemas causados por pressão excessiva no sistema de lubrificação.
+Pressão anormalmente alta afetando o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão muito alta.
+Pressão do óleo além do recomendado.
+Excesso de pressão impactando o sistema de lubrificação.
+Pressão não está dentro dos limites adequados no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão acima do normal no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas decorrentes da pressão excessiva no sistema de lubrificação de óleo.
+Pressão anormalmente elevada no sistema de óleo lubrificante.
+Sistema de óleo lubrificante com pressão demasiada.
+Pressão do óleo excede os padrões recomendados.
+Aumento abrupto da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante acima do normal.
+Pressão elevada comprometendo o desempenho do sistema de lubrificação.
+Leitura de pressão excessiva no sistema de óleo lubrificante.
+Pressão além dos limites aceitáveis no sistema de óleo lubrificante.
+Problemas causados pela pressão anormalmente alta no sistema de lubrificação.
+Pressão elevada prejudicando o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão muito elevada.
+Pressão do óleo está além do valor recomendado.
+Excesso de pressão afetando o sistema de lubrificação.
+Pressão inadequada no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão fora do normal no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas relacionados à pressão excessiva no sistema de lubrificação de óleo.
+Pressão anormalmente alta impactando o sistema de óleo lubrificante.
+Sistema de óleo lubrificante com pressão elevada.
+Pressão do óleo excedendo as especificações recomendadas.
+Aumento repentino da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante está acima do normal.
+Pressão elevada afetando o funcionamento do sistema de lubrificação.
+Leitura de pressão demasiadamente alta no sistema de óleo lubrificante.
+Pressão além dos limites aceitáveis no sistema de óleo lubrificante.
+Problemas causados por pressão excessiva no sistema de lubrificação de óleo.
+Pressão anormalmente elevada comprometendo o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão demasiada.
+Pressão do óleo superior ao recomendado.
+Excesso de pressão impactando o sistema de lubrificação.
+Pressão fora dos limites adequados no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão anormalmente alta no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas decorrentes da pressão excessiva no sistema de lubrificação.
+Pressão anormalmente alta no sistema de óleo lubrificante.
+Sistema de óleo lubrificante com pressão acima do normal.
+Pressão do óleo além dos valores recomendados.
+Aumento abrupto da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante acima do limite aceitável.
+Pressão elevada comprometendo a eficácia do sistema de lubrificação.
+Leitura de pressão excessiva no sistema de óleo lubrificante.
+Pressão além dos parâmetros aceitáveis no sistema de óleo lubrificante.
+Problemas causados pela pressão anormalmente alta no sistema de lubrificação.
+Pressão elevada prejudicando o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão muito alta.
+Pressão do óleo superior ao recomendado.
+Excesso de pressão afetando o sistema de lubrificação.
+Pressão inadequada no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão fora do normal no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas relacionados à pressão excessiva no sistema de lubrificação de óleo.
+Excesso de pressão no sistema de óleo lubrificante.
+Pressão além dos limites recomendados.
+Problema devido à pressão alta no sistema de lubrificação.
+Pressão anormal no sistema de óleo lubrificante.
+Sistema de óleo lubrificante operando com pressão elevada.
+Pressão do óleo acima do valor normal.
+Leitura de pressão muito alta no sistema de lubrificação.
+Pressão excedendo os limites aceitáveis no sistema de óleo lubrificante.
+Problemas relacionados à pressão excessiva no sistema de lubrificação.
+Pressão anormalmente alta afetando o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está com pressão muito alta.
+Pressão do óleo superior ao limite recomendado.
+Excesso de pressão comprometendo o sistema de lubrificação.
+Pressão fora dos parâmetros adequados no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão anormalmente alta no sistema de óleo lubrificante.
+Pressão excessiva no sistema de óleo lubrificante.
+Pressão do óleo além do limite aceitável.
+Problemas decorrentes da pressão alta no sistema de lubrificação de óleo.
+Pressão anormalmente elevada no sistema de lubrificação de óleo.
+Sistema de óleo lubrificante com pressão demasiada.
+Pressão do óleo acima dos padrões recomendados.
+Aumento repentino da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante acima do normal.
+Pressão elevada prejudicando o sistema de lubrificação.
+Leitura de pressão excessiva no sistema de óleo lubrificante.
+Pressão além dos valores aceitáveis no sistema de óleo lubrificante.
+Problemas causados pela pressão alta no sistema de lubrificação de óleo.
+Pressão elevada comprometendo o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão muito elevada.
+Pressão do óleo superior ao recomendado.
+Excesso de pressão afetando o sistema de lubrificação.
+Pressão inadequada no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão fora do normal no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas decorrentes da pressão excessiva no sistema de lubrificação.
+Pressão anormalmente alta no sistema de óleo lubrificante.
+Sistema de óleo lubrificante com pressão acima do normal.
+Pressão do óleo excede os padrões recomendados.
+Aumento abrupto da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante acima do normal.
+Pressão elevada comprometendo o desempenho do sistema de lubrificação.
+Leitura de pressão excessiva no sistema de óleo lubrificante.
+Pressão além dos limites aceitáveis no sistema de óleo lubrificante.
+Problemas causados pela pressão anormalmente alta no sistema de lubrificação.
+Pressão elevada prejudicando o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão muito elevada.
+Pressão do óleo excedendo as especificações recomendadas.
+Aumento repentino da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante está acima do normal.
+Pressão elevada afetando o funcionamento do sistema de lubrificação.
+Leitura de pressão demasiadamente alta no sistema de óleo lubrificante.
+Pressão além dos limites aceitáveis no sistema de óleo lubrificante.
+Problemas causados por pressão excessiva no sistema de lubrificação de óleo.
+Pressão anormalmente elevada comprometendo o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão demasiada.
+Pressão do óleo superior ao recomendado.
+Excesso de pressão impactando o sistema de lubrificação.
+Pressão fora dos limites adequados no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão anormalmente alta no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas decorrentes da pressão excessiva no sistema de lubrificação.
+Pressão anormalmente alta no sistema de óleo lubrificante.
+Sistema de óleo lubrificante com pressão elevada.
+Pressão do óleo excede os padrões recomendados.
+Aumento abrupto da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.
+Pressão no sistema de óleo lubrificante acima do normal.
+Pressão elevada comprometendo o desempenho do sistema de lubrificação.
+Leitura de pressão excessiva no sistema de óleo lubrificante.
+Pressão além dos limites aceitáveis no sistema de óleo lubrificante.
+Problemas causados pela pressão anormalmente alta no sistema de lubrificação.
+Pressão elevada prejudicando o sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão muito elevada.
+Pressão do óleo excedendo as especificações recomendadas.
+Excesso de pressão afetando o sistema de lubrificação.
+Pressão no sistema de óleo lubrificante está acima do normal.
+Pressão elevada comprometendo o funcionamento do sistema de lubrificação.
+Leitura de pressão demasiadamente alta no sistema de óleo lubrificante.
+Pressão além dos limites aceitáveis no sistema de óleo lubrificante.
+Problemas causados por pressão excessiva no sistema de lubrificação de óleo.
+Pressão anormalmente elevada no sistema de óleo lubrificante.
+O sistema de óleo lubrificante está operando com pressão demasiada.
+Pressão do óleo superior ao recomendado.
+Excesso de pressão impactando o sistema de lubrificação.
+Pressão fora dos limites adequados no sistema de óleo lubrificante.
+Aumento anormal da pressão no sistema de lubrificação de óleo.
+Leitura de pressão anormalmente alta no sistema de óleo lubrificante.
+Pressão muito alta no sistema de óleo lubrificante.
+Problemas decorrentes da pressão excessiva no sistema de lubrificação.
+Pressão anormalmente alta no sistema de óleo lubrificante.
+Sistema de óleo lubrificante com pressão elevada.
+Pressão do óleo excede os valores recomendados.
+Aumento abrupto da pressão no sistema de lubrificação.
+Excesso de pressão no sistema de lubrificação de óleo.

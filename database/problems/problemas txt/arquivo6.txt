@@ -48,3 +48,203 @@ Problema de potência excessiva do motor na temperatura de operação recomendad
 Consumo de energia acima do normal pelo motor durante a temperatura nominal
 O motor está operando com uma carga elétrica acima do recomendado para a temperatura nominal
 Excesso de demanda de potência do motor na temperatura nominal
+Motor consumindo energia em excesso durante operação normal.
+Potência do motor excedendo os limites estabelecidos na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em temperatura normal.
+Sobrecarga de potência no motor durante a operação em temperatura nominal.
+Excesso de consumo de energia do motor quando a bomba atinge a temperatura normal.
+Potência do motor ultrapassando os valores esperados na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba em temperatura de operação.
+Motor da bomba usando mais potência do que o necessário na temperatura nominal.
+Potência do motor excedendo os limites aceitáveis durante a operação em temperatura normal.
+Consumo anormalmente alto de energia pelo motor da bomba na temperatura nominal.
+Motor operando com potência acima do esperado na temperatura nominal.
+Excesso de consumo de energia do motor quando a bomba está na temperatura de trabalho.
+Potência do motor ultrapassando os valores recomendados na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba utilizando mais potência do que o especificado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em sua temperatura normal.
+Excesso de consumo de energia do motor quando a bomba está operando em temperatura normal.
+Potência do motor excedendo os limites permitidos na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba durante a operação em temperatura de referência.
+Motor da bomba utilizando potência acima do necessário na temperatura nominal.
+Potência do motor superior aos valores padrão na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura nominal.
+Motor operando com potência além do esperado quando a bomba está na temperatura normal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de trabalho.
+Potência do motor ultrapassando os limites estabelecidos na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor da bomba utilizando mais potência do que o recomendado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de referência.
+Excesso de consumo de energia do motor quando a bomba atinge sua temperatura nominal.
+Potência do motor excedendo os valores esperados durante a operação em temperatura normal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura de trabalho.
+Motor da bomba usando potência acima do necessário na temperatura nominal.
+Potência do motor superior aos valores aceitáveis na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em temperatura de operação.
+Motor operando com potência além do especificado na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de referência.
+Potência do motor ultrapassando os limites permitidos na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura nominal.
+Motor da bomba utilizando mais potência do que o padrão na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+Excesso de consumo de energia do motor quando a bomba está operando em temperatura normal.
+Potência do motor excedendo os valores recomendados na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba usando potência acima do esperado na temperatura nominal.
+Potência do motor superior aos limites estabelecidos na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura de operação.
+Motor operando com potência além do recomendado na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em temperatura de trabalho.
+Potência do motor ultrapassando os valores padrão na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de trabalho.
+Motor da bomba utilizando mais potência do que o esperado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em sua temperatura normal.
+Excesso de consumo de energia do motor quando a bomba atinge sua temperatura de referência.
+Potência do motor excedendo os limites aceitáveis na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura nominal.
+Motor da bomba usando potência acima dos valores recomendados na temperatura nominal.
+Potência do motor superior aos limites permitidos na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em temperatura de operação.
+Motor operando com potência além dos valores esperados na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de referência.
+Potência do motor ultrapassando os valores estabelecidos na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor da bomba utilizando mais potência do que o especificado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+Excesso de consumo de energia do motor quando a bomba está operando em temperatura normal.
+Potência do motor excedendo os valores esperados na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba usando potência acima do necessário na temperatura nominal.
+Potência do motor superior aos valores aceitáveis na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura de operação.
+Motor operando com potência além do esperado na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de trabalho.
+Potência do motor ultrapassando os limites permitidos na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura nominal.
+Motor da bomba utilizando mais potência do que o padrão na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de referência.
+Excesso de consumo de energia do motor quando a bomba atinge sua temperatura nominal.
+Potência do motor excedendo os valores recomendados na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura de trabalho.
+Motor da bomba usando potência acima do esperado na temperatura nominal.
+Potência do motor superior aos limites estabelecidos na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em temperatura de operação.
+Motor operando com potência além do recomendado na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de referência.
+Potência do motor ultrapassando os limites aceitáveis na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba utilizando mais potência do que o esperado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em sua temperatura normal.
+Excesso de consumo de energia do motor quando a bomba atinge sua temperatura de trabalho.
+Potência do motor excedendo os valores permitidos na temperatura nominal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura nominal.
+Motor da bomba usando potência acima dos valores recomendados na temperatura nominal.
+Potência do motor superior aos limites permitidos na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em temperatura de operação.
+Motor operando com potência além dos valores esperados na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de referência.
+Potência do motor ultrapassando os valores estabelecidos na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor da bomba utilizando mais potência do que o especificado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+O motor da bomba está consumindo mais energia do que o normal na temperatura de referência.
+Excesso de potência no motor durante a operação em temperatura nominal.
+Consumo elevado de energia pelo motor da bomba quando operando na temperatura padrão.
+Potência do motor da bomba excedendo os limites recomendados na temperatura nominal.
+Motor utilizando mais potência do que o esperado na temperatura de trabalho.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura nominal.
+Potência do motor ultrapassando os valores aceitáveis durante a operação em temperatura nominal.
+O motor da bomba está excedendo a potência nominal durante o funcionamento em temperatura normal.
+Consumo excessivo de energia pelo motor quando a bomba está operando em temperatura de trabalho.
+Potência do motor superior aos limites estabelecidos durante a operação em temperatura nominal.
+Motor da bomba utilizando potência excessiva na temperatura de referência.
+Excesso de consumo de energia do motor durante a operação na temperatura nominal.
+Potência do motor ultrapassando os valores recomendados durante o funcionamento em temperatura normal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de referência.
+Motor operando com potência além do especificado na temperatura nominal.
+Excesso de potência no motor quando a bomba está operando em temperatura de trabalho.
+Potência do motor excedendo os limites permitidos durante a operação em temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba na temperatura de trabalho.
+Motor da bomba usando mais potência do que o padrão na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em sua temperatura de referência.
+Excesso de consumo de energia do motor quando a bomba atinge a temperatura nominal.
+Potência do motor ultrapassando os valores esperados durante o funcionamento em temperatura normal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura nominal.
+Motor da bomba operando com potência acima dos valores recomendados na temperatura nominal.
+Potência do motor superior aos limites aceitáveis na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor utilizando mais potência do que o especificado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+Excesso de consumo de energia do motor quando a bomba está em temperatura normal.
+Potência do motor excedendo os valores permitidos na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba usando potência além do esperado na temperatura nominal.
+Consumo excessivo de energia pelo motor quando a bomba atinge sua temperatura de trabalho.
+Potência do motor ultrapassando os limites estabelecidos na temperatura nominal.
+Motor operando com potência acima do recomendado na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de referência.
+Potência do motor da bomba ultrapassando os valores recomendados na temperatura normal.
+Consumo elevado de energia pelo motor em sua temperatura nominal.
+Motor da bomba utilizando mais potência do que o esperado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+Excesso de consumo de energia do motor quando a bomba está operando em sua temperatura de referência.
+Potência do motor excedendo os valores aceitáveis durante a operação em temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura de trabalho.
+Motor operando com potência além dos limites permitidos na temperatura nominal.
+Potência do motor superior aos valores estabelecidos durante o funcionamento em temperatura normal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba usando potência acima do especificado na temperatura nominal.
+Excesso de potência no motor quando a bomba está em temperatura de trabalho.
+Potência do motor ultrapassando os limites esperados durante a operação em temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor utilizando mais potência do que o padrão na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em sua temperatura de referência.
+Excesso de consumo de energia do motor quando a bomba atinge a temperatura de trabalho.
+Potência do motor excedendo os valores recomendados durante o funcionamento em temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura nominal.
+Motor operando com potência além do especificado na temperatura nominal.
+Excesso de potência no motor durante a operação em temperatura de trabalho.
+Consumo elevado de energia pelo motor da bomba quando operando na temperatura de referência.
+Potência do motor ultrapassando os valores aceitáveis na temperatura nominal.
+Motor da bomba utilizando potência excessiva na temperatura de trabalho.
+Excesso de consumo de energia do motor durante a operação em temperatura nominal.
+Potência do motor ultrapassando os valores recomendados na temperatura normal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de referência.
+Motor operando com potência além do esperado na temperatura nominal.
+Excesso de potência no motor quando a bomba está operando em temperatura de trabalho.
+Potência do motor excedendo os limites permitidos durante a operação em temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba na temperatura de trabalho.
+Motor da bomba usando mais potência do que o padrão na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em sua temperatura de referência.
+Excesso de consumo de energia do motor quando a bomba atinge a temperatura nominal.
+Potência do motor ultrapassando os valores esperados durante o funcionamento em temperatura normal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura nominal.
+Motor da bomba operando com potência acima dos valores recomendados na temperatura nominal.
+Potência do motor superior aos limites aceitáveis na temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor utilizando mais potência do que o especificado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+Excesso de consumo de energia do motor quando a bomba está em temperatura normal.
+Potência do motor excedendo os valores permitidos na temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba usando potência além do esperado na temperatura nominal.
+Consumo excessivo de energia pelo motor quando a bomba atinge sua temperatura de trabalho.
+Potência do motor ultrapassando os limites estabelecidos na temperatura nominal.
+Motor operando com potência acima do recomendado na temperatura nominal.
+Excesso de consumo de energia do motor durante a operação em sua temperatura de referência.
+Potência do motor da bomba ultrapassando os valores recomendados na temperatura normal.
+Consumo elevado de energia pelo motor em sua temperatura nominal.
+Motor da bomba utilizando mais potência do que o esperado na temperatura nominal.
+Sobrecarga de potência no motor durante a operação em temperatura de trabalho.
+Excesso de consumo de energia do motor quando a bomba está operando em sua temperatura de referência.
+Potência do motor excedendo os valores aceitáveis durante a operação em temperatura nominal.
+Consumo anormalmente alto de energia pelo motor da bomba em sua temperatura de trabalho.
+Motor operando com potência além dos limites permitidos na temperatura nominal.
+Potência do motor superior aos valores estabelecidos durante o funcionamento em temperatura normal.
+Consumo excessivo de energia pelo motor da bomba em sua temperatura de referência.
+Motor da bomba usando potência acima do especificado na temperatura nominal.
+Excesso de potência no motor quando a bomba está em temperatura de trabalho.
+Potência do motor ultrapassando os limites esperados durante a operação em temperatura nominal.
+Consumo elevado de energia pelo motor da bomba em sua temperatura de operação.
+Motor utilizando mais potência do que o padrão na temperatura nominal.

@@ -48,3 +48,252 @@ Eixo emperrado nos rolamentos devido à acumulação de sujeira ou resíduos
 Problema de funcionamento do eixo nos rolamentos que requer força adicional para rotação manual
 Eixo com dificuldade de rotação devido a danos ou desgaste excessivo nos rolamentos
 Dificuldade em fazer o eixo girar com as mãos devido à presença de elementos estranhos nos rolamentos
+Eixo emperrado
+
+Dificuldade de movimentação do eixo
+
+Eixo travado
+
+Eixo com resistência excessiva
+
+Eixo com atrito elevado
+
+Problema de giro do eixo
+
+Eixo com movimentação restrita
+
+Dificuldade de girar o eixo manualmente
+
+Eixo com rotação rígida
+
+Eixo emperrado e difícil de manusear
+
+Eixo com rigidez ao movimento manual
+
+Falta de suavidade no giro do eixo
+
+Dificuldade em girar o eixo com a mão
+
+Eixo com dificuldade de rotação manual
+
+Resistência anormal no movimento do eixo
+
+Eixo que requer força excessiva para girar
+
+Eixo com rotação pesada
+
+Eixo de difícil manipulação manual
+
+Eixo com movimento emperrado
+
+Dificuldade em virar o eixo manualmente
+
+Eixo que não gira facilmente com a mão
+
+Eixo com dificuldade de rotação suave
+
+Eixo com esforço necessário para movimentação
+
+Problema de mobilidade do eixo
+
+Eixo com dificuldade de ser girado manualmente
+
+Eixo com movimento engasgado
+
+Eixo de rotação com resistência aumentada
+
+Dificuldade em movimentar o eixo com a mão
+
+Eixo com fricção elevada durante o giro manual
+
+Eixo com rotação travada
+
+Eixo com dificuldade de ser manipulado manualmente
+
+Dificuldade em girar o eixo com leveza
+
+Eixo com movimento rígido e pesado
+
+Eixo com dificuldade de rotação fácil
+
+Dificuldade em fazer o eixo girar manualmente
+
+Eixo com resistência excessiva ao toque
+
+Eixo com dificuldade em ser girado à mão
+
+Problema de suavidade no giro do eixo
+
+Eixo que não desliza facilmente
+
+Dificuldade em movimentar o eixo de forma manual
+
+Eixo com movimentação áspera e dura
+
+Eixo com dificuldade de rotação sem esforço
+
+Dificuldade em girar o eixo de maneira suave
+
+Eixo com restrição no movimento manual
+
+Eixo que exige força adicional para ser girado
+
+Eixo com dificuldade de movimentação manual
+
+Dificuldade em girar o eixo com facilidade
+
+Eixo com resistência ao giro com a mão
+
+Eixo com dificuldade em ser virado manualmente
+
+Problema de deslizamento suave do eixo
+
+Eixo com movimento preso
+
+Dificuldade em movimentar o eixo de forma livre
+
+Eixo com rigidez ao ser girado manualmente
+
+Eixo com rotação dura e complicada
+
+Dificuldade em girar o eixo sem esforço
+
+Eixo com resistência excessiva ao movimento manual
+
+Eixo que não desliza com suavidade
+
+Eixo com dificuldade em ser virado sem problemas
+
+Dificuldade em fazer o eixo deslizar com facilidade
+
+Eixo com movimento restrito e difícil
+
+Eixo com resistência elevada durante o giro manual
+
+Eixo com dificuldade de rotação sem obstáculos
+
+Dificuldade em movimentar o eixo com leveza
+
+Eixo com travamento ao ser girado manualmente
+
+Eixo com movimento áspero e pesado
+
+Eixo com dificuldade em ser girado suavemente
+
+Dificuldade em fazer o eixo girar sem esforço
+
+Eixo com resistência ao toque durante o giro
+
+Eixo com dificuldade em ser movido manualmente
+
+Eixo que requer força adicional para rotação
+
+Dificuldade em girar o eixo com suavidade
+
+Eixo com movimentação engasgada e restrita
+
+Eixo com dificuldade de rotação fácil e livre
+
+Dificuldade em movimentar o eixo de maneira fluída
+
+Eixo com resistência excessiva ao ser girado com a mão
+
+Eixo com dificuldade em ser virado sem restrições
+
+Problema de deslizamento do eixo durante a rotação manual
+
+Dificuldade em fazer o eixo deslizar suavemente
+
+Eixo com movimento preso e limitado
+
+Eixo com resistência aumentada durante o giro manual
+
+Eixo com dificuldade em ser movimentado manualmente
+
+Dificuldade em girar o eixo sem esforço excessivo
+
+Eixo com rigidez e dificuldade de rotação manual
+
+Eixo com rotação dura e limitada
+
+Dificuldade em movimentar o eixo de forma desimpedida
+
+Eixo com travamento e dificuldade em girar manualmente
+
+Eixo com movimento áspero e restrito
+
+Eixo com dificuldade em ser girado sem obstáculos
+
+Dificuldade em fazer o eixo girar sem esforço adicional
+
+Eixo com resistência ao toque durante o movimento manual
+
+Eixo com dificuldade em ser girado sem restrições
+
+Problema de deslizamento suave do eixo durante a rotação
+
+Dificuldade em fazer o eixo deslizar com fluidez
+
+Eixo com movimento preso e difícil de ser manipulado
+
+Eixo com resistência elevada durante a rotação manual
+
+Eixo com dificuldade em ser movido manualmente sem esforço
+
+Dificuldade em girar o eixo com leveza e suavidade
+
+Eixo com rigidez e dificuldade de rotação sem obstáculos
+
+Eixo com rotação dura e com restrições
+
+Dificuldade em movimentar o eixo sem obstáculos.
+Eixo emperrado e de difícil movimentação manual
+Dificuldade em realizar rotação manual do eixo
+Eixo que requer esforço excessivo para girar manualmente
+Eixo com movimento pesado e com resistência ao toque
+Eixo que não gira suavemente ao ser manipulado com a mão
+Problema de giro manual travado no eixo
+Dificuldade em movimentar o eixo de forma livre e fácil
+Eixo com atrito e rigidez durante a rotação manual
+Eixo com movimento duro e engasgado ao ser girado com a mão
+Dificuldade em realizar a rotação manual sem travamentos
+Eixo com resistência excessiva ao tentar girar manualmente
+Eixo que não desliza suavemente ao ser manipulado manualmente
+Problema de giro manual restrito e com esforço no eixo
+Dificuldade em mover o eixo de maneira fluida e sem impedimentos
+Eixo com rotação rígida e de difícil manipulação manual
+Eixo que apresenta atrito e dificuldade de giro com a mão
+Dificuldade em realizar movimentação manual sem esforço no eixo
+Eixo com resistência ao toque e travamento durante a rotação manual
+Eixo que não desliza facilmente ao ser girado com a mão
+Problema de giro manual com restrições e esforço no eixo
+Dificuldade em movimentar o eixo de forma suave e sem obstáculos
+Eixo com movimentação dura e com resistência ao ser manipulado manualmente
+Eixo com rotação difícil e emperrada ao ser girado com a mão
+Dificuldade em realizar a rotação manual sem restrições no eixo
+Eixo que requer força adicional para girar manualmente sem problemas
+Eixo que não desliza com fluidez e suavidade ao ser manipulado manualmente
+Problema de giro manual com movimentação limitada e esforço no eixo
+Dificuldade em mover o eixo de forma desimpedida e sem esforço
+Eixo com resistência ao toque e rigidez durante a rotação manual
+Eixo que não desliza facilmente e apresenta dificuldade de giro com a mão
+Dificuldade em realizar movimentação manual sem obstáculos no eixo
+Eixo com movimento duro e com resistência ao ser manipulado manualmente
+Eixo com rotação engasgada e de difícil movimentação manual
+Dificuldade em realizar a rotação manual sem esforço adicional no eixo
+Eixo que não desliza suavemente e apresenta restrições ao ser girado com a mão
+Problema de giro manual com movimentação presa e esforço no eixo
+Dificuldade em movimentar o eixo de forma fluida e sem rigidez
+Eixo com resistência ao toque e travamento durante a rotação manual
+Eixo que não desliza facilmente e apresenta rigidez ao ser manipulado manualmente
+Dificuldade em realizar movimentação manual sem restrições no giro do eixo
+Eixo com movimento pesado e com dificuldade de rotação manual
+Eixo que requer esforço adicional para girar com a mão sem problemas
+Dificuldade em realizar a rotação manual sem travamentos no eixo
+Eixo que não desliza suavemente ao ser manipulado manualmente
+Problema de giro manual restrito e com rigidez no movimento do eixo
+Dificuldade em movimentar o eixo de forma livre e sem obstáculos
+Eixo com atrito e dificuldade de rotação ao ser girado com a mão
+Eixo que apresenta resistência ao toque e rigidez durante a movimentação manual
+Dificuldade em realizar a rotação manual sem esforço adicional no eixo
+Eixo que não desliza facilmente e requer força para ser manipulado com a mão

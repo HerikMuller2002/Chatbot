@@ -48,3 +48,401 @@ A bomba está desencadeando o acionamento repetitivo do relé de proteção do m
 Problema de acionamento intermitente do relé de proteção pelo motor da bomba
 O relé de proteção do motor é ativado em situações inesperadas pela bomba
 A bomba está causando o acionamento indesejado e contínuo do relé de proteção do motor
+Relé de proteção do motor ativado pela bomba.
+
+Relé de proteção acionado quando a bomba opera.
+
+Acionamento do relé de proteção pelo funcionamento da bomba.
+
+Problemas com o relé de proteção quando a bomba é ligada.
+
+Relé de proteção do motor sendo acionado pela bomba.
+
+Ativação do relé de proteção devido ao funcionamento da bomba.
+
+Desarme do motor devido ao acionamento do relé de proteção pela bomba.
+
+Relé de proteção sendo ativado sempre que a bomba é ligada.
+
+Problemas com o acionamento do relé de proteção durante o funcionamento da bomba.
+
+O relé de proteção do motor dispara quando a bomba é acionada.
+
+Desativação do motor causada pelo acionamento do relé de proteção pela bomba.
+
+Relé de proteção sendo ativado pela bomba, desligando o motor.
+
+Acionamento indesejado do relé de proteção devido à operação da bomba.
+
+Problemas com o relé de proteção que é acionado toda vez que a bomba inicia.
+
+O relé de proteção do motor é disparado pela bomba durante o seu funcionamento.
+
+Acionamento incorreto do relé de proteção causado pela bomba.
+
+O relé de proteção do motor é acionado de forma indevida pela bomba.
+
+Problemas com o relé de proteção que é ativado quando a bomba é ligada.
+
+Relé de proteção do motor sendo acionado constantemente pela bomba.
+
+O relé de proteção dispara toda vez que a bomba é acionada.
+
+Acionamento do relé de proteção pelo funcionamento contínuo da bomba.
+
+Problemas com o relé de proteção que é acionado repetidamente durante o funcionamento da bomba.
+
+Relé de proteção do motor sendo ativado pela bomba em operação.
+
+O relé de proteção é acionado pela bomba, causando o desligamento do motor.
+
+Falhas no relé de proteção quando a bomba está em funcionamento.
+
+O relé de proteção é ativado pela bomba, interrompendo o funcionamento do motor.
+
+Problemas com o acionamento incorreto do relé de proteção devido à bomba.
+
+Acionamento indesejado do relé de proteção durante a operação da bomba.
+
+O relé de proteção do motor é disparado pela bomba, causando desligamentos frequentes.
+
+Relé de proteção sendo ativado toda vez que a bomba é ligada, prejudicando o funcionamento do motor.
+
+Acionamento do relé de proteção pela bomba, resultando em falhas no motor.
+
+Problemas com o relé de proteção que é acionado de forma incorreta pela bomba.
+
+Relé de proteção do motor sendo ativado pela bomba, mesmo em condições normais.
+
+O relé de proteção é acionado de maneira inapropriada pela bomba durante a sua operação.
+
+Falhas no relé de proteção causadas pelo acionamento da bomba.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, prejudicando o desempenho do motor.
+
+Problemas com o acionamento do relé de proteção devido à ativação da bomba.
+
+Acionamento indesejado do relé de proteção quando a bomba está em uso.
+
+O relé de proteção do motor é disparado pela bomba, causando paradas frequentes.
+
+Relé de proteção sendo ativado sempre que a bomba é acionada, interrompendo o funcionamento do motor.
+
+Acionamento do relé de proteção devido ao mau funcionamento da bomba.
+
+Problemas com o relé de proteção que é acionado indevidamente pela bomba.
+
+Relé de proteção do motor sendo ativado pela bomba durante o seu funcionamento normal.
+
+O relé de proteção é acionado pela bomba, desligando o motor de forma inesperada.
+
+Falhas no relé de proteção quando a bomba está em operação contínua.
+
+O relé de proteção é ativado pela bomba, resultando em desligamentos frequentes do motor.
+
+Problemas com o acionamento equivocado do relé de proteção causado pela bomba.
+
+Acionamento indesejado do relé de proteção durante o funcionamento normal da bomba.
+
+O relé de proteção do motor é disparado pela bomba, prejudicando a operação adequada.
+
+Relé de proteção sendo ativado repetidamente toda vez que a bomba é ligada.
+
+Acionamento do relé de proteção pela bomba, afetando o desempenho do motor.
+
+Problemas com o relé de proteção que é acionado de forma incorreta devido à bomba.
+
+Relé de proteção do motor sendo ativado pela bomba, mesmo em condições de operação normais.
+
+O relé de proteção é acionado indevidamente pela bomba, causando falhas no motor.
+
+Falhas no relé de proteção devido ao acionamento da bomba.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, impactando o funcionamento adequado do motor.
+
+Problemas com o acionamento inadequado do relé de proteção durante a ativação da bomba.
+
+Acionamento indesejado do relé de proteção durante a operação normal da bomba.
+
+O relé de proteção do motor é disparado pela bomba, causando interrupções frequentes.
+
+Relé de proteção sendo ativado toda vez que a bomba é acionada, prejudicando o desempenho do motor.
+
+Acionamento do relé de proteção devido a problemas na bomba.
+
+Problemas com o relé de proteção que é acionado indevidamente pela bomba em uso.
+
+Relé de proteção do motor sendo ativado pela bomba mesmo quando não há necessidade.
+
+O relé de proteção é acionado pela bomba, desligando o motor de maneira inesperada.
+
+Falhas no relé de proteção durante a operação da bomba.
+
+O relé de proteção é ativado pela bomba, resultando em paradas frequentes do motor.
+
+Problemas com o acionamento errôneo do relé de proteção causado pela bomba.
+
+Acionamento indesejado do relé de proteção durante o funcionamento regular da bomba.
+
+O relé de proteção do motor é disparado pela bomba, prejudicando a operação normal.
+
+Relé de proteção sendo ativado repetidamente quando a bomba é ligada.
+
+Acionamento do relé de proteção pela bomba, afetando o desempenho do motor.
+
+Problemas com o relé de proteção que é acionado de maneira incorreta devido à bomba.
+
+Relé de proteção do motor sendo ativado pela bomba, mesmo em condições normais de operação.
+
+O relé de proteção é acionado indevidamente pela bomba, causando falhas no motor.
+
+Falhas no relé de proteção devido ao acionamento da bomba.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, impactando o funcionamento adequado do motor.
+
+Problemas com o acionamento inadequado do relé de proteção durante a operação da bomba.
+
+Acionamento indesejado do relé de proteção durante o funcionamento normal da bomba.
+
+O relé de proteção do motor é disparado pela bomba, causando interrupções frequentes.
+
+Relé de proteção sendo ativado toda vez que a bomba é acionada, prejudicando o desempenho do motor.
+
+Acionamento do relé de proteção devido a problemas na bomba.
+
+Problemas com o relé de proteção que é acionado indevidamente pela bomba em uso.
+
+Relé de proteção do motor sendo ativado pela bomba mesmo quando não há necessidade.
+
+O relé de proteção é acionado pela bomba, desligando o motor de maneira inesperada.
+
+Falhas no relé de proteção durante a operação da bomba.
+
+O relé de proteção é ativado pela bomba, resultando em paradas frequentes do motor.
+
+Problemas com o acionamento errôneo do relé de proteção causado pela bomba.
+
+Acionamento indesejado do relé de proteção durante o funcionamento regular da bomba.
+
+O relé de proteção do motor é disparado pela bomba, prejudicando a operação normal.
+
+Relé de proteção sendo ativado repetidamente quando a bomba é ligada.
+
+Acionamento do relé de proteção pela bomba, afetando o desempenho do motor.
+
+Problemas com o relé de proteção que é acionado de maneira incorreta devido à bomba.
+
+Relé de proteção do motor sendo ativado pela bomba, mesmo em condições normais de operação.
+
+O relé de proteção é acionado indevidamente pela bomba, causando falhas no motor.
+
+Falhas no relé de proteção devido ao acionamento da bomba.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, impactando o funcionamento adequado do motor.
+
+Problemas com o acionamento inadequado do relé de proteção durante a operação da bomba.
+
+Acionamento indesejado do relé de proteção durante o funcionamento normal da bomba.
+
+O relé de proteção do motor é disparado pela bomba, causando interrupções frequentes.
+
+Relé de proteção sendo ativado toda vez que a bomba é acionada, prejudicando o desempenho do motor.
+O relé de proteção está sendo acionado incorretamente pela bomba.
+
+Problemas com o acionamento do relé de proteção quando a bomba é ligada.
+
+O relé de proteção é ativado toda vez que a bomba é acionada, causando interrupções no motor.
+
+A bomba está acionando indevidamente o relé de proteção do motor.
+
+O relé de proteção é disparado pela bomba, resultando em falhas no motor.
+
+Falhas frequentes no relé de proteção devido ao acionamento da bomba.
+
+A bomba está causando problemas no funcionamento do relé de proteção do motor.
+
+O relé de proteção é acionado mesmo quando não há necessidade, devido à bomba.
+
+A bomba está acionando o relé de proteção desnecessariamente, desligando o motor.
+
+O relé de proteção é ativado repetidamente durante a operação da bomba.
+
+Problemas com o acionamento incorreto do relé de proteção causados pela bomba.
+
+A bomba está ativando o relé de proteção, mesmo em condições normais de operação do motor.
+
+O relé de proteção é acionado de forma inadequada pela bomba, resultando em paradas frequentes do motor.
+
+A bomba está disparando o relé de proteção, prejudicando o desempenho do motor.
+
+O relé de proteção é acionado toda vez que a bomba é ligada, afetando o funcionamento adequado do motor.
+
+Problemas de ativação do relé de proteção devido à bomba em uso.
+
+A bomba está acionando o relé de proteção, causando interrupções no funcionamento do motor.
+
+O relé de proteção é ativado pela bomba, mesmo quando não é necessário.
+
+A bomba está causando falhas no relé de proteção durante a operação do motor.
+
+O relé de proteção é acionado indevidamente pela bomba, prejudicando o desempenho do sistema.
+
+Problemas com o funcionamento do relé de proteção devido à interação com a bomba.
+
+A bomba está ativando o relé de proteção, resultando em desligamentos repentinos do motor.
+
+O relé de proteção é acionado toda vez que a bomba é ligada, mesmo em condições normais.
+
+A bomba está disparando o relé de proteção do motor, afetando a operação do sistema.
+
+O relé de proteção é acionado pela bomba, causando paradas inesperadas do motor.
+
+A bomba está acionando o relé de proteção desnecessariamente, prejudicando o funcionamento do motor.
+
+O relé de proteção é ativado de forma incorreta quando a bomba é acionada.
+
+Problemas com o acionamento do relé de proteção durante a operação da bomba.
+
+A bomba está ativando o relé de proteção em momentos inadequados, prejudicando o desempenho do motor.
+
+O relé de proteção é disparado pela bomba, causando interrupções frequentes no sistema.
+
+Problemas com o acionamento incorreto do relé de proteção devido à bomba.
+
+A bomba está acionando o relé de proteção do motor em momentos inapropriados.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, mesmo sem necessidade.
+
+A bomba está disparando o relé de proteção, resultando em falhas no funcionamento do motor.
+
+O relé de proteção é acionado pela bomba, prejudicando o desempenho geral do sistema.
+
+Problemas com o acionamento do relé de proteção causados pela bomba em uso.
+
+A bomba está ativando o relé de proteção, causando paradas frequentes do motor.
+
+O relé de proteção é acionado pela bomba, mesmo quando não é necessário.
+
+A bomba está causando falhas no relé de proteção, afetando o funcionamento do motor.
+
+O relé de proteção é acionado indevidamente pela bomba, resultando em desligamentos do sistema.
+
+Problemas com o funcionamento do relé de proteção devido à interação com a bomba.
+
+A bomba está ativando o relé de proteção, resultando em desligamentos inesperados do motor.
+
+O relé de proteção é acionado toda vez que a bomba é ligada, mesmo em condições normais.
+
+A bomba está disparando o relé de proteção do motor, afetando o sistema como um todo.
+
+O relé de proteção é acionado pela bomba, causando paradas inesperadas durante a operação.
+
+A bomba está acionando o relé de proteção desnecessariamente, prejudicando o funcionamento adequado do motor.
+
+O relé de proteção é ativado de forma incorreta quando a bomba é acionada.
+
+Problemas com o acionamento do relé de proteção durante a operação da bomba.
+
+A bomba está ativando o relé de proteção em momentos inadequados, prejudicando o desempenho do motor.
+
+O relé de proteção é disparado pela bomba, causando interrupções frequentes no sistema.
+
+Problemas com o acionamento incorreto do relé de proteção devido à bomba.
+
+A bomba está acionando o relé de proteção do motor em momentos inapropriados.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, mesmo sem necessidade.
+
+A bomba está disparando o relé de proteção, resultando em falhas no funcionamento do motor.
+
+O relé de proteção é acionado pela bomba, prejudicando o desempenho geral do sistema.
+
+Problemas com o acionamento do relé de proteção causados pela bomba em uso.
+
+A bomba está ativando o relé de proteção, causando paradas frequentes do motor.
+
+O relé de proteção é acionado pela bomba, mesmo quando não é necessário.
+
+A bomba está causando falhas no relé de proteção, afetando o funcionamento do motor.
+
+O relé de proteção é acionado indevidamente pela bomba, resultando em desligamentos do sistema.
+
+Problemas com o funcionamento do relé de proteção devido à interação com a bomba.
+
+A bomba está ativando o relé de proteção, resultando em desligamentos inesperados do motor.
+
+O relé de proteção é acionado toda vez que a bomba é ligada, mesmo em condições normais.
+
+A bomba está disparando o relé de proteção do motor, afetando o sistema como um todo.
+
+O relé de proteção é acionado pela bomba, causando paradas inesperadas durante a operação.
+
+A bomba está acionando o relé de proteção desnecessariamente, prejudicando o funcionamento adequado do motor.
+
+O relé de proteção é ativado de forma incorreta quando a bomba é acionada.
+
+Problemas com o acionamento do relé de proteção durante a operação da bomba.
+
+A bomba está ativando o relé de proteção em momentos inadequados, prejudicando o desempenho do motor.
+
+O relé de proteção é disparado pela bomba, causando interrupções frequentes no sistema.
+
+Problemas com o acionamento incorreto do relé de proteção devido à bomba.
+
+A bomba está acionando o relé de proteção do motor em momentos inapropriados.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, mesmo sem necessidade.
+
+A bomba está disparando o relé de proteção, resultando em falhas no funcionamento do motor.
+
+O relé de proteção é acionado pela bomba, prejudicando o desempenho geral do sistema.
+
+Problemas com o acionamento do relé de proteção causados pela bomba em uso.
+
+A bomba está ativando o relé de proteção, causando paradas frequentes do motor.
+
+O relé de proteção é acionado pela bomba, mesmo quando não é necessário.
+
+A bomba está causando falhas no relé de proteção, afetando o funcionamento do motor.
+
+O relé de proteção é acionado indevidamente pela bomba, resultando em desligamentos do sistema.
+
+Problemas com o funcionamento do relé de proteção devido à interação com a bomba.
+
+A bomba está ativando o relé de proteção, resultando em desligamentos inesperados do motor.
+
+O relé de proteção é acionado toda vez que a bomba é ligada, mesmo em condições normais.
+
+A bomba está disparando o relé de proteção do motor, afetando o sistema como um todo.
+
+O relé de proteção é acionado pela bomba, causando paradas inesperadas durante a operação.
+
+A bomba está acionando o relé de proteção desnecessariamente, prejudicando o funcionamento adequado do motor.
+
+O relé de proteção é ativado de forma incorreta quando a bomba é acionada.
+
+Problemas com o acionamento do relé de proteção durante a operação da bomba.
+
+A bomba está ativando o relé de proteção em momentos inadequados, prejudicando o desempenho do motor.
+
+O relé de proteção é disparado pela bomba, causando interrupções frequentes no sistema.
+
+Problemas com o acionamento incorreto do relé de proteção devido à bomba.
+
+A bomba está acionando o relé de proteção do motor em momentos inapropriados.
+
+O relé de proteção é ativado toda vez que a bomba é ligada, mesmo sem necessidade.
+
+A bomba está disparando o relé de proteção, resultando em falhas no funcionamento do motor.
+
+O relé de proteção é acionado pela bomba, prejudicando o desempenho geral do sistema.
+
+Problemas com o acionamento do relé de proteção causados pela bomba em uso.
+
+A bomba está ativando o relé de proteção, causando paradas frequentes do motor.
+
+O relé de proteção é acionado pela bomba, mesmo quando não é necessário.
+
+A bomba está causando falhas no relé de proteção, afetando o funcionamento do motor.
+
+O relé de proteção é acionado indevidamente pela bomba, resultando em desligamentos do sistema.

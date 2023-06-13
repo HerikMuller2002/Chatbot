@@ -48,3 +48,203 @@ Descarga comprometida na bomba, mesmo com a pressão adequada
 Problema de fluxo limitado na bomba durante o funcionamento prolongado
 Descarga insatisfatória na bomba, prejudicando a funcionalidade do sistema
 Problema de vazão inadequada na linha de descarga da bomba em operação
+Baixa vazão na saída da bomba
+Fluxo abaixo do esperado na descarga
+Problema de falta de pressão na saída da bomba
+Insuficiência de fluxo na bomba
+Descarga com volume reduzido
+Falta de pressurização adequada na descarga
+Vazão abaixo do necessário na bomba
+Problema de baixo rendimento na descarga
+Fluxo insuficiente na saída da bomba
+Redução no volume de líquido bombeado
+Falha na entrega adequada do fluido
+Pressão abaixo do recomendado na descarga
+Problema de fluxo limitado na bomba
+Descarga com capacidade reduzida
+Ineficiência na transferência de líquido na descarga
+Falta de vazão adequada na saída da bomba
+Queda na pressão de descarga
+Problema de insuficiência de bombeamento
+Fluxo de saída abaixo do desejado
+Descarga com deficiência de líquido
+Pressão de descarga abaixo do esperado
+Problema de baixa eficiência na descarga
+Fluxo limitado na saída da bomba
+Descarga com deficiência de volume
+Insuficiência de bombeamento na saída
+Falha na pressurização do líquido bombeado
+Vazão abaixo do especificado na descarga
+Problema de falta de transferência adequada de líquido
+Descarga com fluxo reduzido
+Ineficiência no transporte do fluido na saída da bomba
+Queda na vazão da descarga
+Problema de insuficiência de fluxo na bomba
+Fluxo de saída abaixo do necessário
+Descarga com pressão insuficiente
+Redução no volume de bombeamento
+Falha na entrega adequada de líquido
+Pressão abaixo do exigido na descarga
+Problema de fluxo limitado na saída da bomba
+Descarga com capacidade reduzida de transporte
+Ineficiência na transferência de líquido bombeado na descarga
+Falta de vazão adequada no bombeamento
+Queda na pressão de saída
+Problema de insuficiência de bombeamento no fluxo
+Fluxo de saída abaixo do desejado para a aplicação
+Descarga com deficiência de líquido transportado
+Pressão de descarga abaixo do esperado para o funcionamento correto
+Problema de baixa eficiência na transferência de líquido na descarga
+Fluxo limitado na saída da bomba, afetando o desempenho geral
+Descarga com deficiência de volume de bombeamento
+Insuficiência de bombeamento na saída, resultando em fluxo insuficiente
+Falha na pressurização adequada do líquido bombeado na descarga
+Vazão abaixo das especificações na descarga
+Problema de falta de transferência adequada de líquido no bombeamento
+Descarga com fluxo reduzido, afetando a operação
+Ineficiência no transporte do fluido bombeado na saída da bomba
+Queda na vazão da descarga, causando problemas de desempenho
+Problema de insuficiência de fluxo na bomba, resultando em descarga insatisfatória
+Fluxo de saída abaixo do necessário para atender às demandas
+Descarga com pressão insuficiente para o funcionamento adequado
+Redução no volume de bombeamento, causando problemas operacionais
+Falha na entrega adequada de líquido na saída da bomba
+Pressão abaixo do exigido na descarga, afetando o sistema
+Problema de fluxo limitado na saída da bomba, prejudicando o desempenho geral
+Descarga com capacidade reduzida de transporte de líquido
+Ineficiência na transferência de líquido bombeado na descarga, resultando em problemas de fluxo
+Falta de vazão adequada no bombeamento, levando a problemas operacionais
+Queda na pressão de saída, comprometendo o desempenho da bomba
+Problema de insuficiência de bombeamento no fluxo, causando descarga abaixo do esperado
+Fluxo de saída abaixo do desejado para a aplicação específica
+Descarga com deficiência de líquido transportado, resultando em falhas operacionais
+Pressão de descarga abaixo do esperado para o correto funcionamento do sistema
+Problema de baixa eficiência na transferência de líquido na descarga, afetando o desempenho
+Fluxo limitado na saída da bomba, comprometendo o bombeamento adequado
+Descarga com deficiência de volume de bombeamento, levando a problemas operacionais
+Insuficiência de bombeamento na saída, resultando em fluxo insuficiente para a aplicação
+Falha na pressurização adequada do líquido bombeado na descarga, afetando a performance
+Vazão abaixo das especificações na descarga, causando problemas de funcionamento
+Problema de falta de transferência adequada de líquido no bombeamento, comprometendo o fluxo
+Descarga com fluxo reduzido, afetando o desempenho do sistema
+Ineficiência no transporte do fluido bombeado na saída da bomba, resultando em problemas operacionais
+Queda na vazão da descarga, impactando o desempenho geral do sistema
+Problema de insuficiência de fluxo na bomba, resultando em descarga insatisfatória para a aplicação
+Fluxo de saída abaixo do necessário para atender às demandas específicas
+Descarga com pressão insuficiente para o funcionamento adequado do sistema
+Redução no volume de bombeamento, causando problemas de operação
+Falha na entrega adequada de líquido na saída da bomba, prejudicando o desempenho
+Pressão abaixo do exigido na descarga, comprometendo o funcionamento do sistema
+Problema de fluxo limitado na saída da bomba, afetando o desempenho geral do sistema
+Descarga com capacidade reduzida de transporte de líquido, causando falhas operacionais
+Ineficiência na transferência de líquido bombeado na descarga, resultando em problemas de fluxo e desempenho
+Falta de vazão adequada no bombeamento, levando a problemas operacionais
+Queda na pressão de saída, comprometendo o desempenho da bomba e do sistema
+Problema de insuficiência de bombeamento no fluxo, causando descarga abaixo do esperado para a aplicação
+Fluxo de saída abaixo do desejado, prejudicando o bombeamento adequado do líquido
+Descarga com deficiência de líquido transportado, resultando em falhas operacionais e impacto no processo
+Pressão de descarga abaixo do esperado para o correto funcionamento do sistema de bombeamento
+Problema de baixa eficiência na transferência de líquido na descarga, afetando o desempenho geral
+Fluxo limitado na saída da bomba, comprometendo o bombeamento adequado e a entrega de líquido
+Descarga com deficiência de volume de bombeamento, levando a problemas operacionais e limitações no processo
+Insuficiência de bombeamento na saída, resultando em fluxo insuficiente e desempenho insatisfatório do sistema
+Fluxo abaixo do esperado
+Pressão de saída baixa
+Volume bombeado reduzido
+Insuficiência na entrega de líquido
+Falta de pressão no sistema
+Problemas de bombeamento ineficiente
+Baixa performance de descarga
+Fluxo de bombeamento abaixo do normal
+Deficiência na vazão da bomba
+Ineficiência de descarga
+Descarga com capacidade limitada
+Incapacidade de atingir a vazão necessária
+Problemas de escoamento na saída da bomba
+Dificuldade em bombear o líquido de forma adequada
+Fluxo de líquido insatisfatório
+Vazão abaixo do especificado
+Ineficiência no transporte do líquido bombeado
+Falta de potência na descarga
+Perda de rendimento na bomba
+Incapacidade de fornecer a quantidade de líquido desejada
+Problema de descarga com baixo desempenho
+Inadequação na pressão de bombeamento
+Redução na capacidade de descarga
+Falha na entrega de líquido com eficiência
+Queda no fluxo de saída da bomba
+Dificuldade em fornecer a vazão requerida
+Descarga com fluxo insuficiente
+Performance abaixo do esperado na descarga
+Ineficiência na transferência do líquido bombeado
+Fluxo de líquido com restrição
+Problema de descarga com perda de eficiência
+Dificuldade em atingir a pressão desejada na saída
+Insuficiência de vazão na descarga
+Incapacidade de bombear o líquido com eficácia
+Fluxo de saída abaixo do necessário
+Pressão de descarga abaixo do normal
+Volume de líquido entregue aquém do esperado
+Ineficiência na distribuição do líquido bombeado
+Descarga com fluxo restrito
+Problemas de bombeamento com descarga inadequada
+Baixo rendimento na saída da bomba
+Incapacidade de atender à demanda de líquido
+Fluxo de líquido com deficiência
+Vazão abaixo das especificações
+Falta de eficiência na transferência do líquido
+Perda de pressão na descarga
+Incapacidade de fornecer a quantidade necessária de líquido
+Problema de descarga com desempenho reduzido
+Inadequação na pressão de escoamento
+Redução na capacidade de bombeamento
+Falha na entrega eficiente de líquido
+Queda no fluxo de saída do sistema
+Dificuldade em alcançar a vazão desejada
+Descarga com fluxo limitado de líquido
+Performance abaixo das expectativas na descarga
+Ineficiência na transferência do líquido bombeado
+Fluxo de líquido com restrição ou bloqueio
+Problema de descarga com perda de eficiência
+Dificuldade em atingir a pressão desejada na saída da bomba
+Insuficiência de vazão na descarga do sistema
+Incapacidade de bombear o líquido com eficácia
+Fluxo de saída abaixo do necessário para o processo
+Pressão de descarga abaixo do esperado
+Volume de líquido entregue aquém do planejado
+Ineficiência na distribuição do líquido bombeado
+Descarga com fluxo restrito ou obstruído
+Problemas de bombeamento com descarga inadequada
+Baixo rendimento na saída do sistema de bombeamento
+Incapacidade de atender à demanda de líquido bombeado
+Fluxo de líquido com deficiência ou obstrução
+Vazão abaixo das especificações técnicas
+Falta de eficiência na transferência do líquido bombeado
+Perda de pressão durante a descarga do sistema
+Incapacidade de fornecer a quantidade necessária de líquido bombeado
+Problema de descarga com desempenho reduzido ou ineficiente
+Inadequação na pressão de escoamento do líquido
+Redução na capacidade de bombeamento do sistema
+Falha na entrega eficiente de líquido bombeado
+Queda no fluxo de saída do sistema de bombeamento
+Dificuldade em alcançar a vazão desejada na descarga
+Descarga com fluxo limitado de líquido bombeado
+Performance abaixo das expectativas na saída do sistema de bombeamento
+Ineficiência na transferência do líquido bombeado para o processo
+Fluxo de líquido com restrição ou bloqueio na descarga
+Problema de descarga com perda de eficiência ou ineficácia
+Dificuldade em atingir a pressão desejada na saída do sistema de bombeamento
+Insuficiência de vazão na descarga do líquido bombeado
+Incapacidade de bombear o líquido com eficácia para o processo
+Fluxo de saída abaixo do necessário para o bom funcionamento do sistema
+Pressão de descarga abaixo do esperado para o processo
+Volume de líquido entregue aquém do planejado no sistema de bombeamento
+Ineficiência na distribuição do líquido bombeado para o processo
+Descarga com fluxo restrito ou obstruído de líquido
+Problemas de bombeamento com descarga inadequada ou ineficiente
+Baixo rendimento na saída do sistema de bombeamento
+Incapacidade de atender à demanda de líquido bombeado do sistema
+Fluxo de líquido com deficiência ou obstrução na descarga
+Vazão abaixo das especificações técnicas requeridas
+Falta de eficiência na transferência do líquido bombeado para o processo
+Perda de pressão durante a descarga do sistema de bombeamento

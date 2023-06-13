@@ -48,3 +48,203 @@ Problema de aumento gradual de temperatura nos rolamentos durante a operação
 Rolamentos superaquecendo devido a problemas de vedação
 Superaquecimento dos rolamentos afetando a precisão do equipamento
 Problema de superaquecimento nos rolamentos durante o ciclo de trabalho
+Rolamentos superaquecendo
+Superaquecimento anormal em rolamentos
+Rolamentos esquentando em excesso
+Problemas de temperatura em rolamentos
+Superaquecimento crítico em rolamentos
+Sobreaquecimento em rolamentos
+Temperatura elevada nos rolamentos
+Rolamentos aquecendo além do normal
+Superaquecimento excessivo em rolamentos
+Rolamentos com alta temperatura de operação
+Rolamentos superaquecidos durante o funcionamento
+Aquecimento anormal nos rolamentos
+Rolamentos com temperatura acima do esperado
+Problemas de resfriamento em rolamentos
+Superaquecimento constante em rolamentos
+Rolamentos esquentando demais
+Sinais de superaquecimento em rolamentos
+Rolamentos com aquecimento irregular
+Superaquecimento recorrente em rolamentos
+Rolamentos com temperatura descontrolada
+Problemas de dissipação de calor em rolamentos
+Rolamentos com aquecimento excessivo durante a operação
+Superaquecimento crônico em rolamentos
+Rolamentos com alta taxa de aquecimento
+Temperatura anormalmente alta em rolamentos
+Problemas de refrigeração em rolamentos
+Rolamentos superaquecendo rapidamente
+Superaquecimento intermitente em rolamentos
+Rolamentos com temperatura além dos limites recomendados
+Aquecimento excessivo em rolamentos durante o uso
+Problemas de ventilação em rolamentos
+Rolamentos com aquecimento anormal em baixas cargas
+Superaquecimento progressivo em rolamentos
+Rolamentos com temperatura acima da faixa de operação
+Superaquecimento repentino em rolamentos
+Rolamentos com aquecimento desproporcional
+Problemas de lubrificação em rolamentos causando superaquecimento
+Rolamentos com temperatura instável durante a operação
+Superaquecimento persistente em rolamentos
+Rolamentos com aquecimento fora dos padrões
+Superaquecimento em rolamentos durante partidas e paradas frequentes
+Problemas de isolamento térmico em rolamentos
+Rolamentos com temperatura excessiva em altas velocidades
+Superaquecimento interno em rolamentos
+Rolamentos com aquecimento incomum em baixas rotações
+Problemas de ventilação insuficiente em rolamentos
+Rolamentos com temperatura anormalmente alta em altas cargas
+Superaquecimento periódico em rolamentos
+Rolamentos com aquecimento descontrolado
+Problemas de dissipação de calor em rolamentos de alta rotação
+Rolamentos com temperatura acima do limite de segurança
+Superaquecimento em rolamentos durante operação contínua
+Rolamentos com aquecimento excessivo em temperaturas ambiente elevadas
+Problemas de refrigeração insuficiente em rolamentos
+Rolamentos com temperatura variando durante a operação
+Superaquecimento frequente em rolamentos
+Rolamentos com aquecimento acima dos valores recomendados pelo fabricante
+Problemas de vedação em rolamentos causando superaquecimento
+Rolamentos com temperatura crítica em cargas elevadas
+Superaquecimento constante em rolamentos de baixa carga
+Rolamentos com aquecimento desigual
+Problemas de lubrificação inadequada em rolamentos causando superaquecimento
+Rolamentos com temperatura acima dos limites em ambientes agressivos
+Superaquecimento recorrente em rolamentos de alta velocidade
+Rolamentos com aquecimento excessivo em operação contínua
+Problemas de isolamento térmico insuficiente em rolamentos
+Rolamentos com temperatura instável em diferentes condições de operação
+Superaquecimento crônico em rolamentos de baixa rotação
+Rolamentos com aquecimento fora das faixas normais
+Problemas de ventilação deficiente em rolamentos de grande porte
+Rolamentos com temperatura acima dos limites recomendados em altas velocidades
+Superaquecimento repentino em rolamentos durante mudanças bruscas de carga
+Rolamentos com aquecimento incomum em altas rotações
+Problemas de ventilação insuficiente em rolamentos de pequeno porte
+Rolamentos com temperatura excessiva em baixas cargas e altas rotações
+Superaquecimento progressivo em rolamentos de carga variável
+Rolamentos com aquecimento desproporcional em diferentes condições de operação
+Problemas de lubrificação inadequada em rolamentos de alta carga causando superaquecimento
+Rolamentos com temperatura instável em altas cargas e baixas rotações
+Superaquecimento persistente em rolamentos de longa duração
+Rolamentos com aquecimento fora dos padrões em diferentes ambientes
+Problemas de isolamento térmico deficiente em rolamentos de médio porte
+Rolamentos com temperatura acima do limite de segurança em cargas elevadas
+Superaquecimento interno em rolamentos de alta rotação
+Rolamentos com aquecimento incomum em diferentes velocidades de operação
+Problemas de ventilação insuficiente em rolamentos em ambientes contaminados
+Rolamentos com temperatura anormalmente alta em altas cargas e baixas rotações
+Superaquecimento periódico em rolamentos submetidos a cargas intermitentes
+Rolamentos com aquecimento descontrolado em diferentes modos de operação
+Problemas de lubrificação inadequada em rolamentos de longa duração causando superaquecimento
+Rolamentos com temperatura acima dos limites em condições adversas
+Superaquecimento em rolamentos durante operação em ambientes corrosivos
+Rolamentos com aquecimento excessivo em baixas velocidades e altas cargas
+Problemas de vedação ineficiente em rolamentos causando superaquecimento
+Rolamentos com temperatura crítica em altas velocidades e altas cargas
+Superaquecimento constante em rolamentos de carga constante
+Rolamentos com aquecimento desigual em diferentes posições de montagem
+Problemas de lubrificação insuficiente em rolamentos de alta velocidade causando superaquecimento
+Rolamentos com temperatura acima dos limites em condições de umidade elevada
+Superaquecimento recorrente em rolamentos em ambientes de vibração intensa
+Rolamentos com temperatura excessiva em operação contínua
+Superaquecimento repentino em rolamentos durante mudanças bruscas de carga
+Problemas de lubrificação inadequada em rolamentos de alta carga causando superaquecimento
+Rolamentos com aquecimento incomum em altas rotações
+Superaquecimento progressivo em rolamentos de carga variável
+Rolamentos com aquecimento desproporcional em diferentes condições de operação
+Problemas de ventilação insuficiente em rolamentos de pequeno porte
+Rolamentos com temperatura excessiva em baixas cargas e altas rotações
+Superaquecimento persistente em rolamentos de longa duração
+Rolamentos com aquecimento fora dos padrões em diferentes ambientes
+Problemas de isolamento térmico deficiente em rolamentos de médio porte
+Rolamentos com temperatura acima do limite de segurança em cargas elevadas
+Superaquecimento interno em rolamentos de alta rotação
+Rolamentos com aquecimento incomum em diferentes velocidades de operação
+Problemas de ventilação insuficiente em rolamentos em ambientes contaminados
+Rolamentos com temperatura anormalmente alta em altas cargas e baixas rotações
+Superaquecimento periódico em rolamentos submetidos a cargas intermitentes
+Rolamentos com aquecimento descontrolado em diferentes modos de operação
+Problemas de lubrificação inadequada em rolamentos de longa duração causando superaquecimento
+Rolamentos com temperatura acima dos limites em condições adversas
+Superaquecimento em rolamentos durante operação em ambientes corrosivos
+Rolamentos com aquecimento excessivo em baixas velocidades e altas cargas
+Problemas de vedação ineficiente em rolamentos causando superaquecimento
+Rolamentos com temperatura crítica em altas velocidades e altas cargas
+Superaquecimento constante em rolamentos de carga constante
+Rolamentos com aquecimento desigual em diferentes posições de montagem
+Problemas de lubrificação insuficiente em rolamentos de alta velocidade causando superaquecimento
+Rolamentos com temperatura acima dos limites em condições de umidade elevada
+Superaquecimento recorrente em rolamentos em ambientes de vibração intensa
+Rolamentos com aquecimento anormal em operação a baixas temperaturas
+Problemas de dissipação de calor inadequada em rolamentos
+Rolamentos com temperatura elevada devido a atrito excessivo
+Superaquecimento em rolamentos causado por sobrecarga
+Rolamentos com aquecimento significativo em operação contínua
+Problemas de isolamento térmico insuficiente em rolamentos em ambientes de alta temperatura
+Rolamentos com temperatura acima dos limites em baixas velocidades e altas cargas
+Superaquecimento periódico em rolamentos submetidos a vibrações intensas
+Rolamentos com aquecimento descontrolado em diferentes regimes de lubrificação
+Problemas de ventilação inadequada em rolamentos em compartimentos fechados
+Rolamentos com temperatura excessiva durante paradas e partidas frequentes
+Superaquecimento progressivo em rolamentos de alta carga e velocidade
+Rolamentos com aquecimento incomum em diferentes modos de lubrificação
+Problemas de lubrificação insuficiente em rolamentos submetidos a altas temperaturas
+Rolamentos com temperatura acima do limite seguro em cargas variáveis
+Superaquecimento constante em rolamentos de longa duração
+Rolamentos com aquecimento desigual em diferentes condições ambientais
+Problemas de isolamento térmico deficiente em rolamentos de carga elevada
+Rolamentos com temperatura anormalmente alta em operação intermitente
+Superaquecimento em rolamentos durante operação em ambientes contaminados
+Rolamentos com aquecimento excessivo em baixas rotações e altas cargas
+Problemas de ventilação inadequada em rolamentos submetidos a altas vibrações
+Rolamentos com temperatura crítica em altas velocidades e baixas cargas
+Superaquecimento interno em rolamentos de longa duração
+Rolamentos com aquecimento incomum em diferentes regimes de carga
+Problemas de lubrificação inadequada em rolamentos operando em altas temperaturas
+Rolamentos com temperatura acima dos limites em ambientes corrosivos
+Superaquecimento recorrente em rolamentos em condições de umidade elevada
+Rolamentos com aquecimento fora dos padrões em diferentes modos de operação
+Problemas de vedação ineficiente em rolamentos de carga constante causando superaquecimento
+Rolamentos com temperatura elevada devido a atrito excessivo em altas cargas
+Superaquecimento em rolamentos durante operação em ambientes de alta temperatura
+Rolamentos com aquecimento desigual em diferentes velocidades de rotação
+Problemas de lubrificação insuficiente em rolamentos de carga variável causando superaquecimento
+Rolamentos com temperatura acima dos limites em baixas rotações e altas cargas
+Superaquecimento periódico em rolamentos em ambientes de vibração intensa
+Rolamentos com aquecimento anormal em operação a baixas cargas
+Problemas de dissipação de calor inadequada em rolamentos de médio porte
+Rolamentos com temperatura excessiva durante paradas e partidas frequentes
+Superaquecimento progressivo em rolamentos de carga constante
+Rolamentos com aquecimento descontrolado em diferentes condições de operação
+Problemas de ventilação inadequada em rolamentos de pequeno porte
+Rolamentos com temperatura acima dos limites em baixas velocidades e altas cargas
+Superaquecimento constante em rolamentos em ambientes de umidade elevada
+Rolamentos com aquecimento desigual em diferentes posições de montagem
+Problemas de lubrificação insuficiente em rolamentos de alta velocidade causando superaquecimento
+Rolamentos com temperatura acima do limite seguro em altas cargas e velocidades
+Superaquecimento recorrente em rolamentos submetidos a cargas intermitentes
+Rolamentos com aquecimento incomum em diferentes regimes de lubrificação
+Problemas de isolamento térmico deficiente em rolamentos de alta carga
+Rolamentos com temperatura anormalmente alta em operação contínua
+Superaquecimento em rolamentos durante operação em ambientes corrosivos
+Rolamentos com aquecimento excessivo em baixas velocidades e cargas variáveis
+Problemas de ventilação inadequada em rolamentos em ambientes contaminados
+Rolamentos com temperatura crítica em altas velocidades e altas cargas
+Superaquecimento interno em rolamentos de longa duração
+Rolamentos com aquecimento incomum em diferentes condições de carga
+Problemas de lubrificação inadequada em rolamentos de carga elevada
+Rolamentos com temperatura acima dos limites em condições ambientais extremas
+Superaquecimento recorrente em rolamentos em ambientes de alta temperatura
+Rolamentos com aquecimento desigual em diferentes modos de operação
+Problemas de vedação ineficiente em rolamentos causando superaquecimento
+Rolamentos com temperatura elevada devido a atrito excessivo em altas velocidades
+Superaquecimento em rolamentos durante operação em ambientes de umidade elevada
+Rolamentos com aquecimento fora dos padrões em diferentes velocidades de rotação
+Problemas de dissipação de calor inadequada em rolamentos de pequeno porte
+Rolamentos com temperatura excessiva durante paradas e partidas frequentes
+Superaquecimento progressivo em rolamentos de carga variável
+Rolamentos com aquecimento descontrolado em diferentes regimes de carga
+Problemas de ventilação inadequada em rolamentos de médio porte
+Rolamentos com temperatura acima dos limites em baixas rotações e cargas variáveis

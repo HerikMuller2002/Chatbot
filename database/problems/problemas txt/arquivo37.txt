@@ -48,3 +48,153 @@ Articulações da cadeia com restrição de deslizamento
 Cadeia de acionamento com articulações bloqueadas e sem flexibilidade
 Articulações da cadeia travadas e rígidas
 Cadeia com articulações presas e com movimento restrito
+Articulações da corrente com movimento restrito
+Corrente apresentando rigidez nas articulações
+Dificuldade de movimentação das articulações da corrente
+Problema de articulações presas na corrente
+Restrição de movimento nas articulações da corrente
+Falta de flexibilidade nas articulações em cadeia
+Corrente com articulações rígidas
+Rigidez nas juntas da corrente de acionamento
+Falta de mobilidade nas articulações da corrente
+Articulações travadas na corrente de acionamento
+Problema de funcionamento devido a articulações inflexíveis
+Corrente com dificuldade de articulação
+Restrição de movimento nas juntas em cadeia
+Articulações com pouca mobilidade na corrente de acionamento
+Dificuldade de flexão nas articulações da corrente
+Falta de rotação suave nas articulações em cadeia
+Corrente apresentando rigidez nas juntas
+Problema de engrenagem causado por articulações rígidas
+Restrição de movimento devido a articulações presas
+Articulações da corrente com pouca flexibilidade
+Falta de articulação suave nas juntas em cadeia
+Corrente com juntas rígidas
+Rigidez nas articulações da corrente de transmissão
+Falta de mobilidade nas juntas da corrente
+Problema de funcionamento devido a articulações travadas
+Corrente com dificuldade de articulação nas juntas
+Restrição de movimento nas articulações em cadeia
+Articulações presas na corrente de acionamento
+Dificuldade de flexão nas juntas da corrente
+Falta de rotação suave nas articulações em cadeia
+Corrente apresentando rigidez nas juntas de transmissão
+Problema de engrenagem causado por articulações inflexíveis
+Restrição de movimento devido a articulações com pouca mobilidade
+Articulações da corrente com dificuldade de flexão
+Falta de articulação suave nas juntas em cadeia
+Corrente com juntas rígidas na transmissão
+Rigidez nas articulações da corrente de acionamento
+Falta de mobilidade nas juntas da corrente de transmissão
+Problema de funcionamento devido a articulações presas em cadeia
+Corrente com dificuldade de articulação nas juntas de transmissão
+Restrição de movimento nas articulações em cadeia de acionamento
+Articulações presas na corrente de transmissão
+Dificuldade de flexão nas juntas da corrente em cadeia
+Falta de rotação suave nas articulações em cadeia de acionamento
+Corrente apresentando rigidez nas juntas de acionamento
+Problema de engrenagem causado por articulações com pouca flexibilidade
+Restrição de movimento devido a articulações travadas em cadeia
+Articulações da corrente com mobilidade limitada
+Falta de flexão nas articulações em cadeia de transmissão
+Corrente com juntas rígidas na transmissão de energia
+Rigidez nas articulações da corrente de acionamento mecânico
+Falta de mobilidade nas juntas da corrente de transmissão de potência
+Problema de funcionamento devido a articulações presas em cadeia de acionamento
+Corrente com dificuldade de articulação nas juntas de transmissão mecânica
+Restrição de movimento nas articulações em cadeia de acionamento industrial
+Articulações presas na corrente de transmissão de energia
+Dificuldade de flexão nas juntas da corrente em cadeia de acionamento
+Falta de rotação suave nas articulações em cadeia de acionamento industrial
+Corrente apresentando rigidez nas juntas de acionamento mecânico
+Problema de engrenagem causado por articulações com pouca flexibilidade em cadeia
+Restrição de movimento devido a articulações travadas em cadeia de acionamento industrial
+Articulações da corrente com mobilidade limitada em cadeia de acionamento mecânico
+Falta de flexão nas articulações em cadeia de transmissão de potência
+Corrente com juntas rígidas na transmissão de energia industrial
+Rigidez nas articulações da corrente de acionamento mecânico industrial
+Falta de mobilidade nas juntas da corrente de transmissão de potência mecânica
+Problema de funcionamento devido a articulações presas em cadeia de acionamento industrial
+Corrente com dificuldade de articulação nas juntas de transmissão mecânica industrial
+Restrição de movimento nas articulações em cadeia de acionamento industrial pesado
+Articulações presas na corrente de transmissão de energia industrial
+Dificuldade de flexão nas juntas da corrente em cadeia de acionamento mecânico industrial
+Falta de rotação suave nas articulações em cadeia de acionamento industrial pesado
+Corrente apresentando rigidez nas juntas de acionamento mecânico industrial pesado
+Problema de engrenagem causado por articulações com pouca flexibilidade em cadeia de acionamento pesado
+Restrição de movimento devido a articulações travadas em cadeia de acionamento industrial pesado
+Articulações da corrente com mobilidade limitada em cadeia de acionamento mecânico industrial pesado
+Falta de flexão nas articulações em cadeia de transmissão de potência mecânica industrial
+Corrente com juntas rígidas na transmissão de energia industrial pesado
+Rigidez nas articulações da corrente de acionamento mecânico industrial pesado
+Falta de mobilidade nas juntas da corrente de transmissão de potência mecânica industrial
+Problema de funcionamento devido a articulações presas em cadeia de acionamento industrial pesado
+Corrente com dificuldade de articulação nas juntas de transmissão mecânica industrial pesado
+Restrição de movimento nas articulações em cadeia de acionamento industrial pesado de alta potência
+Articulações presas na corrente de transmissão de energia industrial pesado
+Dificuldade de flexão nas juntas da corrente em cadeia de acionamento mecânico industrial pesado
+Falta de rotação suave nas articulações em cadeia de acionamento industrial pesado de alta potência
+Corrente apresentando rigidez nas juntas de acionamento mecânico industrial pesado de alta potência
+Problema de engrenagem causado por articulações com pouca flexibilidade em cadeia de acionamento pesado de alta potência
+Restrição de movimento devido a articulações travadas em cadeia de acionamento industrial pesado de alta potência
+Articulações da corrente com mobilidade limitada em cadeia de acionamento mecânico industrial pesado de alta potência
+Falta de flexão nas articulações em cadeia de transmissão de potência mecânica industrial pesado
+Corrente com juntas rígidas na transmissão de energia industrial pesado de alta potência
+Rigidez nas articulações da corrente de acionamento mecânico industrial pesado de alta potência
+Falta de mobilidade nas juntas da corrente de transmissão de potência mecânica industrial pesado
+Problema de funcionamento devido a articulações presas em cadeia de acionamento industrial pesado de alta potência
+Corrente com dificuldade de articulação nas juntas de transmissão mecânica industrial pesado de alta potência
+Restrição de movimento nas articulações em cadeia de acionamento industrial pesado de alta potência e alta velocidade
+Articulações presas na corrente de transmissão de energia industrial pesado de alta potência
+Dificuldade de flexão nas juntas da corrente em cadeia de acionamento mecânico industrial pesado de alta potência
+Falta de rotação suave nas articulações em cadeia de acionamento industrial pesado de alta potência e alta velocidade
+Corrente com dificuldade de movimentação nas articulações
+Restrição de flexibilidade nas juntas da corrente de acionamento
+Problema de articulação em cadeia de acionamento mecânico
+Corrente com travamento nas articulações
+Articulações da corrente de acionamento presas
+Falta de rotação suave nas juntas em cadeia de acionamento industrial
+Corrente com rigidez nas juntas de acionamento por corrente
+Dificuldade de movimentação das articulações em acionamentos por corrente
+Restrição de flexão nas juntas da corrente de transmissão de potência
+Problema de articulação em cadeia de acionamento industrial pesado
+Corrente com engrenagens travadas nas juntas de acionamento
+Articulações rígidas comprometendo o funcionamento da corrente de acionamento
+Falta de mobilidade nas juntas da corrente em acionamentos por corrente
+Corrente apresentando rigidez nas articulações de transmissão de energia
+Dificuldade de rotação nas juntas da corrente em cadeia de acionamento industrial
+Restrição de movimento devido a articulações presas na corrente de acionamento
+Problema de articulação em cadeia de acionamento por corrente
+Corrente com dificuldade de flexão nas juntas de transmissão de potência
+Articulações travadas comprometendo a eficiência do acionamento por corrente
+Falta de rotação suave nas articulações em cadeia de acionamento industrial pesado
+Corrente com rigidez nas juntas de acionamento mecânico industrial
+Dificuldade de movimentação das articulações em acionamentos por corrente industrial
+Restrição de flexão nas juntas da corrente de transmissão de potência industrial
+Problema de articulação em cadeia de acionamento industrial pesado de alta potência
+Corrente com engrenagens travadas nas juntas de acionamento industrial
+Articulações rígidas comprometendo o funcionamento da corrente de acionamento industrial
+Falta de mobilidade nas juntas da corrente em acionamentos por corrente industrial
+Corrente apresentando rigidez nas articulações de transmissão de energia industrial
+Dificuldade de rotação nas juntas da corrente em cadeia de acionamento industrial pesado
+Restrição de movimento devido a articulações presas na corrente de acionamento industrial
+Problema de articulação em cadeia de acionamento por corrente industrial
+Corrente com dificuldade de flexão nas juntas de transmissão de potência industrial
+Articulações travadas comprometendo a eficiência do acionamento por corrente industrial
+Falta de rotação suave nas articulações em cadeia de acionamento industrial pesado de alta potência
+Corrente com rigidez nas juntas de acionamento mecânico industrial pesado
+Dificuldade de movimentação das articulações em acionamentos por corrente industrial pesado
+Restrição de flexão nas juntas da corrente de transmissão de potência industrial pesado
+Problema de articulação em cadeia de acionamento industrial pesado de alta potência e alta velocidade
+Corrente com engrenagens travadas nas juntas de acionamento industrial pesado
+Articulações rígidas comprometendo o funcionamento da corrente de acionamento industrial pesado
+Falta de mobilidade nas juntas da corrente em acionamentos por corrente industrial pesado
+Corrente apresentando rigidez nas articulações de transmissão de energia industrial pesado
+Dificuldade de rotação nas juntas da corrente em cadeia de acionamento industrial pesado de alta potência
+Restrição de movimento devido a articulações presas na corrente de acionamento industrial pesado
+Problema de articulação em cadeia de acionamento por corrente industrial pesado
+Corrente com dificuldade de flexão nas juntas de transmissão de potência industrial pesado
+Articulações travadas comprometendo a eficiência do acionamento por corrente industrial pesado
+Falta de rotação suave nas articulações em cadeia de acionamento industrial pesado de alta potência e alta velocidade
+Corrente com rigidez nas juntas de acionamento mecânico industrial pesado de alta potência
+Dificuldade de movimentação das articulações em acionamentos por corrente industrial pesado de alta potência

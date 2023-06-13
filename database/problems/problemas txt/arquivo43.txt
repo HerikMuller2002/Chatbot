@@ -48,3 +48,401 @@ Problemas de proteção contra umidade e umidade dos artigos durante o transport
 Artigos que sofrem danos estruturais ou perda de funcionalidade em equipamentos de acionamento por corrente
 Artigos transportados que chegam com danos visíveis em correntes de transmissão
 Problemas de embalagem inadequada e manuseio brusco dos artigos durante o transporte em acionamentos por corrente
+Corrente folgada causando danos aos artigos transportados
+
+Desgaste excessivo nos elos da corrente resultando em danos aos artigos
+
+Problemas de tensão inadequada na corrente causando danos aos artigos transportados
+
+Corrente desalinhada levando a danos nos artigos transportados
+
+Artigos presos ou aprisionados na corrente, resultando em danos
+
+Corrente com elos quebrados causando danos aos artigos transportados
+
+Vibração excessiva na corrente resultando em danos aos artigos
+
+Corrente desgastada ou enferrujada danificando os artigos transportados
+
+Artigos caindo ou sendo lançados da corrente devido a problemas de segurança
+
+Sobrecarga na corrente resultando em danos aos artigos transportados
+
+Mau funcionamento do tensionador de corrente causando danos aos artigos
+
+Falha na lubrificação da corrente levando a danos nos artigos transportados
+
+Corrente solta ou mal ajustada causando danos aos artigos
+
+Problemas de alinhamento da corrente resultando em danos aos artigos transportados
+
+Falha nos dispositivos de proteção da corrente causando danos aos artigos
+
+Bloqueio ou obstrução na corrente danificando os artigos transportados
+
+Danos nos artigos devido a choques ou impactos na corrente
+
+Falha na tensão adequada da corrente levando a danos nos artigos transportados
+
+Desgaste prematuro dos roletes da corrente causando danos aos artigos
+
+Problemas de atrito na corrente resultando em danos aos artigos transportados
+
+Artigos ficando presos nas engrenagens ou rodas dentadas acionadas pela corrente
+
+Desalinhamento dos guias da corrente causando danos aos artigos transportados
+
+Falha nos sistemas de controle de velocidade da corrente resultando em danos
+
+Bloqueio ou travamento da corrente levando a danos nos artigos transportados
+
+Desgaste excessivo das placas da corrente causando danos aos artigos
+
+Problemas de vedação na corrente resultando em danos aos artigos transportados
+
+Choque térmico na corrente causando danos aos artigos transportados
+
+Corrente enferrujada ou com corrosão danificando os artigos transportados
+
+Danos nos artigos devido a colisões entre a corrente e outros componentes
+
+Problemas de tensionamento inadequado da corrente resultando em danos aos artigos
+
+Artigos sendo puxados ou arrastados de forma incorreta pela corrente
+
+Falha nos sistemas de monitoramento da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+
+Artigos sendo arrastados ou puxados incorretamente pela corrente
+
+Falha nos sistemas de inspeção da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+
+Artigos sendo arrastados ou puxados incorretamente pela corrente
+
+Falha nos sistemas de inspeção da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+
+Artigos sendo arrastados ou puxados incorretamente pela corrente
+
+Falha nos sistemas de inspeção da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+
+Artigos sendo arrastados ou puxados incorretamente pela corrente
+
+Falha nos sistemas de inspeção da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+
+Artigos sendo arrastados ou puxados incorretamente pela corrente
+
+Falha nos sistemas de inspeção da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+
+Artigos sendo arrastados ou puxados incorretamente pela corrente
+
+Falha nos sistemas de inspeção da corrente levando a danos nos artigos transportados
+
+Sobrecarga na corrente causando danos aos artigos transportados
+
+Corrente desgastada ou esticada demais danificando os artigos
+
+Problemas de torque inadequado na corrente resultando em danos aos artigos
+
+Artigos presos nos espaços vazios entre os elos da corrente
+
+Falha nos sistemas de frenagem da corrente causando danos aos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de acionamento da corrente
+
+Danos nos artigos devido a problemas de alinhamento entre a corrente e os componentes
+
+Problemas de velocidade excessiva da corrente resultando em danos aos artigos transportados
+Cargas mal acomodadas na corrente causando danos aos artigos
+
+Desalinhamento da corrente resultando em danos nos artigos transportados
+
+Impacto excessivo dos artigos contra a corrente causando danos
+
+Falha no sistema de proteção da corrente levando a danos nos artigos
+
+Vibração excessiva da corrente danificando os artigos transportados
+
+Artigos presos nas guias da corrente resultando em danos
+
+Problemas de lubrificação da corrente causando danos aos artigos
+
+Falha no tensionamento adequado da corrente levando a danos nos artigos transportados
+
+Desgaste prematuro da corrente resultando em danos nos artigos
+
+Mau funcionamento dos dispositivos de retenção da corrente causando danos aos artigos
+
+Artigos soltos ou desprotegidos durante o transporte na corrente
+
+Desprendimento de componentes da corrente causando danos aos artigos transportados
+
+Quebra de elos da corrente resultando em danos nos artigos
+
+Corrente enroscada nos artigos transportados causando danos
+
+Falha no sistema de monitoramento da corrente levando a danos nos artigos
+
+Artigos deslocados ou desalinhados durante o transporte na corrente
+
+Problemas de resistência à tração da corrente resultando em danos nos artigos
+
+Danos causados por objetos estranhos presentes na corrente
+
+Desprendimento de peças da corrente durante a operação causando danos aos artigos transportados
+
+Artigos arrastados ou arranhados pela corrente resultando em danos
+
+Falha no sistema de freio da corrente levando a danos nos artigos transportados
+
+Má instalação ou montagem da corrente resultando em danos nos artigos
+
+Artigos enganchados nos dentes da corrente causando danos
+
+Desalinhamento dos rolos da corrente resultando em danos nos artigos transportados
+
+Sobrecarga de peso nos artigos transportados danificando a corrente e os próprios artigos
+
+Problemas de vedação na corrente permitindo a entrada de sujeira e causando danos aos artigos
+
+Danos causados por atrito excessivo entre a corrente e os artigos transportados
+
+Corrente enferrujada ou corroída danificando os artigos
+
+Problemas de temperatura elevada na corrente resultando em danos aos artigos
+
+Artigos presos ou danificados nos dispositivos de acionamento da corrente
+
+Falha no sistema de controle da velocidade da corrente causando danos nos artigos transportados
+
+Inadequação do tamanho da corrente em relação aos artigos transportados resultando em danos
+
+Artigos desprendidos ou soltos durante a operação da corrente
+
+Desgaste dos componentes de acionamento da corrente causando danos aos artigos
+
+Problemas de sincronização entre os sistemas de acionamento e os artigos transportados
+
+Danos causados por impactos externos na corrente e nos artigos transportados
+
+Bloqueio ou travamento dos dispositivos de segurança da corrente causando danos aos artigos
+
+Problemas de ajuste ou regulagem dos dispositivos de acionamento da corrente
+
+Artigos danificados devido a falhas nos sensores de detecção de carga na corrente
+
+Danos causados por falhas nos sistemas de inspeção da corrente
+
+Falha no sistema de detecção de falhas na corrente causando danos nos artigos transportados
+
+Mau funcionamento dos sistemas de freio da corrente resultando em danos aos artigos
+
+Artigos presos nos espaços entre os dentes da corrente causando danos
+
+Desalinhamento dos componentes de acionamento da corrente resultando em danos nos artigos transportados
+
+Problemas de torque excessivo ou insuficiente na corrente danificando os artigos
+
+Danos causados por falhas nos sistemas de monitoramento da corrente durante a operação
+
+Falha no sistema de lubrificação da corrente levando a danos nos artigos transportados
+
+Artigos danificados devido a problemas nos sistemas de tensionamento da corrente
+
+Desgaste irregular da corrente resultando em danos nos artigos transportados
+
+Problemas de estabilidade dos artigos durante o transporte na corrente
+
+Artigos soltos ou desprotegidos durante o transporte na corrente
+
+Desprendimento de componentes da corrente causando danos aos artigos transportados
+
+Quebra de elos da corrente resultando em danos nos artigos
+
+Corrente enroscada nos artigos transportados causando danos
+
+Falha no sistema de monitoramento da corrente levando a danos nos artigos
+
+Artigos deslocados ou desalinhados durante o transporte na corrente
+
+Problemas de resistência à tração da corrente resultando em danos nos artigos
+
+Danos causados por objetos estranhos presentes na corrente
+
+Desprendimento de peças da corrente durante a operação causando danos aos artigos transportados
+
+Artigos arrastados ou arranhados pela corrente resultando em danos
+
+Falha no sistema de freio da corrente levando a danos nos artigos transportados
+
+Má instalação ou montagem da corrente resultando em danos nos artigos
+
+Artigos enganchados nos dentes da corrente causando danos
+
+Desalinhamento dos rolos da corrente resultando em danos nos artigos transportados
+
+Sobrecarga de peso nos artigos transportados danificando a corrente e os próprios artigos
+
+Problemas de vedação na corrente permitindo a entrada de sujeira e causando danos aos artigos
+
+Danos causados por atrito excessivo entre a corrente e os artigos transportados
+
+Corrente enferrujada ou corroída danificando os artigos
+
+Problemas de temperatura elevada na corrente resultando em danos aos artigos
+
+Artigos presos ou danificados nos dispositivos de acionamento da corrente
+
+Falha no sistema de controle da velocidade da corrente causando danos nos artigos transportados
+
+Inadequação do tamanho da corrente em relação aos artigos transportados resultando em danos
+
+Artigos desprendidos ou soltos durante a operação da corrente
+
+Desgaste dos componentes de acionamento da corrente causando danos aos artigos
+
+Problemas de sincronização entre os sistemas de acionamento e os artigos transportados
+
+Danos causados por obstruções na corrente durante o transporte dos artigos
+
+Falha no sistema de detecção de falhas na corrente causando danos nos artigos transportados
+
+Mau funcionamento dos sistemas de freio da corrente resultando em danos aos artigos
+
+Artigos presos nos espaços entre os dentes da corrente causando danos
+
+Desalinhamento dos componentes de acionamento da corrente resultando em danos nos artigos transportados
+
+Problemas de torque excessivo ou insuficiente na corrente danificando os artigos
+
+Danos causados por falhas nos sistemas de monitoramento da corrente durante a operação
+
+Falha no sistema de lubrificação da corrente levando a danos nos artigos transportados
+
+Artigos danificados devido a problemas nos sistemas de tensionamento da corrente
+
+Desgaste irregular da corrente resultando em danos nos artigos transportados
+
+Problemas de estabilidade dos artigos durante o transporte na corrente
+
+Artigos soltos ou desprotegidos durante o transporte na corrente
+
+Desprendimento de componentes da corrente causando danos aos artigos transportados
+
+Quebra de elos da corrente resultando em danos nos artigos
+
+Corrente enroscada nos artigos transportados causando danos
+
+Falha no sistema de monitoramento da corrente levando a danos nos artigos
+
+Artigos deslocados ou desalinhados durante o transporte na corrente
+
+Problemas de resistência à tração da corrente resultando em danos nos artigos
+
+Danos causados por objetos estranhos presentes na corrente
+
+Desprendimento de peças da corrente durante a operação causando danos aos artigos transportados
+
+Artigos arrastados ou arranhados pela corrente resultando em danos
+
+Falha no sistema de freio da corrente levando a danos nos artigos transportados
+
+Má instalação ou montagem da corrente resultando em danos nos artigos
+
+Artigos enganchados nos dentes da corrente causando danos
+
+Desalinhamento dos rolos da corrente resultando em danos nos artigos transportados

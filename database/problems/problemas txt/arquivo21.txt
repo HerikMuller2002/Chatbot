@@ -48,3 +48,153 @@ Vazamento de fluido no ponto de junção do corpo ao capô da válvula
 Problema de perda de vedação na conexão do corpo com o capô da válvula
 Vazamento de óleo na área da interface do corpo ao capô da válvula
 Problema de escape de líquido no acoplamento do corpo com o capô da válvula
+Vazamento na junta entre o corpo e o capô da válvula.
+Problema de vazamento da junta do corpo ao capô em válvulas.
+Válvula apresentando vazamento na conexão entre o corpo e o capô.
+Vazamento indesejado na junta da válvula entre o corpo e o capô.
+Junta do corpo ao capô com vazamento em válvulas.
+Problema de vedação na junta do corpo ao capô de válvulas.
+Vazamento contínuo na junta do corpo ao capô em válvulas.
+Falha na vedação entre o corpo e o capô da válvula, resultando em vazamento.
+Válvula com vazamento na junta do corpo ao capô, comprometendo o desempenho.
+Vazamento persistente na conexão entre o corpo e o capô da válvula.
+Problema de vazamento da junta do corpo ao capô que requer substituição.
+Vazamento de fluido na junta do corpo ao capô em válvulas.
+Válvula com falha de vedação na junta entre o corpo e o capô.
+Vazamento crônico na junta do corpo ao capô em válvulas.
+Problema de vedação persistente na conexão do corpo com o capô da válvula.
+Vazamento constante na junta do corpo ao capô, afetando a eficiência.
+Válvula apresentando vazamento na junta entre o corpo e o capô, prejudicando a segurança.
+Vazamento recorrente na junta do corpo ao capô em válvulas.
+Problema de vedação contínua na conexão entre o corpo e o capô da válvula.
+Vazamento não solucionado na junta do corpo ao capô, demandando reparo.
+Válvula com vazamento persistente na junta entre o corpo e o capô.
+Vazamento contínuo de fluido na junta do corpo ao capô em válvulas.
+Problema de vedação recorrente na conexão do corpo com o capô da válvula.
+Vazamento constante na junta do corpo ao capô, requerendo manutenção.
+Válvula apresentando vazamento na junta entre o corpo e o capô, impactando a produtividade.
+Vazamento frequente na junta do corpo ao capô em válvulas.
+Problema de vedação persistente na conexão entre o corpo e o capô da válvula.
+Vazamento contínuo na junta do corpo ao capô, prejudicando a confiabilidade.
+Válvula com vazamento crônico na junta entre o corpo e o capô.
+Vazamento ininterrupto na junta do corpo ao capô em válvulas.
+Problema de vedação constante na conexão do corpo com o capô da válvula.
+Vazamento não resolvido na junta do corpo ao capô, exigindo inspeção.
+Válvula com vazamento persistente na junta entre o corpo e o capô.
+Vazamento contínuo de fluido na junta do corpo ao capô em válvulas.
+Problema de vedação recorrente na conexão do corpo com o capô da válvula.
+Vazamento constante na junta do corpo ao capô, necessitando de reparo imediato.
+Válvula apresentando vazamento na junta entre o corpo e o capô, afetando a eficiência.
+Vazamento frequente na junta do corpo ao capô em válvulas.
+Problema de vedação persistente na conexão entre o corpo e o capô da válvula.
+Vazamento contínuo na junta do corpo ao capô, comprometendo a segurança.
+Válvula com vazamento crônico na junta entre o corpo e o capô.
+Vazamento constante na junta do corpo ao capô em válvulas.
+Problema de vedação contínua na conexão do corpo com o capô da válvula.
+Vazamento não solucionado na junta do corpo ao capô, demandando manutenção especializada.
+Válvula com vazamento persistente na junta entre o corpo e o capô.
+Vazamento recorrente de fluido na junta do corpo ao capô em válvulas.
+Problema de vedação contínua na conexão entre o corpo e o capô da válvula.
+Vazamento constante na junta do corpo ao capô, exigindo intervenção imediata.
+Válvula apresentando vazamento na junta entre o corpo e o capô, impactando a produtividade.
+Vazamento frequente na junta do corpo ao capô em válvulas.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta.
+Problema de vedação na junta do corpo ao capô, causando perda de fluido.
+Vazamento contínuo no encaixe entre o corpo e o capô da válvula.
+Junta do corpo ao capô com falha de vedação, resultando em vazamento indesejado.
+Válvula apresentando vazamento crônico na junta entre o corpo e o capô.
+Vazamento constante na conexão do corpo com o capô da válvula borboleta.
+Problema de vedação persistente na junta do corpo ao capô, afetando a eficiência operacional.
+Vazamento frequente na junta entre o corpo e o capô da válvula.
+Válvula com vazamento recorrente na junta do corpo ao capô.
+Vazamento contínuo de fluido no acoplamento entre o corpo e o capô da válvula borboleta.
+Problema de vedação constante na junta do corpo ao capô, requerendo ação corretiva.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta.
+Válvula apresentando vazamento contínuo na junta entre o corpo e o capô.
+Vazamento crônico na junta do corpo ao capô da válvula.
+Problema de vedação recorrente na conexão do corpo com o capô da válvula borboleta.
+Vazamento constante na junta do corpo ao capô, demandando reparo imediato.
+Válvula com vazamento persistente no encaixe entre o corpo e o capô.
+Vazamento contínuo de fluido na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação persistente na conexão entre o corpo e o capô da válvula.
+Vazamento frequente na junta do corpo ao capô, impactando a segurança operacional.
+Válvula apresentando vazamento recorrente na junta entre o corpo e o capô.
+Vazamento constante na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação contínua na conexão do corpo com o capô da válvula.
+Vazamento não solucionado na junta do corpo ao capô, demandando intervenção especializada.
+Válvula com vazamento persistente na junta entre o corpo e o capô.
+Vazamento recorrente de fluido na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação contínua na conexão entre o corpo e o capô da válvula.
+Vazamento constante na junta do corpo ao capô, exigindo manutenção imediata.
+Válvula apresentando vazamento na junta entre o corpo e o capô, comprometendo a produtividade.
+Vazamento frequente na junta do corpo ao capô em válvulas borboleta.
+Falha de vedação na junta do corpo ao capô da válvula, resultando em vazamento.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta, prejudicando o desempenho.
+Problema de vedação na junta do corpo ao capô, requerendo solução imediata.
+Vazamento contínuo no encaixe entre o corpo e o capô da válvula, exigindo reparo.
+Junta do corpo ao capô com falha de vedação, ocasionando perda de fluido indesejada.
+Válvula apresentando vazamento crônico na junta entre o corpo e o capô.
+Vazamento constante na conexão do corpo com o capô da válvula borboleta, prejudicando o processo.
+Problema de vedação persistente na junta do corpo ao capô, impactando a eficiência operacional.
+Vazamento frequente na junta entre o corpo e o capô da válvula, requerendo intervenção.
+Válvula com vazamento recorrente na junta do corpo ao capô.
+Vazamento contínuo de fluido no acoplamento entre o corpo e o capô da válvula borboleta.
+Problema de vedação constante na junta do corpo ao capô, demandando ação corretiva.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta.
+Válvula apresentando vazamento contínuo na junta entre o corpo e o capô.
+Vazamento crônico na junta do corpo ao capô da válvula, prejudicando a operação.
+Problema de vedação recorrente na conexão do corpo com o capô da válvula borboleta.
+Vazamento constante na junta do corpo ao capô, exigindo reparo imediato.
+Válvula com vazamento persistente no encaixe entre o corpo e o capô.
+Vazamento contínuo de fluido na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação persistente na conexão entre o corpo e o capô da válvula.
+Vazamento frequente na junta do corpo ao capô, comprometendo a segurança operacional.
+Válvula apresentando vazamento recorrente na junta entre o corpo e o capô.
+Vazamento constante na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação contínua na conexão do corpo com o capô da válvula.
+Vazamento não solucionado na junta do corpo ao capô, demandando intervenção especializada.
+Válvula com vazamento persistente na junta entre o corpo e o capô.
+Vazamento recorrente de fluido na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação contínua na conexão entre o corpo e o capô da válvula.
+Vazamento constante na junta do corpo ao capô, exigindo manutenção imediata.
+Válvula apresentando vazamento na junta entre o corpo e o capô, comprometendo a funcionalidade.
+Vazamento frequente na junta do corpo ao capô em válvulas borboleta.
+Falha de vedação na junta do corpo ao capô da válvula, resultando em perda de fluido.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta, impactando a eficácia.
+Problema de vedação na junta do corpo ao capô, demandando solução imediata.
+Vazamento contínuo no encaixe entre o corpo e o capô da válvula, requerendo reparo.
+Junta do corpo ao capô com falha de vedação, causando vazamento indesejado de fluido.
+Válvula apresentando vazamento crônico na junta entre o corpo e o capô.
+Vazamento constante na conexão do corpo com o capô da válvula borboleta, prejudicando a operação.
+Problema de vedação persistente na junta do corpo ao capô, afetando a eficiência operacional.
+Vazamento frequente na junta entre o corpo e o capô da válvula, requerendo ação corretiva.
+Válvula com vazamento recorrente na junta do corpo ao capô.
+Vazamento contínuo de fluido no acoplamento entre o corpo e o capô da válvula borboleta.
+Problema de vedação constante na junta do corpo ao capô, exigindo atenção imediata.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta.
+Válvula apresentando vazamento contínuo na junta entre o corpo e o capô.
+Vazamento crônico na junta do corpo ao capô da válvula, prejudicando o desempenho.
+Problema de vedação recorrente na conexão do corpo com o capô da válvula borboleta.
+Vazamento constante na junta do corpo ao capô, demandando reparo imediato.
+Válvula com vazamento persistente no encaixe entre o corpo e o capô.
+Vazamento contínuo de fluido na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação persistente na conexão entre o corpo e o capô da válvula.
+Vazamento frequente na junta do corpo ao capô, impactando a segurança operacional.
+Válvula apresentando vazamento recorrente na junta entre o corpo e o capô.
+Vazamento constante na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação contínua na conexão do corpo com o capô da válvula.
+Vazamento não solucionado na junta do corpo ao capô, demandando intervenção especializada.
+Válvula com vazamento persistente na junta entre o corpo e o capô.
+Vazamento recorrente de fluido na junta do corpo ao capô em válvulas borboleta.
+Problema de vedação contínua na conexão entre o corpo e o capô da válvula.
+Vazamento constante na junta do corpo ao capô, exigindo manutenção imediata.
+Válvula apresentando vazamento na junta entre o corpo e o capô, comprometendo a funcionalidade.
+Vazamento frequente na junta do corpo ao capô em válvulas borboleta.
+Falha de vedação na junta do corpo ao capô da válvula, resultando em perda de fluido.
+Vazamento persistente na conexão entre o corpo e o capô da válvula borboleta, impactando a eficácia.
+Problema de vedação na junta do corpo ao capô, demandando solução imediata.
+Vazamento contínuo no encaixe entre o corpo e o capô da válvula, requerendo reparo.
+Junta do corpo ao capô com falha de vedação, causando vazamento indesejado de fluido.
+Válvula apresentando vazamento crônico na junta entre o corpo e o capô.
+Vazamento constante na conexão do corpo com o capô da válvula borboleta, prejudicando a operação.
+Problema de vedação persistente na junta do corpo ao capô, afetando a eficiência operacional.

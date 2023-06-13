@@ -48,3 +48,203 @@ Desempenho comprometido em termos de capacidade e pressão devido a restrições
 Queda na capacidade de pressurização e pressão da bomba
 Flutuações no fluxo e pressão da bomba devido a problemas de capacidade
 Ineficiência de bombeamento causada por redução na capacidade ou pressão
+Baixa vazão da bomba.
+Pressão insuficiente na bomba.
+Fluxo reduzido da bomba.
+Falta de pressurização adequada.
+Bombeamento ineficiente.
+Perda de capacidade da bomba.
+Fluxo de líquido diminuído.
+Pressão abaixo do esperado.
+Bombeamento fraco.
+Falha na geração de pressão.
+Redução no desempenho da bomba.
+Queda na capacidade de bombeamento.
+Falta de força da bomba.
+Vazão abaixo do normal.
+Pressão de saída abaixo do recomendado.
+Dificuldade em manter a pressão adequada.
+Ineficiência na transferência de líquidos.
+Redução na taxa de fluxo.
+Falha na pressurização do sistema.
+Capacidade de bombeamento comprometida.
+Queda na pressão de operação.
+Inconsistência na entrega de líquido.
+Redução na velocidade de bombeamento.
+Pressão de descarga abaixo do esperado.
+Baixa potência de bombeamento.
+Fluxo limitado da bomba.
+Perda de eficiência na bomba.
+Queda na taxa de transferência de líquidos.
+Inadequação na pressão de alimentação.
+Redução de capacidade de pressurização.
+Falha no desempenho de bombeamento.
+Diminuição da força de bombeamento.
+Vazão insuficiente da bomba.
+Pressão deficiente no sistema.
+Bombeamento com pouca potência.
+Fluxo de líquido restrito.
+Perda de rendimento da bomba.
+Queda na taxa de bombeamento.
+Inconsistência na pressão de saída.
+Redução na eficiência de transferência de líquidos.
+Problemas de capacidade de bombeamento.
+Queda na pressão de descarga.
+Ineficiência no fornecimento de líquidos.
+Redução na velocidade de bombeamento.
+Pressão de saída abaixo do necessário.
+Baixa potência de bombeamento.
+Fluxo limitado ou restrito da bomba.
+Perda de eficiência no bombeamento.
+Diminuição na taxa de transferência de líquidos.
+Inadequação na pressão de entrada.
+Redução na capacidade de pressurização.
+Falha no desempenho de bombeamento.
+Baixa força de bombeamento.
+Vazão insuficiente do sistema.
+Pressão deficiente na bomba.
+Bombeamento com pouca potência.
+Restrição no fluxo de líquido.
+Perda de rendimento no sistema de bombeamento.
+Queda na taxa de bombeamento.
+Inconsistência na pressão de descarga.
+Redução na eficiência de transferência de líquidos.
+Problemas de capacidade de pressurização.
+Diminuição na pressão de saída.
+Ineficiência no fornecimento de líquidos.
+Redução na velocidade de bombeamento.
+Baixa pressão de descarga da bomba.
+Baixa potência de bombeamento.
+Restrição no fluxo de líquido da bomba.
+Perda de eficiência no sistema de bombeamento.
+Diminuição na taxa de transferência de líquidos.
+Inadequação na pressão de entrada.
+Redução na capacidade de pressurização da bomba.
+Falha no desempenho de bombeamento.
+Baixa força de bombeamento da bomba.
+Vazão insuficiente do sistema de bombeamento.
+Pressão deficiente no sistema de bombeamento.
+Bombeamento com pouca potência.
+Restrição no fluxo de líquido do sistema.
+Perda de rendimento no bombeamento.
+Queda na taxa de bombeamento.
+Inconsistência na pressão de saída da bomba.
+Redução na eficiência de transferência de líquidos.
+Problemas de capacidade de pressurização da bomba.
+Diminuição na pressão de descarga da bomba.
+Ineficiência no fornecimento de líquidos.
+Redução na velocidade de bombeamento da bomba.
+Baixa pressão de descarga do sistema de bombeamento.
+Baixa potência de bombeamento da bomba.
+Restrição no fluxo de líquido do sistema de bombeamento.
+Perda de eficiência no sistema de bombeamento.
+Diminuição na taxa de transferência de líquidos.
+Inadequação na pressão de entrada da bomba.
+Redução na capacidade de pressurização do sistema.
+Falha no desempenho de bombeamento da bomba.
+Baixa força de bombeamento do sistema de bombeamento.
+Vazão insuficiente do sistema de bombeamento.
+Pressão deficiente no sistema de bombeamento.
+Bombeamento com pouca potência.
+Restrição no fluxo de líquido da bomba.
+Perda de rendimento no sistema de bombeamento.
+Pressão de descarga abaixo do normal na bomba.
+Queda de pressão durante a operação da bomba.
+Capacidade de bombeamento reduzida na bomba.
+Baixa eficiência de pressurização da bomba.
+Pressão insuficiente no sistema de bombeamento.
+Fluxo limitado ou restrito na bomba.
+Problemas de sucção da bomba.
+Vazão abaixo do recomendado na bomba.
+Pressão de saída menor que o esperado na bomba.
+Diminuição da capacidade de bombeamento da bomba.
+Falha na pressurização do sistema de bombeamento.
+Baixa taxa de transferência de líquidos na bomba.
+Queda na pressão de operação da bomba.
+Perda de potência de bombeamento na bomba.
+Restrição no fluxo de líquido da bomba.
+Pressão de descarga insuficiente na bomba.
+Baixa vazão de líquido na bomba.
+Problemas de desempenho na bomba devido à pressão reduzida.
+Incapacidade da bomba de gerar a pressão necessária.
+Fluxo de líquido abaixo do normal na bomba.
+Pressão deficiente durante o funcionamento da bomba.
+Capacidade de pressurização comprometida na bomba.
+Problemas de bombeamento devido à baixa pressão.
+Redução na velocidade de bombeamento da bomba.
+Pressão de descarga abaixo do limite mínimo na bomba.
+Queda na potência de bombeamento da bomba.
+Restrição no fluxo de líquido do sistema de bombeamento.
+Pressão de saída insuficiente na bomba.
+Falha na capacidade de pressurização da bomba.
+Baixa taxa de transferência de líquidos na bomba.
+Queda na pressão de descarga da bomba.
+Incapacidade da bomba de fornecer pressão adequada.
+Fluxo limitado devido à pressão reduzida na bomba.
+Pressão deficiente na operação da bomba.
+Capacidade de bombeamento comprometida devido à pressão reduzida.
+Baixa eficiência de pressurização na bomba.
+Problemas de sucção devido à pressão reduzida na bomba.
+Vazão insuficiente de líquido na bomba.
+Pressão de saída menor que o necessário na bomba.
+Redução da capacidade de bombeamento devido à pressão reduzida.
+Falha na pressurização do sistema de bombeamento.
+Baixa taxa de transferência de líquidos no sistema de bombeamento.
+Queda na pressão de operação do sistema de bombeamento.
+Perda de potência de bombeamento no sistema de bombeamento.
+Restrição no fluxo de líquido do sistema de bombeamento.
+Pressão de descarga insuficiente no sistema de bombeamento.
+Baixa vazão de líquido no sistema de bombeamento.
+Problemas de desempenho devido à pressão reduzida no sistema de bombeamento.
+Incapacidade do sistema de bombeamento de gerar a pressão necessária.
+Fluxo de líquido abaixo do normal no sistema de bombeamento.
+Pressão deficiente durante o funcionamento do sistema de bombeamento.
+Capacidade de pressurização comprometida no sistema de bombeamento.
+Problemas de bombeamento devido à baixa pressão no sistema de bombeamento.
+Redução na velocidade de bombeamento do sistema de bombeamento.
+Pressão de descarga abaixo do limite mínimo no sistema de bombeamento.
+Queda na potência de bombeamento do sistema de bombeamento.
+Restrição no fluxo de líquido do sistema de bombeamento.
+Pressão de saída insuficiente no sistema de bombeamento.
+Falha na capacidade de pressurização do sistema de bombeamento.
+Baixa taxa de transferência de líquidos no sistema de bombeamento.
+Queda na pressão de descarga do sistema de bombeamento.
+Incapacidade do sistema de bombeamento de fornecer pressão adequada.
+Fluxo limitado devido à pressão reduzida no sistema de bombeamento.
+Pressão deficiente no sistema de bombeamento.
+Capacidade de bombeamento comprometida devido à pressão reduzida no sistema de bombeamento.
+Baixa eficiência de pressurização no sistema de bombeamento.
+Problemas de sucção devido à pressão reduzida no sistema de bombeamento.
+Vazão insuficiente de líquido no sistema de bombeamento.
+Pressão de saída menor que o necessário no sistema de bombeamento.
+Redução da capacidade de bombeamento devido à pressão reduzida no sistema de bombeamento.
+Falha na pressurização do sistema de bombeamento.
+Baixa taxa de transferência de líquidos no sistema de bombeamento.
+Queda na pressão de operação do sistema de bombeamento.
+Perda de potência de bombeamento no sistema de bombeamento.
+Restrição no fluxo de líquido do sistema de bombeamento.
+Pressão de descarga insuficiente no sistema de bombeamento.
+Baixa vazão de líquido no sistema de bombeamento.
+Problemas de desempenho devido à pressão reduzida no sistema de bombeamento.
+Incapacidade do sistema de bombeamento de gerar a pressão necessária.
+Fluxo de líquido abaixo do normal no sistema de bombeamento.
+Pressão deficiente durante o funcionamento do sistema de bombeamento.
+Capacidade de pressurização comprometida no sistema de bombeamento.
+Problemas de bombeamento devido à baixa pressão no sistema de bombeamento.
+Redução na velocidade de bombeamento do sistema de bombeamento.
+Pressão de descarga abaixo do limite mínimo no sistema de bombeamento.
+Queda na potência de bombeamento do sistema de bombeamento.
+Restrição no fluxo de líquido do sistema de bombeamento.
+Pressão de saída insuficiente no sistema de bombeamento.
+Falha na capacidade de pressurização do sistema de bombeamento.
+Baixa taxa de transferência de líquidos no sistema de bombeamento.
+Queda na pressão de descarga do sistema de bombeamento.
+Incapacidade do sistema de bombeamento de fornecer pressão adequada.
+Fluxo limitado devido à pressão reduzida no sistema de bombeamento.
+Pressão deficiente no sistema de bombeamento.
+Capacidade de bombeamento comprometida devido à pressão reduzida no sistema de bombeamento.
+Baixa eficiência de pressurização no sistema de bombeamento.
+Problemas de sucção devido à pressão reduzida no sistema de bombeamento.
+Vazão insuficiente de líquido no sistema de bombeamento.
+Pressão de saída menor que o necessário no sistema de bombeamento.
+Redução da capacidade de bombeamento devido à pressão reduzida no sistema de bombeamento.

@@ -48,3 +48,153 @@ Vazamento na válvula de alívio de pressão em sistemas de tubulação de alta 
 Problema de perda de substância na válvula de segurança de pressão
 Vazamento no dispositivo de alívio de pressão em sistemas de tubulação industrial
 Problema de escape de fluido na válvula de segurança de pressão
+Vazamento em válvula de segurança de pressão
+Problema de vedação em válvula de segurança
+Vazamento contínuo em válvula de alívio de pressão
+Falha de vedação em válvula de alívio de pressão
+Válvula de segurança com escape de fluido
+Vazamento excessivo em válvula de segurança de pressurização
+Problema de vazamento em válvula de alívio de pressão
+Válvula de segurança com perda de fluido
+Vazamento anormal em válvula de segurança de processo
+Problema de vedação em válvula de alívio de pressão de gás
+Válvula de segurança com escape de vapor
+Vazamento contínuo em válvula de alívio de pressão de vapor
+Problema de vazamento em válvula de segurança de líquido
+Válvula de segurança com perda de pressão
+Vazamento excessivo em válvula de alívio de pressão de ar
+Problema de vedação em válvula de alívio de pressão hidráulica
+Válvula de segurança com escape de gás
+Vazamento anormal em válvula de segurança de vapor
+Problema de vazamento em válvula de alívio de pressão de óleo
+Válvula de segurança com perda de vácuo
+Vazamento contínuo em válvula de alívio de pressão de fluido
+Problema de vedação em válvula de alívio de pressão de líquido
+Válvula de segurança com escape de líquido
+Vazamento excessivo em válvula de alívio de pressão de água
+Problema de vazamento em válvula de segurança de ar
+Válvula de segurança com perda de gás
+Vazamento anormal em válvula de segurança de óleo
+Problema de vedação em válvula de alívio de pressão de vapor de processo
+Válvula de segurança com escape de óleo
+Vazamento contínuo em válvula de alívio de pressão de fluido corrosivo
+Problema de vazamento em válvula de segurança de líquido inflamável
+Válvula de segurança com perda de vácuo de processo
+Vazamento excessivo em válvula de alívio de pressão de ar comprimido
+Problema de vedação em válvula de alívio de pressão de vapor superaquecido
+Válvula de segurança com escape de gás natural
+Vazamento anormal em válvula de segurança de fluido refrigerante
+Problema de vazamento em válvula de alívio de pressão de óleo combustível
+Válvula de segurança com perda de pressão de água potável
+Vazamento contínuo em válvula de alívio de pressão de líquido corrosivo
+Problema de vedação em válvula de alívio de pressão de gás comprimido
+Válvula de segurança com escape de vapor de processo
+Vazamento excessivo em válvula de alívio de pressão de ar comprimido industrial
+Problema de vazamento em válvula de segurança de líquido tóxico
+Válvula de segurança com perda de gás de processo
+Vazamento anormal em válvula de segurança de vapor de alta pressão
+Problema de vedação em válvula de alívio de pressão de líquido inflamável
+Válvula de segurança com escape de óleo lubrificante
+Vazamento contínuo em válvula de alívio de pressão de fluido corrosivo ácido
+Problema de vazamento em válvula de segurança de ar comprimido industrial
+Válvula de segurança com perda de pressão de gás natural
+Vazamento em válvula de segurança de pressão de fluido corrosivo
+Problema de vedação em válvula de alívio de pressão de líquido inflamável
+Válvula de segurança com escape de água potável
+Vazamento contínuo em válvula de alívio de pressão de gás comprimido industrial
+Problema de vazamento em válvula de segurança de vapor de alta pressão
+Válvula de segurança com perda de óleo lubrificante
+Vazamento excessivo em válvula de alívio de pressão de fluido corrosivo ácido
+Problema de vedação em válvula de alívio de pressão de ar comprimido industrial
+Válvula de segurança com escape de gás natural
+Vazamento anormal em válvula de segurança de fluido refrigerante
+Problema de vazamento em válvula de alívio de pressão de óleo combustível
+Válvula de segurança com perda de vácuo de processo
+Vazamento contínuo em válvula de alívio de pressão de água quente
+Problema de vedação em válvula de alívio de pressão de vapor de processo
+Válvula de segurança com escape de água de resfriamento
+Vazamento excessivo em válvula de alívio de pressão de ar comprimido seco
+Problema de vazamento em válvula de segurança de líquido corrosivo
+Válvula de segurança com perda de pressão de vapor superaquecido
+Vazamento anormal em válvula de segurança de ar comprimido seco
+Problema de vedação em válvula de alívio de pressão de líquido tóxico
+Válvula de segurança com escape de óleo de refrigeração
+Vazamento contínuo em válvula de alívio de pressão de fluido inflamável
+Problema de vazamento em válvula de segurança de gás combustível
+Válvula de segurança com perda de vácuo de processo industrial
+Vazamento excessivo em válvula de alívio de pressão de ar comprimido úmido
+Problema de vedação em válvula de alívio de pressão de vapor corrosivo
+Válvula de segurança com escape de gás comprimido
+Vazamento anormal em válvula de segurança de líquido inflamável corrosivo
+Problema de vazamento em válvula de segurança de óleo lubrificante
+Válvula de segurança com perda de pressão de gás comprimido
+Vazamento contínuo em válvula de alívio de pressão de água de resfriamento
+Problema de vedação em válvula de alívio de pressão de vapor superaquecido
+Válvula de segurança com escape de água de processo
+Vazamento excessivo em válvula de alívio de pressão de fluido tóxico
+Problema de vazamento em válvula de segurança de ar comprimido úmido
+Válvula de segurança com perda de pressão de líquido corrosivo ácido
+Vazamento anormal em válvula de segurança de gás natural
+Problema de vedação em válvula de alívio de pressão de óleo de refrigeração
+Válvula de segurança com escape de líquido corrosivo
+Vazamento contínuo em válvula de alívio de pressão de ar comprimido seco
+Problema de vazamento em válvula de segurança de vapor corrosivo
+Válvula de segurança com perda de vácuo de processo químico
+Vazamento excessivo em válvula de alívio de pressão de fluido inflamável ácido
+Problema de vedação em válvula de alívio de pressão de gás comprimido úmido
+Válvula de segurança com escape de água quente
+Vazamento anormal em válvula de segurança de líquido tóxico corrosivo
+Problema de vazamento em válvula de segurança de ar comprimido seco
+Válvula de segurança com perda de pressão de vapor corrosivo
+Vazamento contínuo em válvula de alívio de pressão de óleo de refrigeração
+Problema de vedação em válvula de alívio de pressão de gás natural comprimido
+Válvula de segurança com escape de líquido inflamável
+Vazamento excessivo em válvula de alívio de pressão de fluido corrosivo tóxico
+Problema de vazamento em válvula de segurança de vapor superaquecido corrosivo
+Válvula de segurança com perda de vácuo de processo industrial químico
+Vazamento anormal em válvula de segurança de ar comprimido úmido corrosivo
+Problema de vedação em válvula de alívio de pressão de líquido inflamável tóxico
+Válvula de segurança com escape de gás comprimido industrial
+Vazamento contínuo em válvula de alívio de pressão de água de processo
+Problema de vazamento em válvula de segurança de óleo de refrigeração
+Válvula de segurança com perda de pressão de gás natural comprimido corrosivo
+Vazamento excessivo em válvula de alívio de pressão de fluido inflamável ácido tóxico
+Problema de vedação em válvula de alívio de pressão de vapor corrosivo químico
+Válvula de segurança com escape de líquido inflamável corrosivo
+Vazamento anormal em válvula de segurança de líquido tóxico ácido
+Problema de vazamento em válvula de segurança de ar comprimido seco corrosivo
+Válvula de segurança com perda de vácuo de processo químico industrial
+Vazamento contínuo em válvula de alívio de pressão de óleo de refrigeração corrosivo
+Problema de vedação em válvula de alívio de pressão de gás natural comprimido ácido
+Válvula de segurança com escape de líquido inflamável tóxico
+Vazamento excessivo em válvula de alívio de pressão de fluido corrosivo tóxico ácido
+Problema de vazamento em válvula de segurança de vapor superaquecido corrosivo químico
+Válvula de segurança com perda de vácuo de processo industrial químico corrosivo
+Vazamento anormal em válvula de segurança de ar comprimido úmido corrosivo ácido
+Problema de vedação em válvula de alívio de pressão de líquido inflamável tóxico corrosivo
+Válvula de segurança com escape de gás comprimido industrial ácido
+Vazamento contínuo em válvula de alívio de pressão de água de processo corrosivo
+Problema de vazamento em válvula de segurança de óleo de refrigeração corrosivo
+Válvula de segurança com perda de pressão de gás natural comprimido corrosivo químico
+Vazamento excessivo em válvula de alívio de pressão de fluido inflamável ácido tóxico corrosivo
+Problema de vedação em válvula de alívio de pressão de vapor corrosivo químico industrial
+Válvula de segurança com escape de líquido inflamável corrosivo tóxico
+Vazamento anormal em válvula de segurança de líquido tóxico ácido químico
+Problema de vazamento em válvula de segurança de ar comprimido seco corrosivo químico
+Válvula de segurança com perda de vácuo de processo químico industrial corrosivo
+Vazamento contínuo em válvula de alívio de pressão de óleo de refrigeração corrosivo químico
+Problema de vedação em válvula de alívio de pressão de gás natural comprimido ácido químico
+Válvula de segurança com escape de líquido inflamável tóxico corrosivo industrial
+Vazamento excessivo em válvula de alívio de pressão de fluido corrosivo tóxico ácido químico
+Problema de vazamento em válvula de segurança de vapor superaquecido corrosivo químico industrial
+Válvula de segurança com perda de vácuo de processo industrial químico corrosivo tóxico
+Vazamento anormal em válvula de segurança de ar comprimido úmido corrosivo ácido químico
+Problema de vedação em válvula de alívio de pressão de líquido inflamável tóxico corrosivo químico
+Válvula de segurança com escape de gás comprimido industrial ácido químico
+Vazamento contínuo em válvula de alívio de pressão de água de processo corrosivo químico
+Problema de vazamento em válvula de segurança de óleo de refrigeração corrosivo químico
+Válvula de segurança com perda de pressão de gás natural comprimido corrosivo químico industrial
+Vazamento excessivo em válvula de alívio de pressão de fluido inflamável ácido tóxico corrosivo químico industrial
+Problema de vedação em válvula de alívio de pressão de vapor corrosivo químico industrial tóxico
+Válvula de segurança com escape de líquido inflamável corrosivo tóxico industrial
+Vazamento anormal em válvula de segurança de líquido tóxico ácido químico industrial

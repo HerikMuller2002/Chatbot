@@ -370,79 +370,41 @@ Problema de recirculação contínua de água pela bomba
 A bomba não está expelindo a água após o surto
 
 A bomba está bloqueando o fluxo de água
-
 Problema de vazão da bomba após o início da operação
-
 A bomba não está liberando a água adequadamente
-
 A bomba não está evacuando a água corretamente
-
 Problema de escoamento da bomba após o surto inicial
-
 A água não está sendo descarregada pela bomba
-
 Dificuldade na remoção da água utilizando a bomba
-
 A bomba continua a recircular a água sem descarregar
-
 Problema de recirculação contínua de água pela bomba
-
 A bomba não está expelindo a água depois do surto
-
 A bomba está obstruindo o fluxo de água
-
 Problema de descarga da bomba após o início da operação
-
 A bomba não está liberando a água corretamente
-
 Incapacidade da bomba de drenar a água após o surto inicial
-
 Problema de escoamento da bomba após o surto
-
 A água não está sendo eliminada pela bomba
-
 Dificuldade na remoção da água com o uso da bomba
-
 A bomba continua a recircular a água sem descarregá-la
-
 Problema de recirculação constante de água pela bomba
-
 A bomba não está expulsando a água após o surto inicial
-
 A bomba está bloqueando o fluxo de água
-
 Problema de vazão da bomba após o início da operação
-
 A bomba não está liberando a água adequadamente
-
 A bomba não está evacuando a água corretamente
-
 Problema de escoamento da bomba após o início do surto
-
 A água não está sendo descarregada pela bomba
-
 Dificuldade na remoção da água utilizando a bomba
-
 A bomba continua a recircular a água sem descarregá-la
-
 Problema de recirculação contínua de água pela bomba
-
 A bomba não está expulsando a água depois do surto inicial
-
 A bomba está obstruindo o fluxo de água
-
 Problema de descarga da bomba após o início da operação
-
 A bomba não está liberando a água corretamente
-
 Incapacidade da bomba de drenar a água após o surto inicial
-
 Problema de escoamento da bomba após o início do surto
-
 A água não está sendo eliminada pela bomba
-
 Dificuldade na remoção da água com o uso da bomba
-
 A bomba continua a recircular a água sem descarregá-la
-
 Problema de recirculação constante de água pela bomba

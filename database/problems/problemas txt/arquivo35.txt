@@ -48,3 +48,153 @@ Corrente mal posicionada, desprendida e desenganchada do encaixe na roda dentada
 Corrente pendurada de forma incorreta, frouxa e deslizando na roda dentada
 Problema de ajuste, travamento, desencaixe e montagem da corrente na roda dentada
 Corrente solta, desalinhada, desengatada e mal presa na roda dentada
+Corrente enganchada na roda dentada
+Problema de corrente presa na engrenagem
+Corrente travada na roda dentada
+Corrente desalinhada na engrenagem
+Corrente emperrada na roda dentada
+Corrente enroscada na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa na engrenagem
+Corrente emperrada na roda dentada
+Problema de corrente pendurada na roda dentada
+Corrente enroscada na roda dentada
+Corrente travada na engrenagem
+Corrente presa na roda dentada
+Corrente enganchada na engrenagem
+Corrente presa entre os dentes da roda dentada
+Problema de corrente emperrada na engrenagem
+Corrente desalinhada na roda dentada
+Corrente enroscada na roda dentada
+Corrente bloqueada na engrenagem
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na engrenagem
+Problema de corrente presa na roda dentada
+Corrente emperrada na engrenagem
+Corrente desalinhada na roda dentada
+Corrente presa na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da engrenagem
+Corrente enganchada na roda dentada
+Corrente travada na roda dentada
+Problema de corrente pendurada na engrenagem
+Corrente emperrada na roda dentada
+Corrente enroscada na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na engrenagem
+Corrente presa na roda dentada
+Corrente travada na engrenagem
+Corrente desalinhada na roda dentada
+Corrente enroscada na roda dentada
+Problema de corrente presa na roda dentada
+Corrente emperrada na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na roda dentada
+Problema de corrente pendurada na engrenagem
+Corrente emperrada na roda dentada
+Corrente desalinhada na engrenagem
+Corrente presa na roda dentada
+Corrente bloqueada na engrenagem
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na engrenagem
+Problema de corrente presa na roda dentada
+Corrente emperrada na engrenagem
+Corrente desalinhada na roda dentada
+Corrente presa na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na roda dentada
+Problema de corrente pendurada na engrenagem
+Corrente emperrada na roda dentada
+Corrente enroscada na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na engrenagem
+Problema de corrente presa na roda dentada
+Corrente emperrada na engrenagem
+Corrente desalinhada na roda dentada
+Corrente presa na roda dentada
+Corrente bloqueada na engrenagem
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na roda dentada
+Problema de corrente pendurada na engrenagem
+Corrente emperrada na roda dentada
+Corrente enroscada na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na engrenagem
+Problema de corrente presa na roda dentada
+Corrente emperrada na engrenagem
+Corrente desalinhada na roda dentada
+Corrente presa na roda dentada
+Corrente bloqueada na engrenagem
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na roda dentada
+Problema de corrente pendurada na engrenagem
+Corrente emperrada na roda dentada
+Corrente enroscada na engrenagem
+Corrente bloqueada na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente enganchada na roda dentada
+Corrente travada na engrenagem
+Problema de corrente presa na roda dentada
+Corrente presa entre os dentes da roda dentada
+Corrente emperrada no acionamento por corrente
+Problema de corrente enrolada na roda dentada
+Corrente bloqueada no mecanismo de acionamento
+Corrente desalinhada no sistema de correntes
+Corrente presa no conjunto de transmissão
+Corrente enroscada na engrenagem principal
+Corrente travada no acionamento por corrente
+Corrente pendurada na roda dentada principal
+Problema de corrente presa no dispositivo de transmissão
+Corrente enganchada no mecanismo de correntes
+Corrente emperrada na roda dentada de acionamento
+Corrente bloqueada na engrenagem de transmissão
+Corrente presa entre os dentes da engrenagem principal
+Corrente desalinhada no sistema de acionamento por corrente
+Corrente enroscada no mecanismo de transmissão
+Corrente travada na roda dentada de acionamento
+Corrente pendurada na engrenagem de transmissão
+Problema de corrente presa na roda dentada principal
+Corrente emperrada no sistema de correntes
+Corrente bloqueada no conjunto de acionamento por corrente
+Corrente presa entre os dentes da roda dentada de acionamento
+Corrente enganchada na engrenagem de transmissão
+Corrente emperrada na roda dentada de transmissão
+Corrente desalinhada no sistema de correntes
+Corrente enroscada na roda dentada de acionamento
+Corrente travada no dispositivo de transmissão
+Corrente pendurada na engrenagem principal de acionamento
+Problema de corrente presa no sistema de correntes
+Corrente emperrada na roda dentada principal de acionamento
+Corrente bloqueada no mecanismo de transmissão
+Corrente presa entre os dentes da engrenagem de transmissão
+Corrente desalinhada no conjunto de acionamento por corrente
+Corrente enroscada na roda dentada principal de acionamento
+Corrente travada na engrenagem de transmissão
+Corrente pendurada na roda dentada de transmissão
+Problema de corrente presa no sistema de acionamento por corrente
+Corrente emperrada no conjunto de correntes
+Corrente bloqueada na roda dentada de acionamento
+Corrente presa entre os dentes da roda dentada de transmissão
+Corrente enganchada na engrenagem principal de transmissão
+Corrente emperrada no sistema de acionamento por corrente
+Corrente desalinhada na roda dentada de transmissão
+Corrente enroscada no conjunto de correntes
+Corrente travada na roda dentada principal de acionamento
+Corrente pendurada na engrenagem de transmissão
+Problema de corrente presa no mecanismo de acionamento
+Corrente emperrada na roda dentada de transmissão
+Corrente bloqueada no sistema de acionamento por corrente
+Corrente presa entre os dentes da engrenagem de acionamento

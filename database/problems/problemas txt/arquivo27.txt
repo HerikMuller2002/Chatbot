@@ -48,3 +48,153 @@ Problema de vazamento no flange de vedação da tubulação em válvulas
 Flange da tubulação com perda de líquido em válvulas
 Problema de escape de fluido pelo ponto de conexão da tubulação na válvula
 Vazamento no acoplamento da tubulação com a válvula
+Vazamento na flange da tubulação
+Flange com escape de fluido
+Problema de vedação na flange
+Vazamento no acoplamento da tubulação
+Flange com perda de pressão
+Vazamento no conector da tubulação
+Problema de selagem na flange
+Flange com escape de líquido
+Vazamento no encaixe da tubulação
+Flange com falha de vedação
+Problema de escape de fluido na flange
+Vazamento no engate da tubulação
+Flange com perda de fluido
+Problema de vazamento na conexão da tubulação
+Vazamento na junta da flange
+Flange com escape de gás
+Problema de vedação na conexão da tubulação
+Vazamento no acoplador da tubulação
+Flange com falha de selagem
+Problema de escape de líquido na flange
+Vazamento na extremidade da tubulação
+Flange com perda de líquido
+Problema de vazamento no engate da tubulação
+Vazamento no adaptador da tubulação
+Flange com escape de óleo
+Problema de vedação no engate da tubulação
+Vazamento na união da tubulação
+Flange com perda de gás
+Problema de escape de fluido no acoplamento da tubulação
+Vazamento na conexão da tubulação
+Flange com escape de ar
+Problema de vedação na extremidade da tubulação
+Vazamento no encaixe da tubulação
+Flange com perda de ar
+Problema de vazamento na junção da tubulação
+Vazamento no acoplamento rápido da tubulação
+Flange com escape de vapor
+Problema de vedação no acoplamento da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de vapor
+Problema de escape de líquido no conector da tubulação
+Vazamento no adaptador rápido da tubulação
+Flange com escape de água
+Problema de vedação no encaixe da tubulação
+Vazamento na conexão da tubulação
+Flange com perda de água
+Problema de vazamento no acoplamento rápido da tubulação
+Vazamento no engate rápido da tubulação
+Flange com escape de substância química
+Problema de vedação no engate rápido da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de substância química
+Problema de escape de fluido no acoplamento rápido da tubulação
+Vazamento no conector rápido da tubulação
+Flange com escape de líquido inflamável
+Problema de vedação no conector rápido da tubulação
+Vazamento na união rápida da tubulação
+Flange com perda de líquido inflamável
+Problema de vazamento no engate rápido da tubulação
+Vazamento no adaptador rápido da tubulação
+Flange com escape de óleo lubrificante
+Problema de vedação no adaptador rápido da tubulação
+Vazamento na conexão rápida da tubulação
+Flange com perda de óleo lubrificante
+Problema de escape de fluido no acoplamento rápido da tubulação
+Vazamento no acoplamento da tubulação
+Flange com escape de líquido corrosivo
+Problema de vedação no acoplamento da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de líquido corrosivo
+Problema de vazamento no conector da tubulação
+Vazamento no encaixe da tubulação
+Flange com escape de gás comprimido
+Problema de vedação no encaixe da tubulação
+Vazamento na junta da flange
+Flange com perda de gás comprimido
+Problema de escape de fluido na flange
+Vazamento no acoplador da tubulação
+Flange com escape de líquido químico
+Problema de vedação na conexão da tubulação
+Vazamento na união da tubulação
+Flange com perda de líquido químico
+Problema de escape de líquido no acoplamento da tubulação
+Vazamento no adaptador da tubulação
+Flange com escape de vapor corrosivo
+Problema de vedação no adaptador da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de vapor corrosivo
+Problema de vazamento na junção da tubulação
+Vazamento no acoplamento rápido da tubulação
+Flange com escape de ar comprimido
+Problema de vedação no acoplamento rápido da tubulação
+Vazamento na conexão da tubulação
+Flange com perda de ar comprimido
+Problema de escape de líquido no conector da tubulação
+Vazamento no engate rápido da tubulação
+Flange com escape de água de processo
+Problema de vedação no engate rápido da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de água de processo
+Vazamento na junta da flange
+Flange com escape de líquido inflamável
+Problema de vedação na junta da flange
+Vazamento no acoplamento da tubulação
+Flange com perda de líquido inflamável
+Problema de escape de fluido na flange
+Vazamento no conector da tubulação
+Flange com escape de líquido corrosivo
+Problema de vedação no conector da tubulação
+Vazamento na união da tubulação
+Flange com perda de líquido corrosivo
+Problema de vazamento na conexão da tubulação
+Vazamento no encaixe da tubulação
+Flange com escape de gás comprimido
+Problema de vedação no encaixe da tubulação
+Vazamento na junta da flange
+Flange com perda de gás comprimido
+Problema de escape de fluido na flange
+Vazamento no acoplador da tubulação
+Flange com escape de líquido químico
+Problema de vedação na conexão da tubulação
+Vazamento na união da tubulação
+Flange com perda de líquido químico
+Problema de escape de líquido no acoplamento da tubulação
+Vazamento no adaptador da tubulação
+Flange com escape de vapor corrosivo
+Problema de vedação no adaptador da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de vapor corrosivo
+Problema de vazamento na junção da tubulação
+Vazamento no acoplamento rápido da tubulação
+Flange com escape de ar comprimido
+Problema de vedação no acoplamento rápido da tubulação
+Vazamento na conexão da tubulação
+Flange com perda de ar comprimido
+Problema de escape de líquido no conector da tubulação
+Vazamento no engate rápido da tubulação
+Flange com escape de água de processo
+Problema de vedação no engate rápido da tubulação
+Vazamento na extremidade da tubulação
+Flange com perda de água de processo
+Problema de vazamento na junção da tubulação
+Vazamento no acoplamento rápido da tubulação
+Flange com escape de líquido inflamável
+Problema de vedação no acoplamento rápido da tubulação
+Vazamento na conexão rápida da tubulação
+Flange com perda de líquido inflamável
+Problema de escape de fluido no acoplamento rápido da tubulação
+Vazamento no conector rápido da tubulação
+Flange com escape de óleo lubrificante

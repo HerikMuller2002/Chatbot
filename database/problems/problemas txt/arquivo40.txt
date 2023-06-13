@@ -48,3 +48,302 @@ Vibração rítmica nas laterais dos dentes da roda dentada
 Pulsação intermitente e inesperada nas placas do elo da corrente
 Flutuação de velocidade não desejada no sistema de acionamento por corrente
 Problema de pulsação constante e não uniforme em acionamentos por corrente
+Falha na transmissão de dados do acionamento
+Desalinhamento dos componentes do sistema de acionamento
+Vibração excessiva durante a operação
+Ruído anormal emitido pelo acionamento
+Aquecimento excessivo dos componentes do acionamento
+Desgaste prematuro das engrenagens do acionamento
+Problema de frenagem do acionamento
+Falha no controle de velocidade do acionamento
+Instabilidade no torque do acionamento
+Perda de potência do acionamento
+Problema de partida do acionamento
+Inconsistência na rotação do acionamento
+Dificuldade na mudança de direção do acionamento
+Flutuação na corrente do acionamento
+Falta de resposta do acionamento aos comandos
+Variação anormal na tensão de alimentação do acionamento
+Falha na proteção contra curto-circuito do acionamento
+Problema de sobrecarga no acionamento
+Ineficiência energética do acionamento
+Mau funcionamento do sistema de frenagem do acionamento
+Problema de sincronização entre os acionamentos
+Falha no sistema de monitoramento do acionamento
+Desvio na posição do acionamento
+Ruído excessivo nos rolamentos do acionamento
+Oscilação na velocidade do acionamento
+Falha no sistema de controle de posição do acionamento
+Desequilíbrio na carga distribuída pelo acionamento
+Perda de eficiência do acionamento em altas temperaturas
+Problema de desgaste nos componentes de acoplamento do acionamento
+Inconsistência no torque de frenagem do acionamento
+Flutuação no desempenho do sistema de controle de velocidade
+Falha na comunicação entre o acionamento e outros sistemas
+Problema de proteção contra sobrecarga do acionamento
+Desalinhamento dos eixos do acionamento
+Instabilidade no comportamento do sistema de refrigeração do acionamento
+Falha no sistema de detecção de falhas do acionamento
+Problema de curto-circuito no acionamento
+Ineficiência do sistema de controle de corrente do acionamento
+Desequilíbrio na carga entre os motores do acionamento
+Variação anormal na potência de saída do acionamento
+Falha no sistema de monitoramento de temperatura do acionamento
+Problema de sobrecorrente no acionamento
+Oscilação na velocidade de resposta do acionamento
+Falha no sistema de frenagem regenerativa do acionamento
+Desgaste dos componentes do sistema de transmissão do acionamento
+Ruído excessivo nas correntes do acionamento
+Flutuação na tensão de alimentação do acionamento
+Falta de resposta do acionamento aos comandos de parada de emergência
+Problema de controle de posição do acionamento em alta velocidade
+Instabilidade no torque de partida do acionamento
+Falha na proteção contra sobretensão do acionamento
+Inconsistência no desempenho do sistema de frenagem do acionamento
+Dificuldade na calibração do sistema de controle de velocidade
+Problema de sincronização do acionamento com outros dispositivos
+Desvio na tensão de alimentação do acionamento
+Oscilação na rotação dos motores do acionamento
+Falha no sistema de controle de posição em baixas velocidades do acionamento
+Flutuação no torque de frenagem do acionamento
+Problema de comunicação entre os acionamentos em um sistema em cascata
+Desgaste prematuro do sistema de transmissão por corrente do acionamento
+Ruído excessivo nos motores do acionamento
+Variação anormal no consumo de energia do acionamento
+Falha no sistema de monitoramento de vibração do acionamento
+Problema de sobretensão no acionamento
+Inconsistência no sistema de controle de corrente do acionamento
+Desalinhamento dos acionamentos em um sistema multi-eixos
+Oscilação na carga transmitida pelo acionamento
+Falha no sistema de controle de temperatura do acionamento
+Flutuação na rotação dos motores do acionamento em baixas velocidades
+Problema de partida em carga elevada do acionamento
+Desvio no sistema de controle de posição do acionamento
+Ruído excessivo nas engrenagens do acionamento
+Variação anormal no tempo de resposta do sistema de controle de velocidade
+Falha no sistema de frenagem mecânica do acionamento
+Problema de desgaste nas correntes do acionamento
+Oscilação na tensão de alimentação do acionamento
+Inconsistência no comportamento do sistema de refrigeração do acionamento
+Desalinhamento dos acionamentos em um sistema de transmissão em cascata
+Falha no sistema de detecção de falhas dos motores do acionamento
+Flutuação no torque de partida do acionamento
+Problema de proteção contra sobrecarga nos motores do acionamento
+Desvio no sistema de controle de corrente do acionamento
+Ruído excessivo nas engrenagens de transmissão do acionamento
+Variação anormal no sistema de monitoramento de temperatura do acionamento
+Falha na comunicação entre o acionamento e o sistema de supervisão
+Problema de sobrecarga mecânica no acionamento
+Oscilação no desempenho do sistema de frenagem regenerativa
+Inconsistência no sistema de detecção de desalinhamento do acionamento
+Dificuldade na calibração do sistema de controle de posição em altas velocidades
+Flutuação na tensão de alimentação dos motores do acionamento
+Falta de resposta do acionamento aos comandos de reversão de sentido
+Problema de controle de velocidade em baixas temperaturas do acionamento
+Desvio no sistema de controle de torque do acionamento
+Ruído excessivo nas correntes de transmissão do acionamento
+Variação anormal no sistema de monitoramento de vibração dos motores do acionamento
+Falha no sistema de proteção contra sobrecorrente do acionamento
+Oscilação na resposta do sistema de controle de posição em altas velocidades
+Inconsistência no comportamento do sistema de frenagem regenerativa do acionamento
+Dificuldade na detecção de desgaste nos componentes do acionamento
+Problema de desalinhamento dos eixos do sistema de transmissão por corrente do acionamento
+Pulsação excessiva na velocidade de rotação
+
+Problema de oscilação no torque do acionamento por corrente
+
+Variação irregular na potência de saída
+
+Flutuação na velocidade de operação do sistema
+
+Vibração intermitente no equipamento
+
+Picos de carga inesperados
+
+Instabilidade no desempenho do motor
+
+Irregularidade no movimento do mecanismo
+
+Problema de pulsação durante a aceleração do sistema
+
+Variação anormal na força de tração
+
+Flutuação no desempenho da transmissão
+
+Ondulação no torque de saída
+
+Mudanças bruscas na velocidade de rotação
+
+Desequilíbrio no funcionamento do acionamento por corrente
+
+Variação na tensão da corrente elétrica
+
+Problema de oscilação na resposta do sistema de controle
+
+Picos de carga durante a desaceleração
+
+Pulsação na potência transmitida
+
+Variação na intensidade do movimento linear
+
+Flutuação no desempenho da embreagem
+
+Instabilidade no funcionamento do redutor de velocidade
+
+Irregularidade no torque aplicado
+
+Problema de pulsação em baixas velocidades
+
+Variação anormal no comportamento da corrente elétrica
+
+Ondulação no desempenho do sistema de frenagem
+
+Mudanças bruscas na força de frenagem
+
+Desequilíbrio na transmissão de potência
+
+Variação na pressão hidráulica do sistema
+
+Problema de oscilação na resposta do conversor de frequência
+
+Picos de carga durante a aceleração
+
+Pulsação na velocidade de movimento linear
+
+Variação na intensidade do torque
+
+Flutuação no desempenho do sistema de alimentação
+
+Instabilidade no comportamento do acionamento
+
+Irregularidade na rotação do eixo
+
+Problema de pulsação em altas velocidades
+
+Variação anormal no fluxo de ar do sistema de refrigeração
+
+Ondulação no desempenho do sistema de lubrificação
+
+Mudanças bruscas na potência do motor
+
+Desequilíbrio na carga distribuída
+
+Variação na tensão do sistema de controle
+
+Flutuação no torque aplicado
+
+Instabilidade no desempenho do sistema de transmissão de dados
+
+Irregularidade no movimento do dispositivo de segurança
+
+Problema de pulsação durante a operação em cargas pesadas
+
+Variação anormal na temperatura do sistema
+
+Ondulação no desempenho do sistema de refrigeração
+
+Mudanças bruscas na intensidade do campo magnético
+
+Desequilíbrio na velocidade de deslocamento
+
+Variação na pressão hidráulica do sistema de controle
+
+Flutuação no desempenho do sistema de exaustão
+
+Instabilidade no comportamento do sistema de lubrificação
+
+Irregularidade na potência de saída do gerador
+
+Problema de pulsação durante a operação em baixa carga
+
+Variação anormal na tensão da fonte de alimentação
+
+Ondulação no desempenho do sistema de ventilação
+
+Mudanças bruscas na força de tração
+
+Desequilíbrio na resposta do sistema de controle de temperatura
+
+Variação na intensidade do sinal de entrada
+
+Flutuação no torque de acionamento
+
+Instabilidade no desempenho do sistema de refrigeração
+
+Irregularidade no movimento do mecanismo de abertura/fechamento
+
+Problema de pulsação durante a operação em alta carga
+
+Variação anormal no fluxo de líquido refrigerante
+
+Ondulação no desempenho do sistema de monitoramento
+
+Mudanças bruscas na velocidade de movimento
+
+Desequilíbrio no comportamento do sistema de controle de pressão
+
+Variação na pressão do sistema de ar comprimido
+
+Flutuação no desempenho do sistema de alimentação de água
+
+Instabilidade no torque aplicado
+
+Irregularidade na rotação do eixo de saída
+
+Problema de pulsação durante a operação em velocidades variáveis
+
+Variação anormal na temperatura do sistema de refrigeração
+
+Ondulação no desempenho do sistema de iluminação
+
+Mudanças bruscas na potência de saída do motor
+
+Desequilíbrio na velocidade de deslocamento linear
+
+Variação na intensidade do campo magnético do motor
+
+Flutuação no desempenho do sistema de controle de velocidade
+
+Instabilidade no comportamento do sistema de lubrificação
+
+Irregularidade no movimento do mecanismo de elevação
+
+Problema de pulsação durante a operação em condições extremas
+
+Variação anormal na tensão do sistema de alimentação elétrica
+
+Ondulação no desempenho do sistema de monitoramento de vibração
+
+Mudanças bruscas na força de frenagem
+
+Desequilíbrio no funcionamento do sistema de controle de temperatura
+
+Variação na intensidade do sinal de controle
+
+Flutuação no torque de frenagem
+
+Instabilidade no desempenho do sistema de ventilação
+
+Irregularidade no movimento do dispositivo de segurança de emergência
+
+Problema de pulsação durante a operação em cargas variáveis
+
+Variação anormal na pressão hidráulica do sistema
+
+Ondulação no desempenho do sistema de exaustão
+
+Mudanças bruscas na intensidade do sinal de entrada
+
+Desequilíbrio na velocidade de movimento do dispositivo
+
+Variação na potência de saída do motor
+
+Flutuação no desempenho do sistema de controle de pressão
+
+Instabilidade no comportamento do sistema de lubrificação
+
+Irregularidade no movimento do mecanismo de translação
+
+Problema de pulsação durante a operação em regime de carga pesada
+
+Variação anormal na temperatura do sistema de exaustão

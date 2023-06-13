@@ -48,3 +48,203 @@ Buchas com desgaste nas placas externas devido a choques mecânicos no acionamen
 Roletes com desgaste gradual nas laterais dos dentes da roda dentada devido ao desgaste natural
 Pinos com problema de desgaste nas placas do elo da corrente devido a tensões elevadas
 Buchas com desgaste nas placas de articulação da corrente causado por lubrificação inadequada
+Pino quebrado no acionamento por corrente
+Bucha danificada em acionamentos por corrente
+Roletes quebrados em acionamentos por corrente
+Problema com os pinos do acionamento por corrente
+Acionamento por corrente com bucha quebrada
+Roletes danificados em acionamentos por corrente
+Pino solto em acionamentos por corrente
+Acionamento por corrente com bucha desgastada
+Roletes desgastados em acionamentos por corrente
+Problema de quebra de pinos em acionamentos por corrente
+Bucha quebrada no sistema de acionamento por corrente
+Falha nos roletes do acionamento por corrente
+Pino danificado em acionamentos por corrente
+Acionamento por corrente com bucha danificada
+Roletes quebrados no sistema de acionamento por corrente
+Problema de desgaste nos pinos em acionamentos por corrente
+Bucha solta em acionamentos por corrente
+Falha nos roletes do sistema de acionamento por corrente
+Pino quebrado em acionamentos por corrente industrial
+Acionamento por corrente com bucha desgastada
+Roletes desgastados em acionamentos por corrente industrial
+Problema de quebra de pinos em acionamentos industriais por corrente
+Bucha quebrada no sistema de acionamento por corrente industrial
+Falha nos roletes do acionamento por corrente industrial
+Pino danificado em acionamentos industriais por corrente
+Acionamento por corrente com bucha danificada
+Roletes quebrados no sistema de acionamento por corrente industrial
+Problema de desgaste nos pinos em acionamentos industriais por corrente
+Bucha solta em acionamentos industriais por corrente
+Falha nos roletes do sistema de acionamento por corrente industrial
+Pino quebrado no acionamento por corrente de máquinas
+Bucha danificada em acionamentos por corrente de máquinas
+Roletes quebrados em acionamentos por corrente de máquinas
+Problema com os pinos do acionamento por corrente de máquinas
+Acionamento por corrente de máquinas com bucha quebrada
+Roletes danificados em acionamentos por corrente de máquinas
+Pino solto em acionamentos por corrente de máquinas
+Acionamento por corrente de máquinas com bucha desgastada
+Roletes desgastados em acionamentos por corrente de máquinas
+Problema de quebra de pinos em acionamentos por corrente de máquinas
+Bucha quebrada no sistema de acionamento por corrente de máquinas
+Falha nos roletes do acionamento por corrente de máquinas
+Pino danificado em acionamentos por corrente de máquinas
+Acionamento por corrente de máquinas com bucha danificada
+Roletes quebrados no sistema de acionamento por corrente de máquinas
+Problema de desgaste nos pinos em acionamentos por corrente de máquinas
+Bucha solta em acionamentos por corrente de máquinas
+Falha nos roletes do sistema de acionamento por corrente de máquinas
+Pino quebrado em acionamentos por corrente de equipamentos industriais
+Bucha danificada em acionamentos por corrente de equipamentos industriais
+Roletes quebrados em acionamentos por corrente de equipamentos industriais
+Problema com os pinos do acionamento por corrente de equipamentos industriais
+Acionamento por corrente de equipamentos industriais com bucha quebrada
+Roletes danificados em acionamentos por corrente de equipamentos industriais
+Pino solto em acionamentos por corrente de equipamentos industriais
+Acionamento por corrente de equipamentos industriais com bucha desgastada
+Roletes desgastados em acionamentos por corrente de equipamentos industriais
+Problema de quebra de pinos em acionamentos por corrente de equipamentos industriais
+Bucha quebrada no sistema de acionamento por corrente de equipamentos industriais
+Falha nos roletes do acionamento por corrente de equipamentos industriais
+Pino danificado em acionamentos por corrente de equipamentos industriais
+Acionamento por corrente de equipamentos industriais com bucha danificada
+Roletes quebrados no sistema de acionamento por corrente de equipamentos industriais
+Problema de desgaste nos pinos em acionamentos por corrente de equipamentos industriais
+Bucha solta em acionamentos por corrente de equipamentos industriais
+Falha nos roletes do sistema de acionamento por corrente de equipamentos industriais
+Pino quebrado no acionamento por corrente de máquinas pesadas
+Bucha danificada em acionamentos por corrente de máquinas pesadas
+Roletes quebrados em acionamentos por corrente de máquinas pesadas
+Problema com os pinos do acionamento por corrente de máquinas pesadas
+Acionamento por corrente de máquinas pesadas com bucha quebrada
+Roletes danificados em acionamentos por corrente de máquinas pesadas
+Pino solto em acionamentos por corrente de máquinas pesadas
+Acionamento por corrente de máquinas pesadas com bucha desgastada
+Roletes desgastados em acionamentos por corrente de máquinas pesadas
+Problema de quebra de pinos em acionamentos por corrente de máquinas pesadas
+Bucha quebrada no sistema de acionamento por corrente de máquinas pesadas
+Falha nos roletes do acionamento por corrente de máquinas pesadas
+Pino danificado em acionamentos por corrente de máquinas pesadas
+Acionamento por corrente de máquinas pesadas com bucha danificada
+Roletes quebrados no sistema de acionamento por corrente de máquinas pesadas
+Problema de desgaste nos pinos em acionamentos por corrente de máquinas pesadas
+Bucha solta em acionamentos por corrente de máquinas pesadas
+Falha nos roletes do sistema de acionamento por corrente de máquinas pesadas
+Pino quebrado em acionamentos por corrente de equipamentos pesados
+Bucha danificada em acionamentos por corrente de equipamentos pesados
+Roletes quebrados em acionamentos por corrente de equipamentos pesados
+Problema com os pinos do acionamento por corrente de equipamentos pesados
+Acionamento por corrente de equipamentos pesados com bucha quebrada
+Roletes danificados em acionamentos por corrente de equipamentos pesados
+Pino solto em acionamentos por corrente de equipamentos pesados
+Acionamento por corrente de equipamentos pesados com bucha desgastada
+Roletes desgastados em acionamentos por corrente de equipamentos pesados
+Problema de quebra de pinos em acionamentos por corrente de equipamentos pesados
+Bucha quebrada no sistema de acionamento por corrente de equipamentos pesados
+Falha nos roletes do acionamento por corrente de equipamentos pesados
+Pino danificado em acionamentos por corrente de equipamentos pesados
+Acionamento por corrente de equipamentos pesados com bucha danificada
+Roletes quebrados no sistema de acionamento por corrente de equipamentos pesados
+Problema de desgaste nos pinos em acionamentos por corrente de equipamentos pesados
+Pino de acionamento quebrado
+Bucha desgastada em acionamentos por corrente
+Roletes danificados no sistema de acionamento por corrente
+Problema de desgaste nos pinos, buchas ou roletes de acionamentos por corrente
+Pinos, buchas ou roletes com defeito em acionamentos por corrente
+Falha no sistema de acionamento por corrente devido a pinos quebrados
+Problema de fricção nos pinos, buchas ou roletes em acionamentos por corrente
+Bucha solta em acionamentos por corrente causando quebra de pinos ou roletes
+Roletes desgastados afetando o desempenho do acionamento por corrente
+Pinos, buchas ou roletes danificados comprometendo a eficiência do acionamento por corrente
+Acionamento por corrente com falha devido a pinos quebrados ou buchas desgastadas
+Problema de alinhamento nos pinos, buchas ou roletes em acionamentos por corrente
+Bucha quebrada no sistema de acionamento por corrente de máquinas industriais
+Falha no acionamento por corrente causada por roletes quebrados ou desgastados
+Pinos, buchas ou roletes soltos em acionamentos por corrente
+Acionamento por corrente com problemas devido a pinos, buchas ou roletes mal instalados
+Desalinhamento dos pinos, buchas ou roletes em acionamentos por corrente
+Bucha desgastada comprometendo a estabilidade do acionamento por corrente
+Falha no sistema de acionamento por corrente devido a pinos quebrados em equipamentos industriais
+Pinos, buchas ou roletes com folga em acionamentos por corrente
+Problema de vibração nos pinos, buchas ou roletes em acionamentos por corrente
+Bucha quebrada causando mau funcionamento do acionamento por corrente
+Roletes desalinhados afetando a sincronização do acionamento por corrente
+Pinos, buchas ou roletes desgastados prejudicando o desempenho do acionamento por corrente
+Acionamento por corrente com ruídos devido a pinos quebrados ou buchas danificadas
+Problema de lubrificação nos pinos, buchas ou roletes em acionamentos por corrente
+Bucha solta causando desalinhamento dos pinos ou roletes em acionamentos por corrente
+Roletes quebrados comprometendo a integridade do acionamento por corrente
+Pinos, buchas ou roletes mal dimensionados em acionamentos por corrente
+Desgaste prematuro nos pinos, buchas ou roletes de acionamentos por corrente
+Problema de aquecimento nos pinos, buchas ou roletes em acionamentos por corrente
+Bucha danificada afetando a eficiência do acionamento por corrente
+Roletes desgastados causando falhas no acionamento por corrente
+Pinos, buchas ou roletes enferrujados em acionamentos por corrente
+Acionamento por corrente com problemas devido a pinos quebrados ou buchas desalinhadas
+Problema de desalinhamento nos pinos, buchas ou roletes de acionamentos por corrente
+Bucha quebrada no sistema de acionamento por corrente de máquinas pesadas
+Falha no acionamento por corrente causada por roletes quebrados ou desgastados
+Pinos, buchas ou roletes soltos em acionamentos por corrente de máquinas pesadas
+Acionamento por corrente com ruídos devido a pinos quebrados ou buchas danificadas em máquinas pesadas
+Problema de lubrificação nos pinos, buchas ou roletes em acionamentos por corrente de máquinas pesadas
+Bucha solta causando desalinhamento dos pinos ou roletes em acionamentos por corrente de máquinas pesadas
+Roletes quebrados comprometendo a integridade do acionamento por corrente de máquinas pesadas
+Pinos, buchas ou roletes mal dimensionados em acionamentos por corrente de máquinas pesadas
+Desgaste prematuro nos pinos, buchas ou roletes de acionamentos por corrente de máquinas pesadas
+Problema de aquecimento nos pinos, buchas ou roletes em acionamentos por corrente de máquinas pesadas
+Bucha danificada afetando a eficiência do acionamento por corrente de máquinas pesadas
+Roletes desgastados causando falhas no acionamento por corrente de máquinas pesadas
+Pinos, buchas ou roletes enferrujados em acionamentos por corrente de máquinas pesadas
+Acionamento por corrente com problemas devido a pinos quebrados ou buchas desalinhadas em máquinas pesadas
+Problema de desalinhamento nos pinos, buchas ou roletes de acionamentos por corrente de máquinas pesadas
+Bucha quebrada no sistema de acionamento por corrente de equipamentos industriais
+Falha no acionamento por corrente causada por roletes quebrados ou desgastados em equipamentos industriais
+Pinos, buchas ou roletes soltos em acionamentos por corrente de equipamentos industriais
+Acionamento por corrente com ruídos devido a pinos quebrados ou buchas danificadas em equipamentos industriais
+Problema de lubrificação nos pinos, buchas ou roletes em acionamentos por corrente de equipamentos industriais
+Bucha solta causando desalinhamento dos pinos ou roletes em acionamentos por corrente de equipamentos industriais
+Roletes quebrados comprometendo a integridade do acionamento por corrente de equipamentos industriais
+Pinos, buchas ou roletes mal dimensionados em acionamentos por corrente de equipamentos industriais
+Desgaste prematuro nos pinos, buchas ou roletes de acionamentos por corrente de equipamentos industriais
+Problema de aquecimento nos pinos, buchas ou roletes em acionamentos por corrente de equipamentos industriais
+Bucha danificada afetando a eficiência do acionamento por corrente de equipamentos industriais
+Roletes desgastados causando falhas no acionamento por corrente de equipamentos industriais
+Pinos, buchas ou roletes enferrujados em acionamentos por corrente de equipamentos industriais
+Acionamento por corrente com problemas devido a pinos quebrados ou buchas desalinhadas em equipamentos industriais
+Problema de desalinhamento nos pinos, buchas ou roletes de acionamentos por corrente de equipamentos industriais
+Bucha quebrada no sistema de acionamento por corrente de máquinas pesadas na indústria
+Falha no acionamento por corrente causada por roletes quebrados ou desgastados em máquinas pesadas na indústria
+Pinos, buchas ou roletes soltos em acionamentos por corrente de máquinas pesadas na indústria
+Acionamento por corrente com ruídos devido a pinos quebrados ou buchas danificadas em máquinas pesadas na indústria
+Problema de lubrificação nos pinos, buchas ou roletes em acionamentos por corrente de máquinas pesadas na indústria
+Bucha solta causando desalinhamento dos pinos ou roletes em acionamentos por corrente de máquinas pesadas na indústria
+Roletes quebrados comprometendo a integridade do acionamento por corrente de máquinas pesadas na indústria
+Pinos, buchas ou roletes mal dimensionados em acionamentos por corrente de máquinas pesadas na indústria
+Desgaste prematuro nos pinos, buchas ou roletes de acionamentos por corrente de máquinas pesadas na indústria
+Problema de aquecimento nos pinos, buchas ou roletes em acionamentos por corrente de máquinas pesadas na indústria
+Bucha danificada afetando a eficiência do acionamento por corrente de máquinas pesadas na indústria
+Roletes desgastados causando falhas no acionamento por corrente de máquinas pesadas na indústria
+Pinos, buchas ou roletes enferrujados em acionamentos por corrente de máquinas pesadas na indústria
+Acionamento por corrente com problemas devido a pinos quebrados ou buchas desalinhadas em máquinas pesadas na indústria
+Problema de desalinhamento nos pinos, buchas ou roletes de acionamentos por corrente de máquinas pesadas na indústria
+Bucha quebrada no sistema de acionamento por corrente de equipamentos industriais na indústria
+Falha no acionamento por corrente causada por roletes quebrados ou desgastados em equipamentos industriais na indústria
+Pinos, buchas ou roletes soltos em acionamentos por corrente de equipamentos industriais na indústria
+Acionamento por corrente com ruídos devido a pinos quebrados ou buchas danificadas em equipamentos industriais na indústria
+Problema de lubrificação nos pinos, buchas ou roletes em acionamentos por corrente de equipamentos industriais na indústria
+Bucha solta causando desalinhamento dos pinos ou roletes em acionamentos por corrente de equipamentos industriais na indústria
+Roletes quebrados comprometendo a integridade do acionamento por corrente de equipamentos industriais na indústria
+Pinos, buchas ou roletes mal dimensionados em acionamentos por corrente de equipamentos industriais na indústria
+Desgaste prematuro nos pinos, buchas ou roletes de acionamentos por corrente de equipamentos industriais na indústria
+Problema de aquecimento nos pinos, buchas ou roletes em acionamentos por corrente de equipamentos industriais na indústria
+Bucha danificada afetando a eficiência do acionamento por corrente de equipamentos industriais na indústria
+Roletes desgastados causando falhas no acionamento por corrente de equipamentos industriais na indústria
+Pinos, buchas ou roletes enferrujados em acionamentos por corrente de equipamentos industriais na indústria
+Acionamento por corrente com problemas devido a pinos quebrados ou buchas desalinhadas em equipamentos industriais na indústria
+Problema de desalinhamento nos pinos, buchas ou roletes de acionamentos por corrente de equipamentos industriais na indústria
+Bucha quebrada no sistema de acionamento por corrente de máquinas pesadas na indústria metalúrgica
+Falha no acionamento por corrente causada por roletes quebrados ou desgastados em máquinas pesadas na indústria metalúrgica
+Pinos, buchas ou roletes soltos em acionamentos por corrente de máquinas pesadas na indústria metalúrgica
+Acionamento por corrente com ruídos devido a pinos quebrados ou buchas danificadas em máquinas pesadas na indústria metalúrgica

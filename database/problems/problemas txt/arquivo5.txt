@@ -48,3 +48,203 @@ Falta de água sendo bombeada pela bomba
 A bomba não está gerando água conforme o esperado
 Problemas de alimentação de água da bomba
 A bomba não está conseguindo extrair água do poço
+A bomba não está funcionando corretamente.
+Falta de fornecimento de água da bomba.
+Não há água saindo da bomba.
+A bomba não está gerando fluxo de água.
+Problemas de abastecimento de água da bomba.
+Ausência de água proveniente da bomba.
+A bomba não está conseguindo bombear água.
+Nenhum fluxo de água da bomba.
+A bomba não está fornecendo água suficiente.
+Falha no abastecimento de água pela bomba.
+A bomba não está liberando água.
+Problemas de alimentação de água da bomba.
+A bomba não está conseguindo puxar água.
+Não há pressão de água vinda da bomba.
+A bomba não está entregando água adequadamente.
+A água não está sendo bombeada pela bomba.
+Problemas de fornecimento de água da bomba.
+A bomba não está conseguindo extrair água.
+A falta de água está relacionada à bomba.
+A bomba não está gerando pressão de água.
+A água não está sendo direcionada pela bomba.
+Problemas de distribuição de água da bomba.
+A bomba não está conseguindo bombear água suficiente.
+O fluxo de água da bomba está interrompido.
+A bomba não está produzindo água.
+A água não está fluindo corretamente da bomba.
+Problemas de suprimento de água pela bomba.
+A bomba não está captando água.
+A falta de água está relacionada ao mau funcionamento da bomba.
+A bomba não está pressurizando a água.
+O fluxo de água da bomba está fraco.
+A bomba não está enviando água.
+A água não está sendo movida pela bomba.
+Problemas de abastecimento de água proveniente da bomba.
+A bomba não está conseguindo aspirar água.
+A falta de água está afetando a operação da bomba.
+A bomba não está gerando fluxo suficiente de água.
+A água não está saindo como deveria da bomba.
+Problemas de bombeamento de água da bomba.
+A bomba não está conseguindo fornecer água em quantidade adequada.
+A bomba não está liberando água corretamente.
+A água não está sendo impulsionada pela bomba.
+Problemas de fornecimento adequado de água pela bomba.
+A bomba não está conseguindo extrair água do poço.
+A falta de água está prejudicando o desempenho da bomba.
+A bomba não está gerando pressão suficiente para água.
+A água não está fluindo normalmente da bomba.
+Problemas de distribuição adequada de água pela bomba.
+A bomba não está conseguindo bombear água efetivamente.
+O fluxo de água da bomba está abaixo do esperado.
+A bomba não está enviando água como deveria.
+A água não está sendo direcionada corretamente pela bomba.
+Problemas de suprimento insuficiente de água pela bomba.
+A bomba não está captando água adequadamente.
+A falta de água está impactando o funcionamento da bomba.
+A bomba não está pressurizando a água de maneira adequada.
+O fluxo de água da bomba está comprometido.
+A bomba não está liberando a água esperada.
+A água não está sendo movimentada de forma eficiente pela bomba.
+Problemas de abastecimento limitado de água pela bomba.
+A bomba não está conseguindo aspirar água suficiente.
+A falta de água está causando problemas na bomba.
+A bomba não está gerando o fluxo necessário de água.
+A água não está saindo corretamente da bomba.
+Problemas de bombeamento insuficiente de água pela bomba.
+A bomba não está conseguindo fornecer a quantidade adequada de água.
+A bomba não está liberando a água como deveria.
+A água não está sendo impulsionada adequadamente pela bomba.
+Problemas de fornecimento insuficiente de água pela bomba.
+A bomba não está conseguindo extrair água do reservatório.
+A falta de água está afetando o desempenho adequado da bomba.
+A bomba não está gerando a pressão necessária para água.
+A água não está fluindo normalmente do sistema de bombeamento.
+Problemas de distribuição inadequada de água pela bomba.
+A bomba não está conseguindo bombear água de forma eficaz.
+O fluxo de água da bomba está abaixo do normal.
+A bomba não está enviando água conforme o esperado.
+A água não está sendo direcionada corretamente pelo sistema de bombeamento.
+Problemas de suprimento inadequado de água pela bomba.
+A bomba não está captando água de maneira adequada.
+A falta de água está prejudicando o funcionamento correto da bomba.
+A bomba não está pressurizando a água adequadamente.
+O fluxo de água da bomba está comprometido ou inexistente.
+A bomba não está liberando água na quantidade esperada.
+A água não está sendo movida de forma eficiente pela bomba.
+Problemas de abastecimento limitado de água pelo sistema de bombeamento.
+A bomba não está conseguindo aspirar água suficiente do poço.
+A falta de água está impactando o desempenho da bomba de maneira negativa.
+A bomba não está gerando o fluxo adequado de água.
+A água não está saindo como deveria do sistema de bombeamento.
+Problemas de bombeamento insuficiente de água pelo sistema de bombeamento.
+A bomba não está conseguindo fornecer a quantidade necessária de água.
+A bomba não está liberando água de forma eficiente.
+A água não está sendo impulsionada corretamente pelo sistema de bombeamento.
+Problemas de fornecimento insuficiente de água pelo sistema de bombeamento.
+A bomba não está conseguindo extrair água do reservatório de maneira adequada.
+A falta de água está prejudicando o desempenho da bomba.
+A bomba não está gerando a pressão necessária para o fluxo de água.
+A água não está fluindo normalmente do sistema de bombeamento.
+Problemas de distribuição inadequada de água pelo sistema de bombeamento
+A bomba não está puxando água suficiente.
+Não há água sendo bombeada pela bomba.
+A bomba não está conseguindo fornecer água para o sistema.
+A água não está sendo transferida adequadamente pela bomba.
+Problemas de abastecimento de água pela bomba.
+A bomba não está conseguindo aspirar água corretamente.
+A falta de água está afetando o funcionamento da bomba.
+A bomba não está gerando o fluxo de água necessário.
+A água não está saindo do sistema de bombeamento.
+Problemas de baixa pressão de água pela bomba.
+A bomba não está conseguindo extrair água do reservatório.
+A falta de água está comprometendo o desempenho da bomba.
+A bomba não está pressurizando a água de forma adequada.
+O fluxo de água da bomba está abaixo do esperado.
+A bomba não está enviando água como deveria.
+A água não está sendo direcionada corretamente pela bomba.
+Problemas de suprimento insuficiente de água pela bomba.
+A bomba não está captando água adequadamente.
+A falta de água está impactando o funcionamento da bomba.
+A bomba não está pressurizando a água de maneira adequada.
+O fluxo de água da bomba está comprometido.
+A bomba não está liberando a água esperada.
+A água não está sendo movimentada de forma eficiente pela bomba.
+Problemas de abastecimento limitado de água pela bomba.
+A bomba não está conseguindo aspirar água suficiente.
+A falta de água está causando problemas na bomba.
+A bomba não está gerando o fluxo necessário de água.
+A água não está saindo corretamente da bomba.
+Problemas de bombeamento insuficiente de água pela bomba.
+A bomba não está conseguindo fornecer a quantidade adequada de água.
+A bomba não está liberando a água como deveria.
+A água não está sendo impulsionada adequadamente pela bomba.
+Problemas de fornecimento insuficiente de água pela bomba.
+A bomba não está conseguindo extrair água do reservatório.
+A falta de água está afetando o desempenho adequado da bomba.
+A bomba não está gerando a pressão necessária para água.
+A água não está fluindo normalmente do sistema de bombeamento.
+Problemas de distribuição inadequada de água pela bomba.
+A bomba não está conseguindo bombear água de forma eficaz.
+O fluxo de água da bomba está abaixo do normal.
+A bomba não está enviando água conforme o esperado.
+A água não está sendo direcionada corretamente pelo sistema de bombeamento.
+Problemas de suprimento limitado de água pela bomba.
+A bomba não está captando água de maneira adequada.
+A falta de água está prejudicando o funcionamento da bomba.
+A bomba não está pressurizando a água como deveria.
+O fluxo de água da bomba está comprometido.
+A bomba não está liberando a quantidade necessária de água.
+A água não está sendo movimentada adequadamente pela bomba.
+Problemas de abastecimento reduzido de água pela bomba.
+A bomba não está conseguindo aspirar água corretamente.
+A falta de água está impactando o desempenho da bomba.
+A bomba não está gerando o fluxo de água necessário.
+A água não está saindo do sistema de bombeamento como esperado.
+Problemas de baixa pressão de água causados pela bomba.
+A bomba não está conseguindo extrair água do reservatório de forma adequada.
+A falta de água está comprometendo o funcionamento adequado da bomba.
+A bomba não está pressurizando a água de maneira eficiente.
+O fluxo de água da bomba está abaixo do esperado.
+A bomba não está enviando a quantidade necessária de água.
+A água não está sendo direcionada adequadamente pela bomba.
+Problemas de suprimento limitado de água causados pela bomba.
+A bomba não está captando água suficientemente.
+A falta de água está prejudicando o desempenho adequado da bomba.
+A bomba não está gerando o fluxo de água esperado.
+A água não está saindo corretamente do sistema de bombeamento.
+Problemas de bombeamento insuficiente de água pela bomba.
+A bomba não está conseguindo fornecer a quantidade necessária de água.
+A bomba não está liberando a água como deveria.
+A água não está sendo impulsionada corretamente pelo sistema de bombeamento.
+Problemas de fornecimento insuficiente de água pela bomba.
+A bomba não está conseguindo extrair água do reservatório de forma adequada.
+A falta de água está afetando o funcionamento adequado da bomba.
+A bomba não está gerando a pressão necessária para o fluxo de água.
+A água não está fluindo normalmente pelo sistema de bombeamento.
+Problemas de distribuição inadequada de água pela bomba.
+A bomba não está conseguindo bombear água de maneira eficaz.
+O fluxo de água da bomba está abaixo do normal.
+A bomba não está enviando água conforme o esperado.
+A água não está sendo direcionada corretamente pelo sistema de bombeamento.
+Problemas de suprimento limitado de água pela bomba.
+A bomba não está captando água adequadamente.
+A falta de água está prejudicando o funcionamento da bomba.
+A bomba não está pressurizando a água como deveria.
+O fluxo de água da bomba está comprometido.
+A bomba não está liberando a quantidade necessária de água.
+A água não está sendo movimentada corretamente pela bomba.
+Problemas de abastecimento reduzido de água pela bomba.
+A bomba não está conseguindo aspirar água de forma adequada.
+A falta de água está impactando o desempenho da bomba.
+A bomba não está gerando o fluxo de água necessário.
+A água não está saindo do sistema de bombeamento como deveria.
+Problemas de baixa pressão de água ocasionados pela bomba.
+A bomba não está conseguindo extrair água do reservatório corretamente.
+A falta de água está comprometendo o funcionamento adequado da bomba.
+A bomba não está pressurizando a água de forma eficiente.
+O fluxo de água da bomba está abaixo do esperado.
+A bomba não está enviando a quantidade necessária de água.
+A água não está sendo direcionada adequadamente pela bomba.
+Problemas de suprimento limitado de água causados pela bomba.
