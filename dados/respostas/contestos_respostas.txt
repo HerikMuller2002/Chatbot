@@ -1,0 +1,22 @@
+lembra do (problema antigo)
+lembra do (equipamento antigo)
+não lembra do (problema antigo)
+não lembra do (equipamento antigo)
+
+saudação
+despedida
+pedido de ajuda
+feedback negativo
+agradecimento
+
+não entendeu o texto
+ficou na duvida entre equipamentos
+ficou na duvida entre problemas
+não tem certeza/confirmação do equipamento
+não tem certeza/confirmação do problema
+perguntas sobre informações fase 2
+
+texto ofensivo
+
+quem eu sou 
+o que faço
