@@ -3,11 +3,11 @@ lembra do (equipamento antigo)
 não lembra do (problema antigo)
 não lembra do (equipamento antigo)
 
-saudação
-despedida
-pedido de ajuda
+saudação : ok
+despedida : ok 
+pedido de ajuda : ok
 feedback negativo
-agradecimento
+agradecimento : ok
 
 não entendeu o texto
 ficou na duvida entre equipamentos

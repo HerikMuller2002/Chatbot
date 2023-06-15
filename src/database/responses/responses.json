@@ -1,0 +1,31 @@
+{
+    "SAUDACAO":[
+        "Olá! Como posso ajudar?",
+        "Oi! Como posso ser útil para você?",
+        "Olá! Estou pronto para ajudar. O que você precisa?",
+        "Olá! Em que posso ser útil hoje?",
+        "Oi! Em que posso ajudar hoje?",
+        "Olá! Estou à disposição para ajudar no que você precisar."
+    ],
+    "DESPEDIDA":[
+        "Tenha um ótimo dia!",
+        "Até a próxima!",
+        "Até mais!",
+        "Até mais! Se precisar de ajuda novamente, é só me chamar!",
+        "Qualquer coisa, estou aqui para ajudar."
+    ],
+    "PEDIDO AJUDA":[
+        "Pode descrever o seu problema?",
+        "Descreva para mim o seu problema, e farei o possível para ajudar.",
+        "Descreva o problema, para que eu possa entender melhor...",
+        "Para que eu possa entender melhor... poderia descrever qual seria o seu problema."
+    ],
+    "AGRADECIMENTO":[
+        "De nada! Fico feliz em poder ajudar. Se tiver mais alguma dúvida, é só perguntar.",
+        "Foi um prazer ajudar!",
+        "Estou aqui para ajudar sempre que precisar.",
+        "Não precisa agradecer, é meu trabalho.",
+        "O prazer foi todo meu."
+    ],
+    "PERGUNTAS DESCON":[]
+}

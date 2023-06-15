@@ -3,4 +3,5 @@ venv
 test.py
 embeddings
 model
+models
 model.rar
