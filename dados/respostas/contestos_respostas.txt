@@ -6,17 +6,17 @@ não lembra do (equipamento antigo)
 saudação : ok
 despedida : ok 
 pedido de ajuda : ok
-feedback negativo
+feedback negativo : ok
 agradecimento : ok
 
-não entendeu o texto
-ficou na duvida entre equipamentos
-ficou na duvida entre problemas
-não tem certeza/confirmação do equipamento
-não tem certeza/confirmação do problema
+não entendeu o texto : ok
+ficou na duvida entre equipamentos : ok
+ficou na duvida entre problemas : ok
+não tem certeza/confirmação do equipamento : ok
+não tem certeza/confirmação do problema : ok
 perguntas sobre informações fase 2
 
-texto ofensivo
+texto ofensivo : ok
 
-quem eu sou 
+quem eu sou : ok
 o que faço

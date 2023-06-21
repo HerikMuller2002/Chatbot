@@ -1,5 +1,5 @@
 {
-    "SAUDACAO":[
+    "WELCOME1":[
         "Olá! Como posso ajudar?",
         "Oi! Como posso ser útil para você?",
         "Olá! Estou pronto para ajudar. O que você precisa?",
@@ -7,25 +7,68 @@
         "Oi! Em que posso ajudar hoje?",
         "Olá! Estou à disposição para ajudar no que você precisar."
     ],
-    "DESPEDIDA":[
+    "WELCOME2":[
+        "Olá!",
+        "Oi! tudo bem?",
+        "Olá! tudo bem?"
+    ],
+    "GOODBYE":[
         "Tenha um ótimo dia!",
         "Até a próxima!",
         "Até mais!",
         "Até mais! Se precisar de ajuda novamente, é só me chamar!",
         "Qualquer coisa, estou aqui para ajudar."
     ],
-    "PEDIDO AJUDA":[
+    "SERVICE_REQUEST":[
         "Pode descrever o seu problema?",
         "Descreva para mim o seu problema, e farei o possível para ajudar.",
         "Descreva o problema, para que eu possa entender melhor...",
         "Para que eu possa entender melhor... poderia descrever qual seria o seu problema."
     ],
-    "AGRADECIMENTO":[
+    "THANKS":[
         "De nada! Fico feliz em poder ajudar. Se tiver mais alguma dúvida, é só perguntar.",
         "Foi um prazer ajudar!",
         "Estou aqui para ajudar sempre que precisar.",
         "Não precisa agradecer, é meu trabalho.",
         "O prazer foi todo meu."
     ],
-    "PERGUNTAS DESCON":[]
+    "NEGATIVE_FEEDBACK":[
+        "Sinto muito que você não esteja satisfeito. Agradecemos pelo seu feedback e vamos analisar sua preocupação para melhorar nossos serviços.",
+        "Agradecemos por compartilhar sua opinião conosco. Lamentamos que não tenha sido uma experiência satisfatória e trabalharemos para corrigir quaisquer problemas.",
+        "Sentimos muito pelo transtorno que isso possa ter causado. Vamos analisar seu feedback e tomar medidas para garantir uma experiência melhor no futuro.",
+        "Lamentamos que você não tenha tido uma experiência positiva conosco. Sua opinião é importante e valorizamos a oportunidade de aprender e crescer a partir disso.",
+        "comentários e trabalharemos para resolver os problemas mencionados."
+    ],
+    "FALLBACK":[
+        "Desculpe, não consegui entender sua pergunta. Poderia reformulá-la de outra maneira?",
+        "Sinto muito, mas não consegui entender o que você quis dizer. Você pode reformular?",
+        "Desculpe-me, mas não entendi qual é a sua solicitação. Você poderia reformulá-la, por favor?",
+        "Desculpe, não entendi a sua pergunta. Você poderia fornecer mais informações ou esclarecer o que você gostaria de saber?"
+    ],
+    "FALLBACK_EQUIPAMENT":[
+        "Desculpe, mas não consegui identificar o equipamento ao qual você está se referindo. Você poderia fornecer mais informações ou detalhes sobre o equipamento em questão?",
+        "Lamento, mas não reconheci o equipamento ao qual você está se referindo, poderia fornecer mais informações?"
+    ],
+    "FALLBACK_PROBLEM":[
+        "Desculpe, mas estou tendo dificuldades em compreender o problema específico que você está enfrentando. Poderia fornecer mais detalhes?",
+        "Peço desculpas, mas estou com dificuldades em entender exatamente qual é o problema que você está enfrentando. Seria possível fornecer mais informações?"
+    ],
+    "EQUIPMENT_IDENTIFICATION":[
+        "Poderia me informar de qual desses equipamentos você está se referindo?"
+    ],
+    "PROBLEM_IDENTIFICATION":[
+        "Poderia me informar de qual desses problemas o seu se enquadra?"
+    ],
+    "OFFENSIVE_TEXT":[
+        "Não toleramos esse tipo de tratamento!",
+        "Desculpe, mas isso não é apropriado para ser discutido aqui. Podemos falar sobre outros tópicos?",
+        "Por favor, tenha em mente que palavras ofensivas não são permitidas nesta plataforma. Vamos manter a conversa limpa e agradável.",
+        "Sinto muito, mas o que você digitou não é aceitável. Vamos manter a conversa respeitosa."
+    ],
+    "WHO_ARE_YOU":[
+        "Eu sou o chatbot de suporte da Semeq, e estou aqui para ajudar e resolver o seu problema!"
+    ],
+    "ANSWER":[
+        "Entendi, parece que você está enfrentando um problema com #. Aqui estão algumas possíveis causas e suas soluções:\n#\nPor favor, verifique se alguma dessas causas se aplica ao seu caso e siga as instruções correspondentes!"
+    ]
 }

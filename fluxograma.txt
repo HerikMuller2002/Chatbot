@@ -1,0 +1,53 @@
+Input do usuário
+    interação comum:
+        saudação
+            saudação sozinha
+            saudação com mais alguma intenção
+        despedida
+            despedida sozinha
+            despedida com mais alguma intenção
+        pedido de ajuda
+            usuário pode pedir ajuda diretamente
+            apenas descrever genéricamente um problema
+        perguntas gerais
+            esclarecimento de duvidas sobre o proprio chatbot
+            duvidas do que o chatbot é
+            duvida do que é a semeq
+        feedback
+            feedback positivo (+/- agradecimento)
+            feedback negativo (reclamacao)
+        Solicitações de documentação ou material adicional
+            pedido de documentos adicionais
+            solicitar informações específicas
+    interação principal:
+        identificação do equipamento
+            pergunta para confirmar o equipamento identificado
+                sim
+                    o chat agradece e da continuidade
+                não
+                    entra na duvida do equipamento
+            perguntar tag do equipamento
+                caso não tenha, perguntar: planta, área, setor, conjunto e nome
+        identificação do problema
+            pergunta para confirmar o problema identificado
+                sim
+                    o chat agradece e da continuidade
+                não
+                    entra na duvida do problema
+        duvidas
+            identificação do equipamento
+                não identificou nada
+                ficou na duvida entre equipamentos
+            identificação do problema
+                não identificou nada
+                ficou na duvida entre problemas
+    Resposta do usuário para alguma pergunta feita pelo chatbot:
+        resposta positiva
+        resposta negativa
+        resposta usuário não sabe
+        respostas alternativas
+        resposta texto/descrição
+        duvida
+            chat não identificou a resposta
+    texto não reconhecido:
+        chat pede para repetir a solicitação

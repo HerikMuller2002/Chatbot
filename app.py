@@ -3,6 +3,7 @@ import json
 from flask import Flask, request, jsonify, render_template, session
 from flask_session import Session
 from flask_cors import CORS, cross_origin
+from main import Chatbot
 
 # import main
 
@@ -21,14 +22,13 @@ def test():
 
     message = {
         'session_id': session_id,
-        'message': input_user
+        'message': input_user,
+        'clear_log': False
     }
 
-    # response_message = main(message)
-    # response = jsonify(response_message)
-
-    response = [{'text': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'}]
-    response = jsonify(response)
+    response_message = Chatbot(message)
+    response_message = response_message.response()
+    response = jsonify(response_message)
     response.headers.add('Access-Control-Allow-Headers', 'Content-Type, Authorization')
     response.headers.add('Access-Control-Allow-Methods', 'POST')
     return response
@@ -41,4 +41,4 @@ def index():
 if __name__ == '__main__':
     # os.makedirs(LOGS_DIR, exist_ok=True)
     # app.run(port=4000, debug=True)
-    app.run(host='127.0.0.1', debug=True)
+    app.run(host='127.0.0.1',port=5000, debug=True)

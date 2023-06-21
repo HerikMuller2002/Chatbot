@@ -1,0 +1,37 @@
+saudação
+despedida
+Pedido de ajuda
+Solicitação de documentação ou material adicional
+Feedback
+Dúvidas sobre a empresa ou serviços
+Dúvidas sobre o chatbot em si
+    Funcionalidades do chatbot:
+        Quais tarefas o chatbot pode realizar?
+        Quais recursos estão disponíveis no chatbot?
+        Como o chatbot pode me ajudar?
+    Capacidades e limitações do chatbot:
+        O chatbot pode responder a perguntas técnicas complexas?
+        Há algum tipo de pergunta que o chatbot não consegue responder?
+        Quais são as limitações do chatbot em termos de conhecimento?
+    Interações e comandos:
+        Como iniciar uma conversa com o chatbot?
+        Quais são os comandos ou palavras-chave que o chatbot entende?
+        Como posso interagir de forma eficaz com o chatbot?
+    Privacidade e segurança:
+        Como o chatbot lida com meus dados pessoais?
+        Existe alguma garantia de privacidade ao usar o chatbot?
+        Quais medidas de segurança estão em vigor para proteger minhas informações?
+Identificação do equipamento
+Identificação do problema
+Esclarecimento de dúvidas sobre o equipamento identificado
+Esclarecimento de dúvidas sobre o problema identificado
+Confirmação de informações fornecidas pelo chatbot
+Resposta do usuário para uma pergunta feita pelo chatbot
+Texto não reconhecido ou não compreendido pelo chatbot
+Solicitação de informações específicas sobre um equipamento ou problema.
+Problemas recorrentes ou comuns em determinados equipamentos.
+Solicitação de instruções passo a passo para solução de um problema.
+Necessidade de esclarecimento sobre termos técnicos ou jargões da indústria.
+Perguntas sobre prazos de entrega, agendamentos ou disponibilidade de serviços.
+Situações em que o chatbot precisa solicitar dados adicionais do usuário para fornecer uma resposta mais precisa.
+Solicitação de exemplos de casos anteriores com problemas semelhantes e suas soluções.
