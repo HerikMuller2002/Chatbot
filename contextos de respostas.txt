@@ -35,3 +35,27 @@ Necessidade de esclarecimento sobre termos técnicos ou jargões da indústria.
 Perguntas sobre prazos de entrega, agendamentos ou disponibilidade de serviços.
 Situações em que o chatbot precisa solicitar dados adicionais do usuário para fornecer uma resposta mais precisa.
 Solicitação de exemplos de casos anteriores com problemas semelhantes e suas soluções.
+
+---------------------------------------------------------------------------------------
+New intents:
+GREETING (welcome)
+FAREWELL (bye)
+FEEDBACK
+GRATITUDE (thanks)
+ASSISTANCE (pedido de ajuda)
+APOLOGY (sorry) 
+FALLBACK
+RECOMMENDATION_REQUEST
+EXTRA_MATERIAL_REQUEST
+INFORMATION_REQUEST
+PROBLEM_DESCRIPTION
+DOUBT
+USER_ANSWER
+SMALL_TALK
+
+
+responses:
+OFFENSIVE_TEXT
+EQUIPMENT_IDENTIFICATION
+FALLBACK_EQUIPAMENT
+FALLBACK_PROBLEM

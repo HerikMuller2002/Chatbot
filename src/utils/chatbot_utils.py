@@ -41,7 +41,34 @@ def get_solution(problem, equipament):
     a = df_problem['cause'].to_list()
     b = df_problem['action'].to_list()
 
-    print(a)
-    print()
-    print(b)
+#####################################################################
+import requests
 
+def search_wikipedia(query):
+    url = "https://pt.wikipedia.org/w/api.php"
+    params = {
+        "action": "query",
+        "format": "json",
+        "prop": "extracts",
+        "exintro": "",
+        "explaintext": "",
+        "titles": query
+    }
+    try:
+        response = requests.get(url, params=params)
+        data = response.json()
+        page_id = list(data["query"]["pages"].keys())[0]
+        page_data = data["query"]["pages"][page_id]
+        if "extract" in page_data:
+            summary = page_data["extract"]
+            return summary
+        else:
+            raise
+    except:
+            return "Not found"
+
+#####################################################################
+import heapq
+
+def maiores_numeros(lista, quantidade):
+    return heapq.nlargest(quantidade, lista)

@@ -14,27 +14,10 @@ from nltk import download
 download('punkt')
 download('stopwords')
 
-nlp = spacy.load('pt_core_news_sm')
-def sent_tokenizer_spacy(text):
-    doc = nlp(text)
-    sentencas = [sent.text.strip() for sent in doc.sents]
-    return sentencas
 
-from flair.models import SequenceTagger
-from flair.data import Sentence
-def sent_tokenizer_flair(text):
-    # Carrega o modelo pré-treinado para português
-    tagger = SequenceTagger.load('pt')
-    # Cria uma instância do objeto Sentence com o texto fornecido
-    sentence = Sentence(text)
-    # Aplica a tokenização de sentenças
-    tagger.predict(sentence)
-    # Obtém as sentenças tokenizadas
-    sentences = sentence.to_dict(tag_type='sentence')
-    # Retorna a lista de sentenças tokenizadas
-    return [sent['text'] for sent in sentences]
-
-
+def sent_tokenizer_nltk(text):
+    tokens = sent_tokenize(text)
+    return tokens
 
 def remove_num(text):
     text = sub(r'\d+', '', text)
@@ -69,6 +52,7 @@ def remove_accent(text):
     text = sub(r'\s+', ' ',text)
     return text
 
+nlp = spacy.load('pt_core_news_sm')
 def preprocess_lemma(text):
     doc = nlp(text)
     lemmas = []
