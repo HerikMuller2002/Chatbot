@@ -25,9 +25,9 @@ class Chatbot:
                 "input_user": self.input_user,
                 "output_bot": None,
                 "context": 'initial',
-                "intents": None,
-                "suposed_equipment":None,
-                "suposed_issue":None,
+                "intents": [None],
+                "suposed_equipment":[None],
+                "suposed_issue":[None],
                 "equipment": None,
                 "issue": None,
                 "cause": None,
@@ -54,12 +54,12 @@ class Chatbot:
                                 responses.append(get_response('FALLBACK_PROBLEM'))
                         else:
                             if context == "QUESTION_EQUIPMENT":
-                                equipment = get_log(self.session_id,"suposed_equipment")
+                                equipment = get_log(self.session_id,"suposed_equipment")[0]
                                 issue = None
                                 context = "QUESTION_ISSUE"
                             elif context == "QUESTION_ISSUE":
                                 equipment = get_log(self.session_id,"equipment")
-                                issue = get_log(self.session_id,"suposed_issue")
+                                issue = get_log(self.session_id,"suposed_issue")[0]
                                 context = "SOLUTION_ISSUE"
 
                             data_log['equipment'] = equipment
@@ -82,49 +82,51 @@ class Chatbot:
                         res = prepared_text(res1,res2,"$RESOLUTION_CAUSES").split('#')
                         for i in res:
                             responses.append(i)
-                    # else:
-                    #     tokens = sent_tokenize(self.input_user)
-                    #     list_equipament = []
-                    #     list_intent = []
-                    #     list_issue = []
-                    #     for token in tokens:         
-                    #         # suposed_equipment = (classifier_equipament(token))
-                    #         suposed_equipment = extract_main_equipment(token)
-                    #         if suposed_equipment['class'] != None:
-                    #             list_equipament.append(suposed_equipment['class'])
-                    #         else:
-                                # ...
+                    else:
+                        tokens = sent_tokenize(self.input_user)
+                        list_equipment = []
+                        list_intent = []
+                        list_issue = []
+                        for token in tokens:         
+                            intent = classifier_intent(token)
+                            if intent['class'] != None:
+                                list_intent.append(intent['class'])
+                                data_log["intents"] = list_intent
+
+                            if 'SAUDACAO' in list_intent and len(list_equipment) == 0 and len(list_issue) == 0 and equipment == None:
+                                responses.append(get_response('WELCOME1'))
+                                data_log["context"] = 'WELCOME'
+                            else:
+                                suposed_equipment = extract_main_equipment(token)
+                                # suposed_equipment = (classifier_equipament(token))
+                                if suposed_equipment['class'] != None:
+                                    list_equipment.append(suposed_equipment['class'])
+                                    data_log["suposed_equipment"] = list_equipment
+                                suposed_issue = classifier_issue(token)
+                                if suposed_issue['class'] != None:
+                                    list_issue.append(suposed_issue['class'])
+                                    data_log["suposed_issue"] = list_issue
+
+                                if 'SAUDACAO' in list_intent and (len(list_equipment) > 0 or len(list_issue) > 0 or equipment != None):
+                                    responses.append(get_response('WELCOME2'))
+
+                                if len(list_issue) > 0 and len(list_equipment) == 0:
+                                    responses.append(get_response('FALLBACK_EQUIPAMENT'))
+                                else:
+                                    if len(list_equipment) > 0 and equipment == None:
+                                        text_res = get_response('CONFIRMATION_EQUIPMENT')
+                                        res = prepared_text(text_res,suposed_equipment,'$')
+                                        responses.append(res)
+                                    else:
+                                        if equipment != None and (len(list_issue) > 0 and issue == None):
+                                            text_res = get_response('CONFIRMATION_ISSUE')
+                                            res = prepared_text(text_res,suposed_issue,'$')
+                                            responses.append(res)
+                                
 
 
 
 
-
-
-                            # intent = classifier_intent(token)
-                            # if intent['class'] != None:
-                            #     list_intent.append(intent['class'])
-
-            #                 suposed_issue = classifier_issue(token)
-            #                 if suposed_issue['class'] != None:
-            #                     list_issue.append(suposed_issue['class'])
-
-            #             if 'SAUDACAO' in list_intent and len(list_equipament) == 0 and len(list_issue) == 0 and equipment == None:
-            #                 responses.append(get_response('WELCOME1'))
-            #             else:
-            #                 if 'SAUDACAO' in list_intent and (len(list_equipament) > 0 or len(list_issue) > 0 or equipment != None):
-            #                     responses.append(get_response('WELCOME2'))
-            #                 if len(list_issue) > 0 and len(list_equipament) == 0:
-            #                     responses.append(get_response('FALLBACK_EQUIPAMENT'))
-            #                 else:
-            #                     if len(list_equipament) > 0 and equipment == None:
-            #                         text_res = get_response('CONFIRMATION_EQUIPMENT')
-            #                         res = prepared_text(text_res,suposed_equipment,'$')
-            #                         responses.append(res)
-            #                     else:
-            #                         if equipment != None and (len(list_issue) > 0 and issue == None):
-            #                             text_res = get_response('CONFIRMATION_ISSUE')
-            #                             res = prepared_text(text_res,suposed_issue,'$')
-            #                             responses.append(res)
 
         response = []
         for i in responses:

@@ -10,7 +10,8 @@
     "WELCOME2":[
         "Olá!",
         "Oi! tudo bem?",
-        "Olá! tudo bem?"
+        "Olá! tudo bem?",
+        "Olá, agradeço por entrar em contato!"
     ],
     "GOODBYE":[
         "Tenha um ótimo dia!",
@@ -73,7 +74,7 @@
         "Eu sou o chatbot de suporte da Semeq, e estou aqui para ajudar e resolver o seu problema!"
     ],
     "RESOLUTION_INTRODUCTION":[
-        "Olá, agradeço por entrar em contato! # Encontrei as seguintes causas e soluções para o problema: $issue # $RESOLUTION_CAUSES # Essas são algumas possíveis causas para $issue. Recomendo verificar cada uma delas e implementar as soluções sugeridas. Se o problema persistir, é recomendável entrar em contato com um técnico especializado para uma avaliação mais detalhada."
+        "Encontrei as seguintes causas e soluções para o problema: $issue # $RESOLUTION_CAUSES # Essas são algumas possíveis causas para $issue. Recomendo verificar cada uma delas e implementar as soluções sugeridas. Se o problema persistir, é recomendável entrar em contato com um técnico especializado para uma avaliação mais detalhada."
     ],
     "RESOLUTION_CAUSES":[
         "$cause ¬ Possível solução:¬"
