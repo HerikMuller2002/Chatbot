@@ -4,77 +4,129 @@ from nltk.tokenize import sent_tokenize
 
 from src.utils.chatbot_utils import *
 from src.utils.model_predictions import *
+from src.utils.preprocessing_utils import *
 
 class Chatbot:
 
     def __init__(self,req):
         self.req = req
         self.session_id = req['session_id']
-        self.input_user = req['message']
+        self.input_user = preprocess_text(req['message'])
         self.clear_conversation = req['clear_log']
 
     def response(self):
-        if self.clear_conversation == True:
-            try:
-                os.remove(f'data\logs\log_{self.session_id}')
-            except OSError as erro:
-                print(f"Erro ao excluir o arquivo: data\logs\log_{self.session_id}\n{erro}")
+        if self.clear_conversation:
+            clear_log(self.session_id)
         else:
             responses = []
-            if filter_censure(self.input_user) == True:
+            log_path = f"data/logs/chatbot_{self.session_id}.json"
+            data_log = {
+                "session_id": self.session_id,
+                "input_user": self.input_user,
+                "output_bot": None,
+                "context": 'initial',
+                "intents": None,
+                "suposed_equipment":None,
+                "suposed_issue":None,
+                "equipment": None,
+                "issue": None,
+                "cause": None,
+                "resolution": None            
+            }
+
+            if not os.path.exists(log_path):
+                log(self.session_id, data_log)
+            else:
+                pass
+            context = get_log(self.session_id, 'context')
+            if classifier_offensive(self.input_user) == True:
                 responses.append(get_response('OFFENSIVE_TEXT'))
             else:
-                tokens = sent_tokenize(self.input_user)
-                list_equipament = []
-                list_intent = []
-                list_problem = []
-                for token in tokens:
-                    equipament = (classifier_equipament(token))
-                    if equipament:
-                        list_equipament.append([equip['class'] for equip in equipament])
+                try:
+                    if "QUESTION" in context:
+                        value_positive = verifiy_similarity(self.input_user)
+                        if value_positive == None:
+                            responses.append(get_response('FALLBACK_ANSWER'))
+                        elif value_positive == False:
+                            if context == "QUESTION_EQUIPMENT":
+                                responses.append(get_response('FALLBACK_EQUIPAMENT'))
+                            elif context == "QUESTION_ISSUE":
+                                responses.append(get_response('FALLBACK_PROBLEM'))
+                        else:
+                            if context == "QUESTION_EQUIPMENT":
+                                equipment = get_log(self.session_id,"suposed_equipment")
+                                issue = None
+                                context = "QUESTION_ISSUE"
+                            elif context == "QUESTION_ISSUE":
+                                equipment = get_log(self.session_id,"equipment")
+                                issue = get_log(self.session_id,"suposed_issue")
+                                context = "SOLUTION_ISSUE"
 
-                    intent = classifier_intent(token)
-                    if intent['class'] != None:
-                        list_intent.append(intent['class'])
-
-                    problem = classifier_problem(token)
-                    if problem['class'] != None:
-                        list_problem.append(problem['class'])
-
-                if 'SAUDACAO' in list_intent and len(list_equipament) == 0 and len(list_problem) == 0:
-                    responses.append(get_response('WELCOME1'))
-                else:
-                    if 'SAUDACAO' in list_intent and (len(list_equipament) > 0 or len(list_problem) > 0):
-                        responses.append(get_response('WELCOME2'))
-                    if len(list_problem) > 0 and len(list_equipament) == 0:
-                        responses.append(get_response('FALLBACK_EQUIPAMENT'))
+                            data_log['equipment'] = equipment
+                            data_log['issue'] = issue
+                            data_log['context'] = context
+                            log(self.session_id,data_log)
                     else:
-                        if len(list_equipament) > 0 and len(list_problem) == 0:
-                            responses.append(get_response('FALLBACK_PROBLEM'))
-                        else:
-                            if 'FEEDBACK_NEGATIVO' in list_intent:
-                                responses.append(get_response('NEGATIVE_FEEDBACK'))
-                            else:
-                                if 'DESPEDIDA' in list_intent and len(list_equipament) == 0 and len(list_problem) == 0:
-                                    responses.append(get_response('GOODBYE'))
-                                else:
-                                    if 'PEDIDO_AJUDA' in list_intent and len(list_equipament) == 0 and len(list_problem) == 0:
-                                        responses.append(get_response('SERVICE_REQUEST'))
-                                    else:
-                                        if 'AGRADECIMENTO' in list_intent and len(list_equipament) == 0 and len(list_problem) == 0:
-                                            responses.append(get_response('THANKS'))
-                                        else:
-                                            responses.append(get_response('FALLBACK'))
-                
-                df = pd.read_excel(r"src\utils\data\num_problems.xlsx")
-                for trouble in list_problem:
-                    line = df.loc[df['problem'] == trouble]
-                    for equip in list_equipament:
-                        if equip[0].lower() == str(line['class'].item()).lower():
-                            responses = [""]
-                        else:
-                            responses = [get_response('FALLBACK_PROBLEM')]
-            response = []
-            for i in responses:
-                response.append({"text":i})
-            return response
+                        raise
+                except:
+                    equipment = get_log(self.session_id, 'equipment')
+                    issue = get_log(self.session_id, 'issue')
+
+                    if equipment != None and issue != None:
+                        causes = get_cause_solution("cause", equipment, issue)
+                        actions = get_cause_solution("action", equipment, issue)
+                        resolutions = get_resolutions(causes, actions)
+                        res1 = get_response('RESOLUTION_INTRODUCTION')
+                        res1 = prepared_text(res1, issue, '$issue')
+                        res2 = '#'.join(resolutions)
+                        res = prepared_text(res1,res2,"$RESOLUTION_CAUSES").split('#')
+                        for i in res:
+                            responses.append(i)
+                    # else:
+                    #     tokens = sent_tokenize(self.input_user)
+                    #     list_equipament = []
+                    #     list_intent = []
+                    #     list_issue = []
+                    #     for token in tokens:         
+                    #         # suposed_equipment = (classifier_equipament(token))
+                    #         suposed_equipment = extract_main_equipment(token)
+                    #         if suposed_equipment['class'] != None:
+                    #             list_equipament.append(suposed_equipment['class'])
+                    #         else:
+                                # ...
+
+
+
+
+
+
+                            # intent = classifier_intent(token)
+                            # if intent['class'] != None:
+                            #     list_intent.append(intent['class'])
+
+            #                 suposed_issue = classifier_issue(token)
+            #                 if suposed_issue['class'] != None:
+            #                     list_issue.append(suposed_issue['class'])
+
+            #             if 'SAUDACAO' in list_intent and len(list_equipament) == 0 and len(list_issue) == 0 and equipment == None:
+            #                 responses.append(get_response('WELCOME1'))
+            #             else:
+            #                 if 'SAUDACAO' in list_intent and (len(list_equipament) > 0 or len(list_issue) > 0 or equipment != None):
+            #                     responses.append(get_response('WELCOME2'))
+            #                 if len(list_issue) > 0 and len(list_equipament) == 0:
+            #                     responses.append(get_response('FALLBACK_EQUIPAMENT'))
+            #                 else:
+            #                     if len(list_equipament) > 0 and equipment == None:
+            #                         text_res = get_response('CONFIRMATION_EQUIPMENT')
+            #                         res = prepared_text(text_res,suposed_equipment,'$')
+            #                         responses.append(res)
+            #                     else:
+            #                         if equipment != None and (len(list_issue) > 0 and issue == None):
+            #                             text_res = get_response('CONFIRMATION_ISSUE')
+            #                             res = prepared_text(text_res,suposed_issue,'$')
+            #                             responses.append(res)
+
+        response = []
+        for i in responses:
+            response.append({"text":i})
+        return response

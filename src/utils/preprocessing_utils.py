@@ -1,6 +1,8 @@
 import sys, os
 sys.path.append(os.path.abspath(os.path.join('..', '..')))
 
+# import language_tool_python
+# from pyaspeller import YandexSpeller
 from spellchecker import SpellChecker
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
@@ -48,7 +50,7 @@ def get_synonyms(text):
     return synonyms
 
 def remove_accent(text):
-    text = sub('[áàãâä]', 'a', sub('[éèêë]', 'e', sub('[íìîï]', 'i', sub('[óòõôö]', 'o', sub('[úùûü]', 'u', text)))))
+    text = sub('[áàãâä]', 'a', sub('[éèêë]', 'e', sub('[íìîï]', 'i', sub('[óòõôö]', 'o', sub('[úùûü]', 'u', sub('[ç]','c',text))))))
     text = sub(r'\s+', ' ',text)
     return text
 
@@ -85,3 +87,23 @@ def preprocess_text(text, tipo='lemma'):
         pass
     text = remove_accent(text)
     return text.lower()
+
+
+
+def jaccard_similarity(term1, term2):
+    tokens1 = set(word_tokenize(term1.lower()))
+    tokens2 = set(word_tokenize(term2.lower()))
+    
+    intersection = tokens1.intersection(tokens2)
+    union = tokens1.union(tokens2)
+    
+    similarity = len(intersection) / len(union)
+    return similarity
+
+# def preprocess_semantic(frase):
+#     tool = language_tool_python.LanguageTool('pt')
+#     matches = tool.check(frase)
+#     for i in matches:
+#         frase = frase[:i.offset] + i.replacements[0] + frase[i.offset+i.errorLength:]
+#     tool.close()
+#     return frase

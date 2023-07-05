@@ -1,5 +1,5 @@
 //obtendo a url do servidor
-const url = 'http://localhost:5000//test'
+const url = 'http://localhost:5000//chat'
 
 //selecionando os elementos do DOM
 const chatInput = document.querySelector(".chat__input")
@@ -99,19 +99,7 @@ async function addMessage() {
 
         
         // adicionando efeito de typing na resposta do servidor
-        let text = res
-        // let textArray = text.split("")
-        // let texto = ""
-        // text.map((item, index) => {
-        //     if (index == text.length - 1) {
-        //         texto += item
-        //         return texto
-        //     }
-        //     return texto += item + '¬';
-        // })
-        // text = texto.split('¬')
-
-        
+        let text = res        
         let textBot = document.querySelectorAll(".text")
         let divBot = document.querySelectorAll(".bot__msg")
         let count = 0
@@ -179,7 +167,8 @@ async function sendMessage(message) {
                 "Content-Type": "application/json",
             },
             body: JSON.stringify({
-                'message': message
+                'message': message,
+                'clear_log': false
             }),
         })
         message.value = ""
@@ -192,11 +181,12 @@ async function sendMessage(message) {
 
 // limpando log ao dar reload
 window.addEventListener("beforeunload", function() {
-    const userMessage = "clear";
     const xhr = new XMLHttpRequest();
-    const url = "http://127.0.0.1:5000/test";
-    const params = JSON.stringify({ 'message': userMessage });
-  
+    const params = JSON.stringify({
+        'message': '',
+        'clear_log': true
+    })
+
     xhr.open("POST", url, true);
     xhr.setRequestHeader("Content-type", "application/json; charset=utf-8");
     xhr.onreadystatechange = function() {

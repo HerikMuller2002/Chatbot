@@ -45,6 +45,10 @@
         "Desculpe-me, mas não entendi qual é a sua solicitação. Você poderia reformulá-la, por favor?",
         "Desculpe, não entendi a sua pergunta. Você poderia fornecer mais informações ou esclarecer o que você gostaria de saber?"
     ],
+    "FALLBACK_ANSWER":[
+        "Desculpe, não consegui entender sua resposta. Poderia reformulá-la de outra maneira?",
+        "Sinto muito, mas não consegui entender o que você quis dizer. Você pode reformular?"
+    ],
     "FALLBACK_EQUIPAMENT":[
         "Desculpe, mas não consegui identificar o equipamento ao qual você está se referindo. Você poderia fornecer mais informações ou detalhes sobre o equipamento em questão?",
         "Lamento, mas não reconheci o equipamento ao qual você está se referindo, poderia fornecer mais informações?"
@@ -68,7 +72,16 @@
     "WHO_ARE_YOU":[
         "Eu sou o chatbot de suporte da Semeq, e estou aqui para ajudar e resolver o seu problema!"
     ],
-    "ANSWER":[
-        "Entendi, parece que você está enfrentando um problema com #. Aqui estão algumas possíveis causas e suas soluções:\n#\nPor favor, verifique se alguma dessas causas se aplica ao seu caso e siga as instruções correspondentes!"
+    "RESOLUTION_INTRODUCTION":[
+        "Olá, agradeço por entrar em contato! # Encontrei as seguintes causas e soluções para o problema: $issue # $RESOLUTION_CAUSES # Essas são algumas possíveis causas para $issue. Recomendo verificar cada uma delas e implementar as soluções sugeridas. Se o problema persistir, é recomendável entrar em contato com um técnico especializado para uma avaliação mais detalhada."
+    ],
+    "RESOLUTION_CAUSES":[
+        "$cause ¬ Possível solução:¬"
+    ],
+    "CONFIRMATION_EQUIPMENT":[
+        "Identifiquei que você está com um problema no equipamento $. Por favor, confirme se este é o equipamento correto."
+    ],
+    "CONFIRMATION_ISSUE":[
+        "Identifiquei que você está com o seguinte problema: $. Por favor, confirme se é este o problema."
     ]
 }

@@ -5,25 +5,24 @@ from flask_session import Session
 from flask_cors import CORS, cross_origin
 from main import Chatbot
 
-# import main
-
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '<V"~WY6une=>Pzue9{-k&~R?+w\?NkeC'
 app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
-CORS(app, resources={r"/test": {"origins": "http://localhost:5550"}})
+CORS(app)
 
-@app.route('/test', methods=['POST'])
-@cross_origin(origin='localhost', headers=['Content-Type', 'Authorization'])
-def test():
+@app.route('/chat', methods=['POST'])
+@cross_origin(origin='localhost',headers=['Content- Type','Authorization'])
+def chat():
     req = request.get_json()
     session_id = session.get('session_id')
     input_user = req['message']
+    clear_log = req['clear_log']
 
     message = {
         'session_id': session_id,
         'message': input_user,
-        'clear_log': False
+        'clear_log': clear_log
     }
 
     response_message = Chatbot(message)
@@ -35,10 +34,9 @@ def test():
 
 @app.route('/', methods=['GET'])
 def index():
-    session['session_id'] = os.urandom(16).hex()
+    if 'session_id' not in session:
+        session['session_id'] = os.urandom(16).hex()
     return render_template('index.html')
 
 if __name__ == '__main__':
-    # os.makedirs(LOGS_DIR, exist_ok=True)
-    # app.run(port=4000, debug=True)
-    app.run(host='127.0.0.1',port=5000, debug=True)
+    app.run(host='127.0.0.1', port=5000, debug=True)
