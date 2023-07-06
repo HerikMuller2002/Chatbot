@@ -16,7 +16,6 @@ CORS(app)
 def chat():
     req = request.get_json()
     session_id = session.get('session_id')
-    print(session_id)
     input_user = req['message']
     clear_log = req['clear_log']
 

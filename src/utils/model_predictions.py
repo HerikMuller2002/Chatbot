@@ -29,32 +29,18 @@ def classifier_intent(text, path_model=r'data\models\model_bert_intent'):
         class_name = label_encoder.classes_[i]
         class_probability = class_prob.item()
         results.append({"class": class_name, "probability": class_probability})
-    return results
+    sorted_results = sorted(results, key=lambda x: x['probability'], reverse=True)
+    return sorted_results
 
 
-# def classifier_equipament(text, path_model=r'data\models\model_NER'):
-#     text = preprocess_text(text,'lemma')
-#     nlp = load(path_model)
-#     doc = nlp(text)
-#     labels = [{"text":entidade.text,"class":entidade.label_} for entidade in doc.ents]
-#     return labels
 
+def classifier_equipament(text, path_model=r'data\models\model_NER'):
+    text = preprocess_text(text,'lemma')
+    nlp = load(path_model)
+    doc = nlp(text)
+    labels = [{"text":entidade.text,"class":entidade.label_} for entidade in doc.ents]
+    return labels
 
-# def classifier_issue(text, path_model=r'data\models\model_bert_problem'):
-#     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-#     model = BertForSequenceClassification.from_pretrained(path_model)
-#     label_encoder = LabelEncoder()
-#     label_encoder.classes_ = torch.load(f'{path_model}\label_encoder_classes.pt')
-#     encoded_input = tokenizer(text, padding=True, truncation=True, return_tensors='pt')
-#     with torch.no_grad():
-#         logits = model(**encoded_input).logits
-#         probabilities = torch.softmax(logits, dim=1)
-#     results = []
-#     for i, class_prob in enumerate(probabilities[0]):
-#         class_name = label_encoder.classes_[i]
-#         class_probability = class_prob.item()
-#         results.append({"class": class_name, "probability": class_probability})
-#     return results
 
 def classifier_issue(text, path_model=r'data\models\model_bert_problem'):
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -65,10 +51,13 @@ def classifier_issue(text, path_model=r'data\models\model_bert_problem'):
     with torch.no_grad():
         logits = model(**encoded_input).logits
         probabilities = torch.softmax(logits, dim=1)
-    max_prob_index = torch.argmax(probabilities)
-    max_prob_class = label_encoder.classes_[max_prob_index]
-    max_prob_value = probabilities[0][max_prob_index].item()
-    return {"class": max_prob_class, "probability": max_prob_value}
+    results = []
+    for i, class_prob in enumerate(probabilities[0]):
+        class_name = label_encoder.classes_[i]
+        class_probability = class_prob.item()
+        results.append({"class": class_name, "probability": class_probability})
+    sorted_results = sorted(results, key=lambda x: x['probability'], reverse=True)
+    return sorted_results
 
 
 def classifier_offensive(user_text):
@@ -105,25 +94,3 @@ def classifier_offensive(user_text):
 #         return False
 #     else:
 #         return True
-
-
-
-
-def extract_main_equipment(text, path_model=r'data\models\model_NER'):
-    text = preprocess_text(text, 'lemma')
-    nlp = load(path_model)
-    doc = nlp(text)
-    labels = [{"text": entidade.text, "class": entidade.label_} for entidade in doc.ents]
-    # Verificar se há várias classes de equipamentos mencionadas
-    equipamentos = set(label["class"] for label in labels)
-    if len(equipamentos) > 1:
-        # Calcular a frequência de cada equipamento mencionado
-        frequencias = {}
-        for label in labels:
-            equipamento = label["class"]
-            frequencias[equipamento] = frequencias.get(equipamento, 0) + 1
-        # Encontrar o equipamento com a maior frequência
-        equipamento_principal = max(frequencias, key=frequencias.get)
-        # Filtrar os labels para conter apenas o equipamento principal
-        labels = [label for label in labels if label["class"] == equipamento_principal]
-    return labels[0]

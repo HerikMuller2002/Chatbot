@@ -1,0 +1,21 @@
+[
+    {
+        "session_id": null,
+        "input_user": "oi",
+        "output_bot": null,
+        "context": "initial",
+        "intents": [
+            null
+        ],
+        "suposed_equipment": [
+            null
+        ],
+        "suposed_issue": [
+            null
+        ],
+        "equipment": null,
+        "issue": null,
+        "cause": null,
+        "resolution": null
+    }
+]
