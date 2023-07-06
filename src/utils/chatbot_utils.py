@@ -197,3 +197,18 @@ def verifiy_similarity(termo):
         return None
     else:
         return None
+
+#####################################################################
+
+import re
+
+def isolar_numero(string):
+    padrao = r'\d+'
+    numeros_encontrados = re.findall(padrao, string)
+    if numeros_encontrados:
+        numero = int(numeros_encontrados[0])
+    df = pd.read_excel(r'src\utils\data\num_problems.xlsx')
+    filtro = df['num'] == numero
+    linha_filtrada = df[filtro]
+    valor_problem = linha_filtrada['problem'].iloc[0]
+    return valor_problem

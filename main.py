@@ -31,7 +31,7 @@ class Chatbot:
                 "equipment": None,
                 "issue": None,
                 "cause": None,
-                "resolution": None            
+                "resolution": None
             }
             if not os.path.exists(log_path):
                 log(self.session_id, data_log)
@@ -42,11 +42,23 @@ class Chatbot:
                 responses.append(get_response('OFFENSIVE_TEXT'))
             else:
                 suposed_equipment = classifier_equipament(self.input_user)
-                responses.append(suposed_equipment[0]['text'])
+                if len(suposed_equipment) > 0:
+                    responses.append(suposed_equipment[0]['text'])
+                else:
+                    if 'motor' in self.input_user:
+                        suposed_equipment = 'Motores elétricos'
+                        responses.append(suposed_equipment)
+                    elif 'caixa engrenagem' in self.input_user:
+                        suposed_equipment = 'caixas de engrenagens'
+                        responses.append(suposed_equipment)
+                    else:
+                        responses.append(get_response('FALLBACK_EQUIPAMENT'))
+
                 
                 suposed_issue = classifier_issue(self.input_user)
                 if suposed_issue[0]['probability'] > 0.8:
-                    responses.append(suposed_issue[0]['class'])
+                    issue = isolar_numero(suposed_issue[0]['class'])
+                    responses.append(issue)
 
                 else:
                     intent = classifier_intent(self.input_user)

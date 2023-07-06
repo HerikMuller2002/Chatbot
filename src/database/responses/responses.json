@@ -59,10 +59,10 @@
         "Peço desculpas, mas estou com dificuldades em entender exatamente qual é o problema que você está enfrentando. Seria possível fornecer mais informações?"
     ],
     "EQUIPMENT_IDENTIFICATION":[
-        "Poderia me informar de qual desses equipamentos você está se referindo?"
+        "Poderia me informar de qual desses equipamentos você está se referindo? # $equipment_list"
     ],
     "PROBLEM_IDENTIFICATION":[
-        "Poderia me informar de qual desses problemas o seu se enquadra?"
+        "Poderia me informar de qual desses problemas o seu se enquadra?  # $issue_list"
     ],
     "OFFENSIVE_TEXT":[
         "Não toleramos esse tipo de tratamento!",
