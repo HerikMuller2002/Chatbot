@@ -44,6 +44,13 @@ class Chatbot:
                 suposed_equipment = classifier_equipament(self.input_user)
                 if len(suposed_equipment) > 0:
                     responses.append(suposed_equipment[0]['text'])
+                elif len(suposed_equipment) > 1:
+                    list_equipment = []
+                    for i in suposed_equipment:
+                        list_equipment.append(i)
+                    text = get_response('EQUIPMENT_IDENTIFICATION')
+                    text = prepared_text(text,)
+                    responses.append(text)
                 else:
                     if 'motor' in self.input_user:
                         suposed_equipment = 'Motores elétricos'
